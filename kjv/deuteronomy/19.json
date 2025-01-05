@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Deuteronomy", "bookAbbreviation": "Deu", "chapterNumber": 19, "verses": [{"reference": "Deuteronomy 19:1", "verseNumber": 1, "scripture": "When the LORD your God has cut off the nations, whose land the LORD your God gives you, and you succeed them, and dwell in their cities, and in their houses;"},{"reference": "Deuteronomy 19:2", "verseNumber": 2, "scripture": "You shall separate three cities for you in the midst of your land, which the LORD your God gives you to possess it."},{"reference": "Deuteronomy 19:3", "verseNumber": 3, "scripture": "You shall prepare you a way, and divide the coasts of your land, which the LORD your God gives you to inherit, into three parts, that every slayer may flee thither."},{"reference": "Deuteronomy 19:4", "verseNumber": 4, "scripture": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso kills his neighbour ignorantly, whom he hated not in time past;"},{"reference": "Deuteronomy 19:5", "verseNumber": 5, "scripture": "As when a man goes into the wood with his neighbour to hew wood, and his hand fetches a stroke with the axe to cut down the tree, and the head slips from the wooden handle, and lights upon his neighbour, that he die; he shall flee unto one of those cities, and live:"},{"reference": "Deuteronomy 19:6", "verseNumber": 6, "scripture": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."},{"reference": "Deuteronomy 19:7", "verseNumber": 7, "scripture": "Wherefore I command you, saying, You shall separate three cities for you."},{"reference": "Deuteronomy 19:8", "verseNumber": 8, "scripture": "And if the LORD your God enlarge your coast, as he has sworn unto your fathers, and give you all the land which he promised to give unto your fathers;"},{"reference": "Deuteronomy 19:9", "verseNumber": 9, "scripture": "If you shall keep all these commandments to do them, which I command you this day, to love the LORD your God, and to walk ever in his ways; then shall you add three cities more for you, beside these three:"},{"reference": "Deuteronomy 19:10", "verseNumber": 10, "scripture": "That innocent blood be not shed in your land, which the LORD your God gives you for an inheritance, and so blood be upon you."},{"reference": "Deuteronomy 19:11", "verseNumber": 11, "scripture": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and strike him mortally that he die, and flees into one of these cities:"},{"reference": "Deuteronomy 19:12", "verseNumber": 12, "scripture": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."},{"reference": "Deuteronomy 19:13", "verseNumber": 13, "scripture": "Yours eye shall not pity him, but you shall put away the guilt of innocent blood from Israel, that it may go well with you."},{"reference": "Deuteronomy 19:14", "verseNumber": 14, "scripture": "You shall not remove your neighbour's landmark, which they of old time have set in yours inheritance, which you shall inherit in the land that the LORD your God gives you to possess it."},{"reference": "Deuteronomy 19:15", "verseNumber": 15, "scripture": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."},{"reference": "Deuteronomy 19:16", "verseNumber": 16, "scripture": "If a false witness rise up against any man to testify against him that which is wrong;"},{"reference": "Deuteronomy 19:17", "verseNumber": 17, "scripture": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;"},{"reference": "Deuteronomy 19:18", "verseNumber": 18, "scripture": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and has testified falsely against his brother;"},{"reference": "Deuteronomy 19:19", "verseNumber": 19, "scripture": "Then shall all of you do unto him, as he had thought to have done unto his brother: so shall you put the evil away from among you."},{"reference": "Deuteronomy 19:20", "verseNumber": 20, "scripture": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."},{"reference": "Deuteronomy 19:21", "verseNumber": 21, "scripture": "And yours eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Deuteronomy",
+     "bookAbbreviation":  "Deu",
+     "chapterNumber":  19,
+     "verses":  [
+        {
+            "reference":  "Deuteronomy 19:1",
+             "verseNumber":  1,
+             "scripture":  "When the LORD your God has cut off the nations, whose land the LORD your God gives you, and you succeed them, and dwell in their cities, and in their houses;"
+        },
+        {
+            "reference":  "Deuteronomy 19:2",
+             "verseNumber":  2,
+             "scripture":  "You shall separate three cities for you in the midst of your land, which the LORD your God gives you to possess it."
+        },
+        {
+            "reference":  "Deuteronomy 19:3",
+             "verseNumber":  3,
+             "scripture":  "You shall prepare you a way, and divide the coasts of your land, which the LORD your God gives you to inherit, into three parts, that every slayer may flee thither."
+        },
+        {
+            "reference":  "Deuteronomy 19:4",
+             "verseNumber":  4,
+             "scripture":  "And this is the case of the slayer, which shall flee thither, that he may live: Whoso kills his neighbour ignorantly, whom he hated not in time past;"
+        },
+        {
+            "reference":  "Deuteronomy 19:5",
+             "verseNumber":  5,
+             "scripture":  "As when a man goes into the wood with his neighbour to hew wood, and his hand fetches a stroke with the axe to cut down the tree, and the head slips from the wooden handle, and lights upon his neighbour, that he die; he shall flee unto one of those cities, and live:"
+        },
+        {
+            "reference":  "Deuteronomy 19:6",
+             "verseNumber":  6,
+             "scripture":  "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."
+        },
+        {
+            "reference":  "Deuteronomy 19:7",
+             "verseNumber":  7,
+             "scripture":  "Wherefore I command you, saying, You shall separate three cities for you."
+        },
+        {
+            "reference":  "Deuteronomy 19:8",
+             "verseNumber":  8,
+             "scripture":  "And if the LORD your God enlarge your coast, as he has sworn unto your fathers, and give you all the land which he promised to give unto your fathers;"
+        },
+        {
+            "reference":  "Deuteronomy 19:9",
+             "verseNumber":  9,
+             "scripture":  "If you shall keep all these commandments to do them, which I command you this day, to love the LORD your God, and to walk ever in his ways; then shall you add three cities more for you, beside these three:"
+        },
+        {
+            "reference":  "Deuteronomy 19:10",
+             "verseNumber":  10,
+             "scripture":  "That innocent blood be not shed in your land, which the LORD your God gives you for an inheritance, and so blood be upon you."
+        },
+        {
+            "reference":  "Deuteronomy 19:11",
+             "verseNumber":  11,
+             "scripture":  "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and strike him mortally that he die, and flees into one of these cities:"
+        },
+        {
+            "reference":  "Deuteronomy 19:12",
+             "verseNumber":  12,
+             "scripture":  "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
+        },
+        {
+            "reference":  "Deuteronomy 19:13",
+             "verseNumber":  13,
+             "scripture":  "Yours eye shall not pity him, but you shall put away the guilt of innocent blood from Israel, that it may go well with you."
+        },
+        {
+            "reference":  "Deuteronomy 19:14",
+             "verseNumber":  14,
+             "scripture":  "You shall not remove your neighbour's landmark, which they of old time have set in yours inheritance, which you shall inherit in the land that the LORD your God gives you to possess it."
+        },
+        {
+            "reference":  "Deuteronomy 19:15",
+             "verseNumber":  15,
+             "scripture":  "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+        },
+        {
+            "reference":  "Deuteronomy 19:16",
+             "verseNumber":  16,
+             "scripture":  "If a false witness rise up against any man to testify against him that which is wrong;"
+        },
+        {
+            "reference":  "Deuteronomy 19:17",
+             "verseNumber":  17,
+             "scripture":  "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;"
+        },
+        {
+            "reference":  "Deuteronomy 19:18",
+             "verseNumber":  18,
+             "scripture":  "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and has testified falsely against his brother;"
+        },
+        {
+            "reference":  "Deuteronomy 19:19",
+             "verseNumber":  19,
+             "scripture":  "Then shall all of you do unto him, as he had thought to have done unto his brother: so shall you put the evil away from among you."
+        },
+        {
+            "reference":  "Deuteronomy 19:20",
+             "verseNumber":  20,
+             "scripture":  "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
+        },
+        {
+            "reference":  "Deuteronomy 19:21",
+             "verseNumber":  21,
+             "scripture":  "And yours eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+        }
+    ]
+}

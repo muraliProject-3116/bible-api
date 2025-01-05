@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Titus", "bookAbbreviation": "Tit", "chapterNumber": 1, "verses": [{"reference": "Titus 1:1", "verseNumber": 1, "scripture": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;"},{"reference": "Titus 1:2", "verseNumber": 2, "scripture": "In hope of eternal life, which God, that cannot lie, promised before the world began;"},{"reference": "Titus 1:3", "verseNumber": 3, "scripture": "But has in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"},{"reference": "Titus 1:4", "verseNumber": 4, "scripture": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour."},{"reference": "Titus 1:5", "verseNumber": 5, "scripture": "For this cause left I you in Crete, that you should set in order the things that are lacking, and ordain elders in every city, as I had appointed you:"},{"reference": "Titus 1:6", "verseNumber": 6, "scripture": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly."},{"reference": "Titus 1:7", "verseNumber": 7, "scripture": "For a bishop must be blameless, as the steward of God; not self-willed, not soon angry, not given to wine, not an attacker, not given to filthy illegal gain;"},{"reference": "Titus 1:8", "verseNumber": 8, "scripture": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;"},{"reference": "Titus 1:9", "verseNumber": 9, "scripture": "Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers."},{"reference": "Titus 1:10", "verseNumber": 10, "scripture": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:"},{"reference": "Titus 1:11", "verseNumber": 11, "scripture": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy illegal gain's sake."},{"reference": "Titus 1:12", "verseNumber": 12, "scripture": "One of themselves, even a prophet of their own, said, The Cretians are always liars, evil beasts, sluggards."},{"reference": "Titus 1:13", "verseNumber": 13, "scripture": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;"},{"reference": "Titus 1:14", "verseNumber": 14, "scripture": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth."},{"reference": "Titus 1:15", "verseNumber": 15, "scripture": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled."},{"reference": "Titus 1:16", "verseNumber": 16, "scripture": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Titus",
+     "bookAbbreviation":  "Tit",
+     "chapterNumber":  1,
+     "verses":  [
+        {
+            "reference":  "Titus 1:1",
+             "verseNumber":  1,
+             "scripture":  "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;"
+        },
+        {
+            "reference":  "Titus 1:2",
+             "verseNumber":  2,
+             "scripture":  "In hope of eternal life, which God, that cannot lie, promised before the world began;"
+        },
+        {
+            "reference":  "Titus 1:3",
+             "verseNumber":  3,
+             "scripture":  "But has in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"
+        },
+        {
+            "reference":  "Titus 1:4",
+             "verseNumber":  4,
+             "scripture":  "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour."
+        },
+        {
+            "reference":  "Titus 1:5",
+             "verseNumber":  5,
+             "scripture":  "For this cause left I you in Crete, that you should set in order the things that are lacking, and ordain elders in every city, as I had appointed you:"
+        },
+        {
+            "reference":  "Titus 1:6",
+             "verseNumber":  6,
+             "scripture":  "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly."
+        },
+        {
+            "reference":  "Titus 1:7",
+             "verseNumber":  7,
+             "scripture":  "For a bishop must be blameless, as the steward of God; not self-willed, not soon angry, not given to wine, not an attacker, not given to filthy illegal gain;"
+        },
+        {
+            "reference":  "Titus 1:8",
+             "verseNumber":  8,
+             "scripture":  "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;"
+        },
+        {
+            "reference":  "Titus 1:9",
+             "verseNumber":  9,
+             "scripture":  "Holding fast the faithful word as he has been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers."
+        },
+        {
+            "reference":  "Titus 1:10",
+             "verseNumber":  10,
+             "scripture":  "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:"
+        },
+        {
+            "reference":  "Titus 1:11",
+             "verseNumber":  11,
+             "scripture":  "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy illegal gain's sake."
+        },
+        {
+            "reference":  "Titus 1:12",
+             "verseNumber":  12,
+             "scripture":  "One of themselves, even a prophet of their own, said, The Cretians are always liars, evil beasts, sluggards."
+        },
+        {
+            "reference":  "Titus 1:13",
+             "verseNumber":  13,
+             "scripture":  "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;"
+        },
+        {
+            "reference":  "Titus 1:14",
+             "verseNumber":  14,
+             "scripture":  "Not giving heed to Jewish fables, and commandments of men, that turn from the truth."
+        },
+        {
+            "reference":  "Titus 1:15",
+             "verseNumber":  15,
+             "scripture":  "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled."
+        },
+        {
+            "reference":  "Titus 1:16",
+             "verseNumber":  16,
+             "scripture":  "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate."
+        }
+    ]
+}

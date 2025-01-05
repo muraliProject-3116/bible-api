@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Numbers", "bookAbbreviation": "Num", "chapterNumber": 17, "verses": [{"reference": "Numbers 17:1", "verseNumber": 1, "scripture": "And the LORD spoke unto Moses, saying,"},{"reference": "Numbers 17:2", "verseNumber": 2, "scripture": "Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write you every man's name upon his rod."},{"reference": "Numbers 17:3", "verseNumber": 3, "scripture": "And you shall write Aaron's name upon the rod of Levi: for one rod shall be for the head of the house of their fathers."},{"reference": "Numbers 17:4", "verseNumber": 4, "scripture": "And you shall lay them up in the tabernacle of the congregation before the testimony, where I will meet with you."},{"reference": "Numbers 17:5", "verseNumber": 5, "scripture": "And it shall come to pass, that the man's rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you."},{"reference": "Numbers 17:6", "verseNumber": 6, "scripture": "And Moses spoke unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods."},{"reference": "Numbers 17:7", "verseNumber": 7, "scripture": "And Moses laid up the rods before the LORD in the tabernacle of witness."},{"reference": "Numbers 17:8", "verseNumber": 8, "scripture": "And it came to pass, that on the next day Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds."},{"reference": "Numbers 17:9", "verseNumber": 9, "scripture": "And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod."},{"reference": "Numbers 17:10", "verseNumber": 10, "scripture": "And the LORD said unto Moses, Bring Aaron's rod again before the testimony, to be kept for a token against the rebels; and you shall quite take away their murmurings from me, that they die not."},{"reference": "Numbers 17:11", "verseNumber": 11, "scripture": "And Moses did so: as the LORD commanded him, so did he."},{"reference": "Numbers 17:12", "verseNumber": 12, "scripture": "And the children of Israel spoke unto Moses, saying, Behold, we die, we perish, we all perish."},{"reference": "Numbers 17:13", "verseNumber": 13, "scripture": "Whosoever comes any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Numbers",
+     "bookAbbreviation":  "Num",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Numbers 17:1",
+             "verseNumber":  1,
+             "scripture":  "And the LORD spoke unto Moses, saying,"
+        },
+        {
+            "reference":  "Numbers 17:2",
+             "verseNumber":  2,
+             "scripture":  "Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write you every man's name upon his rod."
+        },
+        {
+            "reference":  "Numbers 17:3",
+             "verseNumber":  3,
+             "scripture":  "And you shall write Aaron's name upon the rod of Levi: for one rod shall be for the head of the house of their fathers."
+        },
+        {
+            "reference":  "Numbers 17:4",
+             "verseNumber":  4,
+             "scripture":  "And you shall lay them up in the tabernacle of the congregation before the testimony, where I will meet with you."
+        },
+        {
+            "reference":  "Numbers 17:5",
+             "verseNumber":  5,
+             "scripture":  "And it shall come to pass, that the man's rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you."
+        },
+        {
+            "reference":  "Numbers 17:6",
+             "verseNumber":  6,
+             "scripture":  "And Moses spoke unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods."
+        },
+        {
+            "reference":  "Numbers 17:7",
+             "verseNumber":  7,
+             "scripture":  "And Moses laid up the rods before the LORD in the tabernacle of witness."
+        },
+        {
+            "reference":  "Numbers 17:8",
+             "verseNumber":  8,
+             "scripture":  "And it came to pass, that on the next day Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds."
+        },
+        {
+            "reference":  "Numbers 17:9",
+             "verseNumber":  9,
+             "scripture":  "And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod."
+        },
+        {
+            "reference":  "Numbers 17:10",
+             "verseNumber":  10,
+             "scripture":  "And the LORD said unto Moses, Bring Aaron's rod again before the testimony, to be kept for a token against the rebels; and you shall quite take away their murmurings from me, that they die not."
+        },
+        {
+            "reference":  "Numbers 17:11",
+             "verseNumber":  11,
+             "scripture":  "And Moses did so: as the LORD commanded him, so did he."
+        },
+        {
+            "reference":  "Numbers 17:12",
+             "verseNumber":  12,
+             "scripture":  "And the children of Israel spoke unto Moses, saying, Behold, we die, we perish, we all perish."
+        },
+        {
+            "reference":  "Numbers 17:13",
+             "verseNumber":  13,
+             "scripture":  "Whosoever comes any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?"
+        }
+    ]
+}

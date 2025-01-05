@@ -1,1 +1,145 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Timothy", "bookAbbreviation": "2 Tim", "chapterNumber": 2, "verses": [{"reference": "2 Timothy 2:1", "verseNumber": 1, "scripture": "You therefore, my son, be strong in the grace that is in Christ Jesus."},{"reference": "2 Timothy 2:2", "verseNumber": 2, "scripture": "And the things that you have heard of me among many witnesses, the same commit you to faithful men, who shall be able to teach others also."},{"reference": "2 Timothy 2:3", "verseNumber": 3, "scripture": "You therefore endure hardness, as a good soldier of Jesus Christ."},{"reference": "2 Timothy 2:4", "verseNumber": 4, "scripture": "No man that wars entangles himself with the affairs of this life; that he may please him who has chosen him to be a soldier."},{"reference": "2 Timothy 2:5", "verseNumber": 5, "scripture": "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully."},{"reference": "2 Timothy 2:6", "verseNumber": 6, "scripture": "The farmer that labours must be first partaker of the fruits."},{"reference": "2 Timothy 2:7", "verseNumber": 7, "scripture": "Consider what I say; and the Lord give you understanding in all things."},{"reference": "2 Timothy 2:8", "verseNumber": 8, "scripture": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"},{"reference": "2 Timothy 2:9", "verseNumber": 9, "scripture": "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound."},{"reference": "2 Timothy 2:10", "verseNumber": 10, "scripture": "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory."},{"reference": "2 Timothy 2:11", "verseNumber": 11, "scripture": "It is a faithful saying: For if we be dead with him, we shall also live with him:"},{"reference": "2 Timothy 2:12", "verseNumber": 12, "scripture": "If we suffer, we shall also reign with him: if we deny him, he also will deny us:"},{"reference": "2 Timothy 2:13", "verseNumber": 13, "scripture": "If we believe not, yet he abides faithful: he cannot deny himself."},{"reference": "2 Timothy 2:14", "verseNumber": 14, "scripture": "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."},{"reference": "2 Timothy 2:15", "verseNumber": 15, "scripture": "Study to show yourself approved unto God, a workman that needs not to be ashamed, rightly dividing the word of truth."},{"reference": "2 Timothy 2:16", "verseNumber": 16, "scripture": "But shun profane and vain babblings: for they will increase unto more ungodliness."},{"reference": "2 Timothy 2:17", "verseNumber": 17, "scripture": "And their word will eat as does a canker: of whom is Hymenaeus and Philetus;"},{"reference": "2 Timothy 2:18", "verseNumber": 18, "scripture": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."},{"reference": "2 Timothy 2:19", "verseNumber": 19, "scripture": "Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, Let every one that names the name of Christ depart from iniquity."},{"reference": "2 Timothy 2:20", "verseNumber": 20, "scripture": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour."},{"reference": "2 Timothy 2:21", "verseNumber": 21, "scripture": "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work."},{"reference": "2 Timothy 2:22", "verseNumber": 22, "scripture": "Flee also youthful lusts: but follow righteousness, faith, love, peace, with them that call on the Lord out of a pure heart."},{"reference": "2 Timothy 2:23", "verseNumber": 23, "scripture": "But foolish and unlearned questions avoid, knowing that they do gender strifes."},{"reference": "2 Timothy 2:24", "verseNumber": 24, "scripture": "And the servant of the Lord must not strive; but be gentle unto all men, able to teach, patient,"},{"reference": "2 Timothy 2:25", "verseNumber": 25, "scripture": "In meekness instructing those that oppose themselves; if God possibly will give them repentance to the acknowledging of the truth;"},{"reference": "2 Timothy 2:26", "verseNumber": 26, "scripture": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Timothy",
+     "bookAbbreviation":  "2 Tim",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "2 Timothy 2:1",
+             "verseNumber":  1,
+             "scripture":  "You therefore, my son, be strong in the grace that is in Christ Jesus."
+        },
+        {
+            "reference":  "2 Timothy 2:2",
+             "verseNumber":  2,
+             "scripture":  "And the things that you have heard of me among many witnesses, the same commit you to faithful men, who shall be able to teach others also."
+        },
+        {
+            "reference":  "2 Timothy 2:3",
+             "verseNumber":  3,
+             "scripture":  "You therefore endure hardness, as a good soldier of Jesus Christ."
+        },
+        {
+            "reference":  "2 Timothy 2:4",
+             "verseNumber":  4,
+             "scripture":  "No man that wars entangles himself with the affairs of this life; that he may please him who has chosen him to be a soldier."
+        },
+        {
+            "reference":  "2 Timothy 2:5",
+             "verseNumber":  5,
+             "scripture":  "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully."
+        },
+        {
+            "reference":  "2 Timothy 2:6",
+             "verseNumber":  6,
+             "scripture":  "The farmer that labours must be first partaker of the fruits."
+        },
+        {
+            "reference":  "2 Timothy 2:7",
+             "verseNumber":  7,
+             "scripture":  "Consider what I say; and the Lord give you understanding in all things."
+        },
+        {
+            "reference":  "2 Timothy 2:8",
+             "verseNumber":  8,
+             "scripture":  "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
+        },
+        {
+            "reference":  "2 Timothy 2:9",
+             "verseNumber":  9,
+             "scripture":  "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound."
+        },
+        {
+            "reference":  "2 Timothy 2:10",
+             "verseNumber":  10,
+             "scripture":  "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory."
+        },
+        {
+            "reference":  "2 Timothy 2:11",
+             "verseNumber":  11,
+             "scripture":  "It is a faithful saying: For if we be dead with him, we shall also live with him:"
+        },
+        {
+            "reference":  "2 Timothy 2:12",
+             "verseNumber":  12,
+             "scripture":  "If we suffer, we shall also reign with him: if we deny him, he also will deny us:"
+        },
+        {
+            "reference":  "2 Timothy 2:13",
+             "verseNumber":  13,
+             "scripture":  "If we believe not, yet he abides faithful: he cannot deny himself."
+        },
+        {
+            "reference":  "2 Timothy 2:14",
+             "verseNumber":  14,
+             "scripture":  "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."
+        },
+        {
+            "reference":  "2 Timothy 2:15",
+             "verseNumber":  15,
+             "scripture":  "Study to show yourself approved unto God, a workman that needs not to be ashamed, rightly dividing the word of truth."
+        },
+        {
+            "reference":  "2 Timothy 2:16",
+             "verseNumber":  16,
+             "scripture":  "But shun profane and vain babblings: for they will increase unto more ungodliness."
+        },
+        {
+            "reference":  "2 Timothy 2:17",
+             "verseNumber":  17,
+             "scripture":  "And their word will eat as does a canker: of whom is Hymenaeus and Philetus;"
+        },
+        {
+            "reference":  "2 Timothy 2:18",
+             "verseNumber":  18,
+             "scripture":  "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."
+        },
+        {
+            "reference":  "2 Timothy 2:19",
+             "verseNumber":  19,
+             "scripture":  "Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, Let every one that names the name of Christ depart from iniquity."
+        },
+        {
+            "reference":  "2 Timothy 2:20",
+             "verseNumber":  20,
+             "scripture":  "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour."
+        },
+        {
+            "reference":  "2 Timothy 2:21",
+             "verseNumber":  21,
+             "scripture":  "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work."
+        },
+        {
+            "reference":  "2 Timothy 2:22",
+             "verseNumber":  22,
+             "scripture":  "Flee also youthful lusts: but follow righteousness, faith, love, peace, with them that call on the Lord out of a pure heart."
+        },
+        {
+            "reference":  "2 Timothy 2:23",
+             "verseNumber":  23,
+             "scripture":  "But foolish and unlearned questions avoid, knowing that they do gender strifes."
+        },
+        {
+            "reference":  "2 Timothy 2:24",
+             "verseNumber":  24,
+             "scripture":  "And the servant of the Lord must not strive; but be gentle unto all men, able to teach, patient,"
+        },
+        {
+            "reference":  "2 Timothy 2:25",
+             "verseNumber":  25,
+             "scripture":  "In meekness instructing those that oppose themselves; if God possibly will give them repentance to the acknowledging of the truth;"
+        },
+        {
+            "reference":  "2 Timothy 2:26",
+             "verseNumber":  26,
+             "scripture":  "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
+        }
+    ]
+}

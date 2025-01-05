@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 30, "verses": [{"reference": "Psalm 30:1", "verseNumber": 1, "scripture": "I will extol you, O LORD; for you have lifted me up, and have not made my foes to rejoice over me."},{"reference": "Psalm 30:2", "verseNumber": 2, "scripture": "O LORD my God, I cried unto you, and you have healed me."},{"reference": "Psalm 30:3", "verseNumber": 3, "scripture": "O LORD, you have brought up my soul from the grave: you have kept me alive, that I should not go down to the pit."},{"reference": "Psalm 30:4", "verseNumber": 4, "scripture": "Sing unto the LORD, O all of you saints of his, and give thanks at the remembrance of his holiness."},{"reference": "Psalm 30:5", "verseNumber": 5, "scripture": "For his anger endures but a moment; in his favour is life: weeping may endure for a night, but joy comes in the morning."},{"reference": "Psalm 30:6", "verseNumber": 6, "scripture": "And in my prosperity I said, I shall never be moved."},{"reference": "Psalm 30:7", "verseNumber": 7, "scripture": "LORD, by your favour you have made my mountain to stand strong: you did hide your face, and I was troubled."},{"reference": "Psalm 30:8", "verseNumber": 8, "scripture": "I cried to you, O LORD; and unto the LORD I made supplication."},{"reference": "Psalm 30:9", "verseNumber": 9, "scripture": "What profit is there in my blood, when I go down to the pit? Shall the dust praise you? shall it declare your truth?"},{"reference": "Psalm 30:10", "verseNumber": 10, "scripture": "Hear, O LORD, and have mercy upon me: LORD, be you my helper."},{"reference": "Psalm 30:11", "verseNumber": 11, "scripture": "You have turned for me my mourning into dancing: you have put off my sackcloth, and girded me with gladness;"},{"reference": "Psalm 30:12", "verseNumber": 12, "scripture": "To the end that my glory may sing praise to you, and not be silent. O LORD my God, I will give thanks unto you for ever."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  30,
+     "verses":  [
+        {
+            "reference":  "Psalm 30:1",
+             "verseNumber":  1,
+             "scripture":  "I will extol you, O LORD; for you have lifted me up, and have not made my foes to rejoice over me."
+        },
+        {
+            "reference":  "Psalm 30:2",
+             "verseNumber":  2,
+             "scripture":  "O LORD my God, I cried unto you, and you have healed me."
+        },
+        {
+            "reference":  "Psalm 30:3",
+             "verseNumber":  3,
+             "scripture":  "O LORD, you have brought up my soul from the grave: you have kept me alive, that I should not go down to the pit."
+        },
+        {
+            "reference":  "Psalm 30:4",
+             "verseNumber":  4,
+             "scripture":  "Sing unto the LORD, O all of you saints of his, and give thanks at the remembrance of his holiness."
+        },
+        {
+            "reference":  "Psalm 30:5",
+             "verseNumber":  5,
+             "scripture":  "For his anger endures but a moment; in his favour is life: weeping may endure for a night, but joy comes in the morning."
+        },
+        {
+            "reference":  "Psalm 30:6",
+             "verseNumber":  6,
+             "scripture":  "And in my prosperity I said, I shall never be moved."
+        },
+        {
+            "reference":  "Psalm 30:7",
+             "verseNumber":  7,
+             "scripture":  "LORD, by your favour you have made my mountain to stand strong: you did hide your face, and I was troubled."
+        },
+        {
+            "reference":  "Psalm 30:8",
+             "verseNumber":  8,
+             "scripture":  "I cried to you, O LORD; and unto the LORD I made supplication."
+        },
+        {
+            "reference":  "Psalm 30:9",
+             "verseNumber":  9,
+             "scripture":  "What profit is there in my blood, when I go down to the pit? Shall the dust praise you? shall it declare your truth?"
+        },
+        {
+            "reference":  "Psalm 30:10",
+             "verseNumber":  10,
+             "scripture":  "Hear, O LORD, and have mercy upon me: LORD, be you my helper."
+        },
+        {
+            "reference":  "Psalm 30:11",
+             "verseNumber":  11,
+             "scripture":  "You have turned for me my mourning into dancing: you have put off my sackcloth, and girded me with gladness;"
+        },
+        {
+            "reference":  "Psalm 30:12",
+             "verseNumber":  12,
+             "scripture":  "To the end that my glory may sing praise to you, and not be silent. O LORD my God, I will give thanks unto you for ever."
+        }
+    ]
+}

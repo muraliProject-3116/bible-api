@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Nahum", "bookAbbreviation": "Nah", "chapterNumber": 2, "verses": [{"reference": "Nahum 2:1", "verseNumber": 1, "scripture": "He that dashes in pieces has come up before your face: keep the stronghold, watch the way, make your loins strong, fortify your power mightily."},{"reference": "Nahum 2:2", "verseNumber": 2, "scripture": "For the LORD has turned away the excellency of Jacob, as the excellency of Israel: for the destroyers have emptied them out, and ruined their vine branches."},{"reference": "Nahum 2:3", "verseNumber": 3, "scripture": "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."},{"reference": "Nahum 2:4", "verseNumber": 4, "scripture": "The chariots shall rage in the streets, they shall clash with one against another in the broad ways: they shall seem like torches, they shall run like the lightnings."},{"reference": "Nahum 2:5", "verseNumber": 5, "scripture": "He shall recount his nobles: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."},{"reference": "Nahum 2:6", "verseNumber": 6, "scripture": "The gates of the rivers shall be opened, and the palace shall be dissolved."},{"reference": "Nahum 2:7", "verseNumber": 7, "scripture": "And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead her as with the voice of doves, beating upon their breasts."},{"reference": "Nahum 2:8", "verseNumber": 8, "scripture": "But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back."},{"reference": "Nahum 2:9", "verseNumber": 9, "scripture": "Take all of you the spoil of silver, take the spoil of gold: for there is none end of the store and glory out of all the pleasant furniture."},{"reference": "Nahum 2:10", "verseNumber": 10, "scripture": "She is empty, and void, and waste: and the heart melts, and the knees strike together, and much pain is in all loins, and the faces of them all gather blackness."},{"reference": "Nahum 2:11", "verseNumber": 11, "scripture": "Where is the dwelling of the lions, and the feeding-place of the young lions, where the lion, even the old lion, walked, and the lion's offspring, and none made them afraid?"},{"reference": "Nahum 2:12", "verseNumber": 12, "scripture": "The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin."},{"reference": "Nahum 2:13", "verseNumber": 13, "scripture": "Behold, I am against you, says the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour your young lions: and I will cut off your prey from the earth, and the voice of your messengers shall no more be heard."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Nahum",
+     "bookAbbreviation":  "Nah",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "Nahum 2:1",
+             "verseNumber":  1,
+             "scripture":  "He that dashes in pieces has come up before your face: keep the stronghold, watch the way, make your loins strong, fortify your power mightily."
+        },
+        {
+            "reference":  "Nahum 2:2",
+             "verseNumber":  2,
+             "scripture":  "For the LORD has turned away the excellency of Jacob, as the excellency of Israel: for the destroyers have emptied them out, and ruined their vine branches."
+        },
+        {
+            "reference":  "Nahum 2:3",
+             "verseNumber":  3,
+             "scripture":  "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."
+        },
+        {
+            "reference":  "Nahum 2:4",
+             "verseNumber":  4,
+             "scripture":  "The chariots shall rage in the streets, they shall clash with one against another in the broad ways: they shall seem like torches, they shall run like the lightnings."
+        },
+        {
+            "reference":  "Nahum 2:5",
+             "verseNumber":  5,
+             "scripture":  "He shall recount his nobles: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."
+        },
+        {
+            "reference":  "Nahum 2:6",
+             "verseNumber":  6,
+             "scripture":  "The gates of the rivers shall be opened, and the palace shall be dissolved."
+        },
+        {
+            "reference":  "Nahum 2:7",
+             "verseNumber":  7,
+             "scripture":  "And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead her as with the voice of doves, beating upon their breasts."
+        },
+        {
+            "reference":  "Nahum 2:8",
+             "verseNumber":  8,
+             "scripture":  "But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back."
+        },
+        {
+            "reference":  "Nahum 2:9",
+             "verseNumber":  9,
+             "scripture":  "Take all of you the spoil of silver, take the spoil of gold: for there is none end of the store and glory out of all the pleasant furniture."
+        },
+        {
+            "reference":  "Nahum 2:10",
+             "verseNumber":  10,
+             "scripture":  "She is empty, and void, and waste: and the heart melts, and the knees strike together, and much pain is in all loins, and the faces of them all gather blackness."
+        },
+        {
+            "reference":  "Nahum 2:11",
+             "verseNumber":  11,
+             "scripture":  "Where is the dwelling of the lions, and the feeding-place of the young lions, where the lion, even the old lion, walked, and the lion's offspring, and none made them afraid?"
+        },
+        {
+            "reference":  "Nahum 2:12",
+             "verseNumber":  12,
+             "scripture":  "The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin."
+        },
+        {
+            "reference":  "Nahum 2:13",
+             "verseNumber":  13,
+             "scripture":  "Behold, I am against you, says the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour your young lions: and I will cut off your prey from the earth, and the voice of your messengers shall no more be heard."
+        }
+    ]
+}

@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 77, "verses": [{"reference": "Psalm 77:1", "verseNumber": 1, "scripture": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me."},{"reference": "Psalm 77:2", "verseNumber": 2, "scripture": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."},{"reference": "Psalm 77:3", "verseNumber": 3, "scripture": "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah."},{"reference": "Psalm 77:4", "verseNumber": 4, "scripture": "You hold mine eyes waking: I am so troubled that I cannot speak."},{"reference": "Psalm 77:5", "verseNumber": 5, "scripture": "I have considered the days of old, the years of ancient times."},{"reference": "Psalm 77:6", "verseNumber": 6, "scripture": "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search."},{"reference": "Psalm 77:7", "verseNumber": 7, "scripture": "Will the Lord cast off for ever? and will he be favourable no more?"},{"reference": "Psalm 77:8", "verseNumber": 8, "scripture": "Is his mercy clean gone for ever? does his promise fail for evermore?"},{"reference": "Psalm 77:9", "verseNumber": 9, "scripture": "Has God forgotten to be gracious? has he in anger shut up his tender mercies? Selah."},{"reference": "Psalm 77:10", "verseNumber": 10, "scripture": "And I said, This is my infirmity: but I will remember the years of the right hand of the most High."},{"reference": "Psalm 77:11", "verseNumber": 11, "scripture": "I will remember the works of the LORD: surely I will remember your wonders of old."},{"reference": "Psalm 77:12", "verseNumber": 12, "scripture": "I will meditate also of all your work, and talk of your doings."},{"reference": "Psalm 77:13", "verseNumber": 13, "scripture": "Your way, O God, is in the sanctuary: who is so great a God as our God?"},{"reference": "Psalm 77:14", "verseNumber": 14, "scripture": "You are the God that do wonders: you have declared your strength among the people."},{"reference": "Psalm 77:15", "verseNumber": 15, "scripture": "You have with yours arm redeemed your people, the sons of Jacob and Joseph. Selah."},{"reference": "Psalm 77:16", "verseNumber": 16, "scripture": "The waters saw you, O God, the waters saw you; they were afraid: the depths also were troubled."},{"reference": "Psalm 77:17", "verseNumber": 17, "scripture": "The clouds poured out water: the skies sent out a sound: yours arrows also went abroad."},{"reference": "Psalm 77:18", "verseNumber": 18, "scripture": "The voice of your thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook."},{"reference": "Psalm 77:19", "verseNumber": 19, "scripture": "Your way is in the sea, and your path in the great waters, and your footsteps are not known."},{"reference": "Psalm 77:20", "verseNumber": 20, "scripture": "You led your people like a flock by the hand of Moses and Aaron."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  77,
+     "verses":  [
+        {
+            "reference":  "Psalm 77:1",
+             "verseNumber":  1,
+             "scripture":  "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me."
+        },
+        {
+            "reference":  "Psalm 77:2",
+             "verseNumber":  2,
+             "scripture":  "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."
+        },
+        {
+            "reference":  "Psalm 77:3",
+             "verseNumber":  3,
+             "scripture":  "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah."
+        },
+        {
+            "reference":  "Psalm 77:4",
+             "verseNumber":  4,
+             "scripture":  "You hold mine eyes waking: I am so troubled that I cannot speak."
+        },
+        {
+            "reference":  "Psalm 77:5",
+             "verseNumber":  5,
+             "scripture":  "I have considered the days of old, the years of ancient times."
+        },
+        {
+            "reference":  "Psalm 77:6",
+             "verseNumber":  6,
+             "scripture":  "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search."
+        },
+        {
+            "reference":  "Psalm 77:7",
+             "verseNumber":  7,
+             "scripture":  "Will the Lord cast off for ever? and will he be favourable no more?"
+        },
+        {
+            "reference":  "Psalm 77:8",
+             "verseNumber":  8,
+             "scripture":  "Is his mercy clean gone for ever? does his promise fail for evermore?"
+        },
+        {
+            "reference":  "Psalm 77:9",
+             "verseNumber":  9,
+             "scripture":  "Has God forgotten to be gracious? has he in anger shut up his tender mercies? Selah."
+        },
+        {
+            "reference":  "Psalm 77:10",
+             "verseNumber":  10,
+             "scripture":  "And I said, This is my infirmity: but I will remember the years of the right hand of the most High."
+        },
+        {
+            "reference":  "Psalm 77:11",
+             "verseNumber":  11,
+             "scripture":  "I will remember the works of the LORD: surely I will remember your wonders of old."
+        },
+        {
+            "reference":  "Psalm 77:12",
+             "verseNumber":  12,
+             "scripture":  "I will meditate also of all your work, and talk of your doings."
+        },
+        {
+            "reference":  "Psalm 77:13",
+             "verseNumber":  13,
+             "scripture":  "Your way, O God, is in the sanctuary: who is so great a God as our God?"
+        },
+        {
+            "reference":  "Psalm 77:14",
+             "verseNumber":  14,
+             "scripture":  "You are the God that do wonders: you have declared your strength among the people."
+        },
+        {
+            "reference":  "Psalm 77:15",
+             "verseNumber":  15,
+             "scripture":  "You have with yours arm redeemed your people, the sons of Jacob and Joseph. Selah."
+        },
+        {
+            "reference":  "Psalm 77:16",
+             "verseNumber":  16,
+             "scripture":  "The waters saw you, O God, the waters saw you; they were afraid: the depths also were troubled."
+        },
+        {
+            "reference":  "Psalm 77:17",
+             "verseNumber":  17,
+             "scripture":  "The clouds poured out water: the skies sent out a sound: yours arrows also went abroad."
+        },
+        {
+            "reference":  "Psalm 77:18",
+             "verseNumber":  18,
+             "scripture":  "The voice of your thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook."
+        },
+        {
+            "reference":  "Psalm 77:19",
+             "verseNumber":  19,
+             "scripture":  "Your way is in the sea, and your path in the great waters, and your footsteps are not known."
+        },
+        {
+            "reference":  "Psalm 77:20",
+             "verseNumber":  20,
+             "scripture":  "You led your people like a flock by the hand of Moses and Aaron."
+        }
+    ]
+}

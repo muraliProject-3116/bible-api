@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 32, "verses": [{"reference": "Job 32:1", "verseNumber": 1, "scripture": "So these three men ceased to answer Job, because he was righteous in his own eyes."},{"reference": "Job 32:2", "verseNumber": 2, "scripture": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God."},{"reference": "Job 32:3", "verseNumber": 3, "scripture": "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job."},{"reference": "Job 32:4", "verseNumber": 4, "scripture": "Now Elihu had waited till Job had spoken, because they were elder than he."},{"reference": "Job 32:5", "verseNumber": 5, "scripture": "When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled."},{"reference": "Job 32:6", "verseNumber": 6, "scripture": "And Elihu the son of Barachel the Buzite answered and said, I am young, and all of you are very old; wherefore I was afraid, and durst not show you mine opinion."},{"reference": "Job 32:7", "verseNumber": 7, "scripture": "I said, Days should speak, and multitude of years should teach wisdom."},{"reference": "Job 32:8", "verseNumber": 8, "scripture": "But there is a spirit in man: and the inspiration of the Almighty gives them understanding."},{"reference": "Job 32:9", "verseNumber": 9, "scripture": "Great men are not always wise: neither do the aged understand judgment."},{"reference": "Job 32:10", "verseNumber": 10, "scripture": "Therefore I said, Hearken to me; I also will show mine opinion."},{"reference": "Job 32:11", "verseNumber": 11, "scripture": "Behold, I waited for your words; I gave ear to your reasons, whilst all of you searched out what to say."},{"reference": "Job 32:12", "verseNumber": 12, "scripture": "Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:"},{"reference": "Job 32:13", "verseNumber": 13, "scripture": "Lest all of you should say, We have found out wisdom: God thrusts him down, not man."},{"reference": "Job 32:14", "verseNumber": 14, "scripture": "Now he has not directed his words against me: neither will I answer him with your speeches."},{"reference": "Job 32:15", "verseNumber": 15, "scripture": "They were amazed, they answered no more: they left off speaking."},{"reference": "Job 32:16", "verseNumber": 16, "scripture": "When I had waited, (for they spoke not, but stood still, and answered no more;)"},{"reference": "Job 32:17", "verseNumber": 17, "scripture": "I said, I will answer also my part, I also will show mine opinion."},{"reference": "Job 32:18", "verseNumber": 18, "scripture": "For I am full of matter, the spirit within me constrains me."},{"reference": "Job 32:19", "verseNumber": 19, "scripture": "Behold, my belly is as wine which has no vent; it is ready to burst like new bottles."},{"reference": "Job 32:20", "verseNumber": 20, "scripture": "I will speak, that I may be refreshed: I will open my lips and answer."},{"reference": "Job 32:21", "verseNumber": 21, "scripture": "Let me not, I pray you, accept any man's person, neither let me give flattering titles unto man."},{"reference": "Job 32:22", "verseNumber": 22, "scripture": "For I know not to give flattering titles; in so doing my maker would soon take me away."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  32,
+     "verses":  [
+        {
+            "reference":  "Job 32:1",
+             "verseNumber":  1,
+             "scripture":  "So these three men ceased to answer Job, because he was righteous in his own eyes."
+        },
+        {
+            "reference":  "Job 32:2",
+             "verseNumber":  2,
+             "scripture":  "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God."
+        },
+        {
+            "reference":  "Job 32:3",
+             "verseNumber":  3,
+             "scripture":  "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job."
+        },
+        {
+            "reference":  "Job 32:4",
+             "verseNumber":  4,
+             "scripture":  "Now Elihu had waited till Job had spoken, because they were elder than he."
+        },
+        {
+            "reference":  "Job 32:5",
+             "verseNumber":  5,
+             "scripture":  "When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled."
+        },
+        {
+            "reference":  "Job 32:6",
+             "verseNumber":  6,
+             "scripture":  "And Elihu the son of Barachel the Buzite answered and said, I am young, and all of you are very old; wherefore I was afraid, and durst not show you mine opinion."
+        },
+        {
+            "reference":  "Job 32:7",
+             "verseNumber":  7,
+             "scripture":  "I said, Days should speak, and multitude of years should teach wisdom."
+        },
+        {
+            "reference":  "Job 32:8",
+             "verseNumber":  8,
+             "scripture":  "But there is a spirit in man: and the inspiration of the Almighty gives them understanding."
+        },
+        {
+            "reference":  "Job 32:9",
+             "verseNumber":  9,
+             "scripture":  "Great men are not always wise: neither do the aged understand judgment."
+        },
+        {
+            "reference":  "Job 32:10",
+             "verseNumber":  10,
+             "scripture":  "Therefore I said, Hearken to me; I also will show mine opinion."
+        },
+        {
+            "reference":  "Job 32:11",
+             "verseNumber":  11,
+             "scripture":  "Behold, I waited for your words; I gave ear to your reasons, whilst all of you searched out what to say."
+        },
+        {
+            "reference":  "Job 32:12",
+             "verseNumber":  12,
+             "scripture":  "Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:"
+        },
+        {
+            "reference":  "Job 32:13",
+             "verseNumber":  13,
+             "scripture":  "Lest all of you should say, We have found out wisdom: God thrusts him down, not man."
+        },
+        {
+            "reference":  "Job 32:14",
+             "verseNumber":  14,
+             "scripture":  "Now he has not directed his words against me: neither will I answer him with your speeches."
+        },
+        {
+            "reference":  "Job 32:15",
+             "verseNumber":  15,
+             "scripture":  "They were amazed, they answered no more: they left off speaking."
+        },
+        {
+            "reference":  "Job 32:16",
+             "verseNumber":  16,
+             "scripture":  "When I had waited, (for they spoke not, but stood still, and answered no more;)"
+        },
+        {
+            "reference":  "Job 32:17",
+             "verseNumber":  17,
+             "scripture":  "I said, I will answer also my part, I also will show mine opinion."
+        },
+        {
+            "reference":  "Job 32:18",
+             "verseNumber":  18,
+             "scripture":  "For I am full of matter, the spirit within me constrains me."
+        },
+        {
+            "reference":  "Job 32:19",
+             "verseNumber":  19,
+             "scripture":  "Behold, my belly is as wine which has no vent; it is ready to burst like new bottles."
+        },
+        {
+            "reference":  "Job 32:20",
+             "verseNumber":  20,
+             "scripture":  "I will speak, that I may be refreshed: I will open my lips and answer."
+        },
+        {
+            "reference":  "Job 32:21",
+             "verseNumber":  21,
+             "scripture":  "Let me not, I pray you, accept any man's person, neither let me give flattering titles unto man."
+        },
+        {
+            "reference":  "Job 32:22",
+             "verseNumber":  22,
+             "scripture":  "For I know not to give flattering titles; in so doing my maker would soon take me away."
+        }
+    ]
+}

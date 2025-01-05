@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Nehemiah", "bookAbbreviation": "Neh", "chapterNumber": 4, "verses": [{"reference": "Nehemiah 4:1", "verseNumber": 1, "scripture": "But it came to pass, that when Sanballat heard that we built the wall, he was angry, and took great indignation, and mocked the Jews."},{"reference": "Nehemiah 4:2", "verseNumber": 2, "scripture": "And he spoke before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?"},{"reference": "Nehemiah 4:3", "verseNumber": 3, "scripture": "Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall."},{"reference": "Nehemiah 4:4", "verseNumber": 4, "scripture": "Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:"},{"reference": "Nehemiah 4:5", "verseNumber": 5, "scripture": "And cover not their iniquity, and let not their sin be blotted out from before you: for they have provoked you to anger before the builders."},{"reference": "Nehemiah 4:6", "verseNumber": 6, "scripture": "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work."},{"reference": "Nehemiah 4:7", "verseNumber": 7, "scripture": "But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very angry,"},{"reference": "Nehemiah 4:8", "verseNumber": 8, "scripture": "And conspired all of them together to come and to fight against Jerusalem, and to hinder it."},{"reference": "Nehemiah 4:9", "verseNumber": 9, "scripture": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them."},{"reference": "Nehemiah 4:10", "verseNumber": 10, "scripture": "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall."},{"reference": "Nehemiah 4:11", "verseNumber": 11, "scripture": "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease."},{"reference": "Nehemiah 4:12", "verseNumber": 12, "scripture": "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence all of you shall return unto us they will be upon you."},{"reference": "Nehemiah 4:13", "verseNumber": 13, "scripture": "Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows."},{"reference": "Nehemiah 4:14", "verseNumber": 14, "scripture": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not all of you afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses."},{"reference": "Nehemiah 4:15", "verseNumber": 15, "scripture": "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nothing, that we returned all of us to the wall, every one unto his work."},{"reference": "Nehemiah 4:16", "verseNumber": 16, "scripture": "And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah."},{"reference": "Nehemiah 4:17", "verseNumber": 17, "scripture": "They which built on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."},{"reference": "Nehemiah 4:18", "verseNumber": 18, "scripture": "For the builders, every one had his sword girded by his side, and so built. And he that sounded the trumpet was by me."},{"reference": "Nehemiah 4:19", "verseNumber": 19, "scripture": "And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another."},{"reference": "Nehemiah 4:20", "verseNumber": 20, "scripture": "In what place therefore all of you hear the sound of the trumpet, resort all of you thither unto us: our God shall fight for us."},{"reference": "Nehemiah 4:21", "verseNumber": 21, "scripture": "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared."},{"reference": "Nehemiah 4:22", "verseNumber": 22, "scripture": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day."},{"reference": "Nehemiah 4:23", "verseNumber": 23, "scripture": "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Nehemiah",
+     "bookAbbreviation":  "Neh",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Nehemiah 4:1",
+             "verseNumber":  1,
+             "scripture":  "But it came to pass, that when Sanballat heard that we built the wall, he was angry, and took great indignation, and mocked the Jews."
+        },
+        {
+            "reference":  "Nehemiah 4:2",
+             "verseNumber":  2,
+             "scripture":  "And he spoke before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?"
+        },
+        {
+            "reference":  "Nehemiah 4:3",
+             "verseNumber":  3,
+             "scripture":  "Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall."
+        },
+        {
+            "reference":  "Nehemiah 4:4",
+             "verseNumber":  4,
+             "scripture":  "Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:"
+        },
+        {
+            "reference":  "Nehemiah 4:5",
+             "verseNumber":  5,
+             "scripture":  "And cover not their iniquity, and let not their sin be blotted out from before you: for they have provoked you to anger before the builders."
+        },
+        {
+            "reference":  "Nehemiah 4:6",
+             "verseNumber":  6,
+             "scripture":  "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work."
+        },
+        {
+            "reference":  "Nehemiah 4:7",
+             "verseNumber":  7,
+             "scripture":  "But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very angry,"
+        },
+        {
+            "reference":  "Nehemiah 4:8",
+             "verseNumber":  8,
+             "scripture":  "And conspired all of them together to come and to fight against Jerusalem, and to hinder it."
+        },
+        {
+            "reference":  "Nehemiah 4:9",
+             "verseNumber":  9,
+             "scripture":  "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them."
+        },
+        {
+            "reference":  "Nehemiah 4:10",
+             "verseNumber":  10,
+             "scripture":  "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall."
+        },
+        {
+            "reference":  "Nehemiah 4:11",
+             "verseNumber":  11,
+             "scripture":  "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease."
+        },
+        {
+            "reference":  "Nehemiah 4:12",
+             "verseNumber":  12,
+             "scripture":  "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence all of you shall return unto us they will be upon you."
+        },
+        {
+            "reference":  "Nehemiah 4:13",
+             "verseNumber":  13,
+             "scripture":  "Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows."
+        },
+        {
+            "reference":  "Nehemiah 4:14",
+             "verseNumber":  14,
+             "scripture":  "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not all of you afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses."
+        },
+        {
+            "reference":  "Nehemiah 4:15",
+             "verseNumber":  15,
+             "scripture":  "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nothing, that we returned all of us to the wall, every one unto his work."
+        },
+        {
+            "reference":  "Nehemiah 4:16",
+             "verseNumber":  16,
+             "scripture":  "And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah."
+        },
+        {
+            "reference":  "Nehemiah 4:17",
+             "verseNumber":  17,
+             "scripture":  "They which built on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
+        },
+        {
+            "reference":  "Nehemiah 4:18",
+             "verseNumber":  18,
+             "scripture":  "For the builders, every one had his sword girded by his side, and so built. And he that sounded the trumpet was by me."
+        },
+        {
+            "reference":  "Nehemiah 4:19",
+             "verseNumber":  19,
+             "scripture":  "And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another."
+        },
+        {
+            "reference":  "Nehemiah 4:20",
+             "verseNumber":  20,
+             "scripture":  "In what place therefore all of you hear the sound of the trumpet, resort all of you thither unto us: our God shall fight for us."
+        },
+        {
+            "reference":  "Nehemiah 4:21",
+             "verseNumber":  21,
+             "scripture":  "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared."
+        },
+        {
+            "reference":  "Nehemiah 4:22",
+             "verseNumber":  22,
+             "scripture":  "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day."
+        },
+        {
+            "reference":  "Nehemiah 4:23",
+             "verseNumber":  23,
+             "scripture":  "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing."
+        }
+    ]
+}

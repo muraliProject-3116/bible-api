@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 111, "verses": [{"reference": "Psalm 111:1", "verseNumber": 1, "scripture": "Praise all of you the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation."},{"reference": "Psalm 111:2", "verseNumber": 2, "scripture": "The works of the LORD are great, sought out of all them that have pleasure therein."},{"reference": "Psalm 111:3", "verseNumber": 3, "scripture": "His work is honourable and glorious: and his righteousness endures for ever."},{"reference": "Psalm 111:4", "verseNumber": 4, "scripture": "He has made his wonderful works to be remembered: the LORD is gracious and full of compassion."},{"reference": "Psalm 111:5", "verseNumber": 5, "scripture": "He has given food unto them that fear him: he will ever be mindful of his covenant."},{"reference": "Psalm 111:6", "verseNumber": 6, "scripture": "He has showed his people the power of his works, that he may give them the heritage of the heathen."},{"reference": "Psalm 111:7", "verseNumber": 7, "scripture": "The works of his hands are verity and judgment; all his commandments are sure."},{"reference": "Psalm 111:8", "verseNumber": 8, "scripture": "They stand fast for ever and ever, and are done in truth and uprightness."},{"reference": "Psalm 111:9", "verseNumber": 9, "scripture": "He sent redemption unto his people: he has commanded his covenant for ever: holy and reverend is his name."},{"reference": "Psalm 111:10", "verseNumber": 10, "scripture": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endures for ever."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  111,
+     "verses":  [
+        {
+            "reference":  "Psalm 111:1",
+             "verseNumber":  1,
+             "scripture":  "Praise all of you the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation."
+        },
+        {
+            "reference":  "Psalm 111:2",
+             "verseNumber":  2,
+             "scripture":  "The works of the LORD are great, sought out of all them that have pleasure therein."
+        },
+        {
+            "reference":  "Psalm 111:3",
+             "verseNumber":  3,
+             "scripture":  "His work is honourable and glorious: and his righteousness endures for ever."
+        },
+        {
+            "reference":  "Psalm 111:4",
+             "verseNumber":  4,
+             "scripture":  "He has made his wonderful works to be remembered: the LORD is gracious and full of compassion."
+        },
+        {
+            "reference":  "Psalm 111:5",
+             "verseNumber":  5,
+             "scripture":  "He has given food unto them that fear him: he will ever be mindful of his covenant."
+        },
+        {
+            "reference":  "Psalm 111:6",
+             "verseNumber":  6,
+             "scripture":  "He has showed his people the power of his works, that he may give them the heritage of the heathen."
+        },
+        {
+            "reference":  "Psalm 111:7",
+             "verseNumber":  7,
+             "scripture":  "The works of his hands are verity and judgment; all his commandments are sure."
+        },
+        {
+            "reference":  "Psalm 111:8",
+             "verseNumber":  8,
+             "scripture":  "They stand fast for ever and ever, and are done in truth and uprightness."
+        },
+        {
+            "reference":  "Psalm 111:9",
+             "verseNumber":  9,
+             "scripture":  "He sent redemption unto his people: he has commanded his covenant for ever: holy and reverend is his name."
+        },
+        {
+            "reference":  "Psalm 111:10",
+             "verseNumber":  10,
+             "scripture":  "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endures for ever."
+        }
+    ]
+}

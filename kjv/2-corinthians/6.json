@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Corinthians", "bookAbbreviation": "2 Cor", "chapterNumber": 6, "verses": [{"reference": "2 Corinthians 6:1", "verseNumber": 1, "scripture": "We then, as workers together with him, plead to you also that all of you receive not the grace of God in vain."},{"reference": "2 Corinthians 6:2", "verseNumber": 2, "scripture": "(For he says, I have heard you in a time accepted, and in the day of salvation have I helped you: behold, now is the accepted time; behold, now is the day of salvation.)"},{"reference": "2 Corinthians 6:3", "verseNumber": 3, "scripture": "Giving no offence in any thing, that the ministry be not blamed:"},{"reference": "2 Corinthians 6:4", "verseNumber": 4, "scripture": "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,"},{"reference": "2 Corinthians 6:5", "verseNumber": 5, "scripture": "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;"},{"reference": "2 Corinthians 6:6", "verseNumber": 6, "scripture": "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Spirit, by love sincere,"},{"reference": "2 Corinthians 6:7", "verseNumber": 7, "scripture": "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,"},{"reference": "2 Corinthians 6:8", "verseNumber": 8, "scripture": "By honour and dishonour, by evil report and good report: as deceivers, and yet true;"},{"reference": "2 Corinthians 6:9", "verseNumber": 9, "scripture": "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;"},{"reference": "2 Corinthians 6:10", "verseNumber": 10, "scripture": "As sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things."},{"reference": "2 Corinthians 6:11", "verseNumber": 11, "scripture": "O all of you Corinthians, our mouth is open unto you, our heart is enlarged."},{"reference": "2 Corinthians 6:12", "verseNumber": 12, "scripture": "All of you are not straitened in us, but all of you are straitened in your own bowels."},{"reference": "2 Corinthians 6:13", "verseNumber": 13, "scripture": "Now for a recompence in the same, (I speak as unto my children,) be all of you also enlarged."},{"reference": "2 Corinthians 6:14", "verseNumber": 14, "scripture": "Be all of you not unequally yoked together with unbelievers: for what fellowship has righteousness with unrighteousness? and what communion has light with darkness?"},{"reference": "2 Corinthians 6:15", "verseNumber": 15, "scripture": "And what concord has Christ with Belial? or what part has he that believes with an infidel?"},{"reference": "2 Corinthians 6:16", "verseNumber": 16, "scripture": "And what agreement has the temple of God with idols? for all of you are the temple of the living God; as God has said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people."},{"reference": "2 Corinthians 6:17", "verseNumber": 17, "scripture": "Wherefore come out from among them, and be all of you separate, says the Lord, and touch not the unclean thing; and I will receive you."},{"reference": "2 Corinthians 6:18", "verseNumber": 18, "scripture": "And will be a Father unto you, and all of you shall be my sons and daughters, says the Lord Almighty."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Corinthians",
+     "bookAbbreviation":  "2 Cor",
+     "chapterNumber":  6,
+     "verses":  [
+        {
+            "reference":  "2 Corinthians 6:1",
+             "verseNumber":  1,
+             "scripture":  "We then, as workers together with him, plead to you also that all of you receive not the grace of God in vain."
+        },
+        {
+            "reference":  "2 Corinthians 6:2",
+             "verseNumber":  2,
+             "scripture":  "(For he says, I have heard you in a time accepted, and in the day of salvation have I helped you: behold, now is the accepted time; behold, now is the day of salvation.)"
+        },
+        {
+            "reference":  "2 Corinthians 6:3",
+             "verseNumber":  3,
+             "scripture":  "Giving no offence in any thing, that the ministry be not blamed:"
+        },
+        {
+            "reference":  "2 Corinthians 6:4",
+             "verseNumber":  4,
+             "scripture":  "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,"
+        },
+        {
+            "reference":  "2 Corinthians 6:5",
+             "verseNumber":  5,
+             "scripture":  "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;"
+        },
+        {
+            "reference":  "2 Corinthians 6:6",
+             "verseNumber":  6,
+             "scripture":  "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Spirit, by love sincere,"
+        },
+        {
+            "reference":  "2 Corinthians 6:7",
+             "verseNumber":  7,
+             "scripture":  "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,"
+        },
+        {
+            "reference":  "2 Corinthians 6:8",
+             "verseNumber":  8,
+             "scripture":  "By honour and dishonour, by evil report and good report: as deceivers, and yet true;"
+        },
+        {
+            "reference":  "2 Corinthians 6:9",
+             "verseNumber":  9,
+             "scripture":  "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;"
+        },
+        {
+            "reference":  "2 Corinthians 6:10",
+             "verseNumber":  10,
+             "scripture":  "As sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things."
+        },
+        {
+            "reference":  "2 Corinthians 6:11",
+             "verseNumber":  11,
+             "scripture":  "O all of you Corinthians, our mouth is open unto you, our heart is enlarged."
+        },
+        {
+            "reference":  "2 Corinthians 6:12",
+             "verseNumber":  12,
+             "scripture":  "All of you are not straitened in us, but all of you are straitened in your own bowels."
+        },
+        {
+            "reference":  "2 Corinthians 6:13",
+             "verseNumber":  13,
+             "scripture":  "Now for a recompence in the same, (I speak as unto my children,) be all of you also enlarged."
+        },
+        {
+            "reference":  "2 Corinthians 6:14",
+             "verseNumber":  14,
+             "scripture":  "Be all of you not unequally yoked together with unbelievers: for what fellowship has righteousness with unrighteousness? and what communion has light with darkness?"
+        },
+        {
+            "reference":  "2 Corinthians 6:15",
+             "verseNumber":  15,
+             "scripture":  "And what concord has Christ with Belial? or what part has he that believes with an infidel?"
+        },
+        {
+            "reference":  "2 Corinthians 6:16",
+             "verseNumber":  16,
+             "scripture":  "And what agreement has the temple of God with idols? for all of you are the temple of the living God; as God has said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people."
+        },
+        {
+            "reference":  "2 Corinthians 6:17",
+             "verseNumber":  17,
+             "scripture":  "Wherefore come out from among them, and be all of you separate, says the Lord, and touch not the unclean thing; and I will receive you."
+        },
+        {
+            "reference":  "2 Corinthians 6:18",
+             "verseNumber":  18,
+             "scripture":  "And will be a Father unto you, and all of you shall be my sons and daughters, says the Lord Almighty."
+        }
+    ]
+}

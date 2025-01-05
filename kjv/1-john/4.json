@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 John", "bookAbbreviation": "1 Joh", "chapterNumber": 4, "verses": [{"reference": "1 John 4:1", "verseNumber": 1, "scripture": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."},{"reference": "1 John 4:2", "verseNumber": 2, "scripture": "Hereby know all of you the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:"},{"reference": "1 John 4:3", "verseNumber": 3, "scripture": "And every spirit that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, whereof all of you have heard that it should come; and even now already is it in the world."},{"reference": "1 John 4:4", "verseNumber": 4, "scripture": "All of you are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."},{"reference": "1 John 4:5", "verseNumber": 5, "scripture": "They are of the world: therefore speak they of the world, and the world hears them."},{"reference": "1 John 4:6", "verseNumber": 6, "scripture": "We are of God: he that knows God hears us; he that is not of God hears not us. Hereby know we the spirit of truth, and the spirit of error."},{"reference": "1 John 4:7", "verseNumber": 7, "scripture": "Beloved, let us love one another: for love is of God; and every one that loves is born of God, and knows God."},{"reference": "1 John 4:8", "verseNumber": 8, "scripture": "He that loves not knows not God; for God is love."},{"reference": "1 John 4:9", "verseNumber": 9, "scripture": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him."},{"reference": "1 John 4:10", "verseNumber": 10, "scripture": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."},{"reference": "1 John 4:11", "verseNumber": 11, "scripture": "Beloved, if God so loved us, we ought also to love one another."},{"reference": "1 John 4:12", "verseNumber": 12, "scripture": "No man has seen God at any time. If we love one another, God dwells in us, and his love is perfected in us."},{"reference": "1 John 4:13", "verseNumber": 13, "scripture": "Hereby know we that we dwell in him, and he in us, because he has given us of his Spirit."},{"reference": "1 John 4:14", "verseNumber": 14, "scripture": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world."},{"reference": "1 John 4:15", "verseNumber": 15, "scripture": "Whosoever shall confess that Jesus is the Son of God, God dwells in him, and he in God."},{"reference": "1 John 4:16", "verseNumber": 16, "scripture": "And we have known and believed the love that God has to us. God is love; and he that dwells in love dwells in God, and God in him."},{"reference": "1 John 4:17", "verseNumber": 17, "scripture": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world."},{"reference": "1 John 4:18", "verseNumber": 18, "scripture": "There is no fear in love; but perfect love casts out fear: because fear has torment. He that fears is not made perfect in love."},{"reference": "1 John 4:19", "verseNumber": 19, "scripture": "We love him, because he first loved us."},{"reference": "1 John 4:20", "verseNumber": 20, "scripture": "If a man say, I love God, and hates his brother, he is a liar: for he that loves not his brother whom he has seen, how can he love God whom he has not seen?"},{"reference": "1 John 4:21", "verseNumber": 21, "scripture": "And this commandment have we from him, That he who loves God love his brother also."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 John",
+     "bookAbbreviation":  "1 Joh",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "1 John 4:1",
+             "verseNumber":  1,
+             "scripture":  "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."
+        },
+        {
+            "reference":  "1 John 4:2",
+             "verseNumber":  2,
+             "scripture":  "Hereby know all of you the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:"
+        },
+        {
+            "reference":  "1 John 4:3",
+             "verseNumber":  3,
+             "scripture":  "And every spirit that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, whereof all of you have heard that it should come; and even now already is it in the world."
+        },
+        {
+            "reference":  "1 John 4:4",
+             "verseNumber":  4,
+             "scripture":  "All of you are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."
+        },
+        {
+            "reference":  "1 John 4:5",
+             "verseNumber":  5,
+             "scripture":  "They are of the world: therefore speak they of the world, and the world hears them."
+        },
+        {
+            "reference":  "1 John 4:6",
+             "verseNumber":  6,
+             "scripture":  "We are of God: he that knows God hears us; he that is not of God hears not us. Hereby know we the spirit of truth, and the spirit of error."
+        },
+        {
+            "reference":  "1 John 4:7",
+             "verseNumber":  7,
+             "scripture":  "Beloved, let us love one another: for love is of God; and every one that loves is born of God, and knows God."
+        },
+        {
+            "reference":  "1 John 4:8",
+             "verseNumber":  8,
+             "scripture":  "He that loves not knows not God; for God is love."
+        },
+        {
+            "reference":  "1 John 4:9",
+             "verseNumber":  9,
+             "scripture":  "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him."
+        },
+        {
+            "reference":  "1 John 4:10",
+             "verseNumber":  10,
+             "scripture":  "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+        },
+        {
+            "reference":  "1 John 4:11",
+             "verseNumber":  11,
+             "scripture":  "Beloved, if God so loved us, we ought also to love one another."
+        },
+        {
+            "reference":  "1 John 4:12",
+             "verseNumber":  12,
+             "scripture":  "No man has seen God at any time. If we love one another, God dwells in us, and his love is perfected in us."
+        },
+        {
+            "reference":  "1 John 4:13",
+             "verseNumber":  13,
+             "scripture":  "Hereby know we that we dwell in him, and he in us, because he has given us of his Spirit."
+        },
+        {
+            "reference":  "1 John 4:14",
+             "verseNumber":  14,
+             "scripture":  "And we have seen and do testify that the Father sent the Son to be the Saviour of the world."
+        },
+        {
+            "reference":  "1 John 4:15",
+             "verseNumber":  15,
+             "scripture":  "Whosoever shall confess that Jesus is the Son of God, God dwells in him, and he in God."
+        },
+        {
+            "reference":  "1 John 4:16",
+             "verseNumber":  16,
+             "scripture":  "And we have known and believed the love that God has to us. God is love; and he that dwells in love dwells in God, and God in him."
+        },
+        {
+            "reference":  "1 John 4:17",
+             "verseNumber":  17,
+             "scripture":  "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world."
+        },
+        {
+            "reference":  "1 John 4:18",
+             "verseNumber":  18,
+             "scripture":  "There is no fear in love; but perfect love casts out fear: because fear has torment. He that fears is not made perfect in love."
+        },
+        {
+            "reference":  "1 John 4:19",
+             "verseNumber":  19,
+             "scripture":  "We love him, because he first loved us."
+        },
+        {
+            "reference":  "1 John 4:20",
+             "verseNumber":  20,
+             "scripture":  "If a man say, I love God, and hates his brother, he is a liar: for he that loves not his brother whom he has seen, how can he love God whom he has not seen?"
+        },
+        {
+            "reference":  "1 John 4:21",
+             "verseNumber":  21,
+             "scripture":  "And this commandment have we from him, That he who loves God love his brother also."
+        }
+    ]
+}

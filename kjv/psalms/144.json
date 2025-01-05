@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 144, "verses": [{"reference": "Psalm 144:1", "verseNumber": 1, "scripture": "Blessed be the LORD my strength which teaches my hands to war, and my fingers to fight:"},{"reference": "Psalm 144:2", "verseNumber": 2, "scripture": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdues my people under me."},{"reference": "Psalm 144:3", "verseNumber": 3, "scripture": "LORD, what is man, that you take knowledge of him! or the son of man, that you make account of him!"},{"reference": "Psalm 144:4", "verseNumber": 4, "scripture": "Man is like to vanity: his days are as a shadow that passes away."},{"reference": "Psalm 144:5", "verseNumber": 5, "scripture": "Bow your heavens, O LORD, and come down: touch the mountains, and they shall smoke."},{"reference": "Psalm 144:6", "verseNumber": 6, "scripture": "Cast forth lightning, and scatter them: shoot out yours arrows, and destroy them."},{"reference": "Psalm 144:7", "verseNumber": 7, "scripture": "Send yours hand from above; rid me, and deliver me out of great waters, from the hand of strange children;"},{"reference": "Psalm 144:8", "verseNumber": 8, "scripture": "Whose mouth speaks vanity, and their right hand is a right hand of falsehood."},{"reference": "Psalm 144:9", "verseNumber": 9, "scripture": "I will sing a new song unto you, O God: upon a psaltery and an instrument of ten strings will I sing praises unto you."},{"reference": "Psalm 144:10", "verseNumber": 10, "scripture": "It is he that gives salvation unto kings: who delivers David his servant from the hurtful sword."},{"reference": "Psalm 144:11", "verseNumber": 11, "scripture": "Rid me, and deliver me from the hand of strange children, whose mouth speaks vanity, and their right hand is a right hand of falsehood:"},{"reference": "Psalm 144:12", "verseNumber": 12, "scripture": "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the embodiment of a palace:"},{"reference": "Psalm 144:13", "verseNumber": 13, "scripture": "That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:"},{"reference": "Psalm 144:14", "verseNumber": 14, "scripture": "That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets."},{"reference": "Psalm 144:15", "verseNumber": 15, "scripture": "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  144,
+     "verses":  [
+        {
+            "reference":  "Psalm 144:1",
+             "verseNumber":  1,
+             "scripture":  "Blessed be the LORD my strength which teaches my hands to war, and my fingers to fight:"
+        },
+        {
+            "reference":  "Psalm 144:2",
+             "verseNumber":  2,
+             "scripture":  "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdues my people under me."
+        },
+        {
+            "reference":  "Psalm 144:3",
+             "verseNumber":  3,
+             "scripture":  "LORD, what is man, that you take knowledge of him! or the son of man, that you make account of him!"
+        },
+        {
+            "reference":  "Psalm 144:4",
+             "verseNumber":  4,
+             "scripture":  "Man is like to vanity: his days are as a shadow that passes away."
+        },
+        {
+            "reference":  "Psalm 144:5",
+             "verseNumber":  5,
+             "scripture":  "Bow your heavens, O LORD, and come down: touch the mountains, and they shall smoke."
+        },
+        {
+            "reference":  "Psalm 144:6",
+             "verseNumber":  6,
+             "scripture":  "Cast forth lightning, and scatter them: shoot out yours arrows, and destroy them."
+        },
+        {
+            "reference":  "Psalm 144:7",
+             "verseNumber":  7,
+             "scripture":  "Send yours hand from above; rid me, and deliver me out of great waters, from the hand of strange children;"
+        },
+        {
+            "reference":  "Psalm 144:8",
+             "verseNumber":  8,
+             "scripture":  "Whose mouth speaks vanity, and their right hand is a right hand of falsehood."
+        },
+        {
+            "reference":  "Psalm 144:9",
+             "verseNumber":  9,
+             "scripture":  "I will sing a new song unto you, O God: upon a psaltery and an instrument of ten strings will I sing praises unto you."
+        },
+        {
+            "reference":  "Psalm 144:10",
+             "verseNumber":  10,
+             "scripture":  "It is he that gives salvation unto kings: who delivers David his servant from the hurtful sword."
+        },
+        {
+            "reference":  "Psalm 144:11",
+             "verseNumber":  11,
+             "scripture":  "Rid me, and deliver me from the hand of strange children, whose mouth speaks vanity, and their right hand is a right hand of falsehood:"
+        },
+        {
+            "reference":  "Psalm 144:12",
+             "verseNumber":  12,
+             "scripture":  "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the embodiment of a palace:"
+        },
+        {
+            "reference":  "Psalm 144:13",
+             "verseNumber":  13,
+             "scripture":  "That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:"
+        },
+        {
+            "reference":  "Psalm 144:14",
+             "verseNumber":  14,
+             "scripture":  "That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets."
+        },
+        {
+            "reference":  "Psalm 144:15",
+             "verseNumber":  15,
+             "scripture":  "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD."
+        }
+    ]
+}

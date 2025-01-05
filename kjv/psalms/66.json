@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 66, "verses": [{"reference": "Psalm 66:1", "verseNumber": 1, "scripture": "Make a joyful noise unto God, all you lands:"},{"reference": "Psalm 66:2", "verseNumber": 2, "scripture": "Sing forth the honour of his name: make his praise glorious."},{"reference": "Psalm 66:3", "verseNumber": 3, "scripture": "Say unto God, How terrible are you in your works! through the greatness of your power shall yours enemies submit themselves unto you."},{"reference": "Psalm 66:4", "verseNumber": 4, "scripture": "All the earth shall worship you, and shall sing unto you; they shall sing to your name. Selah."},{"reference": "Psalm 66:5", "verseNumber": 5, "scripture": "Come and see the works of God: he is terrible in his doing toward the children of men."},{"reference": "Psalm 66:6", "verseNumber": 6, "scripture": "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him."},{"reference": "Psalm 66:7", "verseNumber": 7, "scripture": "He rules by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah."},{"reference": "Psalm 66:8", "verseNumber": 8, "scripture": "O bless our God, all of you people, and make the voice of his praise to be heard:"},{"reference": "Psalm 66:9", "verseNumber": 9, "scripture": "Which holds our soul in life, and suffers not our feet to be moved."},{"reference": "Psalm 66:10", "verseNumber": 10, "scripture": "For you, O God, have proved us: you have tried us, as silver is tried."},{"reference": "Psalm 66:11", "verseNumber": 11, "scripture": "You brought us into the net; you laid affliction upon our loins."},{"reference": "Psalm 66:12", "verseNumber": 12, "scripture": "You have caused men to ride over our heads; we went through fire and through water: but you brought us out into a wealthy place."},{"reference": "Psalm 66:13", "verseNumber": 13, "scripture": "I will go into your house with burnt offerings: I will pay you my vows,"},{"reference": "Psalm 66:14", "verseNumber": 14, "scripture": "Which my lips have uttered, and my mouth has spoken, when I was in trouble."},{"reference": "Psalm 66:15", "verseNumber": 15, "scripture": "I will offer unto you burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah."},{"reference": "Psalm 66:16", "verseNumber": 16, "scripture": "Come and hear, all you that fear God, and I will declare what he has done for my soul."},{"reference": "Psalm 66:17", "verseNumber": 17, "scripture": "I cried unto him with my mouth, and he was extolled with my tongue."},{"reference": "Psalm 66:18", "verseNumber": 18, "scripture": "If I regard iniquity in my heart, the Lord will not hear me:"},{"reference": "Psalm 66:19", "verseNumber": 19, "scripture": "But verily God has heard me; he has attended to the voice of my prayer."},{"reference": "Psalm 66:20", "verseNumber": 20, "scripture": "Blessed be God, which has not turned away my prayer, nor his mercy from me."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  66,
+     "verses":  [
+        {
+            "reference":  "Psalm 66:1",
+             "verseNumber":  1,
+             "scripture":  "Make a joyful noise unto God, all you lands:"
+        },
+        {
+            "reference":  "Psalm 66:2",
+             "verseNumber":  2,
+             "scripture":  "Sing forth the honour of his name: make his praise glorious."
+        },
+        {
+            "reference":  "Psalm 66:3",
+             "verseNumber":  3,
+             "scripture":  "Say unto God, How terrible are you in your works! through the greatness of your power shall yours enemies submit themselves unto you."
+        },
+        {
+            "reference":  "Psalm 66:4",
+             "verseNumber":  4,
+             "scripture":  "All the earth shall worship you, and shall sing unto you; they shall sing to your name. Selah."
+        },
+        {
+            "reference":  "Psalm 66:5",
+             "verseNumber":  5,
+             "scripture":  "Come and see the works of God: he is terrible in his doing toward the children of men."
+        },
+        {
+            "reference":  "Psalm 66:6",
+             "verseNumber":  6,
+             "scripture":  "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him."
+        },
+        {
+            "reference":  "Psalm 66:7",
+             "verseNumber":  7,
+             "scripture":  "He rules by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah."
+        },
+        {
+            "reference":  "Psalm 66:8",
+             "verseNumber":  8,
+             "scripture":  "O bless our God, all of you people, and make the voice of his praise to be heard:"
+        },
+        {
+            "reference":  "Psalm 66:9",
+             "verseNumber":  9,
+             "scripture":  "Which holds our soul in life, and suffers not our feet to be moved."
+        },
+        {
+            "reference":  "Psalm 66:10",
+             "verseNumber":  10,
+             "scripture":  "For you, O God, have proved us: you have tried us, as silver is tried."
+        },
+        {
+            "reference":  "Psalm 66:11",
+             "verseNumber":  11,
+             "scripture":  "You brought us into the net; you laid affliction upon our loins."
+        },
+        {
+            "reference":  "Psalm 66:12",
+             "verseNumber":  12,
+             "scripture":  "You have caused men to ride over our heads; we went through fire and through water: but you brought us out into a wealthy place."
+        },
+        {
+            "reference":  "Psalm 66:13",
+             "verseNumber":  13,
+             "scripture":  "I will go into your house with burnt offerings: I will pay you my vows,"
+        },
+        {
+            "reference":  "Psalm 66:14",
+             "verseNumber":  14,
+             "scripture":  "Which my lips have uttered, and my mouth has spoken, when I was in trouble."
+        },
+        {
+            "reference":  "Psalm 66:15",
+             "verseNumber":  15,
+             "scripture":  "I will offer unto you burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah."
+        },
+        {
+            "reference":  "Psalm 66:16",
+             "verseNumber":  16,
+             "scripture":  "Come and hear, all you that fear God, and I will declare what he has done for my soul."
+        },
+        {
+            "reference":  "Psalm 66:17",
+             "verseNumber":  17,
+             "scripture":  "I cried unto him with my mouth, and he was extolled with my tongue."
+        },
+        {
+            "reference":  "Psalm 66:18",
+             "verseNumber":  18,
+             "scripture":  "If I regard iniquity in my heart, the Lord will not hear me:"
+        },
+        {
+            "reference":  "Psalm 66:19",
+             "verseNumber":  19,
+             "scripture":  "But verily God has heard me; he has attended to the voice of my prayer."
+        },
+        {
+            "reference":  "Psalm 66:20",
+             "verseNumber":  20,
+             "scripture":  "Blessed be God, which has not turned away my prayer, nor his mercy from me."
+        }
+    ]
+}

@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 23, "verses": [{"reference": "Psalm 23:1", "verseNumber": 1, "scripture": "The LORD is my shepherd; I shall not lack."},{"reference": "Psalm 23:2", "verseNumber": 2, "scripture": "He makes me to lie down in green pastures: he leads me beside the still waters."},{"reference": "Psalm 23:3", "verseNumber": 3, "scripture": "He restores my soul: he leads me in the paths of righteousness for his name's sake."},{"reference": "Psalm 23:4", "verseNumber": 4, "scripture": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for you are with me; your rod and your staff they comfort me."},{"reference": "Psalm 23:5", "verseNumber": 5, "scripture": "You prepare a table before me in the presence of mine enemies: you anoint my head with oil; my cup runs over."},{"reference": "Psalm 23:6", "verseNumber": 6, "scripture": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  23,
+     "verses":  [
+        {
+            "reference":  "Psalm 23:1",
+             "verseNumber":  1,
+             "scripture":  "The LORD is my shepherd; I shall not lack."
+        },
+        {
+            "reference":  "Psalm 23:2",
+             "verseNumber":  2,
+             "scripture":  "He makes me to lie down in green pastures: he leads me beside the still waters."
+        },
+        {
+            "reference":  "Psalm 23:3",
+             "verseNumber":  3,
+             "scripture":  "He restores my soul: he leads me in the paths of righteousness for his name's sake."
+        },
+        {
+            "reference":  "Psalm 23:4",
+             "verseNumber":  4,
+             "scripture":  "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for you are with me; your rod and your staff they comfort me."
+        },
+        {
+            "reference":  "Psalm 23:5",
+             "verseNumber":  5,
+             "scripture":  "You prepare a table before me in the presence of mine enemies: you anoint my head with oil; my cup runs over."
+        },
+        {
+            "reference":  "Psalm 23:6",
+             "verseNumber":  6,
+             "scripture":  "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+        }
+    ]
+}

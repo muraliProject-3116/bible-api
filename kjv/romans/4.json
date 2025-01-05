@@ -1,1 +1,140 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Romans", "bookAbbreviation": "Rom", "chapterNumber": 4, "verses": [{"reference": "Romans 4:1", "verseNumber": 1, "scripture": "What shall we say then that Abraham our father, as pertaining to the flesh, has found?"},{"reference": "Romans 4:2", "verseNumber": 2, "scripture": "For if Abraham were justified by works, he has whereof to glory; but not before God."},{"reference": "Romans 4:3", "verseNumber": 3, "scripture": "For what says the scripture? Abraham believed God, and it was counted unto him for righteousness."},{"reference": "Romans 4:4", "verseNumber": 4, "scripture": "Now to him that works is the reward not reckoned of grace, but of debt."},{"reference": "Romans 4:5", "verseNumber": 5, "scripture": "But to him that works not, but believes on him that justifies the ungodly, his faith is counted for righteousness."},{"reference": "Romans 4:6", "verseNumber": 6, "scripture": "Even as David also describes the blessedness of the man, unto whom God imputes righteousness without works,"},{"reference": "Romans 4:7", "verseNumber": 7, "scripture": "Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered."},{"reference": "Romans 4:8", "verseNumber": 8, "scripture": "Blessed is the man to whom the Lord will not impute sin."},{"reference": "Romans 4:9", "verseNumber": 9, "scripture": "Comes this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness."},{"reference": "Romans 4:10", "verseNumber": 10, "scripture": "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."},{"reference": "Romans 4:11", "verseNumber": 11, "scripture": "And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:"},{"reference": "Romans 4:12", "verseNumber": 12, "scripture": "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised."},{"reference": "Romans 4:13", "verseNumber": 13, "scripture": "For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith."},{"reference": "Romans 4:14", "verseNumber": 14, "scripture": "For if they which are of the law be heirs, faith is made void, and the promise made of no effect:"},{"reference": "Romans 4:15", "verseNumber": 15, "scripture": "Because the law works wrath: for where no law is, there is no transgression."},{"reference": "Romans 4:16", "verseNumber": 16, "scripture": "Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,"},{"reference": "Romans 4:17", "verseNumber": 17, "scripture": "(As it is written, I have made you a father of many nations,) before him whom he believed, even God, who replenishes life to the dead, and calls those things which be not as though they were."},{"reference": "Romans 4:18", "verseNumber": 18, "scripture": "Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall your seed be."},{"reference": "Romans 4:19", "verseNumber": 19, "scripture": "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb:"},{"reference": "Romans 4:20", "verseNumber": 20, "scripture": "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"},{"reference": "Romans 4:21", "verseNumber": 21, "scripture": "And being fully persuaded that, what he had promised, he was able also to perform."},{"reference": "Romans 4:22", "verseNumber": 22, "scripture": "And therefore it was imputed to him for righteousness."},{"reference": "Romans 4:23", "verseNumber": 23, "scripture": "Now it was not written for his sake alone, that it was imputed to him;"},{"reference": "Romans 4:24", "verseNumber": 24, "scripture": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"},{"reference": "Romans 4:25", "verseNumber": 25, "scripture": "Who was delivered for our offences, and was raised again for our justification."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Romans",
+     "bookAbbreviation":  "Rom",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Romans 4:1",
+             "verseNumber":  1,
+             "scripture":  "What shall we say then that Abraham our father, as pertaining to the flesh, has found?"
+        },
+        {
+            "reference":  "Romans 4:2",
+             "verseNumber":  2,
+             "scripture":  "For if Abraham were justified by works, he has whereof to glory; but not before God."
+        },
+        {
+            "reference":  "Romans 4:3",
+             "verseNumber":  3,
+             "scripture":  "For what says the scripture? Abraham believed God, and it was counted unto him for righteousness."
+        },
+        {
+            "reference":  "Romans 4:4",
+             "verseNumber":  4,
+             "scripture":  "Now to him that works is the reward not reckoned of grace, but of debt."
+        },
+        {
+            "reference":  "Romans 4:5",
+             "verseNumber":  5,
+             "scripture":  "But to him that works not, but believes on him that justifies the ungodly, his faith is counted for righteousness."
+        },
+        {
+            "reference":  "Romans 4:6",
+             "verseNumber":  6,
+             "scripture":  "Even as David also describes the blessedness of the man, unto whom God imputes righteousness without works,"
+        },
+        {
+            "reference":  "Romans 4:7",
+             "verseNumber":  7,
+             "scripture":  "Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered."
+        },
+        {
+            "reference":  "Romans 4:8",
+             "verseNumber":  8,
+             "scripture":  "Blessed is the man to whom the Lord will not impute sin."
+        },
+        {
+            "reference":  "Romans 4:9",
+             "verseNumber":  9,
+             "scripture":  "Comes this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness."
+        },
+        {
+            "reference":  "Romans 4:10",
+             "verseNumber":  10,
+             "scripture":  "How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."
+        },
+        {
+            "reference":  "Romans 4:11",
+             "verseNumber":  11,
+             "scripture":  "And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:"
+        },
+        {
+            "reference":  "Romans 4:12",
+             "verseNumber":  12,
+             "scripture":  "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised."
+        },
+        {
+            "reference":  "Romans 4:13",
+             "verseNumber":  13,
+             "scripture":  "For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith."
+        },
+        {
+            "reference":  "Romans 4:14",
+             "verseNumber":  14,
+             "scripture":  "For if they which are of the law be heirs, faith is made void, and the promise made of no effect:"
+        },
+        {
+            "reference":  "Romans 4:15",
+             "verseNumber":  15,
+             "scripture":  "Because the law works wrath: for where no law is, there is no transgression."
+        },
+        {
+            "reference":  "Romans 4:16",
+             "verseNumber":  16,
+             "scripture":  "Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,"
+        },
+        {
+            "reference":  "Romans 4:17",
+             "verseNumber":  17,
+             "scripture":  "(As it is written, I have made you a father of many nations,) before him whom he believed, even God, who replenishes life to the dead, and calls those things which be not as though they were."
+        },
+        {
+            "reference":  "Romans 4:18",
+             "verseNumber":  18,
+             "scripture":  "Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall your seed be."
+        },
+        {
+            "reference":  "Romans 4:19",
+             "verseNumber":  19,
+             "scripture":  "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb:"
+        },
+        {
+            "reference":  "Romans 4:20",
+             "verseNumber":  20,
+             "scripture":  "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"
+        },
+        {
+            "reference":  "Romans 4:21",
+             "verseNumber":  21,
+             "scripture":  "And being fully persuaded that, what he had promised, he was able also to perform."
+        },
+        {
+            "reference":  "Romans 4:22",
+             "verseNumber":  22,
+             "scripture":  "And therefore it was imputed to him for righteousness."
+        },
+        {
+            "reference":  "Romans 4:23",
+             "verseNumber":  23,
+             "scripture":  "Now it was not written for his sake alone, that it was imputed to him;"
+        },
+        {
+            "reference":  "Romans 4:24",
+             "verseNumber":  24,
+             "scripture":  "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"
+        },
+        {
+            "reference":  "Romans 4:25",
+             "verseNumber":  25,
+             "scripture":  "Who was delivered for our offences, and was raised again for our justification."
+        }
+    ]
+}

@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "James", "bookAbbreviation": "Jam", "chapterNumber": 3, "verses": [{"reference": "James 3:1", "verseNumber": 1, "scripture": "My brethren, be not many masters, knowing that we shall receive the greater condemnation."},{"reference": "James 3:2", "verseNumber": 2, "scripture": "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."},{"reference": "James 3:3", "verseNumber": 3, "scripture": "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body."},{"reference": "James 3:4", "verseNumber": 4, "scripture": "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, anywhere the governor decides."},{"reference": "James 3:5", "verseNumber": 5, "scripture": "Even so the tongue is a little member, and boasts great things. Behold, how great a matter a little fire kindles!"},{"reference": "James 3:6", "verseNumber": 6, "scripture": "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defiles the whole body, and sets on fire the course of nature; and it is set on fire of hell."},{"reference": "James 3:7", "verseNumber": 7, "scripture": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and has been tamed of mankind:"},{"reference": "James 3:8", "verseNumber": 8, "scripture": "But the tongue can no man tame; it is an unruly evil, full of deadly poison."},{"reference": "James 3:9", "verseNumber": 9, "scripture": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the embodiment of God."},{"reference": "James 3:10", "verseNumber": 10, "scripture": "Out of the same mouth proceeds blessing and cursing. My brethren, these things ought not so to be."},{"reference": "James 3:11", "verseNumber": 11, "scripture": "Does a fountain send forth at the same place sweet water and bitter?"},{"reference": "James 3:12", "verseNumber": 12, "scripture": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."},{"reference": "James 3:13", "verseNumber": 13, "scripture": "Who is a wise man and imbued with knowledge among you? let him show out of a good conversation his works with meekness of wisdom."},{"reference": "James 3:14", "verseNumber": 14, "scripture": "But if all of you have bitter envying and strife in your hearts, glory not, and lie not against the truth."},{"reference": "James 3:15", "verseNumber": 15, "scripture": "This wisdom descends not from above, but is earthly, sensual, devilish."},{"reference": "James 3:16", "verseNumber": 16, "scripture": "For where envying and strife is, there is confusion and every evil work."},{"reference": "James 3:17", "verseNumber": 17, "scripture": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be implored, full of mercy and good fruits, without partiality, and without hypocrisy."},{"reference": "James 3:18", "verseNumber": 18, "scripture": "And the fruit of righteousness is sown in peace of them that make peace."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "James",
+     "bookAbbreviation":  "Jam",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "James 3:1",
+             "verseNumber":  1,
+             "scripture":  "My brethren, be not many masters, knowing that we shall receive the greater condemnation."
+        },
+        {
+            "reference":  "James 3:2",
+             "verseNumber":  2,
+             "scripture":  "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."
+        },
+        {
+            "reference":  "James 3:3",
+             "verseNumber":  3,
+             "scripture":  "Behold, we put bits in the horses' mouths, that they may obey us; and we turn about their whole body."
+        },
+        {
+            "reference":  "James 3:4",
+             "verseNumber":  4,
+             "scripture":  "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, anywhere the governor decides."
+        },
+        {
+            "reference":  "James 3:5",
+             "verseNumber":  5,
+             "scripture":  "Even so the tongue is a little member, and boasts great things. Behold, how great a matter a little fire kindles!"
+        },
+        {
+            "reference":  "James 3:6",
+             "verseNumber":  6,
+             "scripture":  "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defiles the whole body, and sets on fire the course of nature; and it is set on fire of hell."
+        },
+        {
+            "reference":  "James 3:7",
+             "verseNumber":  7,
+             "scripture":  "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and has been tamed of mankind:"
+        },
+        {
+            "reference":  "James 3:8",
+             "verseNumber":  8,
+             "scripture":  "But the tongue can no man tame; it is an unruly evil, full of deadly poison."
+        },
+        {
+            "reference":  "James 3:9",
+             "verseNumber":  9,
+             "scripture":  "Therewith bless we God, even the Father; and therewith curse we men, which are made after the embodiment of God."
+        },
+        {
+            "reference":  "James 3:10",
+             "verseNumber":  10,
+             "scripture":  "Out of the same mouth proceeds blessing and cursing. My brethren, these things ought not so to be."
+        },
+        {
+            "reference":  "James 3:11",
+             "verseNumber":  11,
+             "scripture":  "Does a fountain send forth at the same place sweet water and bitter?"
+        },
+        {
+            "reference":  "James 3:12",
+             "verseNumber":  12,
+             "scripture":  "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
+        },
+        {
+            "reference":  "James 3:13",
+             "verseNumber":  13,
+             "scripture":  "Who is a wise man and imbued with knowledge among you? let him show out of a good conversation his works with meekness of wisdom."
+        },
+        {
+            "reference":  "James 3:14",
+             "verseNumber":  14,
+             "scripture":  "But if all of you have bitter envying and strife in your hearts, glory not, and lie not against the truth."
+        },
+        {
+            "reference":  "James 3:15",
+             "verseNumber":  15,
+             "scripture":  "This wisdom descends not from above, but is earthly, sensual, devilish."
+        },
+        {
+            "reference":  "James 3:16",
+             "verseNumber":  16,
+             "scripture":  "For where envying and strife is, there is confusion and every evil work."
+        },
+        {
+            "reference":  "James 3:17",
+             "verseNumber":  17,
+             "scripture":  "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be implored, full of mercy and good fruits, without partiality, and without hypocrisy."
+        },
+        {
+            "reference":  "James 3:18",
+             "verseNumber":  18,
+             "scripture":  "And the fruit of righteousness is sown in peace of them that make peace."
+        }
+    ]
+}

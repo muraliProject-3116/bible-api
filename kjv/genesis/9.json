@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 9, "verses": [{"reference": "Genesis 9:1", "verseNumber": 1, "scripture": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."},{"reference": "Genesis 9:2", "verseNumber": 2, "scripture": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moves upon the earth, and upon all the fishes of the sea; into your hand are they delivered."},{"reference": "Genesis 9:3", "verseNumber": 3, "scripture": "Every moving thing that lives shall be food for you; even as the green herb have I given you all things."},{"reference": "Genesis 9:4", "verseNumber": 4, "scripture": "But flesh with the life thereof, which is the blood thereof, shall all of you not eat."},{"reference": "Genesis 9:5", "verseNumber": 5, "scripture": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man."},{"reference": "Genesis 9:6", "verseNumber": 6, "scripture": "Whoso sheds man's blood, by man shall his blood be shed: for in the image of God made he man."},{"reference": "Genesis 9:7", "verseNumber": 7, "scripture": "And you, be all of you fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."},{"reference": "Genesis 9:8", "verseNumber": 8, "scripture": "And God spoke unto Noah, and to his sons with him, saying,"},{"reference": "Genesis 9:9", "verseNumber": 9, "scripture": "And I, behold, I establish my covenant with you, and with your seed after you;"},{"reference": "Genesis 9:10", "verseNumber": 10, "scripture": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."},{"reference": "Genesis 9:11", "verseNumber": 11, "scripture": "And I will establish my covenant with you, neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth."},{"reference": "Genesis 9:12", "verseNumber": 12, "scripture": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:"},{"reference": "Genesis 9:13", "verseNumber": 13, "scripture": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."},{"reference": "Genesis 9:14", "verseNumber": 14, "scripture": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"},{"reference": "Genesis 9:15", "verseNumber": 15, "scripture": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."},{"reference": "Genesis 9:16", "verseNumber": 16, "scripture": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."},{"reference": "Genesis 9:17", "verseNumber": 17, "scripture": "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth."},{"reference": "Genesis 9:18", "verseNumber": 18, "scripture": "And the sons of Noah, that went out of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan."},{"reference": "Genesis 9:19", "verseNumber": 19, "scripture": "These are the three sons of Noah: and of them was the whole earth overspread."},{"reference": "Genesis 9:20", "verseNumber": 20, "scripture": "And Noah began to be an farmer, and he planted a vineyard:"},{"reference": "Genesis 9:21", "verseNumber": 21, "scripture": "And he drank of the wine, and was drunken; and he was uncovered within his tent."},{"reference": "Genesis 9:22", "verseNumber": 22, "scripture": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."},{"reference": "Genesis 9:23", "verseNumber": 23, "scripture": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness."},{"reference": "Genesis 9:24", "verseNumber": 24, "scripture": "And Noah awoke from his wine, and knew what his younger son had done unto him."},{"reference": "Genesis 9:25", "verseNumber": 25, "scripture": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."},{"reference": "Genesis 9:26", "verseNumber": 26, "scripture": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant."},{"reference": "Genesis 9:27", "verseNumber": 27, "scripture": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."},{"reference": "Genesis 9:28", "verseNumber": 28, "scripture": "And Noah lived after the flood three hundred and fifty years."},{"reference": "Genesis 9:29", "verseNumber": 29, "scripture": "And all the days of Noah were nine hundred and fifty years: and he died."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  9,
+     "verses":  [
+        {
+            "reference":  "Genesis 9:1",
+             "verseNumber":  1,
+             "scripture":  "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
+        },
+        {
+            "reference":  "Genesis 9:2",
+             "verseNumber":  2,
+             "scripture":  "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moves upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
+        },
+        {
+            "reference":  "Genesis 9:3",
+             "verseNumber":  3,
+             "scripture":  "Every moving thing that lives shall be food for you; even as the green herb have I given you all things."
+        },
+        {
+            "reference":  "Genesis 9:4",
+             "verseNumber":  4,
+             "scripture":  "But flesh with the life thereof, which is the blood thereof, shall all of you not eat."
+        },
+        {
+            "reference":  "Genesis 9:5",
+             "verseNumber":  5,
+             "scripture":  "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man."
+        },
+        {
+            "reference":  "Genesis 9:6",
+             "verseNumber":  6,
+             "scripture":  "Whoso sheds man's blood, by man shall his blood be shed: for in the image of God made he man."
+        },
+        {
+            "reference":  "Genesis 9:7",
+             "verseNumber":  7,
+             "scripture":  "And you, be all of you fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."
+        },
+        {
+            "reference":  "Genesis 9:8",
+             "verseNumber":  8,
+             "scripture":  "And God spoke unto Noah, and to his sons with him, saying,"
+        },
+        {
+            "reference":  "Genesis 9:9",
+             "verseNumber":  9,
+             "scripture":  "And I, behold, I establish my covenant with you, and with your seed after you;"
+        },
+        {
+            "reference":  "Genesis 9:10",
+             "verseNumber":  10,
+             "scripture":  "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
+        },
+        {
+            "reference":  "Genesis 9:11",
+             "verseNumber":  11,
+             "scripture":  "And I will establish my covenant with you, neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth."
+        },
+        {
+            "reference":  "Genesis 9:12",
+             "verseNumber":  12,
+             "scripture":  "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:"
+        },
+        {
+            "reference":  "Genesis 9:13",
+             "verseNumber":  13,
+             "scripture":  "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+        },
+        {
+            "reference":  "Genesis 9:14",
+             "verseNumber":  14,
+             "scripture":  "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"
+        },
+        {
+            "reference":  "Genesis 9:15",
+             "verseNumber":  15,
+             "scripture":  "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+        },
+        {
+            "reference":  "Genesis 9:16",
+             "verseNumber":  16,
+             "scripture":  "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
+        },
+        {
+            "reference":  "Genesis 9:17",
+             "verseNumber":  17,
+             "scripture":  "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth."
+        },
+        {
+            "reference":  "Genesis 9:18",
+             "verseNumber":  18,
+             "scripture":  "And the sons of Noah, that went out of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan."
+        },
+        {
+            "reference":  "Genesis 9:19",
+             "verseNumber":  19,
+             "scripture":  "These are the three sons of Noah: and of them was the whole earth overspread."
+        },
+        {
+            "reference":  "Genesis 9:20",
+             "verseNumber":  20,
+             "scripture":  "And Noah began to be an farmer, and he planted a vineyard:"
+        },
+        {
+            "reference":  "Genesis 9:21",
+             "verseNumber":  21,
+             "scripture":  "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+        },
+        {
+            "reference":  "Genesis 9:22",
+             "verseNumber":  22,
+             "scripture":  "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+        },
+        {
+            "reference":  "Genesis 9:23",
+             "verseNumber":  23,
+             "scripture":  "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness."
+        },
+        {
+            "reference":  "Genesis 9:24",
+             "verseNumber":  24,
+             "scripture":  "And Noah awoke from his wine, and knew what his younger son had done unto him."
+        },
+        {
+            "reference":  "Genesis 9:25",
+             "verseNumber":  25,
+             "scripture":  "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."
+        },
+        {
+            "reference":  "Genesis 9:26",
+             "verseNumber":  26,
+             "scripture":  "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant."
+        },
+        {
+            "reference":  "Genesis 9:27",
+             "verseNumber":  27,
+             "scripture":  "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+        },
+        {
+            "reference":  "Genesis 9:28",
+             "verseNumber":  28,
+             "scripture":  "And Noah lived after the flood three hundred and fifty years."
+        },
+        {
+            "reference":  "Genesis 9:29",
+             "verseNumber":  29,
+             "scripture":  "And all the days of Noah were nine hundred and fifty years: and he died."
+        }
+    ]
+}

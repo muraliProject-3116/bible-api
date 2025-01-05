@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 61, "verses": [{"reference": "Isaiah 61:1", "verseNumber": 1, "scripture": "The Spirit of the Lord GOD is upon me; because the LORD has anointed me to preach good tidings unto the meek; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;"},{"reference": "Isaiah 61:2", "verseNumber": 2, "scripture": "To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;"},{"reference": "Isaiah 61:3", "verseNumber": 3, "scripture": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified."},{"reference": "Isaiah 61:4", "verseNumber": 4, "scripture": "And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations."},{"reference": "Isaiah 61:5", "verseNumber": 5, "scripture": "And strangers shall stand and feed your flocks, and the sons of the foreigner shall be your plowmen and your vinedressers."},{"reference": "Isaiah 61:6", "verseNumber": 6, "scripture": "But all of you shall be named the Priests of the LORD: men shall call you the Ministers of our God: all of you shall eat the riches of the Gentiles, and in their glory shall all of you boast yourselves."},{"reference": "Isaiah 61:7", "verseNumber": 7, "scripture": "For your shame all of you shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them."},{"reference": "Isaiah 61:8", "verseNumber": 8, "scripture": "For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them."},{"reference": "Isaiah 61:9", "verseNumber": 9, "scripture": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the LORD has blessed."},{"reference": "Isaiah 61:10", "verseNumber": 10, "scripture": "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he has clothed me with the garments of salvation, he has covered me with the robe of righteousness, as a bridegroom decks himself with ornaments, and as a bride adorns herself with her jewels."},{"reference": "Isaiah 61:11", "verseNumber": 11, "scripture": "For as the earth brings forth her bud, and as the garden causes the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  61,
+     "verses":  [
+        {
+            "reference":  "Isaiah 61:1",
+             "verseNumber":  1,
+             "scripture":  "The Spirit of the Lord GOD is upon me; because the LORD has anointed me to preach good tidings unto the meek; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;"
+        },
+        {
+            "reference":  "Isaiah 61:2",
+             "verseNumber":  2,
+             "scripture":  "To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;"
+        },
+        {
+            "reference":  "Isaiah 61:3",
+             "verseNumber":  3,
+             "scripture":  "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified."
+        },
+        {
+            "reference":  "Isaiah 61:4",
+             "verseNumber":  4,
+             "scripture":  "And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations."
+        },
+        {
+            "reference":  "Isaiah 61:5",
+             "verseNumber":  5,
+             "scripture":  "And strangers shall stand and feed your flocks, and the sons of the foreigner shall be your plowmen and your vinedressers."
+        },
+        {
+            "reference":  "Isaiah 61:6",
+             "verseNumber":  6,
+             "scripture":  "But all of you shall be named the Priests of the LORD: men shall call you the Ministers of our God: all of you shall eat the riches of the Gentiles, and in their glory shall all of you boast yourselves."
+        },
+        {
+            "reference":  "Isaiah 61:7",
+             "verseNumber":  7,
+             "scripture":  "For your shame all of you shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them."
+        },
+        {
+            "reference":  "Isaiah 61:8",
+             "verseNumber":  8,
+             "scripture":  "For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them."
+        },
+        {
+            "reference":  "Isaiah 61:9",
+             "verseNumber":  9,
+             "scripture":  "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the LORD has blessed."
+        },
+        {
+            "reference":  "Isaiah 61:10",
+             "verseNumber":  10,
+             "scripture":  "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he has clothed me with the garments of salvation, he has covered me with the robe of righteousness, as a bridegroom decks himself with ornaments, and as a bride adorns herself with her jewels."
+        },
+        {
+            "reference":  "Isaiah 61:11",
+             "verseNumber":  11,
+             "scripture":  "For as the earth brings forth her bud, and as the garden causes the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations."
+        }
+    ]
+}

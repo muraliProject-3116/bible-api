@@ -1,1 +1,150 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezekiel", "bookAbbreviation": "Eze", "chapterNumber": 7, "verses": [{"reference": "Ezekiel 7:1", "verseNumber": 1, "scripture": "Moreover the word of the LORD came unto me, saying,"},{"reference": "Ezekiel 7:2", "verseNumber": 2, "scripture": "Also, you son of man, thus says the Lord GOD unto the land of Israel; An end, the end has come upon the four corners of the land."},{"reference": "Ezekiel 7:3", "verseNumber": 3, "scripture": "Now is the end come upon you, and I will send mine anger upon you, and will judge you according to your ways, and will recompense upon you all yours abominations."},{"reference": "Ezekiel 7:4", "verseNumber": 4, "scripture": "And mine eye shall not spare you, neither will I have pity: but I will recompense your ways upon you, and yours abominations shall be in the midst of you: and all of you shall know that I am the LORD."},{"reference": "Ezekiel 7:5", "verseNumber": 5, "scripture": "Thus says the Lord GOD; An evil, an only evil, behold, has come."},{"reference": "Ezekiel 7:6", "verseNumber": 6, "scripture": "An end has come, the end has come: it watches for you; behold, it has come."},{"reference": "Ezekiel 7:7", "verseNumber": 7, "scripture": "The morning has come unto you, O you that dwell in the land: the time has come, the day of trouble is near, and not the sounding again of the mountains."},{"reference": "Ezekiel 7:8", "verseNumber": 8, "scripture": "Now will I shortly pour out my fury upon you, and accomplish mine anger upon you: and I will judge you according to your ways, and will recompense you for all yours abominations."},{"reference": "Ezekiel 7:9", "verseNumber": 9, "scripture": "And mine eye shall not spare, neither will I have pity: I will recompense you according to your ways and yours abominations that are in the midst of you; and all of you shall know that I am the LORD that strikes."},{"reference": "Ezekiel 7:10", "verseNumber": 10, "scripture": "Behold the day, behold, it has come: the morning is gone forth; the rod has blossomed, pride has budded."},{"reference": "Ezekiel 7:11", "verseNumber": 11, "scripture": "Violence has risen up into a rod of wickedness: none of them shall remain, nor of their multitude, nor of any of their's: neither shall there be wailing for them."},{"reference": "Ezekiel 7:12", "verseNumber": 12, "scripture": "The time has come, the day draws near: let not the buyer rejoice, nor the seller mourn: for wrath is upon all the multitude thereof."},{"reference": "Ezekiel 7:13", "verseNumber": 13, "scripture": "For the seller shall not return to that which is sold, although they were yet alive: for the vision is concerning the whole multitude thereof, which shall not return; neither shall any strengthen himself in the iniquity of his life."},{"reference": "Ezekiel 7:14", "verseNumber": 14, "scripture": "They have blown the trumpet, even to make all ready; but none goes to the battle: for my wrath is upon all the multitude thereof."},{"reference": "Ezekiel 7:15", "verseNumber": 15, "scripture": "The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him."},{"reference": "Ezekiel 7:16", "verseNumber": 16, "scripture": "But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity."},{"reference": "Ezekiel 7:17", "verseNumber": 17, "scripture": "All hands shall be feeble, and all knees shall be weak as water."},{"reference": "Ezekiel 7:18", "verseNumber": 18, "scripture": "They shall also gird themselves with sackcloth, and horror shall cover them; and shame shall be upon all faces, and baldness upon all their heads."},{"reference": "Ezekiel 7:19", "verseNumber": 19, "scripture": "They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD: they shall not satisfy their souls, neither fill their bowels: because it is the stumbling block of their iniquity."},{"reference": "Ezekiel 7:20", "verseNumber": 20, "scripture": "As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations and of their detestable things therein: therefore have I set it far from them."},{"reference": "Ezekiel 7:21", "verseNumber": 21, "scripture": "And I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a spoil; and they shall pollute it."},{"reference": "Ezekiel 7:22", "verseNumber": 22, "scripture": "My face will I turn also from them, and they shall pollute my secret place: for the robbers shall enter into it, and defile it."},{"reference": "Ezekiel 7:23", "verseNumber": 23, "scripture": "Make a chain: for the land is full of bloody crimes, and the city is full of violence."},{"reference": "Ezekiel 7:24", "verseNumber": 24, "scripture": "Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled."},{"reference": "Ezekiel 7:25", "verseNumber": 25, "scripture": "Destruction comes; and they shall seek peace, and there shall be none."},{"reference": "Ezekiel 7:26", "verseNumber": 26, "scripture": "Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients."},{"reference": "Ezekiel 7:27", "verseNumber": 27, "scripture": "The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezekiel",
+     "bookAbbreviation":  "Eze",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "Ezekiel 7:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Ezekiel 7:2",
+             "verseNumber":  2,
+             "scripture":  "Also, you son of man, thus says the Lord GOD unto the land of Israel; An end, the end has come upon the four corners of the land."
+        },
+        {
+            "reference":  "Ezekiel 7:3",
+             "verseNumber":  3,
+             "scripture":  "Now is the end come upon you, and I will send mine anger upon you, and will judge you according to your ways, and will recompense upon you all yours abominations."
+        },
+        {
+            "reference":  "Ezekiel 7:4",
+             "verseNumber":  4,
+             "scripture":  "And mine eye shall not spare you, neither will I have pity: but I will recompense your ways upon you, and yours abominations shall be in the midst of you: and all of you shall know that I am the LORD."
+        },
+        {
+            "reference":  "Ezekiel 7:5",
+             "verseNumber":  5,
+             "scripture":  "Thus says the Lord GOD; An evil, an only evil, behold, has come."
+        },
+        {
+            "reference":  "Ezekiel 7:6",
+             "verseNumber":  6,
+             "scripture":  "An end has come, the end has come: it watches for you; behold, it has come."
+        },
+        {
+            "reference":  "Ezekiel 7:7",
+             "verseNumber":  7,
+             "scripture":  "The morning has come unto you, O you that dwell in the land: the time has come, the day of trouble is near, and not the sounding again of the mountains."
+        },
+        {
+            "reference":  "Ezekiel 7:8",
+             "verseNumber":  8,
+             "scripture":  "Now will I shortly pour out my fury upon you, and accomplish mine anger upon you: and I will judge you according to your ways, and will recompense you for all yours abominations."
+        },
+        {
+            "reference":  "Ezekiel 7:9",
+             "verseNumber":  9,
+             "scripture":  "And mine eye shall not spare, neither will I have pity: I will recompense you according to your ways and yours abominations that are in the midst of you; and all of you shall know that I am the LORD that strikes."
+        },
+        {
+            "reference":  "Ezekiel 7:10",
+             "verseNumber":  10,
+             "scripture":  "Behold the day, behold, it has come: the morning is gone forth; the rod has blossomed, pride has budded."
+        },
+        {
+            "reference":  "Ezekiel 7:11",
+             "verseNumber":  11,
+             "scripture":  "Violence has risen up into a rod of wickedness: none of them shall remain, nor of their multitude, nor of any of their's: neither shall there be wailing for them."
+        },
+        {
+            "reference":  "Ezekiel 7:12",
+             "verseNumber":  12,
+             "scripture":  "The time has come, the day draws near: let not the buyer rejoice, nor the seller mourn: for wrath is upon all the multitude thereof."
+        },
+        {
+            "reference":  "Ezekiel 7:13",
+             "verseNumber":  13,
+             "scripture":  "For the seller shall not return to that which is sold, although they were yet alive: for the vision is concerning the whole multitude thereof, which shall not return; neither shall any strengthen himself in the iniquity of his life."
+        },
+        {
+            "reference":  "Ezekiel 7:14",
+             "verseNumber":  14,
+             "scripture":  "They have blown the trumpet, even to make all ready; but none goes to the battle: for my wrath is upon all the multitude thereof."
+        },
+        {
+            "reference":  "Ezekiel 7:15",
+             "verseNumber":  15,
+             "scripture":  "The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him."
+        },
+        {
+            "reference":  "Ezekiel 7:16",
+             "verseNumber":  16,
+             "scripture":  "But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity."
+        },
+        {
+            "reference":  "Ezekiel 7:17",
+             "verseNumber":  17,
+             "scripture":  "All hands shall be feeble, and all knees shall be weak as water."
+        },
+        {
+            "reference":  "Ezekiel 7:18",
+             "verseNumber":  18,
+             "scripture":  "They shall also gird themselves with sackcloth, and horror shall cover them; and shame shall be upon all faces, and baldness upon all their heads."
+        },
+        {
+            "reference":  "Ezekiel 7:19",
+             "verseNumber":  19,
+             "scripture":  "They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD: they shall not satisfy their souls, neither fill their bowels: because it is the stumbling block of their iniquity."
+        },
+        {
+            "reference":  "Ezekiel 7:20",
+             "verseNumber":  20,
+             "scripture":  "As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations and of their detestable things therein: therefore have I set it far from them."
+        },
+        {
+            "reference":  "Ezekiel 7:21",
+             "verseNumber":  21,
+             "scripture":  "And I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a spoil; and they shall pollute it."
+        },
+        {
+            "reference":  "Ezekiel 7:22",
+             "verseNumber":  22,
+             "scripture":  "My face will I turn also from them, and they shall pollute my secret place: for the robbers shall enter into it, and defile it."
+        },
+        {
+            "reference":  "Ezekiel 7:23",
+             "verseNumber":  23,
+             "scripture":  "Make a chain: for the land is full of bloody crimes, and the city is full of violence."
+        },
+        {
+            "reference":  "Ezekiel 7:24",
+             "verseNumber":  24,
+             "scripture":  "Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled."
+        },
+        {
+            "reference":  "Ezekiel 7:25",
+             "verseNumber":  25,
+             "scripture":  "Destruction comes; and they shall seek peace, and there shall be none."
+        },
+        {
+            "reference":  "Ezekiel 7:26",
+             "verseNumber":  26,
+             "scripture":  "Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients."
+        },
+        {
+            "reference":  "Ezekiel 7:27",
+             "verseNumber":  27,
+             "scripture":  "The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the LORD."
+        }
+    ]
+}

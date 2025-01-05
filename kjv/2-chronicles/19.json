@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Chronicles", "bookAbbreviation": "2 Chr", "chapterNumber": 19, "verses": [{"reference": "2 Chronicles 19:1", "verseNumber": 1, "scripture": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem."},{"reference": "2 Chronicles 19:2", "verseNumber": 2, "scripture": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Should you help the ungodly, and love them that hate the LORD? therefore is wrath upon you from before the LORD."},{"reference": "2 Chronicles 19:3", "verseNumber": 3, "scripture": "Nevertheless there are good things found in you, in that you have taken away the groves out of the land, and have prepared yours heart to seek God."},{"reference": "2 Chronicles 19:4", "verseNumber": 4, "scripture": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers."},{"reference": "2 Chronicles 19:5", "verseNumber": 5, "scripture": "And he set judges in the land throughout all the fenced cities of Judah, city by city,"},{"reference": "2 Chronicles 19:6", "verseNumber": 6, "scripture": "And said to the judges, Take heed what all of you do: for all of you judge not for man, but for the LORD, who is with you in the judgment."},{"reference": "2 Chronicles 19:7", "verseNumber": 7, "scripture": "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."},{"reference": "2 Chronicles 19:8", "verseNumber": 8, "scripture": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."},{"reference": "2 Chronicles 19:9", "verseNumber": 9, "scripture": "And he charged them, saying, Thus shall all of you do in the fear of the LORD, faithfully, and with a perfect heart."},{"reference": "2 Chronicles 19:10", "verseNumber": 10, "scripture": "And what cause whatsoever shall come to you of your brethren that dwell in your cities, between blood and blood, between law and commandment, statutes and judgments, all of you shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and all of you shall not trespass."},{"reference": "2 Chronicles 19:11", "verseNumber": 11, "scripture": "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Chronicles",
+     "bookAbbreviation":  "2 Chr",
+     "chapterNumber":  19,
+     "verses":  [
+        {
+            "reference":  "2 Chronicles 19:1",
+             "verseNumber":  1,
+             "scripture":  "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem."
+        },
+        {
+            "reference":  "2 Chronicles 19:2",
+             "verseNumber":  2,
+             "scripture":  "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Should you help the ungodly, and love them that hate the LORD? therefore is wrath upon you from before the LORD."
+        },
+        {
+            "reference":  "2 Chronicles 19:3",
+             "verseNumber":  3,
+             "scripture":  "Nevertheless there are good things found in you, in that you have taken away the groves out of the land, and have prepared yours heart to seek God."
+        },
+        {
+            "reference":  "2 Chronicles 19:4",
+             "verseNumber":  4,
+             "scripture":  "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers."
+        },
+        {
+            "reference":  "2 Chronicles 19:5",
+             "verseNumber":  5,
+             "scripture":  "And he set judges in the land throughout all the fenced cities of Judah, city by city,"
+        },
+        {
+            "reference":  "2 Chronicles 19:6",
+             "verseNumber":  6,
+             "scripture":  "And said to the judges, Take heed what all of you do: for all of you judge not for man, but for the LORD, who is with you in the judgment."
+        },
+        {
+            "reference":  "2 Chronicles 19:7",
+             "verseNumber":  7,
+             "scripture":  "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."
+        },
+        {
+            "reference":  "2 Chronicles 19:8",
+             "verseNumber":  8,
+             "scripture":  "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."
+        },
+        {
+            "reference":  "2 Chronicles 19:9",
+             "verseNumber":  9,
+             "scripture":  "And he charged them, saying, Thus shall all of you do in the fear of the LORD, faithfully, and with a perfect heart."
+        },
+        {
+            "reference":  "2 Chronicles 19:10",
+             "verseNumber":  10,
+             "scripture":  "And what cause whatsoever shall come to you of your brethren that dwell in your cities, between blood and blood, between law and commandment, statutes and judgments, all of you shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and all of you shall not trespass."
+        },
+        {
+            "reference":  "2 Chronicles 19:11",
+             "verseNumber":  11,
+             "scripture":  "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king's matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good."
+        }
+    ]
+}

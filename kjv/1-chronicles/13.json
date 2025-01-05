@@ -1,1 +1,85 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Chronicles", "bookAbbreviation": "1 Chr", "chapterNumber": 13, "verses": [{"reference": "1 Chronicles 13:1", "verseNumber": 1, "scripture": "And David consulted with the captains of thousands and hundreds, and with every leader."},{"reference": "1 Chronicles 13:2", "verseNumber": 2, "scripture": "And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:"},{"reference": "1 Chronicles 13:3", "verseNumber": 3, "scripture": "And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul."},{"reference": "1 Chronicles 13:4", "verseNumber": 4, "scripture": "And all the congregation said that they would do so: for the thing was right in the eyes of all the people."},{"reference": "1 Chronicles 13:5", "verseNumber": 5, "scripture": "So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim."},{"reference": "1 Chronicles 13:6", "verseNumber": 6, "scripture": "And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwells between the cherubims, whose name is called on it."},{"reference": "1 Chronicles 13:7", "verseNumber": 7, "scripture": "And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drove the cart."},{"reference": "1 Chronicles 13:8", "verseNumber": 8, "scripture": "And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets."},{"reference": "1 Chronicles 13:9", "verseNumber": 9, "scripture": "And when they came unto the threshing floor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled."},{"reference": "1 Chronicles 13:10", "verseNumber": 10, "scripture": "And the anger of the LORD was kindled against Uzza, and he stroke him, because he put his hand to the ark: and there he died before God."},{"reference": "1 Chronicles 13:11", "verseNumber": 11, "scripture": "And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day."},{"reference": "1 Chronicles 13:12", "verseNumber": 12, "scripture": "And David was afraid of God that day, saying, How shall I bring the ark of God home to me?"},{"reference": "1 Chronicles 13:13", "verseNumber": 13, "scripture": "So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obededom the Gittite."},{"reference": "1 Chronicles 13:14", "verseNumber": 14, "scripture": "And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Chronicles",
+     "bookAbbreviation":  "1 Chr",
+     "chapterNumber":  13,
+     "verses":  [
+        {
+            "reference":  "1 Chronicles 13:1",
+             "verseNumber":  1,
+             "scripture":  "And David consulted with the captains of thousands and hundreds, and with every leader."
+        },
+        {
+            "reference":  "1 Chronicles 13:2",
+             "verseNumber":  2,
+             "scripture":  "And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:"
+        },
+        {
+            "reference":  "1 Chronicles 13:3",
+             "verseNumber":  3,
+             "scripture":  "And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul."
+        },
+        {
+            "reference":  "1 Chronicles 13:4",
+             "verseNumber":  4,
+             "scripture":  "And all the congregation said that they would do so: for the thing was right in the eyes of all the people."
+        },
+        {
+            "reference":  "1 Chronicles 13:5",
+             "verseNumber":  5,
+             "scripture":  "So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim."
+        },
+        {
+            "reference":  "1 Chronicles 13:6",
+             "verseNumber":  6,
+             "scripture":  "And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwells between the cherubims, whose name is called on it."
+        },
+        {
+            "reference":  "1 Chronicles 13:7",
+             "verseNumber":  7,
+             "scripture":  "And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drove the cart."
+        },
+        {
+            "reference":  "1 Chronicles 13:8",
+             "verseNumber":  8,
+             "scripture":  "And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets."
+        },
+        {
+            "reference":  "1 Chronicles 13:9",
+             "verseNumber":  9,
+             "scripture":  "And when they came unto the threshing floor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled."
+        },
+        {
+            "reference":  "1 Chronicles 13:10",
+             "verseNumber":  10,
+             "scripture":  "And the anger of the LORD was kindled against Uzza, and he stroke him, because he put his hand to the ark: and there he died before God."
+        },
+        {
+            "reference":  "1 Chronicles 13:11",
+             "verseNumber":  11,
+             "scripture":  "And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day."
+        },
+        {
+            "reference":  "1 Chronicles 13:12",
+             "verseNumber":  12,
+             "scripture":  "And David was afraid of God that day, saying, How shall I bring the ark of God home to me?"
+        },
+        {
+            "reference":  "1 Chronicles 13:13",
+             "verseNumber":  13,
+             "scripture":  "So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obededom the Gittite."
+        },
+        {
+            "reference":  "1 Chronicles 13:14",
+             "verseNumber":  14,
+             "scripture":  "And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had."
+        }
+    ]
+}

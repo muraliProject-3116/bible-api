@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 135, "verses": [{"reference": "Psalm 135:1", "verseNumber": 1, "scripture": "Praise all of you the LORD. Praise all of you the name of the LORD; praise him, O all of you servants of the LORD."},{"reference": "Psalm 135:2", "verseNumber": 2, "scripture": "All of you that stand in the house of the LORD, in the courts of the house of our God."},{"reference": "Psalm 135:3", "verseNumber": 3, "scripture": "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant."},{"reference": "Psalm 135:4", "verseNumber": 4, "scripture": "For the LORD has chosen Jacob unto himself, and Israel for his exclusive treasure."},{"reference": "Psalm 135:5", "verseNumber": 5, "scripture": "For I know that the LORD is great, and that our Lord is above all gods."},{"reference": "Psalm 135:6", "verseNumber": 6, "scripture": "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places."},{"reference": "Psalm 135:7", "verseNumber": 7, "scripture": "He causes the vapours to ascend from the ends of the earth; he makes lightnings for the rain; he brings the wind out of his treasuries."},{"reference": "Psalm 135:8", "verseNumber": 8, "scripture": "Who stroke the firstborn of Egypt, both of man and beast."},{"reference": "Psalm 135:9", "verseNumber": 9, "scripture": "Who sent tokens and wonders into the midst of you, O Egypt, upon Pharaoh, and upon all his servants."},{"reference": "Psalm 135:10", "verseNumber": 10, "scripture": "Who stroke great nations, and slew mighty kings;"},{"reference": "Psalm 135:11", "verseNumber": 11, "scripture": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:"},{"reference": "Psalm 135:12", "verseNumber": 12, "scripture": "And gave their land for an heritage, an heritage unto Israel his people."},{"reference": "Psalm 135:13", "verseNumber": 13, "scripture": "Your name, O LORD, endures for ever; and your memorial, O LORD, throughout all generations."},{"reference": "Psalm 135:14", "verseNumber": 14, "scripture": "For the LORD will judge his people, and he will repent himself concerning his servants."},{"reference": "Psalm 135:15", "verseNumber": 15, "scripture": "The idols of the heathen are silver and gold, the work of men's hands."},{"reference": "Psalm 135:16", "verseNumber": 16, "scripture": "They have mouths, but they speak not; eyes have they, but they see not;"},{"reference": "Psalm 135:17", "verseNumber": 17, "scripture": "They have ears, but they hear not; neither is there any breath in their mouths."},{"reference": "Psalm 135:18", "verseNumber": 18, "scripture": "They that make them are like unto them: so is every one that trusts in them."},{"reference": "Psalm 135:19", "verseNumber": 19, "scripture": "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:"},{"reference": "Psalm 135:20", "verseNumber": 20, "scripture": "Bless the LORD, O house of Levi: all of you that fear the LORD, bless the LORD."},{"reference": "Psalm 135:21", "verseNumber": 21, "scripture": "Blessed be the LORD out of Zion, which dwells at Jerusalem. Praise all of you the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  135,
+     "verses":  [
+        {
+            "reference":  "Psalm 135:1",
+             "verseNumber":  1,
+             "scripture":  "Praise all of you the LORD. Praise all of you the name of the LORD; praise him, O all of you servants of the LORD."
+        },
+        {
+            "reference":  "Psalm 135:2",
+             "verseNumber":  2,
+             "scripture":  "All of you that stand in the house of the LORD, in the courts of the house of our God."
+        },
+        {
+            "reference":  "Psalm 135:3",
+             "verseNumber":  3,
+             "scripture":  "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant."
+        },
+        {
+            "reference":  "Psalm 135:4",
+             "verseNumber":  4,
+             "scripture":  "For the LORD has chosen Jacob unto himself, and Israel for his exclusive treasure."
+        },
+        {
+            "reference":  "Psalm 135:5",
+             "verseNumber":  5,
+             "scripture":  "For I know that the LORD is great, and that our Lord is above all gods."
+        },
+        {
+            "reference":  "Psalm 135:6",
+             "verseNumber":  6,
+             "scripture":  "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places."
+        },
+        {
+            "reference":  "Psalm 135:7",
+             "verseNumber":  7,
+             "scripture":  "He causes the vapours to ascend from the ends of the earth; he makes lightnings for the rain; he brings the wind out of his treasuries."
+        },
+        {
+            "reference":  "Psalm 135:8",
+             "verseNumber":  8,
+             "scripture":  "Who stroke the firstborn of Egypt, both of man and beast."
+        },
+        {
+            "reference":  "Psalm 135:9",
+             "verseNumber":  9,
+             "scripture":  "Who sent tokens and wonders into the midst of you, O Egypt, upon Pharaoh, and upon all his servants."
+        },
+        {
+            "reference":  "Psalm 135:10",
+             "verseNumber":  10,
+             "scripture":  "Who stroke great nations, and slew mighty kings;"
+        },
+        {
+            "reference":  "Psalm 135:11",
+             "verseNumber":  11,
+             "scripture":  "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:"
+        },
+        {
+            "reference":  "Psalm 135:12",
+             "verseNumber":  12,
+             "scripture":  "And gave their land for an heritage, an heritage unto Israel his people."
+        },
+        {
+            "reference":  "Psalm 135:13",
+             "verseNumber":  13,
+             "scripture":  "Your name, O LORD, endures for ever; and your memorial, O LORD, throughout all generations."
+        },
+        {
+            "reference":  "Psalm 135:14",
+             "verseNumber":  14,
+             "scripture":  "For the LORD will judge his people, and he will repent himself concerning his servants."
+        },
+        {
+            "reference":  "Psalm 135:15",
+             "verseNumber":  15,
+             "scripture":  "The idols of the heathen are silver and gold, the work of men's hands."
+        },
+        {
+            "reference":  "Psalm 135:16",
+             "verseNumber":  16,
+             "scripture":  "They have mouths, but they speak not; eyes have they, but they see not;"
+        },
+        {
+            "reference":  "Psalm 135:17",
+             "verseNumber":  17,
+             "scripture":  "They have ears, but they hear not; neither is there any breath in their mouths."
+        },
+        {
+            "reference":  "Psalm 135:18",
+             "verseNumber":  18,
+             "scripture":  "They that make them are like unto them: so is every one that trusts in them."
+        },
+        {
+            "reference":  "Psalm 135:19",
+             "verseNumber":  19,
+             "scripture":  "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:"
+        },
+        {
+            "reference":  "Psalm 135:20",
+             "verseNumber":  20,
+             "scripture":  "Bless the LORD, O house of Levi: all of you that fear the LORD, bless the LORD."
+        },
+        {
+            "reference":  "Psalm 135:21",
+             "verseNumber":  21,
+             "scripture":  "Blessed be the LORD out of Zion, which dwells at Jerusalem. Praise all of you the LORD."
+        }
+    ]
+}

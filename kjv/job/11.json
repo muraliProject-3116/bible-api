@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 11, "verses": [{"reference": "Job 11:1", "verseNumber": 1, "scripture": "Then answered Zophar the Naamathite, and said,"},{"reference": "Job 11:2", "verseNumber": 2, "scripture": "Should not the multitude of words be answered? and should a man full of talk be justified?"},{"reference": "Job 11:3", "verseNumber": 3, "scripture": "Should your lies make men hold their peace? and when you mock, shall no man make you ashamed?"},{"reference": "Job 11:4", "verseNumber": 4, "scripture": "For you have said, My doctrine is pure, and I am clean in yours eyes."},{"reference": "Job 11:5", "verseNumber": 5, "scripture": "But oh that God would speak, and open his lips against you;"},{"reference": "Job 11:6", "verseNumber": 6, "scripture": "And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than yours iniquity deserves."},{"reference": "Job 11:7", "verseNumber": 7, "scripture": "Can you by searching find out God? can you find out the Almighty unto perfection?"},{"reference": "Job 11:8", "verseNumber": 8, "scripture": "It is as high as heaven; what can you do? deeper than hell; what can you know?"},{"reference": "Job 11:9", "verseNumber": 9, "scripture": "The measure thereof is longer than the earth, and broader than the sea."},{"reference": "Job 11:10", "verseNumber": 10, "scripture": "If he cut off, and shut up, or gather together, then who can hinder him?"},{"reference": "Job 11:11", "verseNumber": 11, "scripture": "For he knows vain men: he sees wickedness also; will he not then consider it?"},{"reference": "Job 11:12", "verseNumber": 12, "scripture": "For vain men would be wise, though man be born like a wild ass's colt."},{"reference": "Job 11:13", "verseNumber": 13, "scripture": "If you prepare yours heart, and stretch out yours hands toward him;"},{"reference": "Job 11:14", "verseNumber": 14, "scripture": "If iniquity be in yours hand, put it far away, and let not wickedness dwell in your tabernacles."},{"reference": "Job 11:15", "verseNumber": 15, "scripture": "For then shall you lift up your face without spot; yea, you shall be steadfast, and shall not fear:"},{"reference": "Job 11:16", "verseNumber": 16, "scripture": "Because you shall forget your misery, and remember it as waters that pass away:"},{"reference": "Job 11:17", "verseNumber": 17, "scripture": "And yours age shall be clearer than the noonday: you shall shine forth, you shall be as the morning."},{"reference": "Job 11:18", "verseNumber": 18, "scripture": "And you shall be secure, because there is hope; yea, you shall dig about you, and you shall take your rest in safety."},{"reference": "Job 11:19", "verseNumber": 19, "scripture": "Also you shall lie down, and none shall make you afraid; yea, many shall make suit unto you."},{"reference": "Job 11:20", "verseNumber": 20, "scripture": "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the spirit."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  11,
+     "verses":  [
+        {
+            "reference":  "Job 11:1",
+             "verseNumber":  1,
+             "scripture":  "Then answered Zophar the Naamathite, and said,"
+        },
+        {
+            "reference":  "Job 11:2",
+             "verseNumber":  2,
+             "scripture":  "Should not the multitude of words be answered? and should a man full of talk be justified?"
+        },
+        {
+            "reference":  "Job 11:3",
+             "verseNumber":  3,
+             "scripture":  "Should your lies make men hold their peace? and when you mock, shall no man make you ashamed?"
+        },
+        {
+            "reference":  "Job 11:4",
+             "verseNumber":  4,
+             "scripture":  "For you have said, My doctrine is pure, and I am clean in yours eyes."
+        },
+        {
+            "reference":  "Job 11:5",
+             "verseNumber":  5,
+             "scripture":  "But oh that God would speak, and open his lips against you;"
+        },
+        {
+            "reference":  "Job 11:6",
+             "verseNumber":  6,
+             "scripture":  "And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than yours iniquity deserves."
+        },
+        {
+            "reference":  "Job 11:7",
+             "verseNumber":  7,
+             "scripture":  "Can you by searching find out God? can you find out the Almighty unto perfection?"
+        },
+        {
+            "reference":  "Job 11:8",
+             "verseNumber":  8,
+             "scripture":  "It is as high as heaven; what can you do? deeper than hell; what can you know?"
+        },
+        {
+            "reference":  "Job 11:9",
+             "verseNumber":  9,
+             "scripture":  "The measure thereof is longer than the earth, and broader than the sea."
+        },
+        {
+            "reference":  "Job 11:10",
+             "verseNumber":  10,
+             "scripture":  "If he cut off, and shut up, or gather together, then who can hinder him?"
+        },
+        {
+            "reference":  "Job 11:11",
+             "verseNumber":  11,
+             "scripture":  "For he knows vain men: he sees wickedness also; will he not then consider it?"
+        },
+        {
+            "reference":  "Job 11:12",
+             "verseNumber":  12,
+             "scripture":  "For vain men would be wise, though man be born like a wild ass's colt."
+        },
+        {
+            "reference":  "Job 11:13",
+             "verseNumber":  13,
+             "scripture":  "If you prepare yours heart, and stretch out yours hands toward him;"
+        },
+        {
+            "reference":  "Job 11:14",
+             "verseNumber":  14,
+             "scripture":  "If iniquity be in yours hand, put it far away, and let not wickedness dwell in your tabernacles."
+        },
+        {
+            "reference":  "Job 11:15",
+             "verseNumber":  15,
+             "scripture":  "For then shall you lift up your face without spot; yea, you shall be steadfast, and shall not fear:"
+        },
+        {
+            "reference":  "Job 11:16",
+             "verseNumber":  16,
+             "scripture":  "Because you shall forget your misery, and remember it as waters that pass away:"
+        },
+        {
+            "reference":  "Job 11:17",
+             "verseNumber":  17,
+             "scripture":  "And yours age shall be clearer than the noonday: you shall shine forth, you shall be as the morning."
+        },
+        {
+            "reference":  "Job 11:18",
+             "verseNumber":  18,
+             "scripture":  "And you shall be secure, because there is hope; yea, you shall dig about you, and you shall take your rest in safety."
+        },
+        {
+            "reference":  "Job 11:19",
+             "verseNumber":  19,
+             "scripture":  "Also you shall lie down, and none shall make you afraid; yea, many shall make suit unto you."
+        },
+        {
+            "reference":  "Job 11:20",
+             "verseNumber":  20,
+             "scripture":  "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the spirit."
+        }
+    ]
+}

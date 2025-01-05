@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 141, "verses": [{"reference": "Psalm 141:1", "verseNumber": 1, "scripture": "Lord, I cry unto you: make haste unto me; give ear unto my voice, when I cry unto you."},{"reference": "Psalm 141:2", "verseNumber": 2, "scripture": "Let my prayer be set forth before you as incense; and the lifting up of my hands as the evening sacrifice."},{"reference": "Psalm 141:3", "verseNumber": 3, "scripture": "Set a watch, O LORD, before my mouth; keep the door of my lips."},{"reference": "Psalm 141:4", "verseNumber": 4, "scripture": "Incline not my heart to any evil thing, to practice wicked works with men that work iniquity: and let me not eat of their dainties."},{"reference": "Psalm 141:5", "verseNumber": 5, "scripture": "Let the righteous strike me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities."},{"reference": "Psalm 141:6", "verseNumber": 6, "scripture": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."},{"reference": "Psalm 141:7", "verseNumber": 7, "scripture": "Our bones are scattered at the grave's mouth, as when one cuts and cleaves wood upon the earth."},{"reference": "Psalm 141:8", "verseNumber": 8, "scripture": "But mine eyes are unto you, O GOD the Lord: in you is my trust; leave not my soul destitute."},{"reference": "Psalm 141:9", "verseNumber": 9, "scripture": "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity."},{"reference": "Psalm 141:10", "verseNumber": 10, "scripture": "Let the wicked fall into their own nets, whilst that I likewise escape."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  141,
+     "verses":  [
+        {
+            "reference":  "Psalm 141:1",
+             "verseNumber":  1,
+             "scripture":  "Lord, I cry unto you: make haste unto me; give ear unto my voice, when I cry unto you."
+        },
+        {
+            "reference":  "Psalm 141:2",
+             "verseNumber":  2,
+             "scripture":  "Let my prayer be set forth before you as incense; and the lifting up of my hands as the evening sacrifice."
+        },
+        {
+            "reference":  "Psalm 141:3",
+             "verseNumber":  3,
+             "scripture":  "Set a watch, O LORD, before my mouth; keep the door of my lips."
+        },
+        {
+            "reference":  "Psalm 141:4",
+             "verseNumber":  4,
+             "scripture":  "Incline not my heart to any evil thing, to practice wicked works with men that work iniquity: and let me not eat of their dainties."
+        },
+        {
+            "reference":  "Psalm 141:5",
+             "verseNumber":  5,
+             "scripture":  "Let the righteous strike me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities."
+        },
+        {
+            "reference":  "Psalm 141:6",
+             "verseNumber":  6,
+             "scripture":  "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
+        },
+        {
+            "reference":  "Psalm 141:7",
+             "verseNumber":  7,
+             "scripture":  "Our bones are scattered at the grave's mouth, as when one cuts and cleaves wood upon the earth."
+        },
+        {
+            "reference":  "Psalm 141:8",
+             "verseNumber":  8,
+             "scripture":  "But mine eyes are unto you, O GOD the Lord: in you is my trust; leave not my soul destitute."
+        },
+        {
+            "reference":  "Psalm 141:9",
+             "verseNumber":  9,
+             "scripture":  "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity."
+        },
+        {
+            "reference":  "Psalm 141:10",
+             "verseNumber":  10,
+             "scripture":  "Let the wicked fall into their own nets, whilst that I likewise escape."
+        }
+    ]
+}

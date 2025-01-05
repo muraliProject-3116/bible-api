@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 40, "verses": [{"reference": "Genesis 40:1", "verseNumber": 1, "scripture": "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt."},{"reference": "Genesis 40:2", "verseNumber": 2, "scripture": "And Pharaoh was angry against two of his officers, against the chief of the butlers, and against the chief of the bakers."},{"reference": "Genesis 40:3", "verseNumber": 3, "scripture": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."},{"reference": "Genesis 40:4", "verseNumber": 4, "scripture": "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward."},{"reference": "Genesis 40:5", "verseNumber": 5, "scripture": "And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison."},{"reference": "Genesis 40:6", "verseNumber": 6, "scripture": "And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad."},{"reference": "Genesis 40:7", "verseNumber": 7, "scripture": "And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look all of you so sadly to day?"},{"reference": "Genesis 40:8", "verseNumber": 8, "scripture": "And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you."},{"reference": "Genesis 40:9", "verseNumber": 9, "scripture": "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;"},{"reference": "Genesis 40:10", "verseNumber": 10, "scripture": "And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:"},{"reference": "Genesis 40:11", "verseNumber": 11, "scripture": "And Pharaoh's cup was in my hand: and I took the grapes, and pressed them into Pharaoh's cup, and I gave the cup into Pharaoh's hand."},{"reference": "Genesis 40:12", "verseNumber": 12, "scripture": "And Joseph said unto him, This is the interpretation of it: The three branches are three days:"},{"reference": "Genesis 40:13", "verseNumber": 13, "scripture": "Yet within three days shall Pharaoh lift up yours head, and restore you unto your place: and you shall deliver Pharaoh's cup into his hand, after the former manner when you were his butler."},{"reference": "Genesis 40:14", "verseNumber": 14, "scripture": "But think on me when it shall be well with you, and show kindness, I pray you, unto me, and make mention of me unto Pharaoh, and bring me out of this house:"},{"reference": "Genesis 40:15", "verseNumber": 15, "scripture": "For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon."},{"reference": "Genesis 40:16", "verseNumber": 16, "scripture": "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:"},{"reference": "Genesis 40:17", "verseNumber": 17, "scripture": "And in the uppermost basket there was of all manner of baked food for Pharaoh; and the birds did eat them out of the basket upon my head."},{"reference": "Genesis 40:18", "verseNumber": 18, "scripture": "And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:"},{"reference": "Genesis 40:19", "verseNumber": 19, "scripture": "Yet within three days shall Pharaoh lift up your head from off you, and shall hang you on a tree; and the birds shall eat your flesh from off you."},{"reference": "Genesis 40:20", "verseNumber": 20, "scripture": "And it came to pass the third day, which was Pharaoh's birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants."},{"reference": "Genesis 40:21", "verseNumber": 21, "scripture": "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh's hand:"},{"reference": "Genesis 40:22", "verseNumber": 22, "scripture": "But he hanged the chief baker: as Joseph had interpreted to them."},{"reference": "Genesis 40:23", "verseNumber": 23, "scripture": "Yet did not the chief butler remember Joseph, but forgotten about him."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  40,
+     "verses":  [
+        {
+            "reference":  "Genesis 40:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt."
+        },
+        {
+            "reference":  "Genesis 40:2",
+             "verseNumber":  2,
+             "scripture":  "And Pharaoh was angry against two of his officers, against the chief of the butlers, and against the chief of the bakers."
+        },
+        {
+            "reference":  "Genesis 40:3",
+             "verseNumber":  3,
+             "scripture":  "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."
+        },
+        {
+            "reference":  "Genesis 40:4",
+             "verseNumber":  4,
+             "scripture":  "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward."
+        },
+        {
+            "reference":  "Genesis 40:5",
+             "verseNumber":  5,
+             "scripture":  "And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison."
+        },
+        {
+            "reference":  "Genesis 40:6",
+             "verseNumber":  6,
+             "scripture":  "And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad."
+        },
+        {
+            "reference":  "Genesis 40:7",
+             "verseNumber":  7,
+             "scripture":  "And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look all of you so sadly to day?"
+        },
+        {
+            "reference":  "Genesis 40:8",
+             "verseNumber":  8,
+             "scripture":  "And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you."
+        },
+        {
+            "reference":  "Genesis 40:9",
+             "verseNumber":  9,
+             "scripture":  "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;"
+        },
+        {
+            "reference":  "Genesis 40:10",
+             "verseNumber":  10,
+             "scripture":  "And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:"
+        },
+        {
+            "reference":  "Genesis 40:11",
+             "verseNumber":  11,
+             "scripture":  "And Pharaoh's cup was in my hand: and I took the grapes, and pressed them into Pharaoh's cup, and I gave the cup into Pharaoh's hand."
+        },
+        {
+            "reference":  "Genesis 40:12",
+             "verseNumber":  12,
+             "scripture":  "And Joseph said unto him, This is the interpretation of it: The three branches are three days:"
+        },
+        {
+            "reference":  "Genesis 40:13",
+             "verseNumber":  13,
+             "scripture":  "Yet within three days shall Pharaoh lift up yours head, and restore you unto your place: and you shall deliver Pharaoh's cup into his hand, after the former manner when you were his butler."
+        },
+        {
+            "reference":  "Genesis 40:14",
+             "verseNumber":  14,
+             "scripture":  "But think on me when it shall be well with you, and show kindness, I pray you, unto me, and make mention of me unto Pharaoh, and bring me out of this house:"
+        },
+        {
+            "reference":  "Genesis 40:15",
+             "verseNumber":  15,
+             "scripture":  "For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon."
+        },
+        {
+            "reference":  "Genesis 40:16",
+             "verseNumber":  16,
+             "scripture":  "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:"
+        },
+        {
+            "reference":  "Genesis 40:17",
+             "verseNumber":  17,
+             "scripture":  "And in the uppermost basket there was of all manner of baked food for Pharaoh; and the birds did eat them out of the basket upon my head."
+        },
+        {
+            "reference":  "Genesis 40:18",
+             "verseNumber":  18,
+             "scripture":  "And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:"
+        },
+        {
+            "reference":  "Genesis 40:19",
+             "verseNumber":  19,
+             "scripture":  "Yet within three days shall Pharaoh lift up your head from off you, and shall hang you on a tree; and the birds shall eat your flesh from off you."
+        },
+        {
+            "reference":  "Genesis 40:20",
+             "verseNumber":  20,
+             "scripture":  "And it came to pass the third day, which was Pharaoh's birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants."
+        },
+        {
+            "reference":  "Genesis 40:21",
+             "verseNumber":  21,
+             "scripture":  "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh's hand:"
+        },
+        {
+            "reference":  "Genesis 40:22",
+             "verseNumber":  22,
+             "scripture":  "But he hanged the chief baker: as Joseph had interpreted to them."
+        },
+        {
+            "reference":  "Genesis 40:23",
+             "verseNumber":  23,
+             "scripture":  "Yet did not the chief butler remember Joseph, but forgotten about him."
+        }
+    ]
+}

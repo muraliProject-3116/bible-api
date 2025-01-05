@@ -1,1 +1,155 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 17, "verses": [{"reference": "Proverbs 17:1", "verseNumber": 1, "scripture": "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife."},{"reference": "Proverbs 17:2", "verseNumber": 2, "scripture": "A wise servant shall have rule over a son that causes shame, and shall have part of the inheritance among the brethren."},{"reference": "Proverbs 17:3", "verseNumber": 3, "scripture": "The fining pot is for silver, and the furnace for gold: but the LORD tries the hearts."},{"reference": "Proverbs 17:4", "verseNumber": 4, "scripture": "A wicked doer gives heed to false lips; and a liar gives ear to a naughty tongue."},{"reference": "Proverbs 17:5", "verseNumber": 5, "scripture": "Whoso mocks the poor reproaches his Maker: and he that is glad at calamities shall not be unpunished."},{"reference": "Proverbs 17:6", "verseNumber": 6, "scripture": "Children's children are the crown of old men; and the glory of children are their fathers."},{"reference": "Proverbs 17:7", "verseNumber": 7, "scripture": "Excellent speech becomes not a fool: much less do lying lips a prince."},{"reference": "Proverbs 17:8", "verseNumber": 8, "scripture": "A gift is as a precious stone in the eyes of him that has it: anywhere it turns, it prospers."},{"reference": "Proverbs 17:9", "verseNumber": 9, "scripture": "He that covers a transgression seeks love; but he that repeats a matter separates very friends."},{"reference": "Proverbs 17:10", "verseNumber": 10, "scripture": "A reproof enters more into a wise man than an hundred stripes into a fool."},{"reference": "Proverbs 17:11", "verseNumber": 11, "scripture": "An evil man seeks only rebellion: therefore a cruel messenger shall be sent against him."},{"reference": "Proverbs 17:12", "verseNumber": 12, "scripture": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly."},{"reference": "Proverbs 17:13", "verseNumber": 13, "scripture": "Whoso rewards evil for good, evil shall not depart from his house."},{"reference": "Proverbs 17:14", "verseNumber": 14, "scripture": "The beginning of strife is as when one lets out water: therefore leave off contention, before it be meddled with."},{"reference": "Proverbs 17:15", "verseNumber": 15, "scripture": "He that justifies the wicked, and he that condemns the just, even they both are abomination to the LORD."},{"reference": "Proverbs 17:16", "verseNumber": 16, "scripture": "Wherefore is there a price in the hand of a fool to get wisdom, seeing he has no heart to it?"},{"reference": "Proverbs 17:17", "verseNumber": 17, "scripture": "A friend loves at all times, and a brother is born for adversity."},{"reference": "Proverbs 17:18", "verseNumber": 18, "scripture": "A man void of understanding strikes hands, and becomes guarantor in the presence of his friend."},{"reference": "Proverbs 17:19", "verseNumber": 19, "scripture": "He loves transgression that loves strife: and he that exalts his gate seeks destruction."},{"reference": "Proverbs 17:20", "verseNumber": 20, "scripture": "He that has a perverse heart finds no good: and he that has a perverse tongue falls into mischief."},{"reference": "Proverbs 17:21", "verseNumber": 21, "scripture": "He that bring forths a fool does it to his sorrow: and the father of a fool has no joy."},{"reference": "Proverbs 17:22", "verseNumber": 22, "scripture": "A merry heart does good like a medicine: but a broken spirit dries the bones."},{"reference": "Proverbs 17:23", "verseNumber": 23, "scripture": "A wicked man takes a gift out of the bosom to pervert the ways of judgment."},{"reference": "Proverbs 17:24", "verseNumber": 24, "scripture": "Wisdom is before him that has understanding; but the eyes of a fool are in the ends of the earth."},{"reference": "Proverbs 17:25", "verseNumber": 25, "scripture": "A foolish son is a grief to his father, and bitterness to her that bare him."},{"reference": "Proverbs 17:26", "verseNumber": 26, "scripture": "Also to punish the just is not good, nor to strike princes for equity."},{"reference": "Proverbs 17:27", "verseNumber": 27, "scripture": "He that has knowledge spares his words: and a man of understanding is of an excellent spirit."},{"reference": "Proverbs 17:28", "verseNumber": 28, "scripture": "Even a fool, when he holds his peace, is counted wise: and he that shuts his lips is esteemed a man of understanding."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Proverbs 17:1",
+             "verseNumber":  1,
+             "scripture":  "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife."
+        },
+        {
+            "reference":  "Proverbs 17:2",
+             "verseNumber":  2,
+             "scripture":  "A wise servant shall have rule over a son that causes shame, and shall have part of the inheritance among the brethren."
+        },
+        {
+            "reference":  "Proverbs 17:3",
+             "verseNumber":  3,
+             "scripture":  "The fining pot is for silver, and the furnace for gold: but the LORD tries the hearts."
+        },
+        {
+            "reference":  "Proverbs 17:4",
+             "verseNumber":  4,
+             "scripture":  "A wicked doer gives heed to false lips; and a liar gives ear to a naughty tongue."
+        },
+        {
+            "reference":  "Proverbs 17:5",
+             "verseNumber":  5,
+             "scripture":  "Whoso mocks the poor reproaches his Maker: and he that is glad at calamities shall not be unpunished."
+        },
+        {
+            "reference":  "Proverbs 17:6",
+             "verseNumber":  6,
+             "scripture":  "Children's children are the crown of old men; and the glory of children are their fathers."
+        },
+        {
+            "reference":  "Proverbs 17:7",
+             "verseNumber":  7,
+             "scripture":  "Excellent speech becomes not a fool: much less do lying lips a prince."
+        },
+        {
+            "reference":  "Proverbs 17:8",
+             "verseNumber":  8,
+             "scripture":  "A gift is as a precious stone in the eyes of him that has it: anywhere it turns, it prospers."
+        },
+        {
+            "reference":  "Proverbs 17:9",
+             "verseNumber":  9,
+             "scripture":  "He that covers a transgression seeks love; but he that repeats a matter separates very friends."
+        },
+        {
+            "reference":  "Proverbs 17:10",
+             "verseNumber":  10,
+             "scripture":  "A reproof enters more into a wise man than an hundred stripes into a fool."
+        },
+        {
+            "reference":  "Proverbs 17:11",
+             "verseNumber":  11,
+             "scripture":  "An evil man seeks only rebellion: therefore a cruel messenger shall be sent against him."
+        },
+        {
+            "reference":  "Proverbs 17:12",
+             "verseNumber":  12,
+             "scripture":  "Let a bear robbed of her whelps meet a man, rather than a fool in his folly."
+        },
+        {
+            "reference":  "Proverbs 17:13",
+             "verseNumber":  13,
+             "scripture":  "Whoso rewards evil for good, evil shall not depart from his house."
+        },
+        {
+            "reference":  "Proverbs 17:14",
+             "verseNumber":  14,
+             "scripture":  "The beginning of strife is as when one lets out water: therefore leave off contention, before it be meddled with."
+        },
+        {
+            "reference":  "Proverbs 17:15",
+             "verseNumber":  15,
+             "scripture":  "He that justifies the wicked, and he that condemns the just, even they both are abomination to the LORD."
+        },
+        {
+            "reference":  "Proverbs 17:16",
+             "verseNumber":  16,
+             "scripture":  "Wherefore is there a price in the hand of a fool to get wisdom, seeing he has no heart to it?"
+        },
+        {
+            "reference":  "Proverbs 17:17",
+             "verseNumber":  17,
+             "scripture":  "A friend loves at all times, and a brother is born for adversity."
+        },
+        {
+            "reference":  "Proverbs 17:18",
+             "verseNumber":  18,
+             "scripture":  "A man void of understanding strikes hands, and becomes guarantor in the presence of his friend."
+        },
+        {
+            "reference":  "Proverbs 17:19",
+             "verseNumber":  19,
+             "scripture":  "He loves transgression that loves strife: and he that exalts his gate seeks destruction."
+        },
+        {
+            "reference":  "Proverbs 17:20",
+             "verseNumber":  20,
+             "scripture":  "He that has a perverse heart finds no good: and he that has a perverse tongue falls into mischief."
+        },
+        {
+            "reference":  "Proverbs 17:21",
+             "verseNumber":  21,
+             "scripture":  "He that bring forths a fool does it to his sorrow: and the father of a fool has no joy."
+        },
+        {
+            "reference":  "Proverbs 17:22",
+             "verseNumber":  22,
+             "scripture":  "A merry heart does good like a medicine: but a broken spirit dries the bones."
+        },
+        {
+            "reference":  "Proverbs 17:23",
+             "verseNumber":  23,
+             "scripture":  "A wicked man takes a gift out of the bosom to pervert the ways of judgment."
+        },
+        {
+            "reference":  "Proverbs 17:24",
+             "verseNumber":  24,
+             "scripture":  "Wisdom is before him that has understanding; but the eyes of a fool are in the ends of the earth."
+        },
+        {
+            "reference":  "Proverbs 17:25",
+             "verseNumber":  25,
+             "scripture":  "A foolish son is a grief to his father, and bitterness to her that bare him."
+        },
+        {
+            "reference":  "Proverbs 17:26",
+             "verseNumber":  26,
+             "scripture":  "Also to punish the just is not good, nor to strike princes for equity."
+        },
+        {
+            "reference":  "Proverbs 17:27",
+             "verseNumber":  27,
+             "scripture":  "He that has knowledge spares his words: and a man of understanding is of an excellent spirit."
+        },
+        {
+            "reference":  "Proverbs 17:28",
+             "verseNumber":  28,
+             "scripture":  "Even a fool, when he holds his peace, is counted wise: and he that shuts his lips is esteemed a man of understanding."
+        }
+    ]
+}

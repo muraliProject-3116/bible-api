@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Exodus", "bookAbbreviation": "Exo", "chapterNumber": 17, "verses": [{"reference": "Exodus 17:1", "verseNumber": 1, "scripture": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink."},{"reference": "Exodus 17:2", "verseNumber": 2, "scripture": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide all of you with me? wherefore do all of you tempt the LORD?"},{"reference": "Exodus 17:3", "verseNumber": 3, "scripture": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that you have brought us up out of Egypt, to kill us and our children and our cattle with thirst?"},{"reference": "Exodus 17:4", "verseNumber": 4, "scripture": "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me."},{"reference": "Exodus 17:5", "verseNumber": 5, "scripture": "And the LORD said unto Moses, Go on before the people, and take with you of the elders of Israel; and your rod, wherewith you smote the river, take in yours hand, and go."},{"reference": "Exodus 17:6", "verseNumber": 6, "scripture": "Behold, I will stand before you there upon the rock in Horeb; and you shall strike the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel."},{"reference": "Exodus 17:7", "verseNumber": 7, "scripture": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?"},{"reference": "Exodus 17:8", "verseNumber": 8, "scripture": "Then came Amalek, and fought with Israel in Rephidim."},{"reference": "Exodus 17:9", "verseNumber": 9, "scripture": "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: tomorrow I will stand on the top of the hill with the rod of God in mine hand."},{"reference": "Exodus 17:10", "verseNumber": 10, "scripture": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill."},{"reference": "Exodus 17:11", "verseNumber": 11, "scripture": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed."},{"reference": "Exodus 17:12", "verseNumber": 12, "scripture": "But Moses hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun."},{"reference": "Exodus 17:13", "verseNumber": 13, "scripture": "And Joshua humiliated Amalek and his people with the edge of the sword."},{"reference": "Exodus 17:14", "verseNumber": 14, "scripture": "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven."},{"reference": "Exodus 17:15", "verseNumber": 15, "scripture": "And Moses built an altar, and called the name of it Jehovahnissi:"},{"reference": "Exodus 17:16", "verseNumber": 16, "scripture": "For he said, Because the LORD has sworn that the LORD will have war with Amalek from generation to generation."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Exodus",
+     "bookAbbreviation":  "Exo",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Exodus 17:1",
+             "verseNumber":  1,
+             "scripture":  "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink."
+        },
+        {
+            "reference":  "Exodus 17:2",
+             "verseNumber":  2,
+             "scripture":  "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide all of you with me? wherefore do all of you tempt the LORD?"
+        },
+        {
+            "reference":  "Exodus 17:3",
+             "verseNumber":  3,
+             "scripture":  "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that you have brought us up out of Egypt, to kill us and our children and our cattle with thirst?"
+        },
+        {
+            "reference":  "Exodus 17:4",
+             "verseNumber":  4,
+             "scripture":  "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me."
+        },
+        {
+            "reference":  "Exodus 17:5",
+             "verseNumber":  5,
+             "scripture":  "And the LORD said unto Moses, Go on before the people, and take with you of the elders of Israel; and your rod, wherewith you smote the river, take in yours hand, and go."
+        },
+        {
+            "reference":  "Exodus 17:6",
+             "verseNumber":  6,
+             "scripture":  "Behold, I will stand before you there upon the rock in Horeb; and you shall strike the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel."
+        },
+        {
+            "reference":  "Exodus 17:7",
+             "verseNumber":  7,
+             "scripture":  "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?"
+        },
+        {
+            "reference":  "Exodus 17:8",
+             "verseNumber":  8,
+             "scripture":  "Then came Amalek, and fought with Israel in Rephidim."
+        },
+        {
+            "reference":  "Exodus 17:9",
+             "verseNumber":  9,
+             "scripture":  "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: tomorrow I will stand on the top of the hill with the rod of God in mine hand."
+        },
+        {
+            "reference":  "Exodus 17:10",
+             "verseNumber":  10,
+             "scripture":  "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill."
+        },
+        {
+            "reference":  "Exodus 17:11",
+             "verseNumber":  11,
+             "scripture":  "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed."
+        },
+        {
+            "reference":  "Exodus 17:12",
+             "verseNumber":  12,
+             "scripture":  "But Moses hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun."
+        },
+        {
+            "reference":  "Exodus 17:13",
+             "verseNumber":  13,
+             "scripture":  "And Joshua humiliated Amalek and his people with the edge of the sword."
+        },
+        {
+            "reference":  "Exodus 17:14",
+             "verseNumber":  14,
+             "scripture":  "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven."
+        },
+        {
+            "reference":  "Exodus 17:15",
+             "verseNumber":  15,
+             "scripture":  "And Moses built an altar, and called the name of it Jehovahnissi:"
+        },
+        {
+            "reference":  "Exodus 17:16",
+             "verseNumber":  16,
+             "scripture":  "For he said, Because the LORD has sworn that the LORD will have war with Amalek from generation to generation."
+        }
+    ]
+}

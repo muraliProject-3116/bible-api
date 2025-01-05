@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Exodus", "bookAbbreviation": "Exo", "chapterNumber": 24, "verses": [{"reference": "Exodus 24:1", "verseNumber": 1, "scripture": "And he said unto Moses, Come up unto the LORD, you, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship all of you far off."},{"reference": "Exodus 24:2", "verseNumber": 2, "scripture": "And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him."},{"reference": "Exodus 24:3", "verseNumber": 3, "scripture": "And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD has said will we do."},{"reference": "Exodus 24:4", "verseNumber": 4, "scripture": "And Moses wrote all the words of the LORD, and rose up early in the morning, and built an altar under the hill, and twelve pillars, according to the twelve tribes of Israel."},{"reference": "Exodus 24:5", "verseNumber": 5, "scripture": "And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD."},{"reference": "Exodus 24:6", "verseNumber": 6, "scripture": "And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar."},{"reference": "Exodus 24:7", "verseNumber": 7, "scripture": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD has said will we do, and be obedient."},{"reference": "Exodus 24:8", "verseNumber": 8, "scripture": "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD has made with you concerning all these words."},{"reference": "Exodus 24:9", "verseNumber": 9, "scripture": "Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:"},{"reference": "Exodus 24:10", "verseNumber": 10, "scripture": "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness."},{"reference": "Exodus 24:11", "verseNumber": 11, "scripture": "And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink."},{"reference": "Exodus 24:12", "verseNumber": 12, "scripture": "And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give you tables of stone, and a law, and commandments which I have written; that you may teach them."},{"reference": "Exodus 24:13", "verseNumber": 13, "scripture": "And Moses rose up, and his minister Joshua: and Moses went up into the mount of God."},{"reference": "Exodus 24:14", "verseNumber": 14, "scripture": "And he said unto the elders, Tarry all of you here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them."},{"reference": "Exodus 24:15", "verseNumber": 15, "scripture": "And Moses went up into the mount, and a cloud covered the mount."},{"reference": "Exodus 24:16", "verseNumber": 16, "scripture": "And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud."},{"reference": "Exodus 24:17", "verseNumber": 17, "scripture": "And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel."},{"reference": "Exodus 24:18", "verseNumber": 18, "scripture": "And Moses went into the midst of the cloud, and got him up into the mount: and Moses was in the mount forty days and forty nights."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Exodus",
+     "bookAbbreviation":  "Exo",
+     "chapterNumber":  24,
+     "verses":  [
+        {
+            "reference":  "Exodus 24:1",
+             "verseNumber":  1,
+             "scripture":  "And he said unto Moses, Come up unto the LORD, you, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship all of you far off."
+        },
+        {
+            "reference":  "Exodus 24:2",
+             "verseNumber":  2,
+             "scripture":  "And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him."
+        },
+        {
+            "reference":  "Exodus 24:3",
+             "verseNumber":  3,
+             "scripture":  "And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD has said will we do."
+        },
+        {
+            "reference":  "Exodus 24:4",
+             "verseNumber":  4,
+             "scripture":  "And Moses wrote all the words of the LORD, and rose up early in the morning, and built an altar under the hill, and twelve pillars, according to the twelve tribes of Israel."
+        },
+        {
+            "reference":  "Exodus 24:5",
+             "verseNumber":  5,
+             "scripture":  "And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD."
+        },
+        {
+            "reference":  "Exodus 24:6",
+             "verseNumber":  6,
+             "scripture":  "And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar."
+        },
+        {
+            "reference":  "Exodus 24:7",
+             "verseNumber":  7,
+             "scripture":  "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD has said will we do, and be obedient."
+        },
+        {
+            "reference":  "Exodus 24:8",
+             "verseNumber":  8,
+             "scripture":  "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD has made with you concerning all these words."
+        },
+        {
+            "reference":  "Exodus 24:9",
+             "verseNumber":  9,
+             "scripture":  "Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:"
+        },
+        {
+            "reference":  "Exodus 24:10",
+             "verseNumber":  10,
+             "scripture":  "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness."
+        },
+        {
+            "reference":  "Exodus 24:11",
+             "verseNumber":  11,
+             "scripture":  "And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink."
+        },
+        {
+            "reference":  "Exodus 24:12",
+             "verseNumber":  12,
+             "scripture":  "And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give you tables of stone, and a law, and commandments which I have written; that you may teach them."
+        },
+        {
+            "reference":  "Exodus 24:13",
+             "verseNumber":  13,
+             "scripture":  "And Moses rose up, and his minister Joshua: and Moses went up into the mount of God."
+        },
+        {
+            "reference":  "Exodus 24:14",
+             "verseNumber":  14,
+             "scripture":  "And he said unto the elders, Tarry all of you here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them."
+        },
+        {
+            "reference":  "Exodus 24:15",
+             "verseNumber":  15,
+             "scripture":  "And Moses went up into the mount, and a cloud covered the mount."
+        },
+        {
+            "reference":  "Exodus 24:16",
+             "verseNumber":  16,
+             "scripture":  "And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud."
+        },
+        {
+            "reference":  "Exodus 24:17",
+             "verseNumber":  17,
+             "scripture":  "And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel."
+        },
+        {
+            "reference":  "Exodus 24:18",
+             "verseNumber":  18,
+             "scripture":  "And Moses went into the midst of the cloud, and got him up into the mount: and Moses was in the mount forty days and forty nights."
+        }
+    ]
+}

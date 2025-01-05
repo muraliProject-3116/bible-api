@@ -1,1 +1,85 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 48, "verses": [{"reference": "Psalm 48:1", "verseNumber": 1, "scripture": "Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness."},{"reference": "Psalm 48:2", "verseNumber": 2, "scripture": "Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King."},{"reference": "Psalm 48:3", "verseNumber": 3, "scripture": "God is known in her palaces for a refuge."},{"reference": "Psalm 48:4", "verseNumber": 4, "scripture": "For, lo, the kings were assembled, they passed by together."},{"reference": "Psalm 48:5", "verseNumber": 5, "scripture": "They saw it, and so they marvelled; they were troubled, and hasted away."},{"reference": "Psalm 48:6", "verseNumber": 6, "scripture": "Fear took hold upon them there, and pain, as of a woman in travail."},{"reference": "Psalm 48:7", "verseNumber": 7, "scripture": "You break the ships of Tarshish with an east wind."},{"reference": "Psalm 48:8", "verseNumber": 8, "scripture": "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah."},{"reference": "Psalm 48:9", "verseNumber": 9, "scripture": "We have thought of your loving kindness, O God, in the midst of your temple."},{"reference": "Psalm 48:10", "verseNumber": 10, "scripture": "According to your name, O God, so is your praise unto the ends of the earth: your right hand is full of righteousness."},{"reference": "Psalm 48:11", "verseNumber": 11, "scripture": "Let mount Zion rejoice, let the daughters of Judah be glad, because of your judgments."},{"reference": "Psalm 48:12", "verseNumber": 12, "scripture": "Walk about Zion, and go round about her: tell the towers thereof."},{"reference": "Psalm 48:13", "verseNumber": 13, "scripture": "Mark all of you well her bulwarks, consider her palaces; that all of you may tell it to the generation following."},{"reference": "Psalm 48:14", "verseNumber": 14, "scripture": "For this God is our God for ever and ever: he will be our guide even unto death."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  48,
+     "verses":  [
+        {
+            "reference":  "Psalm 48:1",
+             "verseNumber":  1,
+             "scripture":  "Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness."
+        },
+        {
+            "reference":  "Psalm 48:2",
+             "verseNumber":  2,
+             "scripture":  "Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King."
+        },
+        {
+            "reference":  "Psalm 48:3",
+             "verseNumber":  3,
+             "scripture":  "God is known in her palaces for a refuge."
+        },
+        {
+            "reference":  "Psalm 48:4",
+             "verseNumber":  4,
+             "scripture":  "For, lo, the kings were assembled, they passed by together."
+        },
+        {
+            "reference":  "Psalm 48:5",
+             "verseNumber":  5,
+             "scripture":  "They saw it, and so they marvelled; they were troubled, and hasted away."
+        },
+        {
+            "reference":  "Psalm 48:6",
+             "verseNumber":  6,
+             "scripture":  "Fear took hold upon them there, and pain, as of a woman in travail."
+        },
+        {
+            "reference":  "Psalm 48:7",
+             "verseNumber":  7,
+             "scripture":  "You break the ships of Tarshish with an east wind."
+        },
+        {
+            "reference":  "Psalm 48:8",
+             "verseNumber":  8,
+             "scripture":  "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah."
+        },
+        {
+            "reference":  "Psalm 48:9",
+             "verseNumber":  9,
+             "scripture":  "We have thought of your loving kindness, O God, in the midst of your temple."
+        },
+        {
+            "reference":  "Psalm 48:10",
+             "verseNumber":  10,
+             "scripture":  "According to your name, O God, so is your praise unto the ends of the earth: your right hand is full of righteousness."
+        },
+        {
+            "reference":  "Psalm 48:11",
+             "verseNumber":  11,
+             "scripture":  "Let mount Zion rejoice, let the daughters of Judah be glad, because of your judgments."
+        },
+        {
+            "reference":  "Psalm 48:12",
+             "verseNumber":  12,
+             "scripture":  "Walk about Zion, and go round about her: tell the towers thereof."
+        },
+        {
+            "reference":  "Psalm 48:13",
+             "verseNumber":  13,
+             "scripture":  "Mark all of you well her bulwarks, consider her palaces; that all of you may tell it to the generation following."
+        },
+        {
+            "reference":  "Psalm 48:14",
+             "verseNumber":  14,
+             "scripture":  "For this God is our God for ever and ever: he will be our guide even unto death."
+        }
+    ]
+}

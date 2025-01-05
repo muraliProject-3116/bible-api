@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Deuteronomy", "bookAbbreviation": "Deu", "chapterNumber": 14, "verses": [{"reference": "Deuteronomy 14:1", "verseNumber": 1, "scripture": "All of you are the children of the LORD your God: all of you shall not cut yourselves, nor make any baldness between your eyes for the dead."},{"reference": "Deuteronomy 14:2", "verseNumber": 2, "scripture": "For you are an holy people unto the LORD your God, and the LORD has chosen you to be an exclusive people unto himself, above all the nations that are upon the earth."},{"reference": "Deuteronomy 14:3", "verseNumber": 3, "scripture": "You shall not eat any abominable thing."},{"reference": "Deuteronomy 14:4", "verseNumber": 4, "scripture": "These are the beasts which all of you shall eat: the ox, the sheep, and the goat,"},{"reference": "Deuteronomy 14:5", "verseNumber": 5, "scripture": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."},{"reference": "Deuteronomy 14:6", "verseNumber": 6, "scripture": "And every beast that parts the hoof, and cleaves the cleft into two claws, and chews the cud among the beasts, that all of you shall eat."},{"reference": "Deuteronomy 14:7", "verseNumber": 7, "scripture": "Nevertheless these all of you shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."},{"reference": "Deuteronomy 14:8", "verseNumber": 8, "scripture": "And the swine, because it divides the hoof, yet chews not the cud, it is unclean unto you: all of you shall not eat of their flesh, nor touch their dead carcass."},{"reference": "Deuteronomy 14:9", "verseNumber": 9, "scripture": "These all of you shall eat of all that are in the waters: all that have fins and scales shall all of you eat:"},{"reference": "Deuteronomy 14:10", "verseNumber": 10, "scripture": "And whatsoever has not fins and scales all of you may not eat; it is unclean unto you."},{"reference": "Deuteronomy 14:11", "verseNumber": 11, "scripture": "Of all clean birds all of you shall eat."},{"reference": "Deuteronomy 14:12", "verseNumber": 12, "scripture": "But these are they of which all of you shall not eat: the eagle, and the vulture, and the buzzard,"},{"reference": "Deuteronomy 14:13", "verseNumber": 13, "scripture": "And the vulture, and the kite, and the vulture after his kind,"},{"reference": "Deuteronomy 14:14", "verseNumber": 14, "scripture": "And every raven after his kind,"},{"reference": "Deuteronomy 14:15", "verseNumber": 15, "scripture": "And the owl, and the night hawk, and the cuckoo, and the hawk after his kind,"},{"reference": "Deuteronomy 14:16", "verseNumber": 16, "scripture": "The little owl, and the great owl, and the swan,"},{"reference": "Deuteronomy 14:17", "verseNumber": 17, "scripture": "And the pelican, and the carrion vulture, and the cormorant,"},{"reference": "Deuteronomy 14:18", "verseNumber": 18, "scripture": "And the stork, and the heron after her kind, and the lapwing, and the bat."},{"reference": "Deuteronomy 14:19", "verseNumber": 19, "scripture": "And every creeping thing that flies is unclean unto you: they shall not be eaten."},{"reference": "Deuteronomy 14:20", "verseNumber": 20, "scripture": "But of all clean fowls all of you may eat."},{"reference": "Deuteronomy 14:21", "verseNumber": 21, "scripture": "All of you shall not eat of anything that dies of itself: you shall give it unto the stranger that is in your gates, that he may eat it; or you may sell it unto an foreigner: for you are an holy people unto the LORD your God. You shall not seethe a kid in his mother's milk."},{"reference": "Deuteronomy 14:22", "verseNumber": 22, "scripture": "You shall truly tithe all the increase of your seed, that the field brings forth year by year."},{"reference": "Deuteronomy 14:23", "verseNumber": 23, "scripture": "And you shall eat before the LORD your God, in the place which he shall choose to place his name there, the tithe of your corn, of your wine, and of yours oil, and the firstlings of your herds and of your flocks; that you may learn to fear the LORD your God always."},{"reference": "Deuteronomy 14:24", "verseNumber": 24, "scripture": "And if the way be too long for you, so that you are not able to carry it; or if the place be too far from you, which the LORD your God shall choose to set his name there, when the LORD your God has blessed you:"},{"reference": "Deuteronomy 14:25", "verseNumber": 25, "scripture": "Then shall you turn it into money, and bind up the money in yours hand, and shall go unto the place which the LORD your God shall choose:"},{"reference": "Deuteronomy 14:26", "verseNumber": 26, "scripture": "And you shall bestow that money for whatsoever your soul lusts after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever your soul desires: and you shall eat there before the LORD your God, and you shall rejoice, you, and yours household,"},{"reference": "Deuteronomy 14:27", "verseNumber": 27, "scripture": "And the Levite that is within your gates; you shall not forsake him; for he has no part nor inheritance with you."},{"reference": "Deuteronomy 14:28", "verseNumber": 28, "scripture": "At the end of three years you shall bring forth all the tithe of yours increase the same year, and shall lay it up within your gates:"},{"reference": "Deuteronomy 14:29", "verseNumber": 29, "scripture": "And the Levite, (because he has no part nor inheritance with you,) and the stranger, and the fatherless, and the widow, which are within your gates, shall come, and shall eat and be satisfied; that the LORD your God may bless you in all the work of yours hand which you do."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Deuteronomy",
+     "bookAbbreviation":  "Deu",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "Deuteronomy 14:1",
+             "verseNumber":  1,
+             "scripture":  "All of you are the children of the LORD your God: all of you shall not cut yourselves, nor make any baldness between your eyes for the dead."
+        },
+        {
+            "reference":  "Deuteronomy 14:2",
+             "verseNumber":  2,
+             "scripture":  "For you are an holy people unto the LORD your God, and the LORD has chosen you to be an exclusive people unto himself, above all the nations that are upon the earth."
+        },
+        {
+            "reference":  "Deuteronomy 14:3",
+             "verseNumber":  3,
+             "scripture":  "You shall not eat any abominable thing."
+        },
+        {
+            "reference":  "Deuteronomy 14:4",
+             "verseNumber":  4,
+             "scripture":  "These are the beasts which all of you shall eat: the ox, the sheep, and the goat,"
+        },
+        {
+            "reference":  "Deuteronomy 14:5",
+             "verseNumber":  5,
+             "scripture":  "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."
+        },
+        {
+            "reference":  "Deuteronomy 14:6",
+             "verseNumber":  6,
+             "scripture":  "And every beast that parts the hoof, and cleaves the cleft into two claws, and chews the cud among the beasts, that all of you shall eat."
+        },
+        {
+            "reference":  "Deuteronomy 14:7",
+             "verseNumber":  7,
+             "scripture":  "Nevertheless these all of you shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+        },
+        {
+            "reference":  "Deuteronomy 14:8",
+             "verseNumber":  8,
+             "scripture":  "And the swine, because it divides the hoof, yet chews not the cud, it is unclean unto you: all of you shall not eat of their flesh, nor touch their dead carcass."
+        },
+        {
+            "reference":  "Deuteronomy 14:9",
+             "verseNumber":  9,
+             "scripture":  "These all of you shall eat of all that are in the waters: all that have fins and scales shall all of you eat:"
+        },
+        {
+            "reference":  "Deuteronomy 14:10",
+             "verseNumber":  10,
+             "scripture":  "And whatsoever has not fins and scales all of you may not eat; it is unclean unto you."
+        },
+        {
+            "reference":  "Deuteronomy 14:11",
+             "verseNumber":  11,
+             "scripture":  "Of all clean birds all of you shall eat."
+        },
+        {
+            "reference":  "Deuteronomy 14:12",
+             "verseNumber":  12,
+             "scripture":  "But these are they of which all of you shall not eat: the eagle, and the vulture, and the buzzard,"
+        },
+        {
+            "reference":  "Deuteronomy 14:13",
+             "verseNumber":  13,
+             "scripture":  "And the vulture, and the kite, and the vulture after his kind,"
+        },
+        {
+            "reference":  "Deuteronomy 14:14",
+             "verseNumber":  14,
+             "scripture":  "And every raven after his kind,"
+        },
+        {
+            "reference":  "Deuteronomy 14:15",
+             "verseNumber":  15,
+             "scripture":  "And the owl, and the night hawk, and the cuckoo, and the hawk after his kind,"
+        },
+        {
+            "reference":  "Deuteronomy 14:16",
+             "verseNumber":  16,
+             "scripture":  "The little owl, and the great owl, and the swan,"
+        },
+        {
+            "reference":  "Deuteronomy 14:17",
+             "verseNumber":  17,
+             "scripture":  "And the pelican, and the carrion vulture, and the cormorant,"
+        },
+        {
+            "reference":  "Deuteronomy 14:18",
+             "verseNumber":  18,
+             "scripture":  "And the stork, and the heron after her kind, and the lapwing, and the bat."
+        },
+        {
+            "reference":  "Deuteronomy 14:19",
+             "verseNumber":  19,
+             "scripture":  "And every creeping thing that flies is unclean unto you: they shall not be eaten."
+        },
+        {
+            "reference":  "Deuteronomy 14:20",
+             "verseNumber":  20,
+             "scripture":  "But of all clean fowls all of you may eat."
+        },
+        {
+            "reference":  "Deuteronomy 14:21",
+             "verseNumber":  21,
+             "scripture":  "All of you shall not eat of anything that dies of itself: you shall give it unto the stranger that is in your gates, that he may eat it; or you may sell it unto an foreigner: for you are an holy people unto the LORD your God. You shall not seethe a kid in his mother's milk."
+        },
+        {
+            "reference":  "Deuteronomy 14:22",
+             "verseNumber":  22,
+             "scripture":  "You shall truly tithe all the increase of your seed, that the field brings forth year by year."
+        },
+        {
+            "reference":  "Deuteronomy 14:23",
+             "verseNumber":  23,
+             "scripture":  "And you shall eat before the LORD your God, in the place which he shall choose to place his name there, the tithe of your corn, of your wine, and of yours oil, and the firstlings of your herds and of your flocks; that you may learn to fear the LORD your God always."
+        },
+        {
+            "reference":  "Deuteronomy 14:24",
+             "verseNumber":  24,
+             "scripture":  "And if the way be too long for you, so that you are not able to carry it; or if the place be too far from you, which the LORD your God shall choose to set his name there, when the LORD your God has blessed you:"
+        },
+        {
+            "reference":  "Deuteronomy 14:25",
+             "verseNumber":  25,
+             "scripture":  "Then shall you turn it into money, and bind up the money in yours hand, and shall go unto the place which the LORD your God shall choose:"
+        },
+        {
+            "reference":  "Deuteronomy 14:26",
+             "verseNumber":  26,
+             "scripture":  "And you shall bestow that money for whatsoever your soul lusts after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever your soul desires: and you shall eat there before the LORD your God, and you shall rejoice, you, and yours household,"
+        },
+        {
+            "reference":  "Deuteronomy 14:27",
+             "verseNumber":  27,
+             "scripture":  "And the Levite that is within your gates; you shall not forsake him; for he has no part nor inheritance with you."
+        },
+        {
+            "reference":  "Deuteronomy 14:28",
+             "verseNumber":  28,
+             "scripture":  "At the end of three years you shall bring forth all the tithe of yours increase the same year, and shall lay it up within your gates:"
+        },
+        {
+            "reference":  "Deuteronomy 14:29",
+             "verseNumber":  29,
+             "scripture":  "And the Levite, (because he has no part nor inheritance with you,) and the stranger, and the fatherless, and the widow, which are within your gates, shall come, and shall eat and be satisfied; that the LORD your God may bless you in all the work of yours hand which you do."
+        }
+    ]
+}

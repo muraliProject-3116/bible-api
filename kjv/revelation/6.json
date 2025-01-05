@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Revelation", "bookAbbreviation": "Rev", "chapterNumber": 6, "verses": [{"reference": "Revelation 6:1", "verseNumber": 1, "scripture": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."},{"reference": "Revelation 6:2", "verseNumber": 2, "scripture": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."},{"reference": "Revelation 6:3", "verseNumber": 3, "scripture": "And when he had opened the second seal, I heard the second beast say, Come and see."},{"reference": "Revelation 6:4", "verseNumber": 4, "scripture": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."},{"reference": "Revelation 6:5", "verseNumber": 5, "scripture": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."},{"reference": "Revelation 6:6", "verseNumber": 6, "scripture": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see you hurt not the oil and the wine."},{"reference": "Revelation 6:7", "verseNumber": 7, "scripture": "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see."},{"reference": "Revelation 6:8", "verseNumber": 8, "scripture": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."},{"reference": "Revelation 6:9", "verseNumber": 9, "scripture": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"},{"reference": "Revelation 6:10", "verseNumber": 10, "scripture": "And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?"},{"reference": "Revelation 6:11", "verseNumber": 11, "scripture": "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellow servants also and their brethren, that should be killed as they were, should be fulfilled."},{"reference": "Revelation 6:12", "verseNumber": 12, "scripture": "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;"},{"reference": "Revelation 6:13", "verseNumber": 13, "scripture": "And the stars of heaven fell unto the earth, even as a fig tree casts her untimely figs, when she is shaken of a mighty wind."},{"reference": "Revelation 6:14", "verseNumber": 14, "scripture": "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places."},{"reference": "Revelation 6:15", "verseNumber": 15, "scripture": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"},{"reference": "Revelation 6:16", "verseNumber": 16, "scripture": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sits on the throne, and from the wrath of the Lamb:"},{"reference": "Revelation 6:17", "verseNumber": 17, "scripture": "For the great day of his wrath has come; and who shall be able to stand?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Revelation",
+     "bookAbbreviation":  "Rev",
+     "chapterNumber":  6,
+     "verses":  [
+        {
+            "reference":  "Revelation 6:1",
+             "verseNumber":  1,
+             "scripture":  "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
+        },
+        {
+            "reference":  "Revelation 6:2",
+             "verseNumber":  2,
+             "scripture":  "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
+        },
+        {
+            "reference":  "Revelation 6:3",
+             "verseNumber":  3,
+             "scripture":  "And when he had opened the second seal, I heard the second beast say, Come and see."
+        },
+        {
+            "reference":  "Revelation 6:4",
+             "verseNumber":  4,
+             "scripture":  "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+        },
+        {
+            "reference":  "Revelation 6:5",
+             "verseNumber":  5,
+             "scripture":  "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+        },
+        {
+            "reference":  "Revelation 6:6",
+             "verseNumber":  6,
+             "scripture":  "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see you hurt not the oil and the wine."
+        },
+        {
+            "reference":  "Revelation 6:7",
+             "verseNumber":  7,
+             "scripture":  "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see."
+        },
+        {
+            "reference":  "Revelation 6:8",
+             "verseNumber":  8,
+             "scripture":  "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+        },
+        {
+            "reference":  "Revelation 6:9",
+             "verseNumber":  9,
+             "scripture":  "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"
+        },
+        {
+            "reference":  "Revelation 6:10",
+             "verseNumber":  10,
+             "scripture":  "And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?"
+        },
+        {
+            "reference":  "Revelation 6:11",
+             "verseNumber":  11,
+             "scripture":  "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellow servants also and their brethren, that should be killed as they were, should be fulfilled."
+        },
+        {
+            "reference":  "Revelation 6:12",
+             "verseNumber":  12,
+             "scripture":  "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;"
+        },
+        {
+            "reference":  "Revelation 6:13",
+             "verseNumber":  13,
+             "scripture":  "And the stars of heaven fell unto the earth, even as a fig tree casts her untimely figs, when she is shaken of a mighty wind."
+        },
+        {
+            "reference":  "Revelation 6:14",
+             "verseNumber":  14,
+             "scripture":  "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places."
+        },
+        {
+            "reference":  "Revelation 6:15",
+             "verseNumber":  15,
+             "scripture":  "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
+        },
+        {
+            "reference":  "Revelation 6:16",
+             "verseNumber":  16,
+             "scripture":  "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sits on the throne, and from the wrath of the Lamb:"
+        },
+        {
+            "reference":  "Revelation 6:17",
+             "verseNumber":  17,
+             "scripture":  "For the great day of his wrath has come; and who shall be able to stand?"
+        }
+    ]
+}

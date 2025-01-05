@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ephesians", "bookAbbreviation": "Eph", "chapterNumber": 1, "verses": [{"reference": "Ephesians 1:1", "verseNumber": 1, "scripture": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"},{"reference": "Ephesians 1:2", "verseNumber": 2, "scripture": "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."},{"reference": "Ephesians 1:3", "verseNumber": 3, "scripture": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with all spiritual blessings in heavenly places in Christ:"},{"reference": "Ephesians 1:4", "verseNumber": 4, "scripture": "According as he has chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"},{"reference": "Ephesians 1:5", "verseNumber": 5, "scripture": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"},{"reference": "Ephesians 1:6", "verseNumber": 6, "scripture": "To the praise of the glory of his grace, wherein he has made us accepted in the beloved."},{"reference": "Ephesians 1:7", "verseNumber": 7, "scripture": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;"},{"reference": "Ephesians 1:8", "verseNumber": 8, "scripture": "Wherein he has abounded toward us in all wisdom and prudence;"},{"reference": "Ephesians 1:9", "verseNumber": 9, "scripture": "Having made known unto us the mystery of his will, according to his good pleasure which he has purposed in himself:"},{"reference": "Ephesians 1:10", "verseNumber": 10, "scripture": "That in the dispensation of the fullness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"},{"reference": "Ephesians 1:11", "verseNumber": 11, "scripture": "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:"},{"reference": "Ephesians 1:12", "verseNumber": 12, "scripture": "That we should be to the praise of his glory, who first trusted in Christ."},{"reference": "Ephesians 1:13", "verseNumber": 13, "scripture": "In whom all of you also trusted, after that all of you heard the word of truth, the gospel of your salvation: in whom also after that all of you believed, all of you were sealed with that holy Spirit of promise,"},{"reference": "Ephesians 1:14", "verseNumber": 14, "scripture": "Which is the earn of our inheritance until the redemption of the purchased possession, unto the praise of his glory."},{"reference": "Ephesians 1:15", "verseNumber": 15, "scripture": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"},{"reference": "Ephesians 1:16", "verseNumber": 16, "scripture": "Cease not to give thanks for you, making mention of you in my prayers;"},{"reference": "Ephesians 1:17", "verseNumber": 17, "scripture": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"},{"reference": "Ephesians 1:18", "verseNumber": 18, "scripture": "The eyes of your understanding being enlightened; that all of you may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"},{"reference": "Ephesians 1:19", "verseNumber": 19, "scripture": "And what is the exceeding greatness of his power toward us who believe, according to the working of his mighty power,"},{"reference": "Ephesians 1:20", "verseNumber": 20, "scripture": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"},{"reference": "Ephesians 1:21", "verseNumber": 21, "scripture": "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"},{"reference": "Ephesians 1:22", "verseNumber": 22, "scripture": "And has put all things under his feet, and gave him to be the head over all things to the church,"},{"reference": "Ephesians 1:23", "verseNumber": 23, "scripture": "Which is his body, the fullness of him that fills all in all."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ephesians",
+     "bookAbbreviation":  "Eph",
+     "chapterNumber":  1,
+     "verses":  [
+        {
+            "reference":  "Ephesians 1:1",
+             "verseNumber":  1,
+             "scripture":  "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
+        },
+        {
+            "reference":  "Ephesians 1:2",
+             "verseNumber":  2,
+             "scripture":  "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ."
+        },
+        {
+            "reference":  "Ephesians 1:3",
+             "verseNumber":  3,
+             "scripture":  "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with all spiritual blessings in heavenly places in Christ:"
+        },
+        {
+            "reference":  "Ephesians 1:4",
+             "verseNumber":  4,
+             "scripture":  "According as he has chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"
+        },
+        {
+            "reference":  "Ephesians 1:5",
+             "verseNumber":  5,
+             "scripture":  "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,"
+        },
+        {
+            "reference":  "Ephesians 1:6",
+             "verseNumber":  6,
+             "scripture":  "To the praise of the glory of his grace, wherein he has made us accepted in the beloved."
+        },
+        {
+            "reference":  "Ephesians 1:7",
+             "verseNumber":  7,
+             "scripture":  "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;"
+        },
+        {
+            "reference":  "Ephesians 1:8",
+             "verseNumber":  8,
+             "scripture":  "Wherein he has abounded toward us in all wisdom and prudence;"
+        },
+        {
+            "reference":  "Ephesians 1:9",
+             "verseNumber":  9,
+             "scripture":  "Having made known unto us the mystery of his will, according to his good pleasure which he has purposed in himself:"
+        },
+        {
+            "reference":  "Ephesians 1:10",
+             "verseNumber":  10,
+             "scripture":  "That in the dispensation of the fullness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
+        },
+        {
+            "reference":  "Ephesians 1:11",
+             "verseNumber":  11,
+             "scripture":  "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:"
+        },
+        {
+            "reference":  "Ephesians 1:12",
+             "verseNumber":  12,
+             "scripture":  "That we should be to the praise of his glory, who first trusted in Christ."
+        },
+        {
+            "reference":  "Ephesians 1:13",
+             "verseNumber":  13,
+             "scripture":  "In whom all of you also trusted, after that all of you heard the word of truth, the gospel of your salvation: in whom also after that all of you believed, all of you were sealed with that holy Spirit of promise,"
+        },
+        {
+            "reference":  "Ephesians 1:14",
+             "verseNumber":  14,
+             "scripture":  "Which is the earn of our inheritance until the redemption of the purchased possession, unto the praise of his glory."
+        },
+        {
+            "reference":  "Ephesians 1:15",
+             "verseNumber":  15,
+             "scripture":  "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
+        },
+        {
+            "reference":  "Ephesians 1:16",
+             "verseNumber":  16,
+             "scripture":  "Cease not to give thanks for you, making mention of you in my prayers;"
+        },
+        {
+            "reference":  "Ephesians 1:17",
+             "verseNumber":  17,
+             "scripture":  "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
+        },
+        {
+            "reference":  "Ephesians 1:18",
+             "verseNumber":  18,
+             "scripture":  "The eyes of your understanding being enlightened; that all of you may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
+        },
+        {
+            "reference":  "Ephesians 1:19",
+             "verseNumber":  19,
+             "scripture":  "And what is the exceeding greatness of his power toward us who believe, according to the working of his mighty power,"
+        },
+        {
+            "reference":  "Ephesians 1:20",
+             "verseNumber":  20,
+             "scripture":  "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
+        },
+        {
+            "reference":  "Ephesians 1:21",
+             "verseNumber":  21,
+             "scripture":  "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"
+        },
+        {
+            "reference":  "Ephesians 1:22",
+             "verseNumber":  22,
+             "scripture":  "And has put all things under his feet, and gave him to be the head over all things to the church,"
+        },
+        {
+            "reference":  "Ephesians 1:23",
+             "verseNumber":  23,
+             "scripture":  "Which is his body, the fullness of him that fills all in all."
+        }
+    ]
+}

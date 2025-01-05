@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Habakkuk", "bookAbbreviation": "Hab", "chapterNumber": 2, "verses": [{"reference": "Habakkuk 2:1", "verseNumber": 1, "scripture": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved."},{"reference": "Habakkuk 2:2", "verseNumber": 2, "scripture": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that reads it."},{"reference": "Habakkuk 2:3", "verseNumber": 3, "scripture": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."},{"reference": "Habakkuk 2:4", "verseNumber": 4, "scripture": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."},{"reference": "Habakkuk 2:5", "verseNumber": 5, "scripture": "Yea also, because he trangresses by wine, he is a proud man, neither keeps at home, who enlarges his desire as hell, and is as death, and cannot be satisfied, but gathers unto him all nations, and heaps unto him all people:"},{"reference": "Habakkuk 2:6", "verseNumber": 6, "scripture": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increases that which is not his! how long? and to him that loads himself with thick clay!"},{"reference": "Habakkuk 2:7", "verseNumber": 7, "scripture": "Shall they not rise up suddenly that shall bite you, and awake that shall vex you, and you shall be for booties unto them?"},{"reference": "Habakkuk 2:8", "verseNumber": 8, "scripture": "Because you have spoiled many nations, all the remnant of the people shall spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."},{"reference": "Habakkuk 2:9", "verseNumber": 9, "scripture": "Woe to him that covers an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!"},{"reference": "Habakkuk 2:10", "verseNumber": 10, "scripture": "You have consulted shame to your house by cutting off many people, and have sinned against your soul."},{"reference": "Habakkuk 2:11", "verseNumber": 11, "scripture": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it."},{"reference": "Habakkuk 2:12", "verseNumber": 12, "scripture": "Woe to him that builds a town with blood, and establishes a city by iniquity!"},{"reference": "Habakkuk 2:13", "verseNumber": 13, "scripture": "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?"},{"reference": "Habakkuk 2:14", "verseNumber": 14, "scripture": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea."},{"reference": "Habakkuk 2:15", "verseNumber": 15, "scripture": "Woe unto him that gives his neighbour drink, that put your bottle to him, and make him drunken also, that you may look on their nakedness!"},{"reference": "Habakkuk 2:16", "verseNumber": 16, "scripture": "You are filled with shame for glory: drink you also, and let your foreskin be uncovered: the cup of the LORD's right hand shall be turned unto you, and shameful spewing shall be on your glory."},{"reference": "Habakkuk 2:17", "verseNumber": 17, "scripture": "For the violence of Lebanon shall cover you, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."},{"reference": "Habakkuk 2:18", "verseNumber": 18, "scripture": "What profits the graven image that the maker thereof has graven it; the molten image, and a teacher of lies, that the maker of his work trusts therein, to make dumb idols?"},{"reference": "Habakkuk 2:19", "verseNumber": 19, "scripture": "Woe unto him that says to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it."},{"reference": "Habakkuk 2:20", "verseNumber": 20, "scripture": "But the LORD is in his holy temple: let all the earth keep silence before him."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Habakkuk",
+     "bookAbbreviation":  "Hab",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "Habakkuk 2:1",
+             "verseNumber":  1,
+             "scripture":  "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved."
+        },
+        {
+            "reference":  "Habakkuk 2:2",
+             "verseNumber":  2,
+             "scripture":  "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that reads it."
+        },
+        {
+            "reference":  "Habakkuk 2:3",
+             "verseNumber":  3,
+             "scripture":  "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
+        },
+        {
+            "reference":  "Habakkuk 2:4",
+             "verseNumber":  4,
+             "scripture":  "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."
+        },
+        {
+            "reference":  "Habakkuk 2:5",
+             "verseNumber":  5,
+             "scripture":  "Yea also, because he trangresses by wine, he is a proud man, neither keeps at home, who enlarges his desire as hell, and is as death, and cannot be satisfied, but gathers unto him all nations, and heaps unto him all people:"
+        },
+        {
+            "reference":  "Habakkuk 2:6",
+             "verseNumber":  6,
+             "scripture":  "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increases that which is not his! how long? and to him that loads himself with thick clay!"
+        },
+        {
+            "reference":  "Habakkuk 2:7",
+             "verseNumber":  7,
+             "scripture":  "Shall they not rise up suddenly that shall bite you, and awake that shall vex you, and you shall be for booties unto them?"
+        },
+        {
+            "reference":  "Habakkuk 2:8",
+             "verseNumber":  8,
+             "scripture":  "Because you have spoiled many nations, all the remnant of the people shall spoil you; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
+        },
+        {
+            "reference":  "Habakkuk 2:9",
+             "verseNumber":  9,
+             "scripture":  "Woe to him that covers an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!"
+        },
+        {
+            "reference":  "Habakkuk 2:10",
+             "verseNumber":  10,
+             "scripture":  "You have consulted shame to your house by cutting off many people, and have sinned against your soul."
+        },
+        {
+            "reference":  "Habakkuk 2:11",
+             "verseNumber":  11,
+             "scripture":  "For the stone shall cry out of the wall, and the beam out of the timber shall answer it."
+        },
+        {
+            "reference":  "Habakkuk 2:12",
+             "verseNumber":  12,
+             "scripture":  "Woe to him that builds a town with blood, and establishes a city by iniquity!"
+        },
+        {
+            "reference":  "Habakkuk 2:13",
+             "verseNumber":  13,
+             "scripture":  "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?"
+        },
+        {
+            "reference":  "Habakkuk 2:14",
+             "verseNumber":  14,
+             "scripture":  "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea."
+        },
+        {
+            "reference":  "Habakkuk 2:15",
+             "verseNumber":  15,
+             "scripture":  "Woe unto him that gives his neighbour drink, that put your bottle to him, and make him drunken also, that you may look on their nakedness!"
+        },
+        {
+            "reference":  "Habakkuk 2:16",
+             "verseNumber":  16,
+             "scripture":  "You are filled with shame for glory: drink you also, and let your foreskin be uncovered: the cup of the LORD's right hand shall be turned unto you, and shameful spewing shall be on your glory."
+        },
+        {
+            "reference":  "Habakkuk 2:17",
+             "verseNumber":  17,
+             "scripture":  "For the violence of Lebanon shall cover you, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
+        },
+        {
+            "reference":  "Habakkuk 2:18",
+             "verseNumber":  18,
+             "scripture":  "What profits the graven image that the maker thereof has graven it; the molten image, and a teacher of lies, that the maker of his work trusts therein, to make dumb idols?"
+        },
+        {
+            "reference":  "Habakkuk 2:19",
+             "verseNumber":  19,
+             "scripture":  "Woe unto him that says to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it."
+        },
+        {
+            "reference":  "Habakkuk 2:20",
+             "verseNumber":  20,
+             "scripture":  "But the LORD is in his holy temple: let all the earth keep silence before him."
+        }
+    ]
+}

@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Corinthians", "bookAbbreviation": "2 Cor", "chapterNumber": 8, "verses": [{"reference": "2 Corinthians 8:1", "verseNumber": 1, "scripture": "Moreover, brethren, we do you to know of the grace of God bestowed on the churches of Macedonia;"},{"reference": "2 Corinthians 8:2", "verseNumber": 2, "scripture": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality."},{"reference": "2 Corinthians 8:3", "verseNumber": 3, "scripture": "In order to their power, I bear record, yea, and beyond their power they were willing of themselves;"},{"reference": "2 Corinthians 8:4", "verseNumber": 4, "scripture": "Praying us with much entreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints."},{"reference": "2 Corinthians 8:5", "verseNumber": 5, "scripture": "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God."},{"reference": "2 Corinthians 8:6", "verseNumber": 6, "scripture": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also."},{"reference": "2 Corinthians 8:7", "verseNumber": 7, "scripture": "Therefore, as all of you abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that all of you abound in this grace also."},{"reference": "2 Corinthians 8:8", "verseNumber": 8, "scripture": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."},{"reference": "2 Corinthians 8:9", "verseNumber": 9, "scripture": "For all of you know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that all of you through his poverty might be rich."},{"reference": "2 Corinthians 8:10", "verseNumber": 10, "scripture": "And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago."},{"reference": "2 Corinthians 8:11", "verseNumber": 11, "scripture": "Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which all of you have."},{"reference": "2 Corinthians 8:12", "verseNumber": 12, "scripture": "For if there be first a willing mind, it is accepted according to that a man has, and not according to that he has not."},{"reference": "2 Corinthians 8:13", "verseNumber": 13, "scripture": "For I mean not that other men be eased, and all of you burdened:"},{"reference": "2 Corinthians 8:14", "verseNumber": 14, "scripture": "But by an equality, that now at this time your abundance may be a supply for their lack, that their abundance also may be a supply for your lack: that there may be equality:"},{"reference": "2 Corinthians 8:15", "verseNumber": 15, "scripture": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack."},{"reference": "2 Corinthians 8:16", "verseNumber": 16, "scripture": "But thanks be to God, which put the same earn care into the heart of Titus for you."},{"reference": "2 Corinthians 8:17", "verseNumber": 17, "scripture": "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you."},{"reference": "2 Corinthians 8:18", "verseNumber": 18, "scripture": "And we have sent with him the brother, whose praise is in the gospel throughout all the churches;"},{"reference": "2 Corinthians 8:19", "verseNumber": 19, "scripture": "And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:"},{"reference": "2 Corinthians 8:20", "verseNumber": 20, "scripture": "Avoiding this, that no man should blame us in this abundance which is administered by us:"},{"reference": "2 Corinthians 8:21", "verseNumber": 21, "scripture": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men."},{"reference": "2 Corinthians 8:22", "verseNumber": 22, "scripture": "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you."},{"reference": "2 Corinthians 8:23", "verseNumber": 23, "scripture": "Whether any do enquire of Titus, he is my partner and fellow-helper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ."},{"reference": "2 Corinthians 8:24", "verseNumber": 24, "scripture": "Wherefore show all of you to them, and before the churches, the proof of your love, and of our boasting on your behalf."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Corinthians",
+     "bookAbbreviation":  "2 Cor",
+     "chapterNumber":  8,
+     "verses":  [
+        {
+            "reference":  "2 Corinthians 8:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover, brethren, we do you to know of the grace of God bestowed on the churches of Macedonia;"
+        },
+        {
+            "reference":  "2 Corinthians 8:2",
+             "verseNumber":  2,
+             "scripture":  "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality."
+        },
+        {
+            "reference":  "2 Corinthians 8:3",
+             "verseNumber":  3,
+             "scripture":  "In order to their power, I bear record, yea, and beyond their power they were willing of themselves;"
+        },
+        {
+            "reference":  "2 Corinthians 8:4",
+             "verseNumber":  4,
+             "scripture":  "Praying us with much entreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints."
+        },
+        {
+            "reference":  "2 Corinthians 8:5",
+             "verseNumber":  5,
+             "scripture":  "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God."
+        },
+        {
+            "reference":  "2 Corinthians 8:6",
+             "verseNumber":  6,
+             "scripture":  "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also."
+        },
+        {
+            "reference":  "2 Corinthians 8:7",
+             "verseNumber":  7,
+             "scripture":  "Therefore, as all of you abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that all of you abound in this grace also."
+        },
+        {
+            "reference":  "2 Corinthians 8:8",
+             "verseNumber":  8,
+             "scripture":  "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
+        },
+        {
+            "reference":  "2 Corinthians 8:9",
+             "verseNumber":  9,
+             "scripture":  "For all of you know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that all of you through his poverty might be rich."
+        },
+        {
+            "reference":  "2 Corinthians 8:10",
+             "verseNumber":  10,
+             "scripture":  "And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago."
+        },
+        {
+            "reference":  "2 Corinthians 8:11",
+             "verseNumber":  11,
+             "scripture":  "Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which all of you have."
+        },
+        {
+            "reference":  "2 Corinthians 8:12",
+             "verseNumber":  12,
+             "scripture":  "For if there be first a willing mind, it is accepted according to that a man has, and not according to that he has not."
+        },
+        {
+            "reference":  "2 Corinthians 8:13",
+             "verseNumber":  13,
+             "scripture":  "For I mean not that other men be eased, and all of you burdened:"
+        },
+        {
+            "reference":  "2 Corinthians 8:14",
+             "verseNumber":  14,
+             "scripture":  "But by an equality, that now at this time your abundance may be a supply for their lack, that their abundance also may be a supply for your lack: that there may be equality:"
+        },
+        {
+            "reference":  "2 Corinthians 8:15",
+             "verseNumber":  15,
+             "scripture":  "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack."
+        },
+        {
+            "reference":  "2 Corinthians 8:16",
+             "verseNumber":  16,
+             "scripture":  "But thanks be to God, which put the same earn care into the heart of Titus for you."
+        },
+        {
+            "reference":  "2 Corinthians 8:17",
+             "verseNumber":  17,
+             "scripture":  "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you."
+        },
+        {
+            "reference":  "2 Corinthians 8:18",
+             "verseNumber":  18,
+             "scripture":  "And we have sent with him the brother, whose praise is in the gospel throughout all the churches;"
+        },
+        {
+            "reference":  "2 Corinthians 8:19",
+             "verseNumber":  19,
+             "scripture":  "And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:"
+        },
+        {
+            "reference":  "2 Corinthians 8:20",
+             "verseNumber":  20,
+             "scripture":  "Avoiding this, that no man should blame us in this abundance which is administered by us:"
+        },
+        {
+            "reference":  "2 Corinthians 8:21",
+             "verseNumber":  21,
+             "scripture":  "Providing for honest things, not only in the sight of the Lord, but also in the sight of men."
+        },
+        {
+            "reference":  "2 Corinthians 8:22",
+             "verseNumber":  22,
+             "scripture":  "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you."
+        },
+        {
+            "reference":  "2 Corinthians 8:23",
+             "verseNumber":  23,
+             "scripture":  "Whether any do enquire of Titus, he is my partner and fellow-helper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ."
+        },
+        {
+            "reference":  "2 Corinthians 8:24",
+             "verseNumber":  24,
+             "scripture":  "Wherefore show all of you to them, and before the churches, the proof of your love, and of our boasting on your behalf."
+        }
+    ]
+}

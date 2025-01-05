@@ -1,1 +1,180 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 30, "verses": [{"reference": "Proverbs 30:1", "verseNumber": 1, "scripture": "The words of Agur the son of Jakeh, even the prophecy: the man spoke unto Ithiel, even unto Ithiel and Ucal,"},{"reference": "Proverbs 30:2", "verseNumber": 2, "scripture": "Surely I am more brutish than any man, and have not the understanding of a man."},{"reference": "Proverbs 30:3", "verseNumber": 3, "scripture": "I neither learned wisdom, nor have the knowledge of the holy."},{"reference": "Proverbs 30:4", "verseNumber": 4, "scripture": "Who has ascended up into heaven, or descended? who has gathered the wind in his fists? who has bound the waters in a garment? who has established all the ends of the earth? what is his name, and what is his son's name, if you can tell?"},{"reference": "Proverbs 30:5", "verseNumber": 5, "scripture": "Every word of God is pure: he is a shield unto them that put their trust in him."},{"reference": "Proverbs 30:6", "verseNumber": 6, "scripture": "Add you not unto his words, lest he reprove you, and you be found a liar."},{"reference": "Proverbs 30:7", "verseNumber": 7, "scripture": "Two things have I required of you; deny me them not before I die:"},{"reference": "Proverbs 30:8", "verseNumber": 8, "scripture": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:"},{"reference": "Proverbs 30:9", "verseNumber": 9, "scripture": "Lest I be full, and deny you, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain."},{"reference": "Proverbs 30:10", "verseNumber": 10, "scripture": "Accuse not a servant unto his master, lest he curse you, and you be found guilty."},{"reference": "Proverbs 30:11", "verseNumber": 11, "scripture": "There is a generation that curses their father, and does not bless their mother."},{"reference": "Proverbs 30:12", "verseNumber": 12, "scripture": "There is a generation that are pure in their own eyes, and yet is not washed from their filthiness."},{"reference": "Proverbs 30:13", "verseNumber": 13, "scripture": "There is a generation, O how lofty are their eyes! and their eyelids are lifted up."},{"reference": "Proverbs 30:14", "verseNumber": 14, "scripture": "There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men."},{"reference": "Proverbs 30:15", "verseNumber": 15, "scripture": "The horseleach has two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:"},{"reference": "Proverbs 30:16", "verseNumber": 16, "scripture": "The grave; and the barren womb; the earth that is not filled with water; and the fire that says not, It is enough."},{"reference": "Proverbs 30:17", "verseNumber": 17, "scripture": "The eye that mocks at his father, and despises to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."},{"reference": "Proverbs 30:18", "verseNumber": 18, "scripture": "There be three things which are too wonderful for me, yea, four which I know not:"},{"reference": "Proverbs 30:19", "verseNumber": 19, "scripture": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid."},{"reference": "Proverbs 30:20", "verseNumber": 20, "scripture": "Such is the way of an adulterous woman; she eats, and wipes her mouth, and says, I have done no wickedness."},{"reference": "Proverbs 30:21", "verseNumber": 21, "scripture": "For three things the earth is disquieted, and for four which it cannot bear:"},{"reference": "Proverbs 30:22", "verseNumber": 22, "scripture": "For a servant when he reigns; and a fool when he is filled with food;"},{"reference": "Proverbs 30:23", "verseNumber": 23, "scripture": "For an abhorrent woman when she is married; and an handmaid that is heir to her mistress."},{"reference": "Proverbs 30:24", "verseNumber": 24, "scripture": "There be four things which are little upon the earth, but they are exceeding wise:"},{"reference": "Proverbs 30:25", "verseNumber": 25, "scripture": "The ants are a people not strong, yet they prepare their food in the summer;"},{"reference": "Proverbs 30:26", "verseNumber": 26, "scripture": "The conies are but a feeble folk, yet make they their houses in the rocks;"},{"reference": "Proverbs 30:27", "verseNumber": 27, "scripture": "The locusts have no king, yet go they forth all of them by bands;"},{"reference": "Proverbs 30:28", "verseNumber": 28, "scripture": "The spider takes hold with her hands, and is in kings' palaces."},{"reference": "Proverbs 30:29", "verseNumber": 29, "scripture": "There be three things which go well, yea, four are comely in going:"},{"reference": "Proverbs 30:30", "verseNumber": 30, "scripture": "A lion which is strongest among beasts, and turns not away for any;"},{"reference": "Proverbs 30:31", "verseNumber": 31, "scripture": "A greyhound; an he goat also; and a king, against whom there is no rising up."},{"reference": "Proverbs 30:32", "verseNumber": 32, "scripture": "If you have done foolishly in lifting up yourself, or if you have thought evil, lay yours hand upon your mouth."},{"reference": "Proverbs 30:33", "verseNumber": 33, "scripture": "Surely the churning of milk brings forth butter, and the wringing of the nose brings forth blood: so the forcing of wrath brings forth strife."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  30,
+     "verses":  [
+        {
+            "reference":  "Proverbs 30:1",
+             "verseNumber":  1,
+             "scripture":  "The words of Agur the son of Jakeh, even the prophecy: the man spoke unto Ithiel, even unto Ithiel and Ucal,"
+        },
+        {
+            "reference":  "Proverbs 30:2",
+             "verseNumber":  2,
+             "scripture":  "Surely I am more brutish than any man, and have not the understanding of a man."
+        },
+        {
+            "reference":  "Proverbs 30:3",
+             "verseNumber":  3,
+             "scripture":  "I neither learned wisdom, nor have the knowledge of the holy."
+        },
+        {
+            "reference":  "Proverbs 30:4",
+             "verseNumber":  4,
+             "scripture":  "Who has ascended up into heaven, or descended? who has gathered the wind in his fists? who has bound the waters in a garment? who has established all the ends of the earth? what is his name, and what is his son's name, if you can tell?"
+        },
+        {
+            "reference":  "Proverbs 30:5",
+             "verseNumber":  5,
+             "scripture":  "Every word of God is pure: he is a shield unto them that put their trust in him."
+        },
+        {
+            "reference":  "Proverbs 30:6",
+             "verseNumber":  6,
+             "scripture":  "Add you not unto his words, lest he reprove you, and you be found a liar."
+        },
+        {
+            "reference":  "Proverbs 30:7",
+             "verseNumber":  7,
+             "scripture":  "Two things have I required of you; deny me them not before I die:"
+        },
+        {
+            "reference":  "Proverbs 30:8",
+             "verseNumber":  8,
+             "scripture":  "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:"
+        },
+        {
+            "reference":  "Proverbs 30:9",
+             "verseNumber":  9,
+             "scripture":  "Lest I be full, and deny you, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain."
+        },
+        {
+            "reference":  "Proverbs 30:10",
+             "verseNumber":  10,
+             "scripture":  "Accuse not a servant unto his master, lest he curse you, and you be found guilty."
+        },
+        {
+            "reference":  "Proverbs 30:11",
+             "verseNumber":  11,
+             "scripture":  "There is a generation that curses their father, and does not bless their mother."
+        },
+        {
+            "reference":  "Proverbs 30:12",
+             "verseNumber":  12,
+             "scripture":  "There is a generation that are pure in their own eyes, and yet is not washed from their filthiness."
+        },
+        {
+            "reference":  "Proverbs 30:13",
+             "verseNumber":  13,
+             "scripture":  "There is a generation, O how lofty are their eyes! and their eyelids are lifted up."
+        },
+        {
+            "reference":  "Proverbs 30:14",
+             "verseNumber":  14,
+             "scripture":  "There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men."
+        },
+        {
+            "reference":  "Proverbs 30:15",
+             "verseNumber":  15,
+             "scripture":  "The horseleach has two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:"
+        },
+        {
+            "reference":  "Proverbs 30:16",
+             "verseNumber":  16,
+             "scripture":  "The grave; and the barren womb; the earth that is not filled with water; and the fire that says not, It is enough."
+        },
+        {
+            "reference":  "Proverbs 30:17",
+             "verseNumber":  17,
+             "scripture":  "The eye that mocks at his father, and despises to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."
+        },
+        {
+            "reference":  "Proverbs 30:18",
+             "verseNumber":  18,
+             "scripture":  "There be three things which are too wonderful for me, yea, four which I know not:"
+        },
+        {
+            "reference":  "Proverbs 30:19",
+             "verseNumber":  19,
+             "scripture":  "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid."
+        },
+        {
+            "reference":  "Proverbs 30:20",
+             "verseNumber":  20,
+             "scripture":  "Such is the way of an adulterous woman; she eats, and wipes her mouth, and says, I have done no wickedness."
+        },
+        {
+            "reference":  "Proverbs 30:21",
+             "verseNumber":  21,
+             "scripture":  "For three things the earth is disquieted, and for four which it cannot bear:"
+        },
+        {
+            "reference":  "Proverbs 30:22",
+             "verseNumber":  22,
+             "scripture":  "For a servant when he reigns; and a fool when he is filled with food;"
+        },
+        {
+            "reference":  "Proverbs 30:23",
+             "verseNumber":  23,
+             "scripture":  "For an abhorrent woman when she is married; and an handmaid that is heir to her mistress."
+        },
+        {
+            "reference":  "Proverbs 30:24",
+             "verseNumber":  24,
+             "scripture":  "There be four things which are little upon the earth, but they are exceeding wise:"
+        },
+        {
+            "reference":  "Proverbs 30:25",
+             "verseNumber":  25,
+             "scripture":  "The ants are a people not strong, yet they prepare their food in the summer;"
+        },
+        {
+            "reference":  "Proverbs 30:26",
+             "verseNumber":  26,
+             "scripture":  "The conies are but a feeble folk, yet make they their houses in the rocks;"
+        },
+        {
+            "reference":  "Proverbs 30:27",
+             "verseNumber":  27,
+             "scripture":  "The locusts have no king, yet go they forth all of them by bands;"
+        },
+        {
+            "reference":  "Proverbs 30:28",
+             "verseNumber":  28,
+             "scripture":  "The spider takes hold with her hands, and is in kings' palaces."
+        },
+        {
+            "reference":  "Proverbs 30:29",
+             "verseNumber":  29,
+             "scripture":  "There be three things which go well, yea, four are comely in going:"
+        },
+        {
+            "reference":  "Proverbs 30:30",
+             "verseNumber":  30,
+             "scripture":  "A lion which is strongest among beasts, and turns not away for any;"
+        },
+        {
+            "reference":  "Proverbs 30:31",
+             "verseNumber":  31,
+             "scripture":  "A greyhound; an he goat also; and a king, against whom there is no rising up."
+        },
+        {
+            "reference":  "Proverbs 30:32",
+             "verseNumber":  32,
+             "scripture":  "If you have done foolishly in lifting up yourself, or if you have thought evil, lay yours hand upon your mouth."
+        },
+        {
+            "reference":  "Proverbs 30:33",
+             "verseNumber":  33,
+             "scripture":  "Surely the churning of milk brings forth butter, and the wringing of the nose brings forth blood: so the forcing of wrath brings forth strife."
+        }
+    ]
+}

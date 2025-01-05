@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 41, "verses": [{"reference": "Isaiah 41:1", "verseNumber": 1, "scripture": "Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment."},{"reference": "Isaiah 41:2", "verseNumber": 2, "scripture": "Who raised up the righteous man from the east, called him to his foot, gave the nations before him, and made him rule over kings? he gave them as the dust to his sword, and as driven stubble to his bow."},{"reference": "Isaiah 41:3", "verseNumber": 3, "scripture": "He pursued them, and passed safely; even by the way that he had not gone with his feet."},{"reference": "Isaiah 41:4", "verseNumber": 4, "scripture": "Who has wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he."},{"reference": "Isaiah 41:5", "verseNumber": 5, "scripture": "The isles saw it, and feared; the ends of the earth were afraid, drew near, and came."},{"reference": "Isaiah 41:6", "verseNumber": 6, "scripture": "They helped every one his neighbour; and every one said to his brother, Be of good courage."},{"reference": "Isaiah 41:7", "verseNumber": 7, "scripture": "So the carpenter encouraged the goldsmith, and he that smoothes with the hammer him that stroke the anvil, saying, It is ready for the soldering: and he fastened it with nails, that it should not be moved."},{"reference": "Isaiah 41:8", "verseNumber": 8, "scripture": "But you, Israel, are my servant, Jacob whom I have chosen, the seed of Abraham my friend."},{"reference": "Isaiah 41:9", "verseNumber": 9, "scripture": "You whom I have taken from the ends of the earth, and called you from the chief men thereof, and said unto you, You are my servant; I have chosen you, and not cast you away."},{"reference": "Isaiah 41:10", "verseNumber": 10, "scripture": "Fear you not; for I am with you: be not dismayed; for I am your God: I will strengthen you; yea, I will help you; yea, I will uphold you with the right hand of my righteousness."},{"reference": "Isaiah 41:11", "verseNumber": 11, "scripture": "Behold, all they that were incensed against you shall be ashamed and confounded: they shall be as nothing; and they that strive with you shall perish."},{"reference": "Isaiah 41:12", "verseNumber": 12, "scripture": "You shall seek them, and shall not find them, even them that contended with you: they that war against you shall be as nothing, and as a thing of nothing."},{"reference": "Isaiah 41:13", "verseNumber": 13, "scripture": "For I the LORD your God will hold your right hand, saying unto you, Fear not; I will help you."},{"reference": "Isaiah 41:14", "verseNumber": 14, "scripture": "Fear not, you worm Jacob, and all of you men of Israel; I will help you, says the LORD, and your redeemer, the Holy One of Israel."},{"reference": "Isaiah 41:15", "verseNumber": 15, "scripture": "Behold, I will make you a new sharp threshing instrument having teeth: you shall thresh the mountains, and beat them small, and shall make the hills as chaff."},{"reference": "Isaiah 41:16", "verseNumber": 16, "scripture": "You shall fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and you shall rejoice in the LORD, and shall glory in the Holy One of Israel."},{"reference": "Isaiah 41:17", "verseNumber": 17, "scripture": "When the poor and needy seek water, and there is none, and their tongue fails for thirst, I the LORD will hear them, I the God of Israel will not forsake them."},{"reference": "Isaiah 41:18", "verseNumber": 18, "scripture": "I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water."},{"reference": "Isaiah 41:19", "verseNumber": 19, "scripture": "I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together:"},{"reference": "Isaiah 41:20", "verseNumber": 20, "scripture": "That they may see, and know, and consider, and understand together, that the hand of the LORD has done this, and the Holy One of Israel has created it."},{"reference": "Isaiah 41:21", "verseNumber": 21, "scripture": "Produce your cause, says the LORD; bring forth your strong reasons, says the King of Jacob."},{"reference": "Isaiah 41:22", "verseNumber": 22, "scripture": "Let them bring them forth, and show us what shall happen: let them show the former things, what they be, that we may consider them, and know the latter end of them; or declare us things in order to come."},{"reference": "Isaiah 41:23", "verseNumber": 23, "scripture": "Show the things that are to come hereafter, that we may know that all of you are gods: yea, do good, or do evil, that we may be dismayed, and behold it together."},{"reference": "Isaiah 41:24", "verseNumber": 24, "scripture": "Behold, all of you are of nothing, and your work of nothing: an abomination is he that chooses you."},{"reference": "Isaiah 41:25", "verseNumber": 25, "scripture": "I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon mortar, and as the potter treads clay."},{"reference": "Isaiah 41:26", "verseNumber": 26, "scripture": "Who has declared from the beginning, that we may know? and in time past, that we may say, He is righteous? yea, there is none that shows, yea, there is none that declares, yea, there is none that hears your words."},{"reference": "Isaiah 41:27", "verseNumber": 27, "scripture": "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that brings good tidings."},{"reference": "Isaiah 41:28", "verseNumber": 28, "scripture": "For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word."},{"reference": "Isaiah 41:29", "verseNumber": 29, "scripture": "Behold, they are all vanity; their works are nothing: their molten images are wind and confusion."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  41,
+     "verses":  [
+        {
+            "reference":  "Isaiah 41:1",
+             "verseNumber":  1,
+             "scripture":  "Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment."
+        },
+        {
+            "reference":  "Isaiah 41:2",
+             "verseNumber":  2,
+             "scripture":  "Who raised up the righteous man from the east, called him to his foot, gave the nations before him, and made him rule over kings? he gave them as the dust to his sword, and as driven stubble to his bow."
+        },
+        {
+            "reference":  "Isaiah 41:3",
+             "verseNumber":  3,
+             "scripture":  "He pursued them, and passed safely; even by the way that he had not gone with his feet."
+        },
+        {
+            "reference":  "Isaiah 41:4",
+             "verseNumber":  4,
+             "scripture":  "Who has wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he."
+        },
+        {
+            "reference":  "Isaiah 41:5",
+             "verseNumber":  5,
+             "scripture":  "The isles saw it, and feared; the ends of the earth were afraid, drew near, and came."
+        },
+        {
+            "reference":  "Isaiah 41:6",
+             "verseNumber":  6,
+             "scripture":  "They helped every one his neighbour; and every one said to his brother, Be of good courage."
+        },
+        {
+            "reference":  "Isaiah 41:7",
+             "verseNumber":  7,
+             "scripture":  "So the carpenter encouraged the goldsmith, and he that smoothes with the hammer him that stroke the anvil, saying, It is ready for the soldering: and he fastened it with nails, that it should not be moved."
+        },
+        {
+            "reference":  "Isaiah 41:8",
+             "verseNumber":  8,
+             "scripture":  "But you, Israel, are my servant, Jacob whom I have chosen, the seed of Abraham my friend."
+        },
+        {
+            "reference":  "Isaiah 41:9",
+             "verseNumber":  9,
+             "scripture":  "You whom I have taken from the ends of the earth, and called you from the chief men thereof, and said unto you, You are my servant; I have chosen you, and not cast you away."
+        },
+        {
+            "reference":  "Isaiah 41:10",
+             "verseNumber":  10,
+             "scripture":  "Fear you not; for I am with you: be not dismayed; for I am your God: I will strengthen you; yea, I will help you; yea, I will uphold you with the right hand of my righteousness."
+        },
+        {
+            "reference":  "Isaiah 41:11",
+             "verseNumber":  11,
+             "scripture":  "Behold, all they that were incensed against you shall be ashamed and confounded: they shall be as nothing; and they that strive with you shall perish."
+        },
+        {
+            "reference":  "Isaiah 41:12",
+             "verseNumber":  12,
+             "scripture":  "You shall seek them, and shall not find them, even them that contended with you: they that war against you shall be as nothing, and as a thing of nothing."
+        },
+        {
+            "reference":  "Isaiah 41:13",
+             "verseNumber":  13,
+             "scripture":  "For I the LORD your God will hold your right hand, saying unto you, Fear not; I will help you."
+        },
+        {
+            "reference":  "Isaiah 41:14",
+             "verseNumber":  14,
+             "scripture":  "Fear not, you worm Jacob, and all of you men of Israel; I will help you, says the LORD, and your redeemer, the Holy One of Israel."
+        },
+        {
+            "reference":  "Isaiah 41:15",
+             "verseNumber":  15,
+             "scripture":  "Behold, I will make you a new sharp threshing instrument having teeth: you shall thresh the mountains, and beat them small, and shall make the hills as chaff."
+        },
+        {
+            "reference":  "Isaiah 41:16",
+             "verseNumber":  16,
+             "scripture":  "You shall fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and you shall rejoice in the LORD, and shall glory in the Holy One of Israel."
+        },
+        {
+            "reference":  "Isaiah 41:17",
+             "verseNumber":  17,
+             "scripture":  "When the poor and needy seek water, and there is none, and their tongue fails for thirst, I the LORD will hear them, I the God of Israel will not forsake them."
+        },
+        {
+            "reference":  "Isaiah 41:18",
+             "verseNumber":  18,
+             "scripture":  "I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water."
+        },
+        {
+            "reference":  "Isaiah 41:19",
+             "verseNumber":  19,
+             "scripture":  "I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together:"
+        },
+        {
+            "reference":  "Isaiah 41:20",
+             "verseNumber":  20,
+             "scripture":  "That they may see, and know, and consider, and understand together, that the hand of the LORD has done this, and the Holy One of Israel has created it."
+        },
+        {
+            "reference":  "Isaiah 41:21",
+             "verseNumber":  21,
+             "scripture":  "Produce your cause, says the LORD; bring forth your strong reasons, says the King of Jacob."
+        },
+        {
+            "reference":  "Isaiah 41:22",
+             "verseNumber":  22,
+             "scripture":  "Let them bring them forth, and show us what shall happen: let them show the former things, what they be, that we may consider them, and know the latter end of them; or declare us things in order to come."
+        },
+        {
+            "reference":  "Isaiah 41:23",
+             "verseNumber":  23,
+             "scripture":  "Show the things that are to come hereafter, that we may know that all of you are gods: yea, do good, or do evil, that we may be dismayed, and behold it together."
+        },
+        {
+            "reference":  "Isaiah 41:24",
+             "verseNumber":  24,
+             "scripture":  "Behold, all of you are of nothing, and your work of nothing: an abomination is he that chooses you."
+        },
+        {
+            "reference":  "Isaiah 41:25",
+             "verseNumber":  25,
+             "scripture":  "I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon mortar, and as the potter treads clay."
+        },
+        {
+            "reference":  "Isaiah 41:26",
+             "verseNumber":  26,
+             "scripture":  "Who has declared from the beginning, that we may know? and in time past, that we may say, He is righteous? yea, there is none that shows, yea, there is none that declares, yea, there is none that hears your words."
+        },
+        {
+            "reference":  "Isaiah 41:27",
+             "verseNumber":  27,
+             "scripture":  "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that brings good tidings."
+        },
+        {
+            "reference":  "Isaiah 41:28",
+             "verseNumber":  28,
+             "scripture":  "For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word."
+        },
+        {
+            "reference":  "Isaiah 41:29",
+             "verseNumber":  29,
+             "scripture":  "Behold, they are all vanity; their works are nothing: their molten images are wind and confusion."
+        }
+    ]
+}

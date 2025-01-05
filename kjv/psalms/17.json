@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 17, "verses": [{"reference": "Psalm 17:1", "verseNumber": 1, "scripture": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goes not out of feigned lips."},{"reference": "Psalm 17:2", "verseNumber": 2, "scripture": "Let my sentence come forth from your presence; let yours eyes behold the things that are equal."},{"reference": "Psalm 17:3", "verseNumber": 3, "scripture": "You have proved mine heart; you have visited me in the night; you have tried me, and shall find nothing; I am purposed that my mouth shall not transgress."},{"reference": "Psalm 17:4", "verseNumber": 4, "scripture": "Concerning the works of men, by the word of your lips I have kept me from the paths of the destroyer."},{"reference": "Psalm 17:5", "verseNumber": 5, "scripture": "Hold up my activities in your paths, that my footsteps slip not."},{"reference": "Psalm 17:6", "verseNumber": 6, "scripture": "I have called upon you, for you will hear me, O God: incline yours ear unto me, and hear my speech."},{"reference": "Psalm 17:7", "verseNumber": 7, "scripture": "Show your marvellous loving kindness, O you that save by your right hand them which put their trust in you from those that rise up against them."},{"reference": "Psalm 17:8", "verseNumber": 8, "scripture": "Keep me as the apple of the eye, hide me under the shadow of your wings,"},{"reference": "Psalm 17:9", "verseNumber": 9, "scripture": "From the wicked that oppress me, from my deadly enemies, who compass me about."},{"reference": "Psalm 17:10", "verseNumber": 10, "scripture": "They are enclosed in their own fat: with their mouth they speak proudly."},{"reference": "Psalm 17:11", "verseNumber": 11, "scripture": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;"},{"reference": "Psalm 17:12", "verseNumber": 12, "scripture": "Like a lion that is greedy of his prey, and as it were a young lion lurking in secret places."},{"reference": "Psalm 17:13", "verseNumber": 13, "scripture": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is your sword:"},{"reference": "Psalm 17:14", "verseNumber": 14, "scripture": "From men which are your hand, O LORD, from men of the world, which have their portion in this life, and whose belly you fill with your hid treasure: they are full of children, and leave the rest of their substance to their babes."},{"reference": "Psalm 17:15", "verseNumber": 15, "scripture": "As for me, I will behold your face in righteousness: I shall be satisfied, when I awake, with your likeness."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Psalm 17:1",
+             "verseNumber":  1,
+             "scripture":  "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goes not out of feigned lips."
+        },
+        {
+            "reference":  "Psalm 17:2",
+             "verseNumber":  2,
+             "scripture":  "Let my sentence come forth from your presence; let yours eyes behold the things that are equal."
+        },
+        {
+            "reference":  "Psalm 17:3",
+             "verseNumber":  3,
+             "scripture":  "You have proved mine heart; you have visited me in the night; you have tried me, and shall find nothing; I am purposed that my mouth shall not transgress."
+        },
+        {
+            "reference":  "Psalm 17:4",
+             "verseNumber":  4,
+             "scripture":  "Concerning the works of men, by the word of your lips I have kept me from the paths of the destroyer."
+        },
+        {
+            "reference":  "Psalm 17:5",
+             "verseNumber":  5,
+             "scripture":  "Hold up my activities in your paths, that my footsteps slip not."
+        },
+        {
+            "reference":  "Psalm 17:6",
+             "verseNumber":  6,
+             "scripture":  "I have called upon you, for you will hear me, O God: incline yours ear unto me, and hear my speech."
+        },
+        {
+            "reference":  "Psalm 17:7",
+             "verseNumber":  7,
+             "scripture":  "Show your marvellous loving kindness, O you that save by your right hand them which put their trust in you from those that rise up against them."
+        },
+        {
+            "reference":  "Psalm 17:8",
+             "verseNumber":  8,
+             "scripture":  "Keep me as the apple of the eye, hide me under the shadow of your wings,"
+        },
+        {
+            "reference":  "Psalm 17:9",
+             "verseNumber":  9,
+             "scripture":  "From the wicked that oppress me, from my deadly enemies, who compass me about."
+        },
+        {
+            "reference":  "Psalm 17:10",
+             "verseNumber":  10,
+             "scripture":  "They are enclosed in their own fat: with their mouth they speak proudly."
+        },
+        {
+            "reference":  "Psalm 17:11",
+             "verseNumber":  11,
+             "scripture":  "They have now compassed us in our steps: they have set their eyes bowing down to the earth;"
+        },
+        {
+            "reference":  "Psalm 17:12",
+             "verseNumber":  12,
+             "scripture":  "Like a lion that is greedy of his prey, and as it were a young lion lurking in secret places."
+        },
+        {
+            "reference":  "Psalm 17:13",
+             "verseNumber":  13,
+             "scripture":  "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is your sword:"
+        },
+        {
+            "reference":  "Psalm 17:14",
+             "verseNumber":  14,
+             "scripture":  "From men which are your hand, O LORD, from men of the world, which have their portion in this life, and whose belly you fill with your hid treasure: they are full of children, and leave the rest of their substance to their babes."
+        },
+        {
+            "reference":  "Psalm 17:15",
+             "verseNumber":  15,
+             "scripture":  "As for me, I will behold your face in righteousness: I shall be satisfied, when I awake, with your likeness."
+        }
+    ]
+}

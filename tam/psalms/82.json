@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "சங்கீதம்", "bookAbbreviation": "சங்", "chapterNumber": 82, "verses": [{"reference": "சங்கீதம் 82:1", "verseNumber": 1, "scripture": "தேவசபையிலே தேவன் எழுந்தருளியிருக்கிறார்; தேவர்களின் நடுவிலே அவர் நியாயம் விசாரிக்கிறார்."},{"reference": "சங்கீதம் 82:2", "verseNumber": 2, "scripture": "எதுவரைக்கும் நீங்கள் அநியாயத்தீர்ப்புச்செய்து, துன்மார்க்கருக்கு முகதாட்சிணியம்பண்ணுவீர்கள். (சேலா)"},{"reference": "சங்கீதம் 82:3", "verseNumber": 3, "scripture": "ஏழைக்கும் திக்கற்றபிள்ளைக்கும் நியாயஞ்செய்து, சிறுமைப்பட்டவனுக்கும் திக்கற்றவனுக்கும் நீதி செய்யுங்கள்."},{"reference": "சங்கீதம் 82:4", "verseNumber": 4, "scripture": "பலவீனனையும் எளியவனையும் விடுவித்து, துன்மார்க்கரின் கைக்கு அவர்களைத் தப்புவியுங்கள்."},{"reference": "சங்கீதம் 82:5", "verseNumber": 5, "scripture": "அறியாமலும் உணராமலும் இருக்கிறார்கள், அந்தகாரத்திலே நடக்கிறார்கள்; தேசத்தின் அஸ்திபாரங்களெல்லாம் அசைகிறது."},{"reference": "சங்கீதம் 82:6", "verseNumber": 6, "scripture": "நீங்கள் தேவர்கள் என்றும், நீங்களெல்லாரும் உன்னதமானவரின் மக்கள் என்றும் நான் சொல்லியிருந்தேன்."},{"reference": "சங்கீதம் 82:7", "verseNumber": 7, "scripture": "ஆனாலும் நீங்கள் மனுஷரைப்போலச் செத்து, லோகப்பிரபுக்களில் ஒருவனைப்போல விழுந்து போவீர்கள்."},{"reference": "சங்கீதம் 82:8", "verseNumber": 8, "scripture": "தேவனே, எழுந்தருளும், பூமிக்கு நியாயத்தீர்ப்புச் செய்யும்; நீரே சகல ஜாதிகளையும் சுதந்தரமாகக் கொண்டிருப்பவர்."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "சங்கீதம்",
+     "bookAbbreviation":  "சங்",
+     "chapterNumber":  82,
+     "verses":  [
+        {
+            "reference":  "சங்கீதம் 82:1",
+             "verseNumber":  1,
+             "scripture":  "தேவசபையிலே தேவன் எழுந்தருளியிருக்கிறார்; தேவர்களின் நடுவிலே அவர் நியாயம் விசாரிக்கிறார்."
+        },
+        {
+            "reference":  "சங்கீதம் 82:2",
+             "verseNumber":  2,
+             "scripture":  "எதுவரைக்கும் நீங்கள் அநியாயத்தீர்ப்புச்செய்து, துன்மார்க்கருக்கு முகதாட்சிணியம்பண்ணுவீர்கள். (சேலா)"
+        },
+        {
+            "reference":  "சங்கீதம் 82:3",
+             "verseNumber":  3,
+             "scripture":  "ஏழைக்கும் திக்கற்றபிள்ளைக்கும் நியாயஞ்செய்து, சிறுமைப்பட்டவனுக்கும் திக்கற்றவனுக்கும் நீதி செய்யுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 82:4",
+             "verseNumber":  4,
+             "scripture":  "பலவீனனையும் எளியவனையும் விடுவித்து, துன்மார்க்கரின் கைக்கு அவர்களைத் தப்புவியுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 82:5",
+             "verseNumber":  5,
+             "scripture":  "அறியாமலும் உணராமலும் இருக்கிறார்கள், அந்தகாரத்திலே நடக்கிறார்கள்; தேசத்தின் அஸ்திபாரங்களெல்லாம் அசைகிறது."
+        },
+        {
+            "reference":  "சங்கீதம் 82:6",
+             "verseNumber":  6,
+             "scripture":  "நீங்கள் தேவர்கள் என்றும், நீங்களெல்லாரும் உன்னதமானவரின் மக்கள் என்றும் நான் சொல்லியிருந்தேன்."
+        },
+        {
+            "reference":  "சங்கீதம் 82:7",
+             "verseNumber":  7,
+             "scripture":  "ஆனாலும் நீங்கள் மனுஷரைப்போலச் செத்து, லோகப்பிரபுக்களில் ஒருவனைப்போல விழுந்து போவீர்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 82:8",
+             "verseNumber":  8,
+             "scripture":  "தேவனே, எழுந்தருளும், பூமிக்கு நியாயத்தீர்ப்புச் செய்யும்; நீரே சகல ஜாதிகளையும் சுதந்தரமாகக் கொண்டிருப்பவர்."
+        }
+    ]
+}

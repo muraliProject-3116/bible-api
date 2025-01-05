@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezekiel", "bookAbbreviation": "Eze", "chapterNumber": 15, "verses": [{"reference": "Ezekiel 15:1", "verseNumber": 1, "scripture": "And the word of the LORD came unto me, saying,"},{"reference": "Ezekiel 15:2", "verseNumber": 2, "scripture": "Son of man, what is the vine tree more than any tree, or than a branch which is among the trees of the forest?"},{"reference": "Ezekiel 15:3", "verseNumber": 3, "scripture": "Shall wood be taken thereof to do any work? or will men take a pin of it to hang any vessel thereon?"},{"reference": "Ezekiel 15:4", "verseNumber": 4, "scripture": "Behold, it is cast into the fire for fuel; the fire devours both the ends of it, and the midst of it is burned. Is it meet for any work?"},{"reference": "Ezekiel 15:5", "verseNumber": 5, "scripture": "Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for any work, when the fire has devoured it, and it is burned?"},{"reference": "Ezekiel 15:6", "verseNumber": 6, "scripture": "Therefore thus says the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem."},{"reference": "Ezekiel 15:7", "verseNumber": 7, "scripture": "And I will set my face against them; they shall go out from one fire, and another fire shall devour them; and all of you shall know that I am the LORD, when I set my face against them."},{"reference": "Ezekiel 15:8", "verseNumber": 8, "scripture": "And I will make the land desolate, because they have committed a trespass, says the Lord GOD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezekiel",
+     "bookAbbreviation":  "Eze",
+     "chapterNumber":  15,
+     "verses":  [
+        {
+            "reference":  "Ezekiel 15:1",
+             "verseNumber":  1,
+             "scripture":  "And the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Ezekiel 15:2",
+             "verseNumber":  2,
+             "scripture":  "Son of man, what is the vine tree more than any tree, or than a branch which is among the trees of the forest?"
+        },
+        {
+            "reference":  "Ezekiel 15:3",
+             "verseNumber":  3,
+             "scripture":  "Shall wood be taken thereof to do any work? or will men take a pin of it to hang any vessel thereon?"
+        },
+        {
+            "reference":  "Ezekiel 15:4",
+             "verseNumber":  4,
+             "scripture":  "Behold, it is cast into the fire for fuel; the fire devours both the ends of it, and the midst of it is burned. Is it meet for any work?"
+        },
+        {
+            "reference":  "Ezekiel 15:5",
+             "verseNumber":  5,
+             "scripture":  "Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for any work, when the fire has devoured it, and it is burned?"
+        },
+        {
+            "reference":  "Ezekiel 15:6",
+             "verseNumber":  6,
+             "scripture":  "Therefore thus says the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem."
+        },
+        {
+            "reference":  "Ezekiel 15:7",
+             "verseNumber":  7,
+             "scripture":  "And I will set my face against them; they shall go out from one fire, and another fire shall devour them; and all of you shall know that I am the LORD, when I set my face against them."
+        },
+        {
+            "reference":  "Ezekiel 15:8",
+             "verseNumber":  8,
+             "scripture":  "And I will make the land desolate, because they have committed a trespass, says the Lord GOD."
+        }
+    ]
+}

@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Corinthians", "bookAbbreviation": "2 Cor", "chapterNumber": 7, "verses": [{"reference": "2 Corinthians 7:1", "verseNumber": 1, "scripture": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God."},{"reference": "2 Corinthians 7:2", "verseNumber": 2, "scripture": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man."},{"reference": "2 Corinthians 7:3", "verseNumber": 3, "scripture": "I speak not this to condemn you: for I have said before, that all of you are in our hearts to die and live with you."},{"reference": "2 Corinthians 7:4", "verseNumber": 4, "scripture": "Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation."},{"reference": "2 Corinthians 7:5", "verseNumber": 5, "scripture": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."},{"reference": "2 Corinthians 7:6", "verseNumber": 6, "scripture": "Nevertheless God, that comforts those that are cast down, comforted us by the coming of Titus;"},{"reference": "2 Corinthians 7:7", "verseNumber": 7, "scripture": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earn desire, your mourning, your fervent mind toward me; so that I rejoiced the more."},{"reference": "2 Corinthians 7:8", "verseNumber": 8, "scripture": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season."},{"reference": "2 Corinthians 7:9", "verseNumber": 9, "scripture": "Now I rejoice, not that all of you were made sorry, but that all of you sorrowed to repentance: for all of you were made sorry after a godly manner, that all of you might receive damage by us in nothing."},{"reference": "2 Corinthians 7:10", "verseNumber": 10, "scripture": "For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death."},{"reference": "2 Corinthians 7:11", "verseNumber": 11, "scripture": "For behold this very same thing, that all of you sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things all of you have approved yourselves to be clear in this matter."},{"reference": "2 Corinthians 7:12", "verseNumber": 12, "scripture": "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you."},{"reference": "2 Corinthians 7:13", "verseNumber": 13, "scripture": "Therefore we were comforted in your comfort: yea, and exceedingly more rejoice did we for the joy of Titus, because his spirit was refreshed by you all."},{"reference": "2 Corinthians 7:14", "verseNumber": 14, "scripture": "For if I have boasted any thing to him of you, I am not ashamed; but as we spoke all things to you in truth, even so our boasting, which I made before Titus, is found a truth."},{"reference": "2 Corinthians 7:15", "verseNumber": 15, "scripture": "And his inward affection is more abundant toward you, whilst he remembers the obedience of you all, how with fear and trembling all of you received him."},{"reference": "2 Corinthians 7:16", "verseNumber": 16, "scripture": "I rejoice therefore that I have confidence in you in all things."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Corinthians",
+     "bookAbbreviation":  "2 Cor",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "2 Corinthians 7:1",
+             "verseNumber":  1,
+             "scripture":  "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God."
+        },
+        {
+            "reference":  "2 Corinthians 7:2",
+             "verseNumber":  2,
+             "scripture":  "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man."
+        },
+        {
+            "reference":  "2 Corinthians 7:3",
+             "verseNumber":  3,
+             "scripture":  "I speak not this to condemn you: for I have said before, that all of you are in our hearts to die and live with you."
+        },
+        {
+            "reference":  "2 Corinthians 7:4",
+             "verseNumber":  4,
+             "scripture":  "Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation."
+        },
+        {
+            "reference":  "2 Corinthians 7:5",
+             "verseNumber":  5,
+             "scripture":  "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."
+        },
+        {
+            "reference":  "2 Corinthians 7:6",
+             "verseNumber":  6,
+             "scripture":  "Nevertheless God, that comforts those that are cast down, comforted us by the coming of Titus;"
+        },
+        {
+            "reference":  "2 Corinthians 7:7",
+             "verseNumber":  7,
+             "scripture":  "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earn desire, your mourning, your fervent mind toward me; so that I rejoiced the more."
+        },
+        {
+            "reference":  "2 Corinthians 7:8",
+             "verseNumber":  8,
+             "scripture":  "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season."
+        },
+        {
+            "reference":  "2 Corinthians 7:9",
+             "verseNumber":  9,
+             "scripture":  "Now I rejoice, not that all of you were made sorry, but that all of you sorrowed to repentance: for all of you were made sorry after a godly manner, that all of you might receive damage by us in nothing."
+        },
+        {
+            "reference":  "2 Corinthians 7:10",
+             "verseNumber":  10,
+             "scripture":  "For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death."
+        },
+        {
+            "reference":  "2 Corinthians 7:11",
+             "verseNumber":  11,
+             "scripture":  "For behold this very same thing, that all of you sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things all of you have approved yourselves to be clear in this matter."
+        },
+        {
+            "reference":  "2 Corinthians 7:12",
+             "verseNumber":  12,
+             "scripture":  "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you."
+        },
+        {
+            "reference":  "2 Corinthians 7:13",
+             "verseNumber":  13,
+             "scripture":  "Therefore we were comforted in your comfort: yea, and exceedingly more rejoice did we for the joy of Titus, because his spirit was refreshed by you all."
+        },
+        {
+            "reference":  "2 Corinthians 7:14",
+             "verseNumber":  14,
+             "scripture":  "For if I have boasted any thing to him of you, I am not ashamed; but as we spoke all things to you in truth, even so our boasting, which I made before Titus, is found a truth."
+        },
+        {
+            "reference":  "2 Corinthians 7:15",
+             "verseNumber":  15,
+             "scripture":  "And his inward affection is more abundant toward you, whilst he remembers the obedience of you all, how with fear and trembling all of you received him."
+        },
+        {
+            "reference":  "2 Corinthians 7:16",
+             "verseNumber":  16,
+             "scripture":  "I rejoice therefore that I have confidence in you in all things."
+        }
+    ]
+}

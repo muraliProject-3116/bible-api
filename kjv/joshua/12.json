@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Joshua", "bookAbbreviation": "Jos", "chapterNumber": 12, "verses": [{"reference": "Joshua 12:1", "verseNumber": 1, "scripture": "Now these are the kings of the land, which the children of Israel stroke, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:"},{"reference": "Joshua 12:2", "verseNumber": 2, "scripture": "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"},{"reference": "Joshua 12:3", "verseNumber": 3, "scripture": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:"},{"reference": "Joshua 12:4", "verseNumber": 4, "scripture": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"},{"reference": "Joshua 12:5", "verseNumber": 5, "scripture": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."},{"reference": "Joshua 12:6", "verseNumber": 6, "scripture": "Them did Moses the servant of the LORD and the children of Israel strike: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh."},{"reference": "Joshua 12:7", "verseNumber": 7, "scripture": "And these are the kings of the country which Joshua and the children of Israel stroke on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goes up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;"},{"reference": "Joshua 12:8", "verseNumber": 8, "scripture": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"},{"reference": "Joshua 12:9", "verseNumber": 9, "scripture": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"},{"reference": "Joshua 12:10", "verseNumber": 10, "scripture": "The king of Jerusalem, one; the king of Hebron, one;"},{"reference": "Joshua 12:11", "verseNumber": 11, "scripture": "The king of Jarmuth, one; the king of Lachish, one;"},{"reference": "Joshua 12:12", "verseNumber": 12, "scripture": "The king of Eglon, one; the king of Gezer, one;"},{"reference": "Joshua 12:13", "verseNumber": 13, "scripture": "The king of Debir, one; the king of Geder, one;"},{"reference": "Joshua 12:14", "verseNumber": 14, "scripture": "The king of Hormah, one; the king of Arad, one;"},{"reference": "Joshua 12:15", "verseNumber": 15, "scripture": "The king of Libnah, one; the king of Adullam, one;"},{"reference": "Joshua 12:16", "verseNumber": 16, "scripture": "The king of Makkedah, one; the king of Bethel, one;"},{"reference": "Joshua 12:17", "verseNumber": 17, "scripture": "The king of Tappuah, one; the king of Hepher, one;"},{"reference": "Joshua 12:18", "verseNumber": 18, "scripture": "The king of Aphek, one; the king of Lasharon, one;"},{"reference": "Joshua 12:19", "verseNumber": 19, "scripture": "The king of Madon, one; the king of Hazor, one;"},{"reference": "Joshua 12:20", "verseNumber": 20, "scripture": "The king of Shimronmeron, one; the king of Achshaph, one;"},{"reference": "Joshua 12:21", "verseNumber": 21, "scripture": "The king of Taanach, one; the king of Megiddo, one;"},{"reference": "Joshua 12:22", "verseNumber": 22, "scripture": "The king of Kedesh, one; the king of Jokneam of Carmel, one;"},{"reference": "Joshua 12:23", "verseNumber": 23, "scripture": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"},{"reference": "Joshua 12:24", "verseNumber": 24, "scripture": "The king of Tirzah, one: all the kings thirty and one."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Joshua",
+     "bookAbbreviation":  "Jos",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "Joshua 12:1",
+             "verseNumber":  1,
+             "scripture":  "Now these are the kings of the land, which the children of Israel stroke, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:"
+        },
+        {
+            "reference":  "Joshua 12:2",
+             "verseNumber":  2,
+             "scripture":  "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"
+        },
+        {
+            "reference":  "Joshua 12:3",
+             "verseNumber":  3,
+             "scripture":  "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:"
+        },
+        {
+            "reference":  "Joshua 12:4",
+             "verseNumber":  4,
+             "scripture":  "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
+        },
+        {
+            "reference":  "Joshua 12:5",
+             "verseNumber":  5,
+             "scripture":  "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
+        },
+        {
+            "reference":  "Joshua 12:6",
+             "verseNumber":  6,
+             "scripture":  "Them did Moses the servant of the LORD and the children of Israel strike: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh."
+        },
+        {
+            "reference":  "Joshua 12:7",
+             "verseNumber":  7,
+             "scripture":  "And these are the kings of the country which Joshua and the children of Israel stroke on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goes up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;"
+        },
+        {
+            "reference":  "Joshua 12:8",
+             "verseNumber":  8,
+             "scripture":  "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
+        },
+        {
+            "reference":  "Joshua 12:9",
+             "verseNumber":  9,
+             "scripture":  "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+        },
+        {
+            "reference":  "Joshua 12:10",
+             "verseNumber":  10,
+             "scripture":  "The king of Jerusalem, one; the king of Hebron, one;"
+        },
+        {
+            "reference":  "Joshua 12:11",
+             "verseNumber":  11,
+             "scripture":  "The king of Jarmuth, one; the king of Lachish, one;"
+        },
+        {
+            "reference":  "Joshua 12:12",
+             "verseNumber":  12,
+             "scripture":  "The king of Eglon, one; the king of Gezer, one;"
+        },
+        {
+            "reference":  "Joshua 12:13",
+             "verseNumber":  13,
+             "scripture":  "The king of Debir, one; the king of Geder, one;"
+        },
+        {
+            "reference":  "Joshua 12:14",
+             "verseNumber":  14,
+             "scripture":  "The king of Hormah, one; the king of Arad, one;"
+        },
+        {
+            "reference":  "Joshua 12:15",
+             "verseNumber":  15,
+             "scripture":  "The king of Libnah, one; the king of Adullam, one;"
+        },
+        {
+            "reference":  "Joshua 12:16",
+             "verseNumber":  16,
+             "scripture":  "The king of Makkedah, one; the king of Bethel, one;"
+        },
+        {
+            "reference":  "Joshua 12:17",
+             "verseNumber":  17,
+             "scripture":  "The king of Tappuah, one; the king of Hepher, one;"
+        },
+        {
+            "reference":  "Joshua 12:18",
+             "verseNumber":  18,
+             "scripture":  "The king of Aphek, one; the king of Lasharon, one;"
+        },
+        {
+            "reference":  "Joshua 12:19",
+             "verseNumber":  19,
+             "scripture":  "The king of Madon, one; the king of Hazor, one;"
+        },
+        {
+            "reference":  "Joshua 12:20",
+             "verseNumber":  20,
+             "scripture":  "The king of Shimronmeron, one; the king of Achshaph, one;"
+        },
+        {
+            "reference":  "Joshua 12:21",
+             "verseNumber":  21,
+             "scripture":  "The king of Taanach, one; the king of Megiddo, one;"
+        },
+        {
+            "reference":  "Joshua 12:22",
+             "verseNumber":  22,
+             "scripture":  "The king of Kedesh, one; the king of Jokneam of Carmel, one;"
+        },
+        {
+            "reference":  "Joshua 12:23",
+             "verseNumber":  23,
+             "scripture":  "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"
+        },
+        {
+            "reference":  "Joshua 12:24",
+             "verseNumber":  24,
+             "scripture":  "The king of Tirzah, one: all the kings thirty and one."
+        }
+    ]
+}

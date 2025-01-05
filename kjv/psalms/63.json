@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 63, "verses": [{"reference": "Psalm 63:1", "verseNumber": 1, "scripture": "O God, you are my God; early will I seek you: my soul thirsts for you, my flesh longs for you in a dry and thirsty land, where no water is;"},{"reference": "Psalm 63:2", "verseNumber": 2, "scripture": "To see your power and your glory, so as I have seen you in the sanctuary."},{"reference": "Psalm 63:3", "verseNumber": 3, "scripture": "Because your loving kindness is better than life, my lips shall praise you."},{"reference": "Psalm 63:4", "verseNumber": 4, "scripture": "Thus will I bless you while I live: I will lift up my hands in your name."},{"reference": "Psalm 63:5", "verseNumber": 5, "scripture": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise you with joyful lips:"},{"reference": "Psalm 63:6", "verseNumber": 6, "scripture": "When I remember you upon my bed, and meditate on you in the night watches."},{"reference": "Psalm 63:7", "verseNumber": 7, "scripture": "Because you have been my help, therefore in the shadow of your wings will I rejoice."},{"reference": "Psalm 63:8", "verseNumber": 8, "scripture": "My soul follows hard after you: your right hand upholds me."},{"reference": "Psalm 63:9", "verseNumber": 9, "scripture": "But those that seek my soul, to destroy it, shall go into the lower parts of the earth."},{"reference": "Psalm 63:10", "verseNumber": 10, "scripture": "They shall fall by the sword: they shall be a portion for foxes."},{"reference": "Psalm 63:11", "verseNumber": 11, "scripture": "But the king shall rejoice in God; every one that swears by him shall glory: but the mouth of them that speak lies shall be stopped."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  63,
+     "verses":  [
+        {
+            "reference":  "Psalm 63:1",
+             "verseNumber":  1,
+             "scripture":  "O God, you are my God; early will I seek you: my soul thirsts for you, my flesh longs for you in a dry and thirsty land, where no water is;"
+        },
+        {
+            "reference":  "Psalm 63:2",
+             "verseNumber":  2,
+             "scripture":  "To see your power and your glory, so as I have seen you in the sanctuary."
+        },
+        {
+            "reference":  "Psalm 63:3",
+             "verseNumber":  3,
+             "scripture":  "Because your loving kindness is better than life, my lips shall praise you."
+        },
+        {
+            "reference":  "Psalm 63:4",
+             "verseNumber":  4,
+             "scripture":  "Thus will I bless you while I live: I will lift up my hands in your name."
+        },
+        {
+            "reference":  "Psalm 63:5",
+             "verseNumber":  5,
+             "scripture":  "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise you with joyful lips:"
+        },
+        {
+            "reference":  "Psalm 63:6",
+             "verseNumber":  6,
+             "scripture":  "When I remember you upon my bed, and meditate on you in the night watches."
+        },
+        {
+            "reference":  "Psalm 63:7",
+             "verseNumber":  7,
+             "scripture":  "Because you have been my help, therefore in the shadow of your wings will I rejoice."
+        },
+        {
+            "reference":  "Psalm 63:8",
+             "verseNumber":  8,
+             "scripture":  "My soul follows hard after you: your right hand upholds me."
+        },
+        {
+            "reference":  "Psalm 63:9",
+             "verseNumber":  9,
+             "scripture":  "But those that seek my soul, to destroy it, shall go into the lower parts of the earth."
+        },
+        {
+            "reference":  "Psalm 63:10",
+             "verseNumber":  10,
+             "scripture":  "They shall fall by the sword: they shall be a portion for foxes."
+        },
+        {
+            "reference":  "Psalm 63:11",
+             "verseNumber":  11,
+             "scripture":  "But the king shall rejoice in God; every one that swears by him shall glory: but the mouth of them that speak lies shall be stopped."
+        }
+    ]
+}

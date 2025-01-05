@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 145, "verses": [{"reference": "Psalm 145:1", "verseNumber": 1, "scripture": "I will extol you, my God, O king; and I will bless your name for ever and ever."},{"reference": "Psalm 145:2", "verseNumber": 2, "scripture": "Every day will I bless you; and I will praise your name for ever and ever."},{"reference": "Psalm 145:3", "verseNumber": 3, "scripture": "Great is the LORD, and greatly to be praised; and his greatness is unsearchable."},{"reference": "Psalm 145:4", "verseNumber": 4, "scripture": "One generation shall praise your works to another, and shall declare your mighty acts."},{"reference": "Psalm 145:5", "verseNumber": 5, "scripture": "I will speak of the glorious honour of your majesty, and of your wondrous works."},{"reference": "Psalm 145:6", "verseNumber": 6, "scripture": "And men shall speak of the might of your terrible acts: and I will declare your greatness."},{"reference": "Psalm 145:7", "verseNumber": 7, "scripture": "They shall abundantly utter the memory of your great goodness, and shall sing of your righteousness."},{"reference": "Psalm 145:8", "verseNumber": 8, "scripture": "The LORD is gracious, and full of compassion; slow to anger, and of great mercy."},{"reference": "Psalm 145:9", "verseNumber": 9, "scripture": "The LORD is good to all: and his tender mercies are over all his works."},{"reference": "Psalm 145:10", "verseNumber": 10, "scripture": "All your works shall praise you, O LORD; and your saints shall bless you."},{"reference": "Psalm 145:11", "verseNumber": 11, "scripture": "They shall speak of the glory of your kingdom, and talk of your power;"},{"reference": "Psalm 145:12", "verseNumber": 12, "scripture": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom."},{"reference": "Psalm 145:13", "verseNumber": 13, "scripture": "Your kingdom is an everlasting kingdom, and your dominion endures throughout all generations."},{"reference": "Psalm 145:14", "verseNumber": 14, "scripture": "The LORD upholds all that fall, and raises up all those that be bowed down."},{"reference": "Psalm 145:15", "verseNumber": 15, "scripture": "The eyes of all wait upon you; and you give them their food in due season."},{"reference": "Psalm 145:16", "verseNumber": 16, "scripture": "You open yours hand, and satisfy the desire of every living thing."},{"reference": "Psalm 145:17", "verseNumber": 17, "scripture": "The LORD is righteous in all his ways, and holy in all his works."},{"reference": "Psalm 145:18", "verseNumber": 18, "scripture": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth."},{"reference": "Psalm 145:19", "verseNumber": 19, "scripture": "He will fulfill the desire of them that fear him: he also will hear their cry, and will save them."},{"reference": "Psalm 145:20", "verseNumber": 20, "scripture": "The LORD perserves all them that love him: but all the wicked will he destroy."},{"reference": "Psalm 145:21", "verseNumber": 21, "scripture": "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  145,
+     "verses":  [
+        {
+            "reference":  "Psalm 145:1",
+             "verseNumber":  1,
+             "scripture":  "I will extol you, my God, O king; and I will bless your name for ever and ever."
+        },
+        {
+            "reference":  "Psalm 145:2",
+             "verseNumber":  2,
+             "scripture":  "Every day will I bless you; and I will praise your name for ever and ever."
+        },
+        {
+            "reference":  "Psalm 145:3",
+             "verseNumber":  3,
+             "scripture":  "Great is the LORD, and greatly to be praised; and his greatness is unsearchable."
+        },
+        {
+            "reference":  "Psalm 145:4",
+             "verseNumber":  4,
+             "scripture":  "One generation shall praise your works to another, and shall declare your mighty acts."
+        },
+        {
+            "reference":  "Psalm 145:5",
+             "verseNumber":  5,
+             "scripture":  "I will speak of the glorious honour of your majesty, and of your wondrous works."
+        },
+        {
+            "reference":  "Psalm 145:6",
+             "verseNumber":  6,
+             "scripture":  "And men shall speak of the might of your terrible acts: and I will declare your greatness."
+        },
+        {
+            "reference":  "Psalm 145:7",
+             "verseNumber":  7,
+             "scripture":  "They shall abundantly utter the memory of your great goodness, and shall sing of your righteousness."
+        },
+        {
+            "reference":  "Psalm 145:8",
+             "verseNumber":  8,
+             "scripture":  "The LORD is gracious, and full of compassion; slow to anger, and of great mercy."
+        },
+        {
+            "reference":  "Psalm 145:9",
+             "verseNumber":  9,
+             "scripture":  "The LORD is good to all: and his tender mercies are over all his works."
+        },
+        {
+            "reference":  "Psalm 145:10",
+             "verseNumber":  10,
+             "scripture":  "All your works shall praise you, O LORD; and your saints shall bless you."
+        },
+        {
+            "reference":  "Psalm 145:11",
+             "verseNumber":  11,
+             "scripture":  "They shall speak of the glory of your kingdom, and talk of your power;"
+        },
+        {
+            "reference":  "Psalm 145:12",
+             "verseNumber":  12,
+             "scripture":  "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom."
+        },
+        {
+            "reference":  "Psalm 145:13",
+             "verseNumber":  13,
+             "scripture":  "Your kingdom is an everlasting kingdom, and your dominion endures throughout all generations."
+        },
+        {
+            "reference":  "Psalm 145:14",
+             "verseNumber":  14,
+             "scripture":  "The LORD upholds all that fall, and raises up all those that be bowed down."
+        },
+        {
+            "reference":  "Psalm 145:15",
+             "verseNumber":  15,
+             "scripture":  "The eyes of all wait upon you; and you give them their food in due season."
+        },
+        {
+            "reference":  "Psalm 145:16",
+             "verseNumber":  16,
+             "scripture":  "You open yours hand, and satisfy the desire of every living thing."
+        },
+        {
+            "reference":  "Psalm 145:17",
+             "verseNumber":  17,
+             "scripture":  "The LORD is righteous in all his ways, and holy in all his works."
+        },
+        {
+            "reference":  "Psalm 145:18",
+             "verseNumber":  18,
+             "scripture":  "The LORD is nigh unto all them that call upon him, to all that call upon him in truth."
+        },
+        {
+            "reference":  "Psalm 145:19",
+             "verseNumber":  19,
+             "scripture":  "He will fulfill the desire of them that fear him: he also will hear their cry, and will save them."
+        },
+        {
+            "reference":  "Psalm 145:20",
+             "verseNumber":  20,
+             "scripture":  "The LORD perserves all them that love him: but all the wicked will he destroy."
+        },
+        {
+            "reference":  "Psalm 145:21",
+             "verseNumber":  21,
+             "scripture":  "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever."
+        }
+    ]
+}

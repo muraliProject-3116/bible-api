@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Jeremiah", "bookAbbreviation": "Jer", "chapterNumber": 8, "verses": [{"reference": "Jeremiah 8:1", "verseNumber": 1, "scripture": "At that time, says the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:"},{"reference": "Jeremiah 8:2", "verseNumber": 2, "scripture": "And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth."},{"reference": "Jeremiah 8:3", "verseNumber": 3, "scripture": "And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places where I have driven them, says the LORD of hosts."},{"reference": "Jeremiah 8:4", "verseNumber": 4, "scripture": "Moreover you shall say unto them, Thus says the LORD; Shall they fall, and not arise? shall he turn away, and not return?"},{"reference": "Jeremiah 8:5", "verseNumber": 5, "scripture": "Why then is this people of Jerusalem slides back by a perpetual backsliding? they hold fast deceit, they refuse to return."},{"reference": "Jeremiah 8:6", "verseNumber": 6, "scripture": "I hearkened and heard, but they spoke not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rushes into the battle."},{"reference": "Jeremiah 8:7", "verseNumber": 7, "scripture": "Yea, the stork in the heaven knows her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD."},{"reference": "Jeremiah 8:8", "verseNumber": 8, "scripture": "How do all of you say, We are wise, and the law of the LORD is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain."},{"reference": "Jeremiah 8:9", "verseNumber": 9, "scripture": "The wise men are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom is in them?"},{"reference": "Jeremiah 8:10", "verseNumber": 10, "scripture": "Therefore will I give their wives unto others, and their fields to them that shall inherit them: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one deals falsely."},{"reference": "Jeremiah 8:11", "verseNumber": 11, "scripture": "For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace."},{"reference": "Jeremiah 8:12", "verseNumber": 12, "scripture": "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall: in the time of their visitation they shall be cast down, says the LORD."},{"reference": "Jeremiah 8:13", "verseNumber": 13, "scripture": "I will surely consume them, says the LORD: there shall be no grapes on the vine, nor figs on the fig tree, and the leaf shall fade; and the things that I have given them shall pass away from them."},{"reference": "Jeremiah 8:14", "verseNumber": 14, "scripture": "Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God has put us to silence, and given us water of gall to drink, because we have sinned against the LORD."},{"reference": "Jeremiah 8:15", "verseNumber": 15, "scripture": "We looked for peace, but no good came; and for a time of health, and behold trouble!"},{"reference": "Jeremiah 8:16", "verseNumber": 16, "scripture": "The snorting of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein."},{"reference": "Jeremiah 8:17", "verseNumber": 17, "scripture": "For, behold, I will send serpents, cockatrices, among you, which will not be charmed, and they shall bite you, says the LORD."},{"reference": "Jeremiah 8:18", "verseNumber": 18, "scripture": "When I would comfort myself against sorrow, my heart is faint in me."},{"reference": "Jeremiah 8:19", "verseNumber": 19, "scripture": "Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: Is not the LORD in Zion? is not her king in her? Why have they provoked me to anger with their graven images, and with strange vanities?"},{"reference": "Jeremiah 8:20", "verseNumber": 20, "scripture": "The harvest is past, the summer is ended, and we are not saved."},{"reference": "Jeremiah 8:21", "verseNumber": 21, "scripture": "For the hurt of the daughter of my people am I hurt; I am black; astonishment has taken hold on me."},{"reference": "Jeremiah 8:22", "verseNumber": 22, "scripture": "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Jeremiah",
+     "bookAbbreviation":  "Jer",
+     "chapterNumber":  8,
+     "verses":  [
+        {
+            "reference":  "Jeremiah 8:1",
+             "verseNumber":  1,
+             "scripture":  "At that time, says the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:"
+        },
+        {
+            "reference":  "Jeremiah 8:2",
+             "verseNumber":  2,
+             "scripture":  "And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth."
+        },
+        {
+            "reference":  "Jeremiah 8:3",
+             "verseNumber":  3,
+             "scripture":  "And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places where I have driven them, says the LORD of hosts."
+        },
+        {
+            "reference":  "Jeremiah 8:4",
+             "verseNumber":  4,
+             "scripture":  "Moreover you shall say unto them, Thus says the LORD; Shall they fall, and not arise? shall he turn away, and not return?"
+        },
+        {
+            "reference":  "Jeremiah 8:5",
+             "verseNumber":  5,
+             "scripture":  "Why then is this people of Jerusalem slides back by a perpetual backsliding? they hold fast deceit, they refuse to return."
+        },
+        {
+            "reference":  "Jeremiah 8:6",
+             "verseNumber":  6,
+             "scripture":  "I hearkened and heard, but they spoke not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rushes into the battle."
+        },
+        {
+            "reference":  "Jeremiah 8:7",
+             "verseNumber":  7,
+             "scripture":  "Yea, the stork in the heaven knows her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD."
+        },
+        {
+            "reference":  "Jeremiah 8:8",
+             "verseNumber":  8,
+             "scripture":  "How do all of you say, We are wise, and the law of the LORD is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain."
+        },
+        {
+            "reference":  "Jeremiah 8:9",
+             "verseNumber":  9,
+             "scripture":  "The wise men are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom is in them?"
+        },
+        {
+            "reference":  "Jeremiah 8:10",
+             "verseNumber":  10,
+             "scripture":  "Therefore will I give their wives unto others, and their fields to them that shall inherit them: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one deals falsely."
+        },
+        {
+            "reference":  "Jeremiah 8:11",
+             "verseNumber":  11,
+             "scripture":  "For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace."
+        },
+        {
+            "reference":  "Jeremiah 8:12",
+             "verseNumber":  12,
+             "scripture":  "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall: in the time of their visitation they shall be cast down, says the LORD."
+        },
+        {
+            "reference":  "Jeremiah 8:13",
+             "verseNumber":  13,
+             "scripture":  "I will surely consume them, says the LORD: there shall be no grapes on the vine, nor figs on the fig tree, and the leaf shall fade; and the things that I have given them shall pass away from them."
+        },
+        {
+            "reference":  "Jeremiah 8:14",
+             "verseNumber":  14,
+             "scripture":  "Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God has put us to silence, and given us water of gall to drink, because we have sinned against the LORD."
+        },
+        {
+            "reference":  "Jeremiah 8:15",
+             "verseNumber":  15,
+             "scripture":  "We looked for peace, but no good came; and for a time of health, and behold trouble!"
+        },
+        {
+            "reference":  "Jeremiah 8:16",
+             "verseNumber":  16,
+             "scripture":  "The snorting of his horses was heard from Dan: the whole land trembled at the sound of the neighing of his strong ones; for they are come, and have devoured the land, and all that is in it; the city, and those that dwell therein."
+        },
+        {
+            "reference":  "Jeremiah 8:17",
+             "verseNumber":  17,
+             "scripture":  "For, behold, I will send serpents, cockatrices, among you, which will not be charmed, and they shall bite you, says the LORD."
+        },
+        {
+            "reference":  "Jeremiah 8:18",
+             "verseNumber":  18,
+             "scripture":  "When I would comfort myself against sorrow, my heart is faint in me."
+        },
+        {
+            "reference":  "Jeremiah 8:19",
+             "verseNumber":  19,
+             "scripture":  "Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: Is not the LORD in Zion? is not her king in her? Why have they provoked me to anger with their graven images, and with strange vanities?"
+        },
+        {
+            "reference":  "Jeremiah 8:20",
+             "verseNumber":  20,
+             "scripture":  "The harvest is past, the summer is ended, and we are not saved."
+        },
+        {
+            "reference":  "Jeremiah 8:21",
+             "verseNumber":  21,
+             "scripture":  "For the hurt of the daughter of my people am I hurt; I am black; astonishment has taken hold on me."
+        },
+        {
+            "reference":  "Jeremiah 8:22",
+             "verseNumber":  22,
+             "scripture":  "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?"
+        }
+    ]
+}

@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 132, "verses": [{"reference": "Psalm 132:1", "verseNumber": 1, "scripture": "Lord, remember David, and all his afflictions:"},{"reference": "Psalm 132:2", "verseNumber": 2, "scripture": "How he swore unto the LORD, and vowed unto the mighty God of Jacob;"},{"reference": "Psalm 132:3", "verseNumber": 3, "scripture": "Surely I will not come into the tabernacle of my house, nor go up into my bed;"},{"reference": "Psalm 132:4", "verseNumber": 4, "scripture": "I will not give sleep to mine eyes, or slumber to mine eyelids,"},{"reference": "Psalm 132:5", "verseNumber": 5, "scripture": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob."},{"reference": "Psalm 132:6", "verseNumber": 6, "scripture": "Lo, we heard of it at Ephratah: we found it in the fields of the wood."},{"reference": "Psalm 132:7", "verseNumber": 7, "scripture": "We will go into his tabernacles: we will worship at his footstool."},{"reference": "Psalm 132:8", "verseNumber": 8, "scripture": "Arise, O LORD, into your rest; you, and the ark of your strength."},{"reference": "Psalm 132:9", "verseNumber": 9, "scripture": "Let your priests be clothed with righteousness; and let your saints shout for joy."},{"reference": "Psalm 132:10", "verseNumber": 10, "scripture": "For your servant David's sake turn not away the face of yours anointed."},{"reference": "Psalm 132:11", "verseNumber": 11, "scripture": "The LORD has sworn in truth unto David; he will not turn from it; Of the fruit of your body will I set upon your throne."},{"reference": "Psalm 132:12", "verseNumber": 12, "scripture": "If your children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon your throne for evermore."},{"reference": "Psalm 132:13", "verseNumber": 13, "scripture": "For the LORD has chosen Zion; he has desired it for his habitation."},{"reference": "Psalm 132:14", "verseNumber": 14, "scripture": "This is my rest for ever: here will I dwell; for I have desired it."},{"reference": "Psalm 132:15", "verseNumber": 15, "scripture": "I will abundantly bless her provision: I will satisfy her poor with bread."},{"reference": "Psalm 132:16", "verseNumber": 16, "scripture": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy."},{"reference": "Psalm 132:17", "verseNumber": 17, "scripture": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed."},{"reference": "Psalm 132:18", "verseNumber": 18, "scripture": "His enemies will I clothe with shame: but upon himself shall his crown flourish."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  132,
+     "verses":  [
+        {
+            "reference":  "Psalm 132:1",
+             "verseNumber":  1,
+             "scripture":  "Lord, remember David, and all his afflictions:"
+        },
+        {
+            "reference":  "Psalm 132:2",
+             "verseNumber":  2,
+             "scripture":  "How he swore unto the LORD, and vowed unto the mighty God of Jacob;"
+        },
+        {
+            "reference":  "Psalm 132:3",
+             "verseNumber":  3,
+             "scripture":  "Surely I will not come into the tabernacle of my house, nor go up into my bed;"
+        },
+        {
+            "reference":  "Psalm 132:4",
+             "verseNumber":  4,
+             "scripture":  "I will not give sleep to mine eyes, or slumber to mine eyelids,"
+        },
+        {
+            "reference":  "Psalm 132:5",
+             "verseNumber":  5,
+             "scripture":  "Until I find out a place for the LORD, an habitation for the mighty God of Jacob."
+        },
+        {
+            "reference":  "Psalm 132:6",
+             "verseNumber":  6,
+             "scripture":  "Lo, we heard of it at Ephratah: we found it in the fields of the wood."
+        },
+        {
+            "reference":  "Psalm 132:7",
+             "verseNumber":  7,
+             "scripture":  "We will go into his tabernacles: we will worship at his footstool."
+        },
+        {
+            "reference":  "Psalm 132:8",
+             "verseNumber":  8,
+             "scripture":  "Arise, O LORD, into your rest; you, and the ark of your strength."
+        },
+        {
+            "reference":  "Psalm 132:9",
+             "verseNumber":  9,
+             "scripture":  "Let your priests be clothed with righteousness; and let your saints shout for joy."
+        },
+        {
+            "reference":  "Psalm 132:10",
+             "verseNumber":  10,
+             "scripture":  "For your servant David's sake turn not away the face of yours anointed."
+        },
+        {
+            "reference":  "Psalm 132:11",
+             "verseNumber":  11,
+             "scripture":  "The LORD has sworn in truth unto David; he will not turn from it; Of the fruit of your body will I set upon your throne."
+        },
+        {
+            "reference":  "Psalm 132:12",
+             "verseNumber":  12,
+             "scripture":  "If your children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon your throne for evermore."
+        },
+        {
+            "reference":  "Psalm 132:13",
+             "verseNumber":  13,
+             "scripture":  "For the LORD has chosen Zion; he has desired it for his habitation."
+        },
+        {
+            "reference":  "Psalm 132:14",
+             "verseNumber":  14,
+             "scripture":  "This is my rest for ever: here will I dwell; for I have desired it."
+        },
+        {
+            "reference":  "Psalm 132:15",
+             "verseNumber":  15,
+             "scripture":  "I will abundantly bless her provision: I will satisfy her poor with bread."
+        },
+        {
+            "reference":  "Psalm 132:16",
+             "verseNumber":  16,
+             "scripture":  "I will also clothe her priests with salvation: and her saints shall shout aloud for joy."
+        },
+        {
+            "reference":  "Psalm 132:17",
+             "verseNumber":  17,
+             "scripture":  "There will I make the horn of David to bud: I have ordained a lamp for mine anointed."
+        },
+        {
+            "reference":  "Psalm 132:18",
+             "verseNumber":  18,
+             "scripture":  "His enemies will I clothe with shame: but upon himself shall his crown flourish."
+        }
+    ]
+}

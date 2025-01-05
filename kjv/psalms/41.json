@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 41, "verses": [{"reference": "Psalm 41:1", "verseNumber": 1, "scripture": "Blessed is he that considers the poor: the LORD will deliver him in time of trouble."},{"reference": "Psalm 41:2", "verseNumber": 2, "scripture": "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and you will not deliver him unto the will of his enemies."},{"reference": "Psalm 41:3", "verseNumber": 3, "scripture": "The LORD will strengthen him upon the bed of languishing: you will make all his bed in his sickness."},{"reference": "Psalm 41:4", "verseNumber": 4, "scripture": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against you."},{"reference": "Psalm 41:5", "verseNumber": 5, "scripture": "Mine enemies speak evil of me, When shall he die, and his name perish?"},{"reference": "Psalm 41:6", "verseNumber": 6, "scripture": "And if he comes to see me, he speaks vanity: his heart gathers iniquity to itself; when he goes abroad, he tells it."},{"reference": "Psalm 41:7", "verseNumber": 7, "scripture": "All that hate me whisper together against me: against me do they devise my hurt."},{"reference": "Psalm 41:8", "verseNumber": 8, "scripture": "An evil disease, say they, cleaves fast unto him: and now that he lies he shall rise up no more."},{"reference": "Psalm 41:9", "verseNumber": 9, "scripture": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, has lifted up his heel against me."},{"reference": "Psalm 41:10", "verseNumber": 10, "scripture": "But you, O LORD, be merciful unto me, and raise me up, that I may requite them."},{"reference": "Psalm 41:11", "verseNumber": 11, "scripture": "By this I know that you favour me, because mine enemy does not triumph over me."},{"reference": "Psalm 41:12", "verseNumber": 12, "scripture": "And as for me, you uphold me in mine integrity, and set me before your face for ever."},{"reference": "Psalm 41:13", "verseNumber": 13, "scripture": "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  41,
+     "verses":  [
+        {
+            "reference":  "Psalm 41:1",
+             "verseNumber":  1,
+             "scripture":  "Blessed is he that considers the poor: the LORD will deliver him in time of trouble."
+        },
+        {
+            "reference":  "Psalm 41:2",
+             "verseNumber":  2,
+             "scripture":  "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and you will not deliver him unto the will of his enemies."
+        },
+        {
+            "reference":  "Psalm 41:3",
+             "verseNumber":  3,
+             "scripture":  "The LORD will strengthen him upon the bed of languishing: you will make all his bed in his sickness."
+        },
+        {
+            "reference":  "Psalm 41:4",
+             "verseNumber":  4,
+             "scripture":  "I said, LORD, be merciful unto me: heal my soul; for I have sinned against you."
+        },
+        {
+            "reference":  "Psalm 41:5",
+             "verseNumber":  5,
+             "scripture":  "Mine enemies speak evil of me, When shall he die, and his name perish?"
+        },
+        {
+            "reference":  "Psalm 41:6",
+             "verseNumber":  6,
+             "scripture":  "And if he comes to see me, he speaks vanity: his heart gathers iniquity to itself; when he goes abroad, he tells it."
+        },
+        {
+            "reference":  "Psalm 41:7",
+             "verseNumber":  7,
+             "scripture":  "All that hate me whisper together against me: against me do they devise my hurt."
+        },
+        {
+            "reference":  "Psalm 41:8",
+             "verseNumber":  8,
+             "scripture":  "An evil disease, say they, cleaves fast unto him: and now that he lies he shall rise up no more."
+        },
+        {
+            "reference":  "Psalm 41:9",
+             "verseNumber":  9,
+             "scripture":  "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, has lifted up his heel against me."
+        },
+        {
+            "reference":  "Psalm 41:10",
+             "verseNumber":  10,
+             "scripture":  "But you, O LORD, be merciful unto me, and raise me up, that I may requite them."
+        },
+        {
+            "reference":  "Psalm 41:11",
+             "verseNumber":  11,
+             "scripture":  "By this I know that you favour me, because mine enemy does not triumph over me."
+        },
+        {
+            "reference":  "Psalm 41:12",
+             "verseNumber":  12,
+             "scripture":  "And as for me, you uphold me in mine integrity, and set me before your face for ever."
+        },
+        {
+            "reference":  "Psalm 41:13",
+             "verseNumber":  13,
+             "scripture":  "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen."
+        }
+    ]
+}

@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 92, "verses": [{"reference": "Psalm 92:1", "verseNumber": 1, "scripture": "IT IS A GOOD THING TO GIVE THANKS UNTO THE LORD, AND TO SING PRAISES UNTO Your NAME, O MOST HIGH:"},{"reference": "Psalm 92:2", "verseNumber": 2, "scripture": "To show forth your loving kindness in the morning, and your faithfulness every night,"},{"reference": "Psalm 92:3", "verseNumber": 3, "scripture": "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound."},{"reference": "Psalm 92:4", "verseNumber": 4, "scripture": "For you, LORD, have made me glad through your work: I will triumph in the works of your hands."},{"reference": "Psalm 92:5", "verseNumber": 5, "scripture": "O LORD, how great are your works! and your thoughts are very deep."},{"reference": "Psalm 92:6", "verseNumber": 6, "scripture": "A brutish man knows not; neither does a fool understand this."},{"reference": "Psalm 92:7", "verseNumber": 7, "scripture": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:"},{"reference": "Psalm 92:8", "verseNumber": 8, "scripture": "But you, LORD, are most high for evermore."},{"reference": "Psalm 92:9", "verseNumber": 9, "scripture": "For, lo, yours enemies, O LORD, for, lo, yours enemies shall perish; all the workers of iniquity shall be scattered."},{"reference": "Psalm 92:10", "verseNumber": 10, "scripture": "But my horn shall you exalt like the horn of an unicorn : I shall be anointed with fresh oil."},{"reference": "Psalm 92:11", "verseNumber": 11, "scripture": "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me."},{"reference": "Psalm 92:12", "verseNumber": 12, "scripture": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon."},{"reference": "Psalm 92:13", "verseNumber": 13, "scripture": "Those that be planted in the house of the LORD shall flourish in the courts of our God."},{"reference": "Psalm 92:14", "verseNumber": 14, "scripture": "They shall still bring forth fruit in old age; they shall be fat and flourishing;"},{"reference": "Psalm 92:15", "verseNumber": 15, "scripture": "To show that the LORD is upright: he is my rock, and there is no unrighteousness in him."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  92,
+     "verses":  [
+        {
+            "reference":  "Psalm 92:1",
+             "verseNumber":  1,
+             "scripture":  "IT IS A GOOD THING TO GIVE THANKS UNTO THE LORD, AND TO SING PRAISES UNTO Your NAME, O MOST HIGH:"
+        },
+        {
+            "reference":  "Psalm 92:2",
+             "verseNumber":  2,
+             "scripture":  "To show forth your loving kindness in the morning, and your faithfulness every night,"
+        },
+        {
+            "reference":  "Psalm 92:3",
+             "verseNumber":  3,
+             "scripture":  "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound."
+        },
+        {
+            "reference":  "Psalm 92:4",
+             "verseNumber":  4,
+             "scripture":  "For you, LORD, have made me glad through your work: I will triumph in the works of your hands."
+        },
+        {
+            "reference":  "Psalm 92:5",
+             "verseNumber":  5,
+             "scripture":  "O LORD, how great are your works! and your thoughts are very deep."
+        },
+        {
+            "reference":  "Psalm 92:6",
+             "verseNumber":  6,
+             "scripture":  "A brutish man knows not; neither does a fool understand this."
+        },
+        {
+            "reference":  "Psalm 92:7",
+             "verseNumber":  7,
+             "scripture":  "When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:"
+        },
+        {
+            "reference":  "Psalm 92:8",
+             "verseNumber":  8,
+             "scripture":  "But you, LORD, are most high for evermore."
+        },
+        {
+            "reference":  "Psalm 92:9",
+             "verseNumber":  9,
+             "scripture":  "For, lo, yours enemies, O LORD, for, lo, yours enemies shall perish; all the workers of iniquity shall be scattered."
+        },
+        {
+            "reference":  "Psalm 92:10",
+             "verseNumber":  10,
+             "scripture":  "But my horn shall you exalt like the horn of an unicorn : I shall be anointed with fresh oil."
+        },
+        {
+            "reference":  "Psalm 92:11",
+             "verseNumber":  11,
+             "scripture":  "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me."
+        },
+        {
+            "reference":  "Psalm 92:12",
+             "verseNumber":  12,
+             "scripture":  "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon."
+        },
+        {
+            "reference":  "Psalm 92:13",
+             "verseNumber":  13,
+             "scripture":  "Those that be planted in the house of the LORD shall flourish in the courts of our God."
+        },
+        {
+            "reference":  "Psalm 92:14",
+             "verseNumber":  14,
+             "scripture":  "They shall still bring forth fruit in old age; they shall be fat and flourishing;"
+        },
+        {
+            "reference":  "Psalm 92:15",
+             "verseNumber":  15,
+             "scripture":  "To show that the LORD is upright: he is my rock, and there is no unrighteousness in him."
+        }
+    ]
+}

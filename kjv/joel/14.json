@@ -1,1 +1,60 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Hosea", "bookAbbreviation": "Joe", "chapterNumber": 14, "verses": [{"reference": "Hosea 14:1", "verseNumber": 1, "scripture": "O israel, return unto the LORD your God; for you have fallen by yours iniquity."},{"reference": "Hosea 14:2", "verseNumber": 2, "scripture": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."},{"reference": "Hosea 14:3", "verseNumber": 3, "scripture": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, All of you are our gods: for in you the fatherless finds mercy."},{"reference": "Hosea 14:4", "verseNumber": 4, "scripture": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."},{"reference": "Hosea 14:5", "verseNumber": 5, "scripture": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon."},{"reference": "Hosea 14:6", "verseNumber": 6, "scripture": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."},{"reference": "Hosea 14:7", "verseNumber": 7, "scripture": "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon."},{"reference": "Hosea 14:8", "verseNumber": 8, "scripture": "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is your fruit found."},{"reference": "Hosea 14:9", "verseNumber": 9, "scripture": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Hosea",
+     "bookAbbreviation":  "Joe",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "Hosea 14:1",
+             "verseNumber":  1,
+             "scripture":  "O israel, return unto the LORD your God; for you have fallen by yours iniquity."
+        },
+        {
+            "reference":  "Hosea 14:2",
+             "verseNumber":  2,
+             "scripture":  "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."
+        },
+        {
+            "reference":  "Hosea 14:3",
+             "verseNumber":  3,
+             "scripture":  "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, All of you are our gods: for in you the fatherless finds mercy."
+        },
+        {
+            "reference":  "Hosea 14:4",
+             "verseNumber":  4,
+             "scripture":  "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
+        },
+        {
+            "reference":  "Hosea 14:5",
+             "verseNumber":  5,
+             "scripture":  "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon."
+        },
+        {
+            "reference":  "Hosea 14:6",
+             "verseNumber":  6,
+             "scripture":  "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."
+        },
+        {
+            "reference":  "Hosea 14:7",
+             "verseNumber":  7,
+             "scripture":  "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon."
+        },
+        {
+            "reference":  "Hosea 14:8",
+             "verseNumber":  8,
+             "scripture":  "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is your fruit found."
+        },
+        {
+            "reference":  "Hosea 14:9",
+             "verseNumber":  9,
+             "scripture":  "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
+        }
+    ]
+}

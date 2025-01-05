@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 140, "verses": [{"reference": "Psalm 140:1", "verseNumber": 1, "scripture": "Deliver me, O LORD, from the evil man: preserve me from the violent man;"},{"reference": "Psalm 140:2", "verseNumber": 2, "scripture": "Which imagine evil in their heart; continually are they gathered together for war."},{"reference": "Psalm 140:3", "verseNumber": 3, "scripture": "They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah."},{"reference": "Psalm 140:4", "verseNumber": 4, "scripture": "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my activities."},{"reference": "Psalm 140:5", "verseNumber": 5, "scripture": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah."},{"reference": "Psalm 140:6", "verseNumber": 6, "scripture": "I said unto the LORD, You are my God: hear the voice of my supplications, O LORD."},{"reference": "Psalm 140:7", "verseNumber": 7, "scripture": "O GOD the Lord, the strength of my salvation, you have covered my head in the day of battle."},{"reference": "Psalm 140:8", "verseNumber": 8, "scripture": "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."},{"reference": "Psalm 140:9", "verseNumber": 9, "scripture": "As for the head of those that compass me about, let the mischief of their own lips cover them."},{"reference": "Psalm 140:10", "verseNumber": 10, "scripture": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."},{"reference": "Psalm 140:11", "verseNumber": 11, "scripture": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him."},{"reference": "Psalm 140:12", "verseNumber": 12, "scripture": "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."},{"reference": "Psalm 140:13", "verseNumber": 13, "scripture": "Surely the righteous shall give thanks unto your name: the upright shall dwell in your presence."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  140,
+     "verses":  [
+        {
+            "reference":  "Psalm 140:1",
+             "verseNumber":  1,
+             "scripture":  "Deliver me, O LORD, from the evil man: preserve me from the violent man;"
+        },
+        {
+            "reference":  "Psalm 140:2",
+             "verseNumber":  2,
+             "scripture":  "Which imagine evil in their heart; continually are they gathered together for war."
+        },
+        {
+            "reference":  "Psalm 140:3",
+             "verseNumber":  3,
+             "scripture":  "They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah."
+        },
+        {
+            "reference":  "Psalm 140:4",
+             "verseNumber":  4,
+             "scripture":  "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my activities."
+        },
+        {
+            "reference":  "Psalm 140:5",
+             "verseNumber":  5,
+             "scripture":  "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah."
+        },
+        {
+            "reference":  "Psalm 140:6",
+             "verseNumber":  6,
+             "scripture":  "I said unto the LORD, You are my God: hear the voice of my supplications, O LORD."
+        },
+        {
+            "reference":  "Psalm 140:7",
+             "verseNumber":  7,
+             "scripture":  "O GOD the Lord, the strength of my salvation, you have covered my head in the day of battle."
+        },
+        {
+            "reference":  "Psalm 140:8",
+             "verseNumber":  8,
+             "scripture":  "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
+        },
+        {
+            "reference":  "Psalm 140:9",
+             "verseNumber":  9,
+             "scripture":  "As for the head of those that compass me about, let the mischief of their own lips cover them."
+        },
+        {
+            "reference":  "Psalm 140:10",
+             "verseNumber":  10,
+             "scripture":  "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."
+        },
+        {
+            "reference":  "Psalm 140:11",
+             "verseNumber":  11,
+             "scripture":  "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him."
+        },
+        {
+            "reference":  "Psalm 140:12",
+             "verseNumber":  12,
+             "scripture":  "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."
+        },
+        {
+            "reference":  "Psalm 140:13",
+             "verseNumber":  13,
+             "scripture":  "Surely the righteous shall give thanks unto your name: the upright shall dwell in your presence."
+        }
+    ]
+}

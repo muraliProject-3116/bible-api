@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 60, "verses": [{"reference": "Psalm 60:1", "verseNumber": 1, "scripture": "O God, you have cast us off, you have scattered us, you have been displeased; O turn yourself to us again."},{"reference": "Psalm 60:2", "verseNumber": 2, "scripture": "You have made the earth to tremble; you have broken it: heal the breaches thereof; for it shakes."},{"reference": "Psalm 60:3", "verseNumber": 3, "scripture": "You have showed your people hard things: you have made us to drink the wine of astonishment."},{"reference": "Psalm 60:4", "verseNumber": 4, "scripture": "You have given a banner to them that fear you, that it may be displayed because of the truth. Selah."},{"reference": "Psalm 60:5", "verseNumber": 5, "scripture": "That your beloved may be delivered; save with your right hand, and hear me."},{"reference": "Psalm 60:6", "verseNumber": 6, "scripture": "God has spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."},{"reference": "Psalm 60:7", "verseNumber": 7, "scripture": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"},{"reference": "Psalm 60:8", "verseNumber": 8, "scripture": "Moab is my pot for washing; over Edom will I cast out my shoe: Philistia, triumph you because of me."},{"reference": "Psalm 60:9", "verseNumber": 9, "scripture": "Who will bring me into the strong city? who will lead me into Edom?"},{"reference": "Psalm 60:10", "verseNumber": 10, "scripture": "Will not you, O God, which had cast us off? and you, O God, which did not go out with our armies?"},{"reference": "Psalm 60:11", "verseNumber": 11, "scripture": "Give us help from trouble: for vain is the help of man."},{"reference": "Psalm 60:12", "verseNumber": 12, "scripture": "Through God we shall do valiantly: for he it is that shall tread down our enemies."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  60,
+     "verses":  [
+        {
+            "reference":  "Psalm 60:1",
+             "verseNumber":  1,
+             "scripture":  "O God, you have cast us off, you have scattered us, you have been displeased; O turn yourself to us again."
+        },
+        {
+            "reference":  "Psalm 60:2",
+             "verseNumber":  2,
+             "scripture":  "You have made the earth to tremble; you have broken it: heal the breaches thereof; for it shakes."
+        },
+        {
+            "reference":  "Psalm 60:3",
+             "verseNumber":  3,
+             "scripture":  "You have showed your people hard things: you have made us to drink the wine of astonishment."
+        },
+        {
+            "reference":  "Psalm 60:4",
+             "verseNumber":  4,
+             "scripture":  "You have given a banner to them that fear you, that it may be displayed because of the truth. Selah."
+        },
+        {
+            "reference":  "Psalm 60:5",
+             "verseNumber":  5,
+             "scripture":  "That your beloved may be delivered; save with your right hand, and hear me."
+        },
+        {
+            "reference":  "Psalm 60:6",
+             "verseNumber":  6,
+             "scripture":  "God has spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+        },
+        {
+            "reference":  "Psalm 60:7",
+             "verseNumber":  7,
+             "scripture":  "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
+        },
+        {
+            "reference":  "Psalm 60:8",
+             "verseNumber":  8,
+             "scripture":  "Moab is my pot for washing; over Edom will I cast out my shoe: Philistia, triumph you because of me."
+        },
+        {
+            "reference":  "Psalm 60:9",
+             "verseNumber":  9,
+             "scripture":  "Who will bring me into the strong city? who will lead me into Edom?"
+        },
+        {
+            "reference":  "Psalm 60:10",
+             "verseNumber":  10,
+             "scripture":  "Will not you, O God, which had cast us off? and you, O God, which did not go out with our armies?"
+        },
+        {
+            "reference":  "Psalm 60:11",
+             "verseNumber":  11,
+             "scripture":  "Give us help from trouble: for vain is the help of man."
+        },
+        {
+            "reference":  "Psalm 60:12",
+             "verseNumber":  12,
+             "scripture":  "Through God we shall do valiantly: for he it is that shall tread down our enemies."
+        }
+    ]
+}

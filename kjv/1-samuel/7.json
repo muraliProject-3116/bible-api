@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Samuel", "bookAbbreviation": "1 Sam", "chapterNumber": 7, "verses": [{"reference": "1 Samuel 7:1", "verseNumber": 1, "scripture": "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD."},{"reference": "1 Samuel 7:2", "verseNumber": 2, "scripture": "And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD."},{"reference": "1 Samuel 7:3", "verseNumber": 3, "scripture": "And Samuel spoke unto all the house of Israel, saying, If all of you do return unto the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines."},{"reference": "1 Samuel 7:4", "verseNumber": 4, "scripture": "Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only."},{"reference": "1 Samuel 7:5", "verseNumber": 5, "scripture": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD."},{"reference": "1 Samuel 7:6", "verseNumber": 6, "scripture": "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh."},{"reference": "1 Samuel 7:7", "verseNumber": 7, "scripture": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines."},{"reference": "1 Samuel 7:8", "verseNumber": 8, "scripture": "And the children of Israel said to Samuel, Cease not to cry unto the LORD our God for us, that he will save us out of the hand of the Philistines."},{"reference": "1 Samuel 7:9", "verseNumber": 9, "scripture": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him."},{"reference": "1 Samuel 7:10", "verseNumber": 10, "scripture": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and humiliated them; and they were smitten before Israel."},{"reference": "1 Samuel 7:11", "verseNumber": 11, "scripture": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and stroke them, until they came under Bethcar."},{"reference": "1 Samuel 7:12", "verseNumber": 12, "scripture": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Ebenezer, saying, Until now has the LORD helped us."},{"reference": "1 Samuel 7:13", "verseNumber": 13, "scripture": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel."},{"reference": "1 Samuel 7:14", "verseNumber": 14, "scripture": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites."},{"reference": "1 Samuel 7:15", "verseNumber": 15, "scripture": "And Samuel judged Israel all the days of his life."},{"reference": "1 Samuel 7:16", "verseNumber": 16, "scripture": "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places."},{"reference": "1 Samuel 7:17", "verseNumber": 17, "scripture": "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Samuel",
+     "bookAbbreviation":  "1 Sam",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "1 Samuel 7:1",
+             "verseNumber":  1,
+             "scripture":  "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD."
+        },
+        {
+            "reference":  "1 Samuel 7:2",
+             "verseNumber":  2,
+             "scripture":  "And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD."
+        },
+        {
+            "reference":  "1 Samuel 7:3",
+             "verseNumber":  3,
+             "scripture":  "And Samuel spoke unto all the house of Israel, saying, If all of you do return unto the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines."
+        },
+        {
+            "reference":  "1 Samuel 7:4",
+             "verseNumber":  4,
+             "scripture":  "Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only."
+        },
+        {
+            "reference":  "1 Samuel 7:5",
+             "verseNumber":  5,
+             "scripture":  "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD."
+        },
+        {
+            "reference":  "1 Samuel 7:6",
+             "verseNumber":  6,
+             "scripture":  "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh."
+        },
+        {
+            "reference":  "1 Samuel 7:7",
+             "verseNumber":  7,
+             "scripture":  "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines."
+        },
+        {
+            "reference":  "1 Samuel 7:8",
+             "verseNumber":  8,
+             "scripture":  "And the children of Israel said to Samuel, Cease not to cry unto the LORD our God for us, that he will save us out of the hand of the Philistines."
+        },
+        {
+            "reference":  "1 Samuel 7:9",
+             "verseNumber":  9,
+             "scripture":  "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him."
+        },
+        {
+            "reference":  "1 Samuel 7:10",
+             "verseNumber":  10,
+             "scripture":  "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and humiliated them; and they were smitten before Israel."
+        },
+        {
+            "reference":  "1 Samuel 7:11",
+             "verseNumber":  11,
+             "scripture":  "And the men of Israel went out of Mizpeh, and pursued the Philistines, and stroke them, until they came under Bethcar."
+        },
+        {
+            "reference":  "1 Samuel 7:12",
+             "verseNumber":  12,
+             "scripture":  "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Ebenezer, saying, Until now has the LORD helped us."
+        },
+        {
+            "reference":  "1 Samuel 7:13",
+             "verseNumber":  13,
+             "scripture":  "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel."
+        },
+        {
+            "reference":  "1 Samuel 7:14",
+             "verseNumber":  14,
+             "scripture":  "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites."
+        },
+        {
+            "reference":  "1 Samuel 7:15",
+             "verseNumber":  15,
+             "scripture":  "And Samuel judged Israel all the days of his life."
+        },
+        {
+            "reference":  "1 Samuel 7:16",
+             "verseNumber":  16,
+             "scripture":  "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places."
+        },
+        {
+            "reference":  "1 Samuel 7:17",
+             "verseNumber":  17,
+             "scripture":  "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD."
+        }
+    ]
+}

@@ -1,1 +1,60 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Zechariah", "bookAbbreviation": "Zec", "chapterNumber": 13, "verses": [{"reference": "Zechariah 13:1", "verseNumber": 1, "scripture": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness."},{"reference": "Zechariah 13:2", "verseNumber": 2, "scripture": "And it shall come to pass in that day, says the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land."},{"reference": "Zechariah 13:3", "verseNumber": 3, "scripture": "And it shall come to pass, that when any shall yet prophesy, then his father and his mother that brings forth him shall say unto him, You shall not live; for you speak lies in the name of the LORD: and his father and his mother that brings forth him shall thrust him through when he prophesies."},{"reference": "Zechariah 13:4", "verseNumber": 4, "scripture": "And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he has prophesied; neither shall they wear a rough garment to deceive:"},{"reference": "Zechariah 13:5", "verseNumber": 5, "scripture": "But he shall say, I am no prophet, I am an farmer; for man taught me to keep cattle from my youth."},{"reference": "Zechariah 13:6", "verseNumber": 6, "scripture": "And one shall say unto him, What are these wounds in yours hands? Then he shall answer, Those with which I was wounded in the house of my friends."},{"reference": "Zechariah 13:7", "verseNumber": 7, "scripture": "Awake, O sword, against my shepherd, and against the man that is my fellow, says the LORD of hosts: strike the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones."},{"reference": "Zechariah 13:8", "verseNumber": 8, "scripture": "And it shall come to pass, that in all the land, says the LORD, two parts therein shall be cut off and die; but the third shall be left therein."},{"reference": "Zechariah 13:9", "verseNumber": 9, "scripture": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Zechariah",
+     "bookAbbreviation":  "Zec",
+     "chapterNumber":  13,
+     "verses":  [
+        {
+            "reference":  "Zechariah 13:1",
+             "verseNumber":  1,
+             "scripture":  "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness."
+        },
+        {
+            "reference":  "Zechariah 13:2",
+             "verseNumber":  2,
+             "scripture":  "And it shall come to pass in that day, says the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land."
+        },
+        {
+            "reference":  "Zechariah 13:3",
+             "verseNumber":  3,
+             "scripture":  "And it shall come to pass, that when any shall yet prophesy, then his father and his mother that brings forth him shall say unto him, You shall not live; for you speak lies in the name of the LORD: and his father and his mother that brings forth him shall thrust him through when he prophesies."
+        },
+        {
+            "reference":  "Zechariah 13:4",
+             "verseNumber":  4,
+             "scripture":  "And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he has prophesied; neither shall they wear a rough garment to deceive:"
+        },
+        {
+            "reference":  "Zechariah 13:5",
+             "verseNumber":  5,
+             "scripture":  "But he shall say, I am no prophet, I am an farmer; for man taught me to keep cattle from my youth."
+        },
+        {
+            "reference":  "Zechariah 13:6",
+             "verseNumber":  6,
+             "scripture":  "And one shall say unto him, What are these wounds in yours hands? Then he shall answer, Those with which I was wounded in the house of my friends."
+        },
+        {
+            "reference":  "Zechariah 13:7",
+             "verseNumber":  7,
+             "scripture":  "Awake, O sword, against my shepherd, and against the man that is my fellow, says the LORD of hosts: strike the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones."
+        },
+        {
+            "reference":  "Zechariah 13:8",
+             "verseNumber":  8,
+             "scripture":  "And it shall come to pass, that in all the land, says the LORD, two parts therein shall be cut off and die; but the third shall be left therein."
+        },
+        {
+            "reference":  "Zechariah 13:9",
+             "verseNumber":  9,
+             "scripture":  "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God."
+        }
+    ]
+}

@@ -1,1 +1,175 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 32, "verses": [{"reference": "Genesis 32:1", "verseNumber": 1, "scripture": "And Jacob went on his way, and the angels of God met him."},{"reference": "Genesis 32:2", "verseNumber": 2, "scripture": "And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim."},{"reference": "Genesis 32:3", "verseNumber": 3, "scripture": "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom."},{"reference": "Genesis 32:4", "verseNumber": 4, "scripture": "And he commanded them, saying, Thus shall all of you speak unto my lord Esau; Your servant Jacob says thus, I have sojourned with Laban, and stayed there until now:"},{"reference": "Genesis 32:5", "verseNumber": 5, "scripture": "And I have oxen, and asses, flocks, and male servants, and female servants: and I have sent to tell my lord, that I may find grace in your sight."},{"reference": "Genesis 32:6", "verseNumber": 6, "scripture": "And the messengers returned to Jacob, saying, We came to your brother Esau, and also he comes to meet you, and four hundred men with him."},{"reference": "Genesis 32:7", "verseNumber": 7, "scripture": "Then Jacob was greatly afraid and distressed: and he divided the people that was with him, and the flocks, and herds, and the camels, into two bands;"},{"reference": "Genesis 32:8", "verseNumber": 8, "scripture": "And said, If Esau come to the one company, and strike it, then the other company which is left shall escape."},{"reference": "Genesis 32:9", "verseNumber": 9, "scripture": "And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which said unto me, Return unto your country, and to your kindred, and I will deal well with you:"},{"reference": "Genesis 32:10", "verseNumber": 10, "scripture": "I am not worthy of the least of all the mercies, and of all the truth, which you have showed unto your servant; for with my staff I passed over this Jordan; and now I am become two bands."},{"reference": "Genesis 32:11", "verseNumber": 11, "scripture": "Deliver me, I pray you, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and strike me, and the mother with the children."},{"reference": "Genesis 32:12", "verseNumber": 12, "scripture": "And you said, I will surely do you good, and make your seed as the sand of the sea, which cannot be numbered for multitude."},{"reference": "Genesis 32:13", "verseNumber": 13, "scripture": "And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;"},{"reference": "Genesis 32:14", "verseNumber": 14, "scripture": "Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,"},{"reference": "Genesis 32:15", "verseNumber": 15, "scripture": "Thirty milk giving camels with their colts, forty cattle, and ten bulls, twenty she asses, and ten foals."},{"reference": "Genesis 32:16", "verseNumber": 16, "scripture": "And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space between drove and drove."},{"reference": "Genesis 32:17", "verseNumber": 17, "scripture": "And he commanded the foremost, saying, When Esau my brother meet you, and asks you, saying, Whose are you? and where go you? and whose are these before you?"},{"reference": "Genesis 32:18", "verseNumber": 18, "scripture": "Then you shall say, They be your servant Jacob's; it is a present sent unto my lord Esau: and, behold, also he is behind us."},{"reference": "Genesis 32:19", "verseNumber": 19, "scripture": "And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall all of you speak unto Esau, when all of you find him."},{"reference": "Genesis 32:20", "verseNumber": 20, "scripture": "And say all of you moreover, Behold, your servant Jacob is behind us. For he said, I will appease him with the present that goes before me, and afterward I will see his face; possibly he will accept of me."},{"reference": "Genesis 32:21", "verseNumber": 21, "scripture": "So went the present over before him: and himself lodged that night in the company."},{"reference": "Genesis 32:22", "verseNumber": 22, "scripture": "And he rose up that night, and took his two wives, and his two female servants, and his eleven sons, and passed over the ford Jabbok."},{"reference": "Genesis 32:23", "verseNumber": 23, "scripture": "And he took them, and sent them over the brook, and sent over that he had."},{"reference": "Genesis 32:24", "verseNumber": 24, "scripture": "And Jacob was left alone; and there wrestled a man with him until the breaking of the day."},{"reference": "Genesis 32:25", "verseNumber": 25, "scripture": "And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him."},{"reference": "Genesis 32:26", "verseNumber": 26, "scripture": "And he said, Let me go, for the day breaks. And he said, I will not let you go, except you bless me."},{"reference": "Genesis 32:27", "verseNumber": 27, "scripture": "And he said unto him, What is your name? And he said, Jacob."},{"reference": "Genesis 32:28", "verseNumber": 28, "scripture": "And he said, Your name shall be called no more Jacob, but Israel: for as a prince have you power with God and with men, and have prevailed."},{"reference": "Genesis 32:29", "verseNumber": 29, "scripture": "And Jacob asked him, and said, Tell me, I pray you, your name. And he said, Wherefore is it that you do ask after my name? And he blessed him there."},{"reference": "Genesis 32:30", "verseNumber": 30, "scripture": "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved."},{"reference": "Genesis 32:31", "verseNumber": 31, "scripture": "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh."},{"reference": "Genesis 32:32", "verseNumber": 32, "scripture": "Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  32,
+     "verses":  [
+        {
+            "reference":  "Genesis 32:1",
+             "verseNumber":  1,
+             "scripture":  "And Jacob went on his way, and the angels of God met him."
+        },
+        {
+            "reference":  "Genesis 32:2",
+             "verseNumber":  2,
+             "scripture":  "And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim."
+        },
+        {
+            "reference":  "Genesis 32:3",
+             "verseNumber":  3,
+             "scripture":  "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom."
+        },
+        {
+            "reference":  "Genesis 32:4",
+             "verseNumber":  4,
+             "scripture":  "And he commanded them, saying, Thus shall all of you speak unto my lord Esau; Your servant Jacob says thus, I have sojourned with Laban, and stayed there until now:"
+        },
+        {
+            "reference":  "Genesis 32:5",
+             "verseNumber":  5,
+             "scripture":  "And I have oxen, and asses, flocks, and male servants, and female servants: and I have sent to tell my lord, that I may find grace in your sight."
+        },
+        {
+            "reference":  "Genesis 32:6",
+             "verseNumber":  6,
+             "scripture":  "And the messengers returned to Jacob, saying, We came to your brother Esau, and also he comes to meet you, and four hundred men with him."
+        },
+        {
+            "reference":  "Genesis 32:7",
+             "verseNumber":  7,
+             "scripture":  "Then Jacob was greatly afraid and distressed: and he divided the people that was with him, and the flocks, and herds, and the camels, into two bands;"
+        },
+        {
+            "reference":  "Genesis 32:8",
+             "verseNumber":  8,
+             "scripture":  "And said, If Esau come to the one company, and strike it, then the other company which is left shall escape."
+        },
+        {
+            "reference":  "Genesis 32:9",
+             "verseNumber":  9,
+             "scripture":  "And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which said unto me, Return unto your country, and to your kindred, and I will deal well with you:"
+        },
+        {
+            "reference":  "Genesis 32:10",
+             "verseNumber":  10,
+             "scripture":  "I am not worthy of the least of all the mercies, and of all the truth, which you have showed unto your servant; for with my staff I passed over this Jordan; and now I am become two bands."
+        },
+        {
+            "reference":  "Genesis 32:11",
+             "verseNumber":  11,
+             "scripture":  "Deliver me, I pray you, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and strike me, and the mother with the children."
+        },
+        {
+            "reference":  "Genesis 32:12",
+             "verseNumber":  12,
+             "scripture":  "And you said, I will surely do you good, and make your seed as the sand of the sea, which cannot be numbered for multitude."
+        },
+        {
+            "reference":  "Genesis 32:13",
+             "verseNumber":  13,
+             "scripture":  "And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;"
+        },
+        {
+            "reference":  "Genesis 32:14",
+             "verseNumber":  14,
+             "scripture":  "Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,"
+        },
+        {
+            "reference":  "Genesis 32:15",
+             "verseNumber":  15,
+             "scripture":  "Thirty milk giving camels with their colts, forty cattle, and ten bulls, twenty she asses, and ten foals."
+        },
+        {
+            "reference":  "Genesis 32:16",
+             "verseNumber":  16,
+             "scripture":  "And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space between drove and drove."
+        },
+        {
+            "reference":  "Genesis 32:17",
+             "verseNumber":  17,
+             "scripture":  "And he commanded the foremost, saying, When Esau my brother meet you, and asks you, saying, Whose are you? and where go you? and whose are these before you?"
+        },
+        {
+            "reference":  "Genesis 32:18",
+             "verseNumber":  18,
+             "scripture":  "Then you shall say, They be your servant Jacob's; it is a present sent unto my lord Esau: and, behold, also he is behind us."
+        },
+        {
+            "reference":  "Genesis 32:19",
+             "verseNumber":  19,
+             "scripture":  "And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall all of you speak unto Esau, when all of you find him."
+        },
+        {
+            "reference":  "Genesis 32:20",
+             "verseNumber":  20,
+             "scripture":  "And say all of you moreover, Behold, your servant Jacob is behind us. For he said, I will appease him with the present that goes before me, and afterward I will see his face; possibly he will accept of me."
+        },
+        {
+            "reference":  "Genesis 32:21",
+             "verseNumber":  21,
+             "scripture":  "So went the present over before him: and himself lodged that night in the company."
+        },
+        {
+            "reference":  "Genesis 32:22",
+             "verseNumber":  22,
+             "scripture":  "And he rose up that night, and took his two wives, and his two female servants, and his eleven sons, and passed over the ford Jabbok."
+        },
+        {
+            "reference":  "Genesis 32:23",
+             "verseNumber":  23,
+             "scripture":  "And he took them, and sent them over the brook, and sent over that he had."
+        },
+        {
+            "reference":  "Genesis 32:24",
+             "verseNumber":  24,
+             "scripture":  "And Jacob was left alone; and there wrestled a man with him until the breaking of the day."
+        },
+        {
+            "reference":  "Genesis 32:25",
+             "verseNumber":  25,
+             "scripture":  "And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him."
+        },
+        {
+            "reference":  "Genesis 32:26",
+             "verseNumber":  26,
+             "scripture":  "And he said, Let me go, for the day breaks. And he said, I will not let you go, except you bless me."
+        },
+        {
+            "reference":  "Genesis 32:27",
+             "verseNumber":  27,
+             "scripture":  "And he said unto him, What is your name? And he said, Jacob."
+        },
+        {
+            "reference":  "Genesis 32:28",
+             "verseNumber":  28,
+             "scripture":  "And he said, Your name shall be called no more Jacob, but Israel: for as a prince have you power with God and with men, and have prevailed."
+        },
+        {
+            "reference":  "Genesis 32:29",
+             "verseNumber":  29,
+             "scripture":  "And Jacob asked him, and said, Tell me, I pray you, your name. And he said, Wherefore is it that you do ask after my name? And he blessed him there."
+        },
+        {
+            "reference":  "Genesis 32:30",
+             "verseNumber":  30,
+             "scripture":  "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved."
+        },
+        {
+            "reference":  "Genesis 32:31",
+             "verseNumber":  31,
+             "scripture":  "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh."
+        },
+        {
+            "reference":  "Genesis 32:32",
+             "verseNumber":  32,
+             "scripture":  "Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank."
+        }
+    ]
+}

@@ -1,1 +1,140 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Samuel", "bookAbbreviation": "1 Sam", "chapterNumber": 12, "verses": [{"reference": "1 Samuel 12:1", "verseNumber": 1, "scripture": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that all of you said unto me, and have made a king over you."},{"reference": "1 Samuel 12:2", "verseNumber": 2, "scripture": "And now, behold, the king walks before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day."},{"reference": "1 Samuel 12:3", "verseNumber": 3, "scripture": "Behold, here I am: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you."},{"reference": "1 Samuel 12:4", "verseNumber": 4, "scripture": "And they said, You have not defrauded us, nor oppressed us, neither have you taken ought of any man's hand."},{"reference": "1 Samuel 12:5", "verseNumber": 5, "scripture": "And he said unto them, The LORD is witness against you, and his anointed is witness this day, that all of you have not found ought in my hand. And they answered, He is witness."},{"reference": "1 Samuel 12:6", "verseNumber": 6, "scripture": "And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt."},{"reference": "1 Samuel 12:7", "verseNumber": 7, "scripture": "Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers."},{"reference": "1 Samuel 12:8", "verseNumber": 8, "scripture": "When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place."},{"reference": "1 Samuel 12:9", "verseNumber": 9, "scripture": "And when they forgotten about the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them."},{"reference": "1 Samuel 12:10", "verseNumber": 10, "scripture": "And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve you."},{"reference": "1 Samuel 12:11", "verseNumber": 11, "scripture": "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and all of you dwelled safe."},{"reference": "1 Samuel 12:12", "verseNumber": 12, "scripture": "And when all of you saw that Nahash the king of the children of Ammon came against you, all of you said unto me, Nay; but a king shall reign over us: when the LORD your God was your king."},{"reference": "1 Samuel 12:13", "verseNumber": 13, "scripture": "Now therefore behold the king whom all of you have chosen, and whom all of you have desired! and, behold, the LORD has set a king over you."},{"reference": "1 Samuel 12:14", "verseNumber": 14, "scripture": "If all of you will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both all of you and also the king that reigns over you continue following the LORD your God:"},{"reference": "1 Samuel 12:15", "verseNumber": 15, "scripture": "But if all of you will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers."},{"reference": "1 Samuel 12:16", "verseNumber": 16, "scripture": "Now therefore stand and see this great thing, which the LORD will do before your eyes."},{"reference": "1 Samuel 12:17", "verseNumber": 17, "scripture": "Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that all of you may perceive and see that your wickedness is great, which all of you have done in the sight of the LORD, in asking you a king."},{"reference": "1 Samuel 12:18", "verseNumber": 18, "scripture": "So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel."},{"reference": "1 Samuel 12:19", "verseNumber": 19, "scripture": "And all the people said unto Samuel, Pray for your servants unto the LORD your God, that we die not: for we have added unto all our sins this evil, to ask us a king."},{"reference": "1 Samuel 12:20", "verseNumber": 20, "scripture": "And Samuel said unto the people, Fear not: all of you have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart;"},{"reference": "1 Samuel 12:21", "verseNumber": 21, "scripture": "And turn all of you not aside: for then should all of you go after vain things, which cannot profit nor deliver; for they are vain."},{"reference": "1 Samuel 12:22", "verseNumber": 22, "scripture": "For the LORD will not forsake his people for his great name's sake: because it has pleased the LORD to make you his people."},{"reference": "1 Samuel 12:23", "verseNumber": 23, "scripture": "Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way:"},{"reference": "1 Samuel 12:24", "verseNumber": 24, "scripture": "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he has done for you."},{"reference": "1 Samuel 12:25", "verseNumber": 25, "scripture": "But if all of you shall still do wickedly, all of you shall be consumed, both all of you and your king."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Samuel",
+     "bookAbbreviation":  "1 Sam",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "1 Samuel 12:1",
+             "verseNumber":  1,
+             "scripture":  "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that all of you said unto me, and have made a king over you."
+        },
+        {
+            "reference":  "1 Samuel 12:2",
+             "verseNumber":  2,
+             "scripture":  "And now, behold, the king walks before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day."
+        },
+        {
+            "reference":  "1 Samuel 12:3",
+             "verseNumber":  3,
+             "scripture":  "Behold, here I am: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you."
+        },
+        {
+            "reference":  "1 Samuel 12:4",
+             "verseNumber":  4,
+             "scripture":  "And they said, You have not defrauded us, nor oppressed us, neither have you taken ought of any man's hand."
+        },
+        {
+            "reference":  "1 Samuel 12:5",
+             "verseNumber":  5,
+             "scripture":  "And he said unto them, The LORD is witness against you, and his anointed is witness this day, that all of you have not found ought in my hand. And they answered, He is witness."
+        },
+        {
+            "reference":  "1 Samuel 12:6",
+             "verseNumber":  6,
+             "scripture":  "And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt."
+        },
+        {
+            "reference":  "1 Samuel 12:7",
+             "verseNumber":  7,
+             "scripture":  "Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers."
+        },
+        {
+            "reference":  "1 Samuel 12:8",
+             "verseNumber":  8,
+             "scripture":  "When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place."
+        },
+        {
+            "reference":  "1 Samuel 12:9",
+             "verseNumber":  9,
+             "scripture":  "And when they forgotten about the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them."
+        },
+        {
+            "reference":  "1 Samuel 12:10",
+             "verseNumber":  10,
+             "scripture":  "And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve you."
+        },
+        {
+            "reference":  "1 Samuel 12:11",
+             "verseNumber":  11,
+             "scripture":  "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and all of you dwelled safe."
+        },
+        {
+            "reference":  "1 Samuel 12:12",
+             "verseNumber":  12,
+             "scripture":  "And when all of you saw that Nahash the king of the children of Ammon came against you, all of you said unto me, Nay; but a king shall reign over us: when the LORD your God was your king."
+        },
+        {
+            "reference":  "1 Samuel 12:13",
+             "verseNumber":  13,
+             "scripture":  "Now therefore behold the king whom all of you have chosen, and whom all of you have desired! and, behold, the LORD has set a king over you."
+        },
+        {
+            "reference":  "1 Samuel 12:14",
+             "verseNumber":  14,
+             "scripture":  "If all of you will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both all of you and also the king that reigns over you continue following the LORD your God:"
+        },
+        {
+            "reference":  "1 Samuel 12:15",
+             "verseNumber":  15,
+             "scripture":  "But if all of you will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers."
+        },
+        {
+            "reference":  "1 Samuel 12:16",
+             "verseNumber":  16,
+             "scripture":  "Now therefore stand and see this great thing, which the LORD will do before your eyes."
+        },
+        {
+            "reference":  "1 Samuel 12:17",
+             "verseNumber":  17,
+             "scripture":  "Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that all of you may perceive and see that your wickedness is great, which all of you have done in the sight of the LORD, in asking you a king."
+        },
+        {
+            "reference":  "1 Samuel 12:18",
+             "verseNumber":  18,
+             "scripture":  "So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel."
+        },
+        {
+            "reference":  "1 Samuel 12:19",
+             "verseNumber":  19,
+             "scripture":  "And all the people said unto Samuel, Pray for your servants unto the LORD your God, that we die not: for we have added unto all our sins this evil, to ask us a king."
+        },
+        {
+            "reference":  "1 Samuel 12:20",
+             "verseNumber":  20,
+             "scripture":  "And Samuel said unto the people, Fear not: all of you have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart;"
+        },
+        {
+            "reference":  "1 Samuel 12:21",
+             "verseNumber":  21,
+             "scripture":  "And turn all of you not aside: for then should all of you go after vain things, which cannot profit nor deliver; for they are vain."
+        },
+        {
+            "reference":  "1 Samuel 12:22",
+             "verseNumber":  22,
+             "scripture":  "For the LORD will not forsake his people for his great name's sake: because it has pleased the LORD to make you his people."
+        },
+        {
+            "reference":  "1 Samuel 12:23",
+             "verseNumber":  23,
+             "scripture":  "Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way:"
+        },
+        {
+            "reference":  "1 Samuel 12:24",
+             "verseNumber":  24,
+             "scripture":  "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he has done for you."
+        },
+        {
+            "reference":  "1 Samuel 12:25",
+             "verseNumber":  25,
+             "scripture":  "But if all of you shall still do wickedly, all of you shall be consumed, both all of you and your king."
+        }
+    ]
+}

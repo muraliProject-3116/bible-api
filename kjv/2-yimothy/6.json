@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Timothy", "bookAbbreviation": "2 Tim", "chapterNumber": 6, "verses": [{"reference": "1 Timothy 6:1", "verseNumber": 1, "scripture": "Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed."},{"reference": "1 Timothy 6:2", "verseNumber": 2, "scripture": "And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort."},{"reference": "1 Timothy 6:3", "verseNumber": 3, "scripture": "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;"},{"reference": "1 Timothy 6:4", "verseNumber": 4, "scripture": "He is proud, knowing nothing, but doting about questions and strifes of words, whereof comes envy, strife, railings, evil questionings,"},{"reference": "1 Timothy 6:5", "verseNumber": 5, "scripture": "Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw yourself."},{"reference": "1 Timothy 6:6", "verseNumber": 6, "scripture": "But godliness with contentment is great gain."},{"reference": "1 Timothy 6:7", "verseNumber": 7, "scripture": "For we brought nothing into this world, and it is certain we can carry nothing out."},{"reference": "1 Timothy 6:8", "verseNumber": 8, "scripture": "And having food and raiment let us be therewith content."},{"reference": "1 Timothy 6:9", "verseNumber": 9, "scripture": "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition."},{"reference": "1 Timothy 6:10", "verseNumber": 10, "scripture": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."},{"reference": "1 Timothy 6:11", "verseNumber": 11, "scripture": "But you, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness."},{"reference": "1 Timothy 6:12", "verseNumber": 12, "scripture": "Fight the good fight of faith, lay hold on eternal life, unto which you are also called, and have professed a good profession before many witnesses."},{"reference": "1 Timothy 6:13", "verseNumber": 13, "scripture": "I give you charge in the sight of God, who replenishes life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;"},{"reference": "1 Timothy 6:14", "verseNumber": 14, "scripture": "That you keep this commandment without spot, blameless, until the appearing of our Lord Jesus Christ:"},{"reference": "1 Timothy 6:15", "verseNumber": 15, "scripture": "Which in his times he shall show, who is the blessed and only Potentate, the King of kings, and Lord of lords;"},{"reference": "1 Timothy 6:16", "verseNumber": 16, "scripture": "Who only has immortality, dwelling in the light which no man can approach unto; whom no man has seen, nor can see: to whom be honour and power everlasting. Amen."},{"reference": "1 Timothy 6:17", "verseNumber": 17, "scripture": "Charge them that are rich in this world, that they be not high-minded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;"},{"reference": "1 Timothy 6:18", "verseNumber": 18, "scripture": "That they do good, that they be rich in good works, ready to distribute, willing to communicate;"},{"reference": "1 Timothy 6:19", "verseNumber": 19, "scripture": "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life."},{"reference": "1 Timothy 6:20", "verseNumber": 20, "scripture": "O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and oppositions of science falsely so called:"},{"reference": "1 Timothy 6:21", "verseNumber": 21, "scripture": "Which some professing have erred concerning the faith. Grace be with you. Amen."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Timothy",
+     "bookAbbreviation":  "2 Tim",
+     "chapterNumber":  6,
+     "verses":  [
+        {
+            "reference":  "1 Timothy 6:1",
+             "verseNumber":  1,
+             "scripture":  "Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed."
+        },
+        {
+            "reference":  "1 Timothy 6:2",
+             "verseNumber":  2,
+             "scripture":  "And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort."
+        },
+        {
+            "reference":  "1 Timothy 6:3",
+             "verseNumber":  3,
+             "scripture":  "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;"
+        },
+        {
+            "reference":  "1 Timothy 6:4",
+             "verseNumber":  4,
+             "scripture":  "He is proud, knowing nothing, but doting about questions and strifes of words, whereof comes envy, strife, railings, evil questionings,"
+        },
+        {
+            "reference":  "1 Timothy 6:5",
+             "verseNumber":  5,
+             "scripture":  "Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw yourself."
+        },
+        {
+            "reference":  "1 Timothy 6:6",
+             "verseNumber":  6,
+             "scripture":  "But godliness with contentment is great gain."
+        },
+        {
+            "reference":  "1 Timothy 6:7",
+             "verseNumber":  7,
+             "scripture":  "For we brought nothing into this world, and it is certain we can carry nothing out."
+        },
+        {
+            "reference":  "1 Timothy 6:8",
+             "verseNumber":  8,
+             "scripture":  "And having food and raiment let us be therewith content."
+        },
+        {
+            "reference":  "1 Timothy 6:9",
+             "verseNumber":  9,
+             "scripture":  "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition."
+        },
+        {
+            "reference":  "1 Timothy 6:10",
+             "verseNumber":  10,
+             "scripture":  "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."
+        },
+        {
+            "reference":  "1 Timothy 6:11",
+             "verseNumber":  11,
+             "scripture":  "But you, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness."
+        },
+        {
+            "reference":  "1 Timothy 6:12",
+             "verseNumber":  12,
+             "scripture":  "Fight the good fight of faith, lay hold on eternal life, unto which you are also called, and have professed a good profession before many witnesses."
+        },
+        {
+            "reference":  "1 Timothy 6:13",
+             "verseNumber":  13,
+             "scripture":  "I give you charge in the sight of God, who replenishes life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;"
+        },
+        {
+            "reference":  "1 Timothy 6:14",
+             "verseNumber":  14,
+             "scripture":  "That you keep this commandment without spot, blameless, until the appearing of our Lord Jesus Christ:"
+        },
+        {
+            "reference":  "1 Timothy 6:15",
+             "verseNumber":  15,
+             "scripture":  "Which in his times he shall show, who is the blessed and only Potentate, the King of kings, and Lord of lords;"
+        },
+        {
+            "reference":  "1 Timothy 6:16",
+             "verseNumber":  16,
+             "scripture":  "Who only has immortality, dwelling in the light which no man can approach unto; whom no man has seen, nor can see: to whom be honour and power everlasting. Amen."
+        },
+        {
+            "reference":  "1 Timothy 6:17",
+             "verseNumber":  17,
+             "scripture":  "Charge them that are rich in this world, that they be not high-minded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;"
+        },
+        {
+            "reference":  "1 Timothy 6:18",
+             "verseNumber":  18,
+             "scripture":  "That they do good, that they be rich in good works, ready to distribute, willing to communicate;"
+        },
+        {
+            "reference":  "1 Timothy 6:19",
+             "verseNumber":  19,
+             "scripture":  "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life."
+        },
+        {
+            "reference":  "1 Timothy 6:20",
+             "verseNumber":  20,
+             "scripture":  "O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and oppositions of science falsely so called:"
+        },
+        {
+            "reference":  "1 Timothy 6:21",
+             "verseNumber":  21,
+             "scripture":  "Which some professing have erred concerning the faith. Grace be with you. Amen."
+        }
+    ]
+}

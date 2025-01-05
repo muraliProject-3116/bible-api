@@ -1,1 +1,170 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "John", "bookAbbreviation": "Jh", "chapterNumber": 14, "verses": [{"reference": "John 14:1", "verseNumber": 1, "scripture": "Let not your heart be troubled: all of you believe in God, believe also in me."},{"reference": "John 14:2", "verseNumber": 2, "scripture": "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."},{"reference": "John 14:3", "verseNumber": 3, "scripture": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there all of you may be also."},{"reference": "John 14:4", "verseNumber": 4, "scripture": "And where I go all of you know, and the way all of you know."},{"reference": "John 14:5", "verseNumber": 5, "scripture": "Thomas says unto him, Lord, we know not where you go; and how can we know the way?"},{"reference": "John 14:6", "verseNumber": 6, "scripture": "Jesus says unto him, I am the way, the truth, and the life: no man comes unto the Father, but by me."},{"reference": "John 14:7", "verseNumber": 7, "scripture": "If all of you had known me, all of you should have known my Father also: and from henceforth all of you know him, and have seen him."},{"reference": "John 14:8", "verseNumber": 8, "scripture": "Philip says unto him, Lord, show us the Father, and it satisfies us."},{"reference": "John 14:9", "verseNumber": 9, "scripture": "Jesus says unto him, Have I been so long time with you, and yet have you not known me, Philip? he that has seen me has seen the Father; and how says you then, Show us the Father?"},{"reference": "John 14:10", "verseNumber": 10, "scripture": "Believe you not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwells in me, he does the works."},{"reference": "John 14:11", "verseNumber": 11, "scripture": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake."},{"reference": "John 14:12", "verseNumber": 12, "scripture": "Verily, verily, I say unto you, He that believes on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."},{"reference": "John 14:13", "verseNumber": 13, "scripture": "And whatsoever all of you shall ask in my name, that will I do, that the Father may be glorified in the Son."},{"reference": "John 14:14", "verseNumber": 14, "scripture": "If all of you shall ask any thing in my name, I will do it."},{"reference": "John 14:15", "verseNumber": 15, "scripture": "If all of you love me, keep my commandments."},{"reference": "John 14:16", "verseNumber": 16, "scripture": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;"},{"reference": "John 14:17", "verseNumber": 17, "scripture": "Even the Spirit of truth; whom the world cannot receive, because it sees him not, neither knows him: but all of you know him; for he dwells with you, and shall be in you."},{"reference": "John 14:18", "verseNumber": 18, "scripture": "I will not leave you comfortless: I will come to you."},{"reference": "John 14:19", "verseNumber": 19, "scripture": "Yet a little while, and the world sees me no more; but all of you see me: because I live, all of you shall live also."},{"reference": "John 14:20", "verseNumber": 20, "scripture": "At that day all of you shall know that I am in my Father, and all of you in me, and I in you."},{"reference": "John 14:21", "verseNumber": 21, "scripture": "He that has my commandments, and keeps them, he it is that loves me: and he that loves me shall be loved of my Father, and I will love him, and will manifest myself to him."},{"reference": "John 14:22", "verseNumber": 22, "scripture": "Judas says unto him, not Iscariot, Lord, how is it that you will manifest yourself unto us, and not unto the world?"},{"reference": "John 14:23", "verseNumber": 23, "scripture": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."},{"reference": "John 14:24", "verseNumber": 24, "scripture": "He that loves me not keeps not my sayings: and the word which all of you hear is not mine, but the Father's which sent me."},{"reference": "John 14:25", "verseNumber": 25, "scripture": "These things have I spoken unto you, being yet present with you."},{"reference": "John 14:26", "verseNumber": 26, "scripture": "But the Comforter, which is the Holy Spirit, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."},{"reference": "John 14:27", "verseNumber": 27, "scripture": "Peace I leave with you, my peace I give unto you: not as the world gives, give I unto you. Let not your heart be troubled, neither let it be afraid."},{"reference": "John 14:28", "verseNumber": 28, "scripture": "All of you have heard how I said unto you, I go away, and come again unto you. If all of you loved me, all of you would rejoice, because I said, I go unto the Father: for my Father is greater than I."},{"reference": "John 14:29", "verseNumber": 29, "scripture": "And now I have told you before it come to pass, that, when it has come to pass, all of you might believe."},{"reference": "John 14:30", "verseNumber": 30, "scripture": "Hereafter I will not talk much with you: for the prince of this world comes, and has nothing in me."},{"reference": "John 14:31", "verseNumber": 31, "scripture": "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go behind."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "John",
+     "bookAbbreviation":  "Jh",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "John 14:1",
+             "verseNumber":  1,
+             "scripture":  "Let not your heart be troubled: all of you believe in God, believe also in me."
+        },
+        {
+            "reference":  "John 14:2",
+             "verseNumber":  2,
+             "scripture":  "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+        },
+        {
+            "reference":  "John 14:3",
+             "verseNumber":  3,
+             "scripture":  "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there all of you may be also."
+        },
+        {
+            "reference":  "John 14:4",
+             "verseNumber":  4,
+             "scripture":  "And where I go all of you know, and the way all of you know."
+        },
+        {
+            "reference":  "John 14:5",
+             "verseNumber":  5,
+             "scripture":  "Thomas says unto him, Lord, we know not where you go; and how can we know the way?"
+        },
+        {
+            "reference":  "John 14:6",
+             "verseNumber":  6,
+             "scripture":  "Jesus says unto him, I am the way, the truth, and the life: no man comes unto the Father, but by me."
+        },
+        {
+            "reference":  "John 14:7",
+             "verseNumber":  7,
+             "scripture":  "If all of you had known me, all of you should have known my Father also: and from henceforth all of you know him, and have seen him."
+        },
+        {
+            "reference":  "John 14:8",
+             "verseNumber":  8,
+             "scripture":  "Philip says unto him, Lord, show us the Father, and it satisfies us."
+        },
+        {
+            "reference":  "John 14:9",
+             "verseNumber":  9,
+             "scripture":  "Jesus says unto him, Have I been so long time with you, and yet have you not known me, Philip? he that has seen me has seen the Father; and how says you then, Show us the Father?"
+        },
+        {
+            "reference":  "John 14:10",
+             "verseNumber":  10,
+             "scripture":  "Believe you not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwells in me, he does the works."
+        },
+        {
+            "reference":  "John 14:11",
+             "verseNumber":  11,
+             "scripture":  "Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake."
+        },
+        {
+            "reference":  "John 14:12",
+             "verseNumber":  12,
+             "scripture":  "Verily, verily, I say unto you, He that believes on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+        },
+        {
+            "reference":  "John 14:13",
+             "verseNumber":  13,
+             "scripture":  "And whatsoever all of you shall ask in my name, that will I do, that the Father may be glorified in the Son."
+        },
+        {
+            "reference":  "John 14:14",
+             "verseNumber":  14,
+             "scripture":  "If all of you shall ask any thing in my name, I will do it."
+        },
+        {
+            "reference":  "John 14:15",
+             "verseNumber":  15,
+             "scripture":  "If all of you love me, keep my commandments."
+        },
+        {
+            "reference":  "John 14:16",
+             "verseNumber":  16,
+             "scripture":  "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;"
+        },
+        {
+            "reference":  "John 14:17",
+             "verseNumber":  17,
+             "scripture":  "Even the Spirit of truth; whom the world cannot receive, because it sees him not, neither knows him: but all of you know him; for he dwells with you, and shall be in you."
+        },
+        {
+            "reference":  "John 14:18",
+             "verseNumber":  18,
+             "scripture":  "I will not leave you comfortless: I will come to you."
+        },
+        {
+            "reference":  "John 14:19",
+             "verseNumber":  19,
+             "scripture":  "Yet a little while, and the world sees me no more; but all of you see me: because I live, all of you shall live also."
+        },
+        {
+            "reference":  "John 14:20",
+             "verseNumber":  20,
+             "scripture":  "At that day all of you shall know that I am in my Father, and all of you in me, and I in you."
+        },
+        {
+            "reference":  "John 14:21",
+             "verseNumber":  21,
+             "scripture":  "He that has my commandments, and keeps them, he it is that loves me: and he that loves me shall be loved of my Father, and I will love him, and will manifest myself to him."
+        },
+        {
+            "reference":  "John 14:22",
+             "verseNumber":  22,
+             "scripture":  "Judas says unto him, not Iscariot, Lord, how is it that you will manifest yourself unto us, and not unto the world?"
+        },
+        {
+            "reference":  "John 14:23",
+             "verseNumber":  23,
+             "scripture":  "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
+        },
+        {
+            "reference":  "John 14:24",
+             "verseNumber":  24,
+             "scripture":  "He that loves me not keeps not my sayings: and the word which all of you hear is not mine, but the Father's which sent me."
+        },
+        {
+            "reference":  "John 14:25",
+             "verseNumber":  25,
+             "scripture":  "These things have I spoken unto you, being yet present with you."
+        },
+        {
+            "reference":  "John 14:26",
+             "verseNumber":  26,
+             "scripture":  "But the Comforter, which is the Holy Spirit, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+        },
+        {
+            "reference":  "John 14:27",
+             "verseNumber":  27,
+             "scripture":  "Peace I leave with you, my peace I give unto you: not as the world gives, give I unto you. Let not your heart be troubled, neither let it be afraid."
+        },
+        {
+            "reference":  "John 14:28",
+             "verseNumber":  28,
+             "scripture":  "All of you have heard how I said unto you, I go away, and come again unto you. If all of you loved me, all of you would rejoice, because I said, I go unto the Father: for my Father is greater than I."
+        },
+        {
+            "reference":  "John 14:29",
+             "verseNumber":  29,
+             "scripture":  "And now I have told you before it come to pass, that, when it has come to pass, all of you might believe."
+        },
+        {
+            "reference":  "John 14:30",
+             "verseNumber":  30,
+             "scripture":  "Hereafter I will not talk much with you: for the prince of this world comes, and has nothing in me."
+        },
+        {
+            "reference":  "John 14:31",
+             "verseNumber":  31,
+             "scripture":  "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go behind."
+        }
+    ]
+}

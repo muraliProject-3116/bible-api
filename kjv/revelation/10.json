@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Revelation", "bookAbbreviation": "Rev", "chapterNumber": 10, "verses": [{"reference": "Revelation 10:1", "verseNumber": 1, "scripture": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:"},{"reference": "Revelation 10:2", "verseNumber": 2, "scripture": "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,"},{"reference": "Revelation 10:3", "verseNumber": 3, "scripture": "And cried with a loud voice, as when a lion roars: and when he had cried, seven thunders uttered their voices."},{"reference": "Revelation 10:4", "verseNumber": 4, "scripture": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not."},{"reference": "Revelation 10:5", "verseNumber": 5, "scripture": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,"},{"reference": "Revelation 10:6", "verseNumber": 6, "scripture": "And swore by him that lives for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:"},{"reference": "Revelation 10:7", "verseNumber": 7, "scripture": "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he has declared to his servants the prophets."},{"reference": "Revelation 10:8", "verseNumber": 8, "scripture": "And the voice which I heard from heaven spoke unto me again, and said, Go and take the little book which is open in the hand of the angel which stands upon the sea and upon the earth."},{"reference": "Revelation 10:9", "verseNumber": 9, "scripture": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make your belly bitter, but it shall be in your mouth sweet as honey."},{"reference": "Revelation 10:10", "verseNumber": 10, "scripture": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter."},{"reference": "Revelation 10:11", "verseNumber": 11, "scripture": "And he said unto me, You must prophesy again before many races and tribes, and nations, and tongues, and kings."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Revelation",
+     "bookAbbreviation":  "Rev",
+     "chapterNumber":  10,
+     "verses":  [
+        {
+            "reference":  "Revelation 10:1",
+             "verseNumber":  1,
+             "scripture":  "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:"
+        },
+        {
+            "reference":  "Revelation 10:2",
+             "verseNumber":  2,
+             "scripture":  "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,"
+        },
+        {
+            "reference":  "Revelation 10:3",
+             "verseNumber":  3,
+             "scripture":  "And cried with a loud voice, as when a lion roars: and when he had cried, seven thunders uttered their voices."
+        },
+        {
+            "reference":  "Revelation 10:4",
+             "verseNumber":  4,
+             "scripture":  "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not."
+        },
+        {
+            "reference":  "Revelation 10:5",
+             "verseNumber":  5,
+             "scripture":  "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,"
+        },
+        {
+            "reference":  "Revelation 10:6",
+             "verseNumber":  6,
+             "scripture":  "And swore by him that lives for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:"
+        },
+        {
+            "reference":  "Revelation 10:7",
+             "verseNumber":  7,
+             "scripture":  "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he has declared to his servants the prophets."
+        },
+        {
+            "reference":  "Revelation 10:8",
+             "verseNumber":  8,
+             "scripture":  "And the voice which I heard from heaven spoke unto me again, and said, Go and take the little book which is open in the hand of the angel which stands upon the sea and upon the earth."
+        },
+        {
+            "reference":  "Revelation 10:9",
+             "verseNumber":  9,
+             "scripture":  "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make your belly bitter, but it shall be in your mouth sweet as honey."
+        },
+        {
+            "reference":  "Revelation 10:10",
+             "verseNumber":  10,
+             "scripture":  "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter."
+        },
+        {
+            "reference":  "Revelation 10:11",
+             "verseNumber":  11,
+             "scripture":  "And he said unto me, You must prophesy again before many races and tribes, and nations, and tongues, and kings."
+        }
+    ]
+}

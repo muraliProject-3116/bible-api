@@ -1,1 +1,175 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 10, "verses": [{"reference": "Genesis 10:1", "verseNumber": 1, "scripture": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."},{"reference": "Genesis 10:2", "verseNumber": 2, "scripture": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."},{"reference": "Genesis 10:3", "verseNumber": 3, "scripture": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."},{"reference": "Genesis 10:4", "verseNumber": 4, "scripture": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."},{"reference": "Genesis 10:5", "verseNumber": 5, "scripture": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."},{"reference": "Genesis 10:6", "verseNumber": 6, "scripture": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."},{"reference": "Genesis 10:7", "verseNumber": 7, "scripture": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan."},{"reference": "Genesis 10:8", "verseNumber": 8, "scripture": "And Cush brings forth Nimrod: he began to be a mighty one in the earth."},{"reference": "Genesis 10:9", "verseNumber": 9, "scripture": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."},{"reference": "Genesis 10:10", "verseNumber": 10, "scripture": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."},{"reference": "Genesis 10:11", "verseNumber": 11, "scripture": "Out of that land went forth Asshur, and built Nineveh, and the city Rehoboth, and Calah,"},{"reference": "Genesis 10:12", "verseNumber": 12, "scripture": "And Resen between Nineveh and Calah: the same is a great city."},{"reference": "Genesis 10:13", "verseNumber": 13, "scripture": "And Mizraim brings forth Ludim, and Anamim, and Lehabim, and Naphtuhim,"},{"reference": "Genesis 10:14", "verseNumber": 14, "scripture": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."},{"reference": "Genesis 10:15", "verseNumber": 15, "scripture": "And Canaan brings forth Sidon his first born, and Heth,"},{"reference": "Genesis 10:16", "verseNumber": 16, "scripture": "And the Jebusite, and the Amorite, and the Girgasite,"},{"reference": "Genesis 10:17", "verseNumber": 17, "scripture": "And the Hivite, and the Arkite, and the Sinite,"},{"reference": "Genesis 10:18", "verseNumber": 18, "scripture": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."},{"reference": "Genesis 10:19", "verseNumber": 19, "scripture": "And the border of the Canaanites was from Sidon, as you come to Gerar, unto Gaza; as you go, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."},{"reference": "Genesis 10:20", "verseNumber": 20, "scripture": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations."},{"reference": "Genesis 10:21", "verseNumber": 21, "scripture": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born."},{"reference": "Genesis 10:22", "verseNumber": 22, "scripture": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."},{"reference": "Genesis 10:23", "verseNumber": 23, "scripture": "And the children of Aram; Uz, and Hul, and Gether, and Mash."},{"reference": "Genesis 10:24", "verseNumber": 24, "scripture": "And Arphaxad brings forth Salah; and Salah brings forth Eber."},{"reference": "Genesis 10:25", "verseNumber": 25, "scripture": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan."},{"reference": "Genesis 10:26", "verseNumber": 26, "scripture": "And Joktan brings forth Almodad, and Sheleph, and Hazarmaveth, and Jerah,"},{"reference": "Genesis 10:27", "verseNumber": 27, "scripture": "And Hadoram, and Uzal, and Diklah,"},{"reference": "Genesis 10:28", "verseNumber": 28, "scripture": "And Obal, and Abimael, and Sheba,"},{"reference": "Genesis 10:29", "verseNumber": 29, "scripture": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan."},{"reference": "Genesis 10:30", "verseNumber": 30, "scripture": "And their dwelling was from Mesha, as you go unto Sephar a mount of the east."},{"reference": "Genesis 10:31", "verseNumber": 31, "scripture": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations."},{"reference": "Genesis 10:32", "verseNumber": 32, "scripture": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  10,
+     "verses":  [
+        {
+            "reference":  "Genesis 10:1",
+             "verseNumber":  1,
+             "scripture":  "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
+        },
+        {
+            "reference":  "Genesis 10:2",
+             "verseNumber":  2,
+             "scripture":  "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+        },
+        {
+            "reference":  "Genesis 10:3",
+             "verseNumber":  3,
+             "scripture":  "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
+        },
+        {
+            "reference":  "Genesis 10:4",
+             "verseNumber":  4,
+             "scripture":  "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+        },
+        {
+            "reference":  "Genesis 10:5",
+             "verseNumber":  5,
+             "scripture":  "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
+        },
+        {
+            "reference":  "Genesis 10:6",
+             "verseNumber":  6,
+             "scripture":  "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+        },
+        {
+            "reference":  "Genesis 10:7",
+             "verseNumber":  7,
+             "scripture":  "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan."
+        },
+        {
+            "reference":  "Genesis 10:8",
+             "verseNumber":  8,
+             "scripture":  "And Cush brings forth Nimrod: he began to be a mighty one in the earth."
+        },
+        {
+            "reference":  "Genesis 10:9",
+             "verseNumber":  9,
+             "scripture":  "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."
+        },
+        {
+            "reference":  "Genesis 10:10",
+             "verseNumber":  10,
+             "scripture":  "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+        },
+        {
+            "reference":  "Genesis 10:11",
+             "verseNumber":  11,
+             "scripture":  "Out of that land went forth Asshur, and built Nineveh, and the city Rehoboth, and Calah,"
+        },
+        {
+            "reference":  "Genesis 10:12",
+             "verseNumber":  12,
+             "scripture":  "And Resen between Nineveh and Calah: the same is a great city."
+        },
+        {
+            "reference":  "Genesis 10:13",
+             "verseNumber":  13,
+             "scripture":  "And Mizraim brings forth Ludim, and Anamim, and Lehabim, and Naphtuhim,"
+        },
+        {
+            "reference":  "Genesis 10:14",
+             "verseNumber":  14,
+             "scripture":  "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."
+        },
+        {
+            "reference":  "Genesis 10:15",
+             "verseNumber":  15,
+             "scripture":  "And Canaan brings forth Sidon his first born, and Heth,"
+        },
+        {
+            "reference":  "Genesis 10:16",
+             "verseNumber":  16,
+             "scripture":  "And the Jebusite, and the Amorite, and the Girgasite,"
+        },
+        {
+            "reference":  "Genesis 10:17",
+             "verseNumber":  17,
+             "scripture":  "And the Hivite, and the Arkite, and the Sinite,"
+        },
+        {
+            "reference":  "Genesis 10:18",
+             "verseNumber":  18,
+             "scripture":  "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
+        },
+        {
+            "reference":  "Genesis 10:19",
+             "verseNumber":  19,
+             "scripture":  "And the border of the Canaanites was from Sidon, as you come to Gerar, unto Gaza; as you go, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
+        },
+        {
+            "reference":  "Genesis 10:20",
+             "verseNumber":  20,
+             "scripture":  "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations."
+        },
+        {
+            "reference":  "Genesis 10:21",
+             "verseNumber":  21,
+             "scripture":  "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born."
+        },
+        {
+            "reference":  "Genesis 10:22",
+             "verseNumber":  22,
+             "scripture":  "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
+        },
+        {
+            "reference":  "Genesis 10:23",
+             "verseNumber":  23,
+             "scripture":  "And the children of Aram; Uz, and Hul, and Gether, and Mash."
+        },
+        {
+            "reference":  "Genesis 10:24",
+             "verseNumber":  24,
+             "scripture":  "And Arphaxad brings forth Salah; and Salah brings forth Eber."
+        },
+        {
+            "reference":  "Genesis 10:25",
+             "verseNumber":  25,
+             "scripture":  "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan."
+        },
+        {
+            "reference":  "Genesis 10:26",
+             "verseNumber":  26,
+             "scripture":  "And Joktan brings forth Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+        },
+        {
+            "reference":  "Genesis 10:27",
+             "verseNumber":  27,
+             "scripture":  "And Hadoram, and Uzal, and Diklah,"
+        },
+        {
+            "reference":  "Genesis 10:28",
+             "verseNumber":  28,
+             "scripture":  "And Obal, and Abimael, and Sheba,"
+        },
+        {
+            "reference":  "Genesis 10:29",
+             "verseNumber":  29,
+             "scripture":  "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan."
+        },
+        {
+            "reference":  "Genesis 10:30",
+             "verseNumber":  30,
+             "scripture":  "And their dwelling was from Mesha, as you go unto Sephar a mount of the east."
+        },
+        {
+            "reference":  "Genesis 10:31",
+             "verseNumber":  31,
+             "scripture":  "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations."
+        },
+        {
+            "reference":  "Genesis 10:32",
+             "verseNumber":  32,
+             "scripture":  "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."
+        }
+    ]
+}

@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Kings", "bookAbbreviation": "1 Kin", "chapterNumber": 17, "verses": [{"reference": "1 Kings 17:1", "verseNumber": 1, "scripture": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel lives, before whom I stand, there shall not be dew nor rain these years, but according to my word."},{"reference": "1 Kings 17:2", "verseNumber": 2, "scripture": "And the word of the LORD came unto him, saying,"},{"reference": "1 Kings 17:3", "verseNumber": 3, "scripture": "Get you behind, and turn you eastward, and hide yourself by the brook Cherith, that is before Jordan."},{"reference": "1 Kings 17:4", "verseNumber": 4, "scripture": "And it shall be, that you shall drink of the brook; and I have commanded the ravens to feed you there."},{"reference": "1 Kings 17:5", "verseNumber": 5, "scripture": "So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan."},{"reference": "1 Kings 17:6", "verseNumber": 6, "scripture": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."},{"reference": "1 Kings 17:7", "verseNumber": 7, "scripture": "And it came to pass after a while, that the brook dried up, because there had been no rain in the land."},{"reference": "1 Kings 17:8", "verseNumber": 8, "scripture": "And the word of the LORD came unto him, saying,"},{"reference": "1 Kings 17:9", "verseNumber": 9, "scripture": "Arise, get you to Zarephath, which belongs to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain you."},{"reference": "1 Kings 17:10", "verseNumber": 10, "scripture": "So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray you, a little water in a vessel, that I may drink."},{"reference": "1 Kings 17:11", "verseNumber": 11, "scripture": "And as she was going to fetch it, he called to her, and said, Bring me, I pray you, a morsel of bread in yours hand."},{"reference": "1 Kings 17:12", "verseNumber": 12, "scripture": "And she said, As the LORD your God lives, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die."},{"reference": "1 Kings 17:13", "verseNumber": 13, "scripture": "And Elijah said unto her, Fear not; go and do as you have said: but make me thereof a little cake first, and bring it unto me, and after make for you and for your son."},{"reference": "1 Kings 17:14", "verseNumber": 14, "scripture": "For thus says the LORD God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the LORD sends rain upon the earth."},{"reference": "1 Kings 17:15", "verseNumber": 15, "scripture": "And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days."},{"reference": "1 Kings 17:16", "verseNumber": 16, "scripture": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spoke by Elijah."},{"reference": "1 Kings 17:17", "verseNumber": 17, "scripture": "And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him."},{"reference": "1 Kings 17:18", "verseNumber": 18, "scripture": "And she said unto Elijah, What have I to do with you, O you man of God? are you come unto me to call my sin to remembrance, and to slay my son?"},{"reference": "1 Kings 17:19", "verseNumber": 19, "scripture": "And he said unto her, Give me your son. And he took him out of her bosom, and carried him up into an upper room, where he abode, and laid him upon his own bed."},{"reference": "1 Kings 17:20", "verseNumber": 20, "scripture": "And he cried unto the LORD, and said, O LORD my God, have you also brought evil upon the widow with whom I sojourn, by slaying her son?"},{"reference": "1 Kings 17:21", "verseNumber": 21, "scripture": "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray you, let this child's soul come into him again."},{"reference": "1 Kings 17:22", "verseNumber": 22, "scripture": "And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived."},{"reference": "1 Kings 17:23", "verseNumber": 23, "scripture": "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, your son lives."},{"reference": "1 Kings 17:24", "verseNumber": 24, "scripture": "And the woman said to Elijah, Now by this I know that you are a man of God, and that the word of the LORD in your mouth is truth."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Kings",
+     "bookAbbreviation":  "1 Kin",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "1 Kings 17:1",
+             "verseNumber":  1,
+             "scripture":  "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel lives, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+        },
+        {
+            "reference":  "1 Kings 17:2",
+             "verseNumber":  2,
+             "scripture":  "And the word of the LORD came unto him, saying,"
+        },
+        {
+            "reference":  "1 Kings 17:3",
+             "verseNumber":  3,
+             "scripture":  "Get you behind, and turn you eastward, and hide yourself by the brook Cherith, that is before Jordan."
+        },
+        {
+            "reference":  "1 Kings 17:4",
+             "verseNumber":  4,
+             "scripture":  "And it shall be, that you shall drink of the brook; and I have commanded the ravens to feed you there."
+        },
+        {
+            "reference":  "1 Kings 17:5",
+             "verseNumber":  5,
+             "scripture":  "So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan."
+        },
+        {
+            "reference":  "1 Kings 17:6",
+             "verseNumber":  6,
+             "scripture":  "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+        },
+        {
+            "reference":  "1 Kings 17:7",
+             "verseNumber":  7,
+             "scripture":  "And it came to pass after a while, that the brook dried up, because there had been no rain in the land."
+        },
+        {
+            "reference":  "1 Kings 17:8",
+             "verseNumber":  8,
+             "scripture":  "And the word of the LORD came unto him, saying,"
+        },
+        {
+            "reference":  "1 Kings 17:9",
+             "verseNumber":  9,
+             "scripture":  "Arise, get you to Zarephath, which belongs to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain you."
+        },
+        {
+            "reference":  "1 Kings 17:10",
+             "verseNumber":  10,
+             "scripture":  "So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray you, a little water in a vessel, that I may drink."
+        },
+        {
+            "reference":  "1 Kings 17:11",
+             "verseNumber":  11,
+             "scripture":  "And as she was going to fetch it, he called to her, and said, Bring me, I pray you, a morsel of bread in yours hand."
+        },
+        {
+            "reference":  "1 Kings 17:12",
+             "verseNumber":  12,
+             "scripture":  "And she said, As the LORD your God lives, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die."
+        },
+        {
+            "reference":  "1 Kings 17:13",
+             "verseNumber":  13,
+             "scripture":  "And Elijah said unto her, Fear not; go and do as you have said: but make me thereof a little cake first, and bring it unto me, and after make for you and for your son."
+        },
+        {
+            "reference":  "1 Kings 17:14",
+             "verseNumber":  14,
+             "scripture":  "For thus says the LORD God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the LORD sends rain upon the earth."
+        },
+        {
+            "reference":  "1 Kings 17:15",
+             "verseNumber":  15,
+             "scripture":  "And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days."
+        },
+        {
+            "reference":  "1 Kings 17:16",
+             "verseNumber":  16,
+             "scripture":  "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spoke by Elijah."
+        },
+        {
+            "reference":  "1 Kings 17:17",
+             "verseNumber":  17,
+             "scripture":  "And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him."
+        },
+        {
+            "reference":  "1 Kings 17:18",
+             "verseNumber":  18,
+             "scripture":  "And she said unto Elijah, What have I to do with you, O you man of God? are you come unto me to call my sin to remembrance, and to slay my son?"
+        },
+        {
+            "reference":  "1 Kings 17:19",
+             "verseNumber":  19,
+             "scripture":  "And he said unto her, Give me your son. And he took him out of her bosom, and carried him up into an upper room, where he abode, and laid him upon his own bed."
+        },
+        {
+            "reference":  "1 Kings 17:20",
+             "verseNumber":  20,
+             "scripture":  "And he cried unto the LORD, and said, O LORD my God, have you also brought evil upon the widow with whom I sojourn, by slaying her son?"
+        },
+        {
+            "reference":  "1 Kings 17:21",
+             "verseNumber":  21,
+             "scripture":  "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray you, let this child's soul come into him again."
+        },
+        {
+            "reference":  "1 Kings 17:22",
+             "verseNumber":  22,
+             "scripture":  "And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived."
+        },
+        {
+            "reference":  "1 Kings 17:23",
+             "verseNumber":  23,
+             "scripture":  "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, your son lives."
+        },
+        {
+            "reference":  "1 Kings 17:24",
+             "verseNumber":  24,
+             "scripture":  "And the woman said to Elijah, Now by this I know that you are a man of God, and that the word of the LORD in your mouth is truth."
+        }
+    ]
+}

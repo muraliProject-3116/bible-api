@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Joshua", "bookAbbreviation": "Jos", "chapterNumber": 11, "verses": [{"reference": "Joshua 11:1", "verseNumber": 1, "scripture": "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,"},{"reference": "Joshua 11:2", "verseNumber": 2, "scripture": "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,"},{"reference": "Joshua 11:3", "verseNumber": 3, "scripture": "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."},{"reference": "Joshua 11:4", "verseNumber": 4, "scripture": "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."},{"reference": "Joshua 11:5", "verseNumber": 5, "scripture": "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel."},{"reference": "Joshua 11:6", "verseNumber": 6, "scripture": "And the LORD said unto Joshua, Be not afraid because of them: in order to morrow about this time will I deliver them up all slain before Israel: you shall cut the hamstrings of their horses, and burn their chariots with fire."},{"reference": "Joshua 11:7", "verseNumber": 7, "scripture": "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them."},{"reference": "Joshua 11:8", "verseNumber": 8, "scripture": "And the LORD delivered them into the hand of Israel, who stroke them, and chased them unto great Zidon, and unto Misrephothmaim, and unto the valley of Mizpeh eastward; and they stroke them, until they left them none remaining."},{"reference": "Joshua 11:9", "verseNumber": 9, "scripture": "And Joshua did unto them as the LORD bade him: he cut the hamstrings of their horses, and burnt their chariots with fire."},{"reference": "Joshua 11:10", "verseNumber": 10, "scripture": "And Joshua at that time turned back, and took Hazor, and stroke the king thereof with the sword: for Hazor in time past was the head of all those kingdoms."},{"reference": "Joshua 11:11", "verseNumber": 11, "scripture": "And they stroke all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."},{"reference": "Joshua 11:12", "verseNumber": 12, "scripture": "And all the cities of those kings, and all the kings of them, did Joshua take, and stroke them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded."},{"reference": "Joshua 11:13", "verseNumber": 13, "scripture": "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."},{"reference": "Joshua 11:14", "verseNumber": 14, "scripture": "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they stroke with the edge of the sword, until they had destroyed them, neither left they any to breathe."},{"reference": "Joshua 11:15", "verseNumber": 15, "scripture": "As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses."},{"reference": "Joshua 11:16", "verseNumber": 16, "scripture": "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;"},{"reference": "Joshua 11:17", "verseNumber": 17, "scripture": "Even from the mount Halak, that goes up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and stroke them, and slew them."},{"reference": "Joshua 11:18", "verseNumber": 18, "scripture": "Joshua made war a long time with all those kings."},{"reference": "Joshua 11:19", "verseNumber": 19, "scripture": "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle."},{"reference": "Joshua 11:20", "verseNumber": 20, "scripture": "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses."},{"reference": "Joshua 11:21", "verseNumber": 21, "scripture": "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities."},{"reference": "Joshua 11:22", "verseNumber": 22, "scripture": "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained."},{"reference": "Joshua 11:23", "verseNumber": 23, "scripture": "So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Joshua",
+     "bookAbbreviation":  "Jos",
+     "chapterNumber":  11,
+     "verses":  [
+        {
+            "reference":  "Joshua 11:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,"
+        },
+        {
+            "reference":  "Joshua 11:2",
+             "verseNumber":  2,
+             "scripture":  "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,"
+        },
+        {
+            "reference":  "Joshua 11:3",
+             "verseNumber":  3,
+             "scripture":  "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."
+        },
+        {
+            "reference":  "Joshua 11:4",
+             "verseNumber":  4,
+             "scripture":  "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."
+        },
+        {
+            "reference":  "Joshua 11:5",
+             "verseNumber":  5,
+             "scripture":  "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel."
+        },
+        {
+            "reference":  "Joshua 11:6",
+             "verseNumber":  6,
+             "scripture":  "And the LORD said unto Joshua, Be not afraid because of them: in order to morrow about this time will I deliver them up all slain before Israel: you shall cut the hamstrings of their horses, and burn their chariots with fire."
+        },
+        {
+            "reference":  "Joshua 11:7",
+             "verseNumber":  7,
+             "scripture":  "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them."
+        },
+        {
+            "reference":  "Joshua 11:8",
+             "verseNumber":  8,
+             "scripture":  "And the LORD delivered them into the hand of Israel, who stroke them, and chased them unto great Zidon, and unto Misrephothmaim, and unto the valley of Mizpeh eastward; and they stroke them, until they left them none remaining."
+        },
+        {
+            "reference":  "Joshua 11:9",
+             "verseNumber":  9,
+             "scripture":  "And Joshua did unto them as the LORD bade him: he cut the hamstrings of their horses, and burnt their chariots with fire."
+        },
+        {
+            "reference":  "Joshua 11:10",
+             "verseNumber":  10,
+             "scripture":  "And Joshua at that time turned back, and took Hazor, and stroke the king thereof with the sword: for Hazor in time past was the head of all those kingdoms."
+        },
+        {
+            "reference":  "Joshua 11:11",
+             "verseNumber":  11,
+             "scripture":  "And they stroke all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."
+        },
+        {
+            "reference":  "Joshua 11:12",
+             "verseNumber":  12,
+             "scripture":  "And all the cities of those kings, and all the kings of them, did Joshua take, and stroke them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded."
+        },
+        {
+            "reference":  "Joshua 11:13",
+             "verseNumber":  13,
+             "scripture":  "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."
+        },
+        {
+            "reference":  "Joshua 11:14",
+             "verseNumber":  14,
+             "scripture":  "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they stroke with the edge of the sword, until they had destroyed them, neither left they any to breathe."
+        },
+        {
+            "reference":  "Joshua 11:15",
+             "verseNumber":  15,
+             "scripture":  "As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses."
+        },
+        {
+            "reference":  "Joshua 11:16",
+             "verseNumber":  16,
+             "scripture":  "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;"
+        },
+        {
+            "reference":  "Joshua 11:17",
+             "verseNumber":  17,
+             "scripture":  "Even from the mount Halak, that goes up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and stroke them, and slew them."
+        },
+        {
+            "reference":  "Joshua 11:18",
+             "verseNumber":  18,
+             "scripture":  "Joshua made war a long time with all those kings."
+        },
+        {
+            "reference":  "Joshua 11:19",
+             "verseNumber":  19,
+             "scripture":  "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle."
+        },
+        {
+            "reference":  "Joshua 11:20",
+             "verseNumber":  20,
+             "scripture":  "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses."
+        },
+        {
+            "reference":  "Joshua 11:21",
+             "verseNumber":  21,
+             "scripture":  "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities."
+        },
+        {
+            "reference":  "Joshua 11:22",
+             "verseNumber":  22,
+             "scripture":  "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained."
+        },
+        {
+            "reference":  "Joshua 11:23",
+             "verseNumber":  23,
+             "scripture":  "So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war."
+        }
+    ]
+}

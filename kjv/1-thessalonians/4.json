@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Thessalonians", "bookAbbreviation": "1 The", "chapterNumber": 4, "verses": [{"reference": "1 Thessalonians 4:1", "verseNumber": 1, "scripture": "Furthermore then we plead to you, brethren, and exhort you by the Lord Jesus, that as all of you have received of us how all of you ought to walk and to please God, so all of you would abound more and more."},{"reference": "1 Thessalonians 4:2", "verseNumber": 2, "scripture": "For all of you know what commandments we gave you by the Lord Jesus."},{"reference": "1 Thessalonians 4:3", "verseNumber": 3, "scripture": "For this is the will of God, even your sanctification, that all of you should abstain from fornication:"},{"reference": "1 Thessalonians 4:4", "verseNumber": 4, "scripture": "That every one of you should know how to possess his vessel in sanctification and honour;"},{"reference": "1 Thessalonians 4:5", "verseNumber": 5, "scripture": "Not in the lust of concupiscence, even as the Gentiles which know not God:"},{"reference": "1 Thessalonians 4:6", "verseNumber": 6, "scripture": "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified."},{"reference": "1 Thessalonians 4:7", "verseNumber": 7, "scripture": "For God has not called us unto uncleanness, but unto holiness."},{"reference": "1 Thessalonians 4:8", "verseNumber": 8, "scripture": "He therefore that despises, despises not man, but God, who has also given unto us his holy Spirit."},{"reference": "1 Thessalonians 4:9", "verseNumber": 9, "scripture": "But as concerning brotherly love all of you need not that I write unto you: for all of you yourselves are taught of God to love one another."},{"reference": "1 Thessalonians 4:10", "verseNumber": 10, "scripture": "And indeed all of you do it toward all the brethren which are in all Macedonia: but we plead to you, brethren, that all of you increase more and more;"},{"reference": "1 Thessalonians 4:11", "verseNumber": 11, "scripture": "And that all of you study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"},{"reference": "1 Thessalonians 4:12", "verseNumber": 12, "scripture": "That all of you may walk honestly toward them that are without, and that all of you may have lack of nothing."},{"reference": "1 Thessalonians 4:13", "verseNumber": 13, "scripture": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that all of you sorrow not, even as others which have no hope."},{"reference": "1 Thessalonians 4:14", "verseNumber": 14, "scripture": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."},{"reference": "1 Thessalonians 4:15", "verseNumber": 15, "scripture": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep."},{"reference": "1 Thessalonians 4:16", "verseNumber": 16, "scripture": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"},{"reference": "1 Thessalonians 4:17", "verseNumber": 17, "scripture": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."},{"reference": "1 Thessalonians 4:18", "verseNumber": 18, "scripture": "Wherefore comfort one another with these words."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Thessalonians",
+     "bookAbbreviation":  "1 The",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "1 Thessalonians 4:1",
+             "verseNumber":  1,
+             "scripture":  "Furthermore then we plead to you, brethren, and exhort you by the Lord Jesus, that as all of you have received of us how all of you ought to walk and to please God, so all of you would abound more and more."
+        },
+        {
+            "reference":  "1 Thessalonians 4:2",
+             "verseNumber":  2,
+             "scripture":  "For all of you know what commandments we gave you by the Lord Jesus."
+        },
+        {
+            "reference":  "1 Thessalonians 4:3",
+             "verseNumber":  3,
+             "scripture":  "For this is the will of God, even your sanctification, that all of you should abstain from fornication:"
+        },
+        {
+            "reference":  "1 Thessalonians 4:4",
+             "verseNumber":  4,
+             "scripture":  "That every one of you should know how to possess his vessel in sanctification and honour;"
+        },
+        {
+            "reference":  "1 Thessalonians 4:5",
+             "verseNumber":  5,
+             "scripture":  "Not in the lust of concupiscence, even as the Gentiles which know not God:"
+        },
+        {
+            "reference":  "1 Thessalonians 4:6",
+             "verseNumber":  6,
+             "scripture":  "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified."
+        },
+        {
+            "reference":  "1 Thessalonians 4:7",
+             "verseNumber":  7,
+             "scripture":  "For God has not called us unto uncleanness, but unto holiness."
+        },
+        {
+            "reference":  "1 Thessalonians 4:8",
+             "verseNumber":  8,
+             "scripture":  "He therefore that despises, despises not man, but God, who has also given unto us his holy Spirit."
+        },
+        {
+            "reference":  "1 Thessalonians 4:9",
+             "verseNumber":  9,
+             "scripture":  "But as concerning brotherly love all of you need not that I write unto you: for all of you yourselves are taught of God to love one another."
+        },
+        {
+            "reference":  "1 Thessalonians 4:10",
+             "verseNumber":  10,
+             "scripture":  "And indeed all of you do it toward all the brethren which are in all Macedonia: but we plead to you, brethren, that all of you increase more and more;"
+        },
+        {
+            "reference":  "1 Thessalonians 4:11",
+             "verseNumber":  11,
+             "scripture":  "And that all of you study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+        },
+        {
+            "reference":  "1 Thessalonians 4:12",
+             "verseNumber":  12,
+             "scripture":  "That all of you may walk honestly toward them that are without, and that all of you may have lack of nothing."
+        },
+        {
+            "reference":  "1 Thessalonians 4:13",
+             "verseNumber":  13,
+             "scripture":  "But I would not have you to be ignorant, brethren, concerning them which are asleep, that all of you sorrow not, even as others which have no hope."
+        },
+        {
+            "reference":  "1 Thessalonians 4:14",
+             "verseNumber":  14,
+             "scripture":  "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."
+        },
+        {
+            "reference":  "1 Thessalonians 4:15",
+             "verseNumber":  15,
+             "scripture":  "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep."
+        },
+        {
+            "reference":  "1 Thessalonians 4:16",
+             "verseNumber":  16,
+             "scripture":  "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+        },
+        {
+            "reference":  "1 Thessalonians 4:17",
+             "verseNumber":  17,
+             "scripture":  "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+        },
+        {
+            "reference":  "1 Thessalonians 4:18",
+             "verseNumber":  18,
+             "scripture":  "Wherefore comfort one another with these words."
+        }
+    ]
+}

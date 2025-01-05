@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 114, "verses": [{"reference": "Psalm 114:1", "verseNumber": 1, "scripture": "When Israel went out of Egypt, the house of Jacob from a people of strange language;"},{"reference": "Psalm 114:2", "verseNumber": 2, "scripture": "Judah was his sanctuary, and Israel his dominion."},{"reference": "Psalm 114:3", "verseNumber": 3, "scripture": "The sea saw it, and fled: Jordan was driven back."},{"reference": "Psalm 114:4", "verseNumber": 4, "scripture": "The mountains skipped like rams, and the little hills like lambs."},{"reference": "Psalm 114:5", "verseNumber": 5, "scripture": "What ailed you, O you sea, that you fled? you Jordan, that you were driven back?"},{"reference": "Psalm 114:6", "verseNumber": 6, "scripture": "All of you mountains, that all of you skipped like rams; and all of you little hills, like lambs?"},{"reference": "Psalm 114:7", "verseNumber": 7, "scripture": "Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob;"},{"reference": "Psalm 114:8", "verseNumber": 8, "scripture": "Which turned the rock into a standing water, the flint into a fountain of waters."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  114,
+     "verses":  [
+        {
+            "reference":  "Psalm 114:1",
+             "verseNumber":  1,
+             "scripture":  "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
+        },
+        {
+            "reference":  "Psalm 114:2",
+             "verseNumber":  2,
+             "scripture":  "Judah was his sanctuary, and Israel his dominion."
+        },
+        {
+            "reference":  "Psalm 114:3",
+             "verseNumber":  3,
+             "scripture":  "The sea saw it, and fled: Jordan was driven back."
+        },
+        {
+            "reference":  "Psalm 114:4",
+             "verseNumber":  4,
+             "scripture":  "The mountains skipped like rams, and the little hills like lambs."
+        },
+        {
+            "reference":  "Psalm 114:5",
+             "verseNumber":  5,
+             "scripture":  "What ailed you, O you sea, that you fled? you Jordan, that you were driven back?"
+        },
+        {
+            "reference":  "Psalm 114:6",
+             "verseNumber":  6,
+             "scripture":  "All of you mountains, that all of you skipped like rams; and all of you little hills, like lambs?"
+        },
+        {
+            "reference":  "Psalm 114:7",
+             "verseNumber":  7,
+             "scripture":  "Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob;"
+        },
+        {
+            "reference":  "Psalm 114:8",
+             "verseNumber":  8,
+             "scripture":  "Which turned the rock into a standing water, the flint into a fountain of waters."
+        }
+    ]
+}

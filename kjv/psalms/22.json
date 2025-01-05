@@ -1,1 +1,170 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 22, "verses": [{"reference": "Psalm 22:1", "verseNumber": 1, "scripture": "My God, my God, why have you forsaken me? why are you so far from helping me, and from the words of my roaring?"},{"reference": "Psalm 22:2", "verseNumber": 2, "scripture": "O my God, I cry in the day time, but you hear not; and in the night season, and am not silent."},{"reference": "Psalm 22:3", "verseNumber": 3, "scripture": "But you are holy, O you that inhabit the praises of Israel."},{"reference": "Psalm 22:4", "verseNumber": 4, "scripture": "Our fathers trusted in you: they trusted, and you did deliver them."},{"reference": "Psalm 22:5", "verseNumber": 5, "scripture": "They cried unto you, and were delivered: they trusted in you, and were not confounded."},{"reference": "Psalm 22:6", "verseNumber": 6, "scripture": "But I am a worm, and no man; a reproach of men, and despised of the people."},{"reference": "Psalm 22:7", "verseNumber": 7, "scripture": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,"},{"reference": "Psalm 22:8", "verseNumber": 8, "scripture": "He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him."},{"reference": "Psalm 22:9", "verseNumber": 9, "scripture": "But you are he that took me out of the womb: you did make me hope when I was upon my mother's breasts."},{"reference": "Psalm 22:10", "verseNumber": 10, "scripture": "I was cast upon you from the womb: you are my God from my mother's belly."},{"reference": "Psalm 22:11", "verseNumber": 11, "scripture": "Be not far from me; for trouble is near; for there is none to help."},{"reference": "Psalm 22:12", "verseNumber": 12, "scripture": "Many bulls have compassed me: strong bulls of Bashan have beset me round."},{"reference": "Psalm 22:13", "verseNumber": 13, "scripture": "They gaped upon me with their mouths, as a ravening and a roaring lion."},{"reference": "Psalm 22:14", "verseNumber": 14, "scripture": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels."},{"reference": "Psalm 22:15", "verseNumber": 15, "scripture": "My strength is dried up like a potsherd; and my tongue cleaves to my jaws; and you have brought me into the dust of death."},{"reference": "Psalm 22:16", "verseNumber": 16, "scripture": "For dogs have compassed me: the assembly of the wicked have enclosed me: they pierced my hands and my feet."},{"reference": "Psalm 22:17", "verseNumber": 17, "scripture": "I may tell all my bones: they look and stare upon me."},{"reference": "Psalm 22:18", "verseNumber": 18, "scripture": "They part my garments among them, and cast lots upon my vesture."},{"reference": "Psalm 22:19", "verseNumber": 19, "scripture": "But be not you far from me, O LORD: O my strength, haste you to help me."},{"reference": "Psalm 22:20", "verseNumber": 20, "scripture": "Deliver my soul from the sword; my darling from the power of the dog."},{"reference": "Psalm 22:21", "verseNumber": 21, "scripture": "Save me from the lion's mouth: for you have heard me from the horns of the unicorns."},{"reference": "Psalm 22:22", "verseNumber": 22, "scripture": "I will declare your name unto my brethren: in the midst of the congregation will I praise you."},{"reference": "Psalm 22:23", "verseNumber": 23, "scripture": "All of you that fear the LORD, praise him; all you the seed of Jacob, glorify him; and fear him, all you the seed of Israel."},{"reference": "Psalm 22:24", "verseNumber": 24, "scripture": "For he has not despised nor abhorred the affliction of the afflicted; neither has he hid his face from him; but when he cried unto him, he heard."},{"reference": "Psalm 22:25", "verseNumber": 25, "scripture": "My praise shall be of you in the great congregation: I will pay my vows before them that fear him."},{"reference": "Psalm 22:26", "verseNumber": 26, "scripture": "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever."},{"reference": "Psalm 22:27", "verseNumber": 27, "scripture": "All the ends of the world shall remember and turn unto the LORD: and all the families of the nations shall worship before you."},{"reference": "Psalm 22:28", "verseNumber": 28, "scripture": "For the kingdom is the LORD's: and he is the governor among the nations."},{"reference": "Psalm 22:29", "verseNumber": 29, "scripture": "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul."},{"reference": "Psalm 22:30", "verseNumber": 30, "scripture": "A seed shall serve him; it shall be accounted to the Lord for a generation."},{"reference": "Psalm 22:31", "verseNumber": 31, "scripture": "They shall come, and shall declare his righteousness unto a people that shall be born, that he has done this."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  22,
+     "verses":  [
+        {
+            "reference":  "Psalm 22:1",
+             "verseNumber":  1,
+             "scripture":  "My God, my God, why have you forsaken me? why are you so far from helping me, and from the words of my roaring?"
+        },
+        {
+            "reference":  "Psalm 22:2",
+             "verseNumber":  2,
+             "scripture":  "O my God, I cry in the day time, but you hear not; and in the night season, and am not silent."
+        },
+        {
+            "reference":  "Psalm 22:3",
+             "verseNumber":  3,
+             "scripture":  "But you are holy, O you that inhabit the praises of Israel."
+        },
+        {
+            "reference":  "Psalm 22:4",
+             "verseNumber":  4,
+             "scripture":  "Our fathers trusted in you: they trusted, and you did deliver them."
+        },
+        {
+            "reference":  "Psalm 22:5",
+             "verseNumber":  5,
+             "scripture":  "They cried unto you, and were delivered: they trusted in you, and were not confounded."
+        },
+        {
+            "reference":  "Psalm 22:6",
+             "verseNumber":  6,
+             "scripture":  "But I am a worm, and no man; a reproach of men, and despised of the people."
+        },
+        {
+            "reference":  "Psalm 22:7",
+             "verseNumber":  7,
+             "scripture":  "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,"
+        },
+        {
+            "reference":  "Psalm 22:8",
+             "verseNumber":  8,
+             "scripture":  "He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him."
+        },
+        {
+            "reference":  "Psalm 22:9",
+             "verseNumber":  9,
+             "scripture":  "But you are he that took me out of the womb: you did make me hope when I was upon my mother's breasts."
+        },
+        {
+            "reference":  "Psalm 22:10",
+             "verseNumber":  10,
+             "scripture":  "I was cast upon you from the womb: you are my God from my mother's belly."
+        },
+        {
+            "reference":  "Psalm 22:11",
+             "verseNumber":  11,
+             "scripture":  "Be not far from me; for trouble is near; for there is none to help."
+        },
+        {
+            "reference":  "Psalm 22:12",
+             "verseNumber":  12,
+             "scripture":  "Many bulls have compassed me: strong bulls of Bashan have beset me round."
+        },
+        {
+            "reference":  "Psalm 22:13",
+             "verseNumber":  13,
+             "scripture":  "They gaped upon me with their mouths, as a ravening and a roaring lion."
+        },
+        {
+            "reference":  "Psalm 22:14",
+             "verseNumber":  14,
+             "scripture":  "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels."
+        },
+        {
+            "reference":  "Psalm 22:15",
+             "verseNumber":  15,
+             "scripture":  "My strength is dried up like a potsherd; and my tongue cleaves to my jaws; and you have brought me into the dust of death."
+        },
+        {
+            "reference":  "Psalm 22:16",
+             "verseNumber":  16,
+             "scripture":  "For dogs have compassed me: the assembly of the wicked have enclosed me: they pierced my hands and my feet."
+        },
+        {
+            "reference":  "Psalm 22:17",
+             "verseNumber":  17,
+             "scripture":  "I may tell all my bones: they look and stare upon me."
+        },
+        {
+            "reference":  "Psalm 22:18",
+             "verseNumber":  18,
+             "scripture":  "They part my garments among them, and cast lots upon my vesture."
+        },
+        {
+            "reference":  "Psalm 22:19",
+             "verseNumber":  19,
+             "scripture":  "But be not you far from me, O LORD: O my strength, haste you to help me."
+        },
+        {
+            "reference":  "Psalm 22:20",
+             "verseNumber":  20,
+             "scripture":  "Deliver my soul from the sword; my darling from the power of the dog."
+        },
+        {
+            "reference":  "Psalm 22:21",
+             "verseNumber":  21,
+             "scripture":  "Save me from the lion's mouth: for you have heard me from the horns of the unicorns."
+        },
+        {
+            "reference":  "Psalm 22:22",
+             "verseNumber":  22,
+             "scripture":  "I will declare your name unto my brethren: in the midst of the congregation will I praise you."
+        },
+        {
+            "reference":  "Psalm 22:23",
+             "verseNumber":  23,
+             "scripture":  "All of you that fear the LORD, praise him; all you the seed of Jacob, glorify him; and fear him, all you the seed of Israel."
+        },
+        {
+            "reference":  "Psalm 22:24",
+             "verseNumber":  24,
+             "scripture":  "For he has not despised nor abhorred the affliction of the afflicted; neither has he hid his face from him; but when he cried unto him, he heard."
+        },
+        {
+            "reference":  "Psalm 22:25",
+             "verseNumber":  25,
+             "scripture":  "My praise shall be of you in the great congregation: I will pay my vows before them that fear him."
+        },
+        {
+            "reference":  "Psalm 22:26",
+             "verseNumber":  26,
+             "scripture":  "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever."
+        },
+        {
+            "reference":  "Psalm 22:27",
+             "verseNumber":  27,
+             "scripture":  "All the ends of the world shall remember and turn unto the LORD: and all the families of the nations shall worship before you."
+        },
+        {
+            "reference":  "Psalm 22:28",
+             "verseNumber":  28,
+             "scripture":  "For the kingdom is the LORD's: and he is the governor among the nations."
+        },
+        {
+            "reference":  "Psalm 22:29",
+             "verseNumber":  29,
+             "scripture":  "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul."
+        },
+        {
+            "reference":  "Psalm 22:30",
+             "verseNumber":  30,
+             "scripture":  "A seed shall serve him; it shall be accounted to the Lord for a generation."
+        },
+        {
+            "reference":  "Psalm 22:31",
+             "verseNumber":  31,
+             "scripture":  "They shall come, and shall declare his righteousness unto a people that shall be born, that he has done this."
+        }
+    ]
+}

@@ -1,1 +1,175 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 10, "verses": [{"reference": "Proverbs 10:1", "verseNumber": 1, "scripture": "The proverbs of Solomon. A wise son makes a glad father: but a foolish son is the heaviness of his mother."},{"reference": "Proverbs 10:2", "verseNumber": 2, "scripture": "Treasures of wickedness profit nothing: but righteousness delivers from death."},{"reference": "Proverbs 10:3", "verseNumber": 3, "scripture": "The LORD will not suffer the soul of the righteous to famish: but he casts away the substance of the wicked."},{"reference": "Proverbs 10:4", "verseNumber": 4, "scripture": "He becomes poor that deals with a slack hand: but the hand of the diligent makes rich."},{"reference": "Proverbs 10:5", "verseNumber": 5, "scripture": "He that gathers in summer is a wise son: but he that sleeps in harvest is a son that causes shame."},{"reference": "Proverbs 10:6", "verseNumber": 6, "scripture": "Blessings are upon the head of the just: but violence covers the mouth of the wicked."},{"reference": "Proverbs 10:7", "verseNumber": 7, "scripture": "The memory of the just is blessed: but the name of the wicked shall rot."},{"reference": "Proverbs 10:8", "verseNumber": 8, "scripture": "The wise in heart will receive commandments: but a babbling fool shall fall."},{"reference": "Proverbs 10:9", "verseNumber": 9, "scripture": "He that walks uprightly walks surely: but he that perverts his ways shall be known."},{"reference": "Proverbs 10:10", "verseNumber": 10, "scripture": "He that winks with the eye causes sorrow: but a babbling fool shall fall."},{"reference": "Proverbs 10:11", "verseNumber": 11, "scripture": "The mouth of a righteous man is a well of life: but violence covers the mouth of the wicked."},{"reference": "Proverbs 10:12", "verseNumber": 12, "scripture": "Hatred stirs up strifes: but love covers all sins."},{"reference": "Proverbs 10:13", "verseNumber": 13, "scripture": "In the lips of him that has understanding wisdom is found: but a rod is for the back of him that is void of understanding."},{"reference": "Proverbs 10:14", "verseNumber": 14, "scripture": "Wise men lay up knowledge: but the mouth of the foolish is near destruction."},{"reference": "Proverbs 10:15", "verseNumber": 15, "scripture": "The rich man's wealth is his strong city: the destruction of the poor is their poverty."},{"reference": "Proverbs 10:16", "verseNumber": 16, "scripture": "The labour of the righteous tends to life: the fruit of the wicked to sin."},{"reference": "Proverbs 10:17", "verseNumber": 17, "scripture": "He is in the way of life that keeps instruction: but he that refuses reproof errs."},{"reference": "Proverbs 10:18", "verseNumber": 18, "scripture": "He that hides hatred with lying lips, and he that utters a slander, is a fool."},{"reference": "Proverbs 10:19", "verseNumber": 19, "scripture": "In the multitude of words there wants not sin: but he that refrains his lips is wise."},{"reference": "Proverbs 10:20", "verseNumber": 20, "scripture": "The tongue of the just is as choice silver: the heart of the wicked is little worth."},{"reference": "Proverbs 10:21", "verseNumber": 21, "scripture": "The lips of the righteous feed many: but fools die for lack of wisdom."},{"reference": "Proverbs 10:22", "verseNumber": 22, "scripture": "The blessing of the LORD, it makes rich, and he adds no sorrow with it."},{"reference": "Proverbs 10:23", "verseNumber": 23, "scripture": "It is as sport to a fool to do mischief: but a man of understanding has wisdom."},{"reference": "Proverbs 10:24", "verseNumber": 24, "scripture": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."},{"reference": "Proverbs 10:25", "verseNumber": 25, "scripture": "As the whirlwind passes, so is the wicked no more: but the righteous is an everlasting foundation."},{"reference": "Proverbs 10:26", "verseNumber": 26, "scripture": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him."},{"reference": "Proverbs 10:27", "verseNumber": 27, "scripture": "The fear of the LORD prolongs days: but the years of the wicked shall be shortened."},{"reference": "Proverbs 10:28", "verseNumber": 28, "scripture": "The hope of the righteous shall be gladness: but the expectation of the wicked shall perish."},{"reference": "Proverbs 10:29", "verseNumber": 29, "scripture": "The way of the LORD is strength to the upright: but destruction shall be to the workers of iniquity."},{"reference": "Proverbs 10:30", "verseNumber": 30, "scripture": "The righteous shall never be removed: but the wicked shall not inhabit the earth."},{"reference": "Proverbs 10:31", "verseNumber": 31, "scripture": "The mouth of the just brings forth wisdom: but the perverse tongue shall be cut out."},{"reference": "Proverbs 10:32", "verseNumber": 32, "scripture": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaks perverseness."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  10,
+     "verses":  [
+        {
+            "reference":  "Proverbs 10:1",
+             "verseNumber":  1,
+             "scripture":  "The proverbs of Solomon. A wise son makes a glad father: but a foolish son is the heaviness of his mother."
+        },
+        {
+            "reference":  "Proverbs 10:2",
+             "verseNumber":  2,
+             "scripture":  "Treasures of wickedness profit nothing: but righteousness delivers from death."
+        },
+        {
+            "reference":  "Proverbs 10:3",
+             "verseNumber":  3,
+             "scripture":  "The LORD will not suffer the soul of the righteous to famish: but he casts away the substance of the wicked."
+        },
+        {
+            "reference":  "Proverbs 10:4",
+             "verseNumber":  4,
+             "scripture":  "He becomes poor that deals with a slack hand: but the hand of the diligent makes rich."
+        },
+        {
+            "reference":  "Proverbs 10:5",
+             "verseNumber":  5,
+             "scripture":  "He that gathers in summer is a wise son: but he that sleeps in harvest is a son that causes shame."
+        },
+        {
+            "reference":  "Proverbs 10:6",
+             "verseNumber":  6,
+             "scripture":  "Blessings are upon the head of the just: but violence covers the mouth of the wicked."
+        },
+        {
+            "reference":  "Proverbs 10:7",
+             "verseNumber":  7,
+             "scripture":  "The memory of the just is blessed: but the name of the wicked shall rot."
+        },
+        {
+            "reference":  "Proverbs 10:8",
+             "verseNumber":  8,
+             "scripture":  "The wise in heart will receive commandments: but a babbling fool shall fall."
+        },
+        {
+            "reference":  "Proverbs 10:9",
+             "verseNumber":  9,
+             "scripture":  "He that walks uprightly walks surely: but he that perverts his ways shall be known."
+        },
+        {
+            "reference":  "Proverbs 10:10",
+             "verseNumber":  10,
+             "scripture":  "He that winks with the eye causes sorrow: but a babbling fool shall fall."
+        },
+        {
+            "reference":  "Proverbs 10:11",
+             "verseNumber":  11,
+             "scripture":  "The mouth of a righteous man is a well of life: but violence covers the mouth of the wicked."
+        },
+        {
+            "reference":  "Proverbs 10:12",
+             "verseNumber":  12,
+             "scripture":  "Hatred stirs up strifes: but love covers all sins."
+        },
+        {
+            "reference":  "Proverbs 10:13",
+             "verseNumber":  13,
+             "scripture":  "In the lips of him that has understanding wisdom is found: but a rod is for the back of him that is void of understanding."
+        },
+        {
+            "reference":  "Proverbs 10:14",
+             "verseNumber":  14,
+             "scripture":  "Wise men lay up knowledge: but the mouth of the foolish is near destruction."
+        },
+        {
+            "reference":  "Proverbs 10:15",
+             "verseNumber":  15,
+             "scripture":  "The rich man's wealth is his strong city: the destruction of the poor is their poverty."
+        },
+        {
+            "reference":  "Proverbs 10:16",
+             "verseNumber":  16,
+             "scripture":  "The labour of the righteous tends to life: the fruit of the wicked to sin."
+        },
+        {
+            "reference":  "Proverbs 10:17",
+             "verseNumber":  17,
+             "scripture":  "He is in the way of life that keeps instruction: but he that refuses reproof errs."
+        },
+        {
+            "reference":  "Proverbs 10:18",
+             "verseNumber":  18,
+             "scripture":  "He that hides hatred with lying lips, and he that utters a slander, is a fool."
+        },
+        {
+            "reference":  "Proverbs 10:19",
+             "verseNumber":  19,
+             "scripture":  "In the multitude of words there wants not sin: but he that refrains his lips is wise."
+        },
+        {
+            "reference":  "Proverbs 10:20",
+             "verseNumber":  20,
+             "scripture":  "The tongue of the just is as choice silver: the heart of the wicked is little worth."
+        },
+        {
+            "reference":  "Proverbs 10:21",
+             "verseNumber":  21,
+             "scripture":  "The lips of the righteous feed many: but fools die for lack of wisdom."
+        },
+        {
+            "reference":  "Proverbs 10:22",
+             "verseNumber":  22,
+             "scripture":  "The blessing of the LORD, it makes rich, and he adds no sorrow with it."
+        },
+        {
+            "reference":  "Proverbs 10:23",
+             "verseNumber":  23,
+             "scripture":  "It is as sport to a fool to do mischief: but a man of understanding has wisdom."
+        },
+        {
+            "reference":  "Proverbs 10:24",
+             "verseNumber":  24,
+             "scripture":  "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+        },
+        {
+            "reference":  "Proverbs 10:25",
+             "verseNumber":  25,
+             "scripture":  "As the whirlwind passes, so is the wicked no more: but the righteous is an everlasting foundation."
+        },
+        {
+            "reference":  "Proverbs 10:26",
+             "verseNumber":  26,
+             "scripture":  "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him."
+        },
+        {
+            "reference":  "Proverbs 10:27",
+             "verseNumber":  27,
+             "scripture":  "The fear of the LORD prolongs days: but the years of the wicked shall be shortened."
+        },
+        {
+            "reference":  "Proverbs 10:28",
+             "verseNumber":  28,
+             "scripture":  "The hope of the righteous shall be gladness: but the expectation of the wicked shall perish."
+        },
+        {
+            "reference":  "Proverbs 10:29",
+             "verseNumber":  29,
+             "scripture":  "The way of the LORD is strength to the upright: but destruction shall be to the workers of iniquity."
+        },
+        {
+            "reference":  "Proverbs 10:30",
+             "verseNumber":  30,
+             "scripture":  "The righteous shall never be removed: but the wicked shall not inhabit the earth."
+        },
+        {
+            "reference":  "Proverbs 10:31",
+             "verseNumber":  31,
+             "scripture":  "The mouth of the just brings forth wisdom: but the perverse tongue shall be cut out."
+        },
+        {
+            "reference":  "Proverbs 10:32",
+             "verseNumber":  32,
+             "scripture":  "The lips of the righteous know what is acceptable: but the mouth of the wicked speaks perverseness."
+        }
+    ]
+}

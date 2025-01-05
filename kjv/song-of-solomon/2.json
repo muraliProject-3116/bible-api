@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Song of Solomon", "bookAbbreviation": "Son", "chapterNumber": 2, "verses": [{"reference": "Song of Solomon 2:1", "verseNumber": 1, "scripture": "I am the rose of Sharon, and the lily of the valleys."},{"reference": "Song of Solomon 2:2", "verseNumber": 2, "scripture": "As the lily among thorns, so is my love among the daughters."},{"reference": "Song of Solomon 2:3", "verseNumber": 3, "scripture": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."},{"reference": "Song of Solomon 2:4", "verseNumber": 4, "scripture": "He brought me to the banqueting house, and his banner over me was love."},{"reference": "Song of Solomon 2:5", "verseNumber": 5, "scripture": "Stay me with flagons, comfort me with apples: for I am sick of love."},{"reference": "Song of Solomon 2:6", "verseNumber": 6, "scripture": "His left hand is under my head, and his right hand does embrace me."},{"reference": "Song of Solomon 2:7", "verseNumber": 7, "scripture": "I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please."},{"reference": "Song of Solomon 2:8", "verseNumber": 8, "scripture": "The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills."},{"reference": "Song of Solomon 2:9", "verseNumber": 9, "scripture": "My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice."},{"reference": "Song of Solomon 2:10", "verseNumber": 10, "scripture": "My beloved spoke, and said unto me, Rise up, my love, my fair one, and come away."},{"reference": "Song of Solomon 2:11", "verseNumber": 11, "scripture": "For, lo, the winter is past, the rain is over and gone;"},{"reference": "Song of Solomon 2:12", "verseNumber": 12, "scripture": "The flowers appear on the earth; the time of the singing of birds has come, and the voice of the turtle is heard in our land;"},{"reference": "Song of Solomon 2:13", "verseNumber": 13, "scripture": "The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away."},{"reference": "Song of Solomon 2:14", "verseNumber": 14, "scripture": "O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely."},{"reference": "Song of Solomon 2:15", "verseNumber": 15, "scripture": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."},{"reference": "Song of Solomon 2:16", "verseNumber": 16, "scripture": "My beloved is mine, and I am his: he feeds among the lilies."},{"reference": "Song of Solomon 2:17", "verseNumber": 17, "scripture": "Until the day break, and the shadows flee away, turn, my beloved, and be you like a roe or a young hart upon the mountains of Bether."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Song of Solomon",
+     "bookAbbreviation":  "Son",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "Song of Solomon 2:1",
+             "verseNumber":  1,
+             "scripture":  "I am the rose of Sharon, and the lily of the valleys."
+        },
+        {
+            "reference":  "Song of Solomon 2:2",
+             "verseNumber":  2,
+             "scripture":  "As the lily among thorns, so is my love among the daughters."
+        },
+        {
+            "reference":  "Song of Solomon 2:3",
+             "verseNumber":  3,
+             "scripture":  "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."
+        },
+        {
+            "reference":  "Song of Solomon 2:4",
+             "verseNumber":  4,
+             "scripture":  "He brought me to the banqueting house, and his banner over me was love."
+        },
+        {
+            "reference":  "Song of Solomon 2:5",
+             "verseNumber":  5,
+             "scripture":  "Stay me with flagons, comfort me with apples: for I am sick of love."
+        },
+        {
+            "reference":  "Song of Solomon 2:6",
+             "verseNumber":  6,
+             "scripture":  "His left hand is under my head, and his right hand does embrace me."
+        },
+        {
+            "reference":  "Song of Solomon 2:7",
+             "verseNumber":  7,
+             "scripture":  "I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please."
+        },
+        {
+            "reference":  "Song of Solomon 2:8",
+             "verseNumber":  8,
+             "scripture":  "The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills."
+        },
+        {
+            "reference":  "Song of Solomon 2:9",
+             "verseNumber":  9,
+             "scripture":  "My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice."
+        },
+        {
+            "reference":  "Song of Solomon 2:10",
+             "verseNumber":  10,
+             "scripture":  "My beloved spoke, and said unto me, Rise up, my love, my fair one, and come away."
+        },
+        {
+            "reference":  "Song of Solomon 2:11",
+             "verseNumber":  11,
+             "scripture":  "For, lo, the winter is past, the rain is over and gone;"
+        },
+        {
+            "reference":  "Song of Solomon 2:12",
+             "verseNumber":  12,
+             "scripture":  "The flowers appear on the earth; the time of the singing of birds has come, and the voice of the turtle is heard in our land;"
+        },
+        {
+            "reference":  "Song of Solomon 2:13",
+             "verseNumber":  13,
+             "scripture":  "The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away."
+        },
+        {
+            "reference":  "Song of Solomon 2:14",
+             "verseNumber":  14,
+             "scripture":  "O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely."
+        },
+        {
+            "reference":  "Song of Solomon 2:15",
+             "verseNumber":  15,
+             "scripture":  "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."
+        },
+        {
+            "reference":  "Song of Solomon 2:16",
+             "verseNumber":  16,
+             "scripture":  "My beloved is mine, and I am his: he feeds among the lilies."
+        },
+        {
+            "reference":  "Song of Solomon 2:17",
+             "verseNumber":  17,
+             "scripture":  "Until the day break, and the shadows flee away, turn, my beloved, and be you like a roe or a young hart upon the mountains of Bether."
+        }
+    ]
+}

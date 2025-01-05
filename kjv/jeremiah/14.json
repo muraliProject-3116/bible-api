@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Jeremiah", "bookAbbreviation": "Jer", "chapterNumber": 14, "verses": [{"reference": "Jeremiah 14:1", "verseNumber": 1, "scripture": "The word of the LORD that came to Jeremiah concerning the dearth."},{"reference": "Jeremiah 14:2", "verseNumber": 2, "scripture": "Judah mourns, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up."},{"reference": "Jeremiah 14:3", "verseNumber": 3, "scripture": "And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads."},{"reference": "Jeremiah 14:4", "verseNumber": 4, "scripture": "Because the ground is cracked, for there was no rain in the earth, the plowmen were ashamed, they covered their heads."},{"reference": "Jeremiah 14:5", "verseNumber": 5, "scripture": "Yea, the hind also calved in the field, and forsook it, because there was no grass."},{"reference": "Jeremiah 14:6", "verseNumber": 6, "scripture": "And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because there was no grass."},{"reference": "Jeremiah 14:7", "verseNumber": 7, "scripture": "O LORD, though our iniquities testify against us, do you it for your name's sake: for our backslidings are many; we have sinned against you."},{"reference": "Jeremiah 14:8", "verseNumber": 8, "scripture": "O the hope of Israel, the saviour thereof in time of trouble, why should you be as a stranger in the land, and as a travelling man that turns aside to tarry for a night?"},{"reference": "Jeremiah 14:9", "verseNumber": 9, "scripture": "Why should you be as a man astonished, as a mighty man that cannot save? yet you, O LORD, are in the midst of us, and we are called by your name; leave us not."},{"reference": "Jeremiah 14:10", "verseNumber": 10, "scripture": "Thus says the LORD unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the LORD does not accept them; he will now remember their iniquity, and visit their sins."},{"reference": "Jeremiah 14:11", "verseNumber": 11, "scripture": "Then said the LORD unto me, Pray not for this people for their good."},{"reference": "Jeremiah 14:12", "verseNumber": 12, "scripture": "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence."},{"reference": "Jeremiah 14:13", "verseNumber": 13, "scripture": "Then said I, Ah, Lord GOD! behold, the prophets say unto them, All of you shall not see the sword, neither shall all of you have famine; but I will give you assured peace in this place."},{"reference": "Jeremiah 14:14", "verseNumber": 14, "scripture": "Then the LORD said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spoke unto them: they prophesy unto you a false vision and divination, and a thing of nothing, and the deceit of their heart."},{"reference": "Jeremiah 14:15", "verseNumber": 15, "scripture": "Therefore thus says the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed."},{"reference": "Jeremiah 14:16", "verseNumber": 16, "scripture": "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them."},{"reference": "Jeremiah 14:17", "verseNumber": 17, "scripture": "Therefore you shall say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow."},{"reference": "Jeremiah 14:18", "verseNumber": 18, "scripture": "If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not."},{"reference": "Jeremiah 14:19", "verseNumber": 19, "scripture": "Have you utterly rejected Judah? has your soul loathed Zion? why have you smitten us, and there is no healing for us? we looked for peace, and there is no good; and for the time of healing, and behold trouble!"},{"reference": "Jeremiah 14:20", "verseNumber": 20, "scripture": "We acknowledge, O LORD, our wickedness, and the iniquity of our fathers: for we have sinned against you."},{"reference": "Jeremiah 14:21", "verseNumber": 21, "scripture": "Do not detest us, for your name's sake, do not disgrace the throne of your glory: remember, break not your covenant with us."},{"reference": "Jeremiah 14:22", "verseNumber": 22, "scripture": "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? are not you he, O LORD our God? therefore we will wait upon you: for you have made all these things."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Jeremiah",
+     "bookAbbreviation":  "Jer",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "Jeremiah 14:1",
+             "verseNumber":  1,
+             "scripture":  "The word of the LORD that came to Jeremiah concerning the dearth."
+        },
+        {
+            "reference":  "Jeremiah 14:2",
+             "verseNumber":  2,
+             "scripture":  "Judah mourns, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up."
+        },
+        {
+            "reference":  "Jeremiah 14:3",
+             "verseNumber":  3,
+             "scripture":  "And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads."
+        },
+        {
+            "reference":  "Jeremiah 14:4",
+             "verseNumber":  4,
+             "scripture":  "Because the ground is cracked, for there was no rain in the earth, the plowmen were ashamed, they covered their heads."
+        },
+        {
+            "reference":  "Jeremiah 14:5",
+             "verseNumber":  5,
+             "scripture":  "Yea, the hind also calved in the field, and forsook it, because there was no grass."
+        },
+        {
+            "reference":  "Jeremiah 14:6",
+             "verseNumber":  6,
+             "scripture":  "And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because there was no grass."
+        },
+        {
+            "reference":  "Jeremiah 14:7",
+             "verseNumber":  7,
+             "scripture":  "O LORD, though our iniquities testify against us, do you it for your name's sake: for our backslidings are many; we have sinned against you."
+        },
+        {
+            "reference":  "Jeremiah 14:8",
+             "verseNumber":  8,
+             "scripture":  "O the hope of Israel, the saviour thereof in time of trouble, why should you be as a stranger in the land, and as a travelling man that turns aside to tarry for a night?"
+        },
+        {
+            "reference":  "Jeremiah 14:9",
+             "verseNumber":  9,
+             "scripture":  "Why should you be as a man astonished, as a mighty man that cannot save? yet you, O LORD, are in the midst of us, and we are called by your name; leave us not."
+        },
+        {
+            "reference":  "Jeremiah 14:10",
+             "verseNumber":  10,
+             "scripture":  "Thus says the LORD unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the LORD does not accept them; he will now remember their iniquity, and visit their sins."
+        },
+        {
+            "reference":  "Jeremiah 14:11",
+             "verseNumber":  11,
+             "scripture":  "Then said the LORD unto me, Pray not for this people for their good."
+        },
+        {
+            "reference":  "Jeremiah 14:12",
+             "verseNumber":  12,
+             "scripture":  "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence."
+        },
+        {
+            "reference":  "Jeremiah 14:13",
+             "verseNumber":  13,
+             "scripture":  "Then said I, Ah, Lord GOD! behold, the prophets say unto them, All of you shall not see the sword, neither shall all of you have famine; but I will give you assured peace in this place."
+        },
+        {
+            "reference":  "Jeremiah 14:14",
+             "verseNumber":  14,
+             "scripture":  "Then the LORD said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spoke unto them: they prophesy unto you a false vision and divination, and a thing of nothing, and the deceit of their heart."
+        },
+        {
+            "reference":  "Jeremiah 14:15",
+             "verseNumber":  15,
+             "scripture":  "Therefore thus says the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed."
+        },
+        {
+            "reference":  "Jeremiah 14:16",
+             "verseNumber":  16,
+             "scripture":  "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them."
+        },
+        {
+            "reference":  "Jeremiah 14:17",
+             "verseNumber":  17,
+             "scripture":  "Therefore you shall say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow."
+        },
+        {
+            "reference":  "Jeremiah 14:18",
+             "verseNumber":  18,
+             "scripture":  "If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not."
+        },
+        {
+            "reference":  "Jeremiah 14:19",
+             "verseNumber":  19,
+             "scripture":  "Have you utterly rejected Judah? has your soul loathed Zion? why have you smitten us, and there is no healing for us? we looked for peace, and there is no good; and for the time of healing, and behold trouble!"
+        },
+        {
+            "reference":  "Jeremiah 14:20",
+             "verseNumber":  20,
+             "scripture":  "We acknowledge, O LORD, our wickedness, and the iniquity of our fathers: for we have sinned against you."
+        },
+        {
+            "reference":  "Jeremiah 14:21",
+             "verseNumber":  21,
+             "scripture":  "Do not detest us, for your name's sake, do not disgrace the throne of your glory: remember, break not your covenant with us."
+        },
+        {
+            "reference":  "Jeremiah 14:22",
+             "verseNumber":  22,
+             "scripture":  "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? are not you he, O LORD our God? therefore we will wait upon you: for you have made all these things."
+        }
+    ]
+}

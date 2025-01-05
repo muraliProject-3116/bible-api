@@ -1,1 +1,60 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 137, "verses": [{"reference": "Psalm 137:1", "verseNumber": 1, "scripture": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion."},{"reference": "Psalm 137:2", "verseNumber": 2, "scripture": "We hanged our harps upon the willows in the midst thereof."},{"reference": "Psalm 137:3", "verseNumber": 3, "scripture": "For there they that carried us away captive required of us a song; and they that wasted us required of us delight, saying, Sing us one of the songs of Zion."},{"reference": "Psalm 137:4", "verseNumber": 4, "scripture": "How shall we sing the LORD's song in a strange land?"},{"reference": "Psalm 137:5", "verseNumber": 5, "scripture": "If I forget you, O Jerusalem, let my right hand forget her cunning."},{"reference": "Psalm 137:6", "verseNumber": 6, "scripture": "If I do not remember you, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy."},{"reference": "Psalm 137:7", "verseNumber": 7, "scripture": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Demolish it, demolish it, even to the foundation thereof."},{"reference": "Psalm 137:8", "verseNumber": 8, "scripture": "O daughter of Babylon, who are to be destroyed; happy shall he be, that rewards you as you have served us."},{"reference": "Psalm 137:9", "verseNumber": 9, "scripture": "Happy shall he be, that takes and dashes your little ones against the stones."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  137,
+     "verses":  [
+        {
+            "reference":  "Psalm 137:1",
+             "verseNumber":  1,
+             "scripture":  "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion."
+        },
+        {
+            "reference":  "Psalm 137:2",
+             "verseNumber":  2,
+             "scripture":  "We hanged our harps upon the willows in the midst thereof."
+        },
+        {
+            "reference":  "Psalm 137:3",
+             "verseNumber":  3,
+             "scripture":  "For there they that carried us away captive required of us a song; and they that wasted us required of us delight, saying, Sing us one of the songs of Zion."
+        },
+        {
+            "reference":  "Psalm 137:4",
+             "verseNumber":  4,
+             "scripture":  "How shall we sing the LORD's song in a strange land?"
+        },
+        {
+            "reference":  "Psalm 137:5",
+             "verseNumber":  5,
+             "scripture":  "If I forget you, O Jerusalem, let my right hand forget her cunning."
+        },
+        {
+            "reference":  "Psalm 137:6",
+             "verseNumber":  6,
+             "scripture":  "If I do not remember you, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy."
+        },
+        {
+            "reference":  "Psalm 137:7",
+             "verseNumber":  7,
+             "scripture":  "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Demolish it, demolish it, even to the foundation thereof."
+        },
+        {
+            "reference":  "Psalm 137:8",
+             "verseNumber":  8,
+             "scripture":  "O daughter of Babylon, who are to be destroyed; happy shall he be, that rewards you as you have served us."
+        },
+        {
+            "reference":  "Psalm 137:9",
+             "verseNumber":  9,
+             "scripture":  "Happy shall he be, that takes and dashes your little ones against the stones."
+        }
+    ]
+}

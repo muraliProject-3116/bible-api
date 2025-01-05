@@ -1,1 +1,145 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "James", "bookAbbreviation": "Jam", "chapterNumber": 2, "verses": [{"reference": "James 2:1", "verseNumber": 1, "scripture": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."},{"reference": "James 2:2", "verseNumber": 2, "scripture": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"},{"reference": "James 2:3", "verseNumber": 3, "scripture": "And all of you have respect to him that wears the cheerful clothing, and say unto him, Sit you here in a good place; and say to the poor, Stand you there, or sit here under my footstool:"},{"reference": "James 2:4", "verseNumber": 4, "scripture": "Are all of you not then partial in yourselves, and are become judges of evil thoughts?"},{"reference": "James 2:5", "verseNumber": 5, "scripture": "Hearken, my beloved brethren, Has not God chosen the poor of this world rich in faith, and heirs of the kingdom which he has promised to them that love him?"},{"reference": "James 2:6", "verseNumber": 6, "scripture": "But all of you have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"},{"reference": "James 2:7", "verseNumber": 7, "scripture": "Do not they blaspheme that worthy name by the which all of you are called?"},{"reference": "James 2:8", "verseNumber": 8, "scripture": "If all of you fulfill the royal law according to the scripture, You shall love your neighbour as yourself, all of you do well:"},{"reference": "James 2:9", "verseNumber": 9, "scripture": "But if all of you have respect to persons, all of you commit sin, and are convinced of the law as transgressors."},{"reference": "James 2:10", "verseNumber": 10, "scripture": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."},{"reference": "James 2:11", "verseNumber": 11, "scripture": "For he that said, Do not commit adultery, said also, Do not kill. Now if you commit no adultery, yet if you kill, you are become a transgressor of the law."},{"reference": "James 2:12", "verseNumber": 12, "scripture": "So speak all of you, and so do, as they that shall be judged by the law of liberty."},{"reference": "James 2:13", "verseNumber": 13, "scripture": "For he shall have judgment without mercy, that has showed no mercy; and mercy rejoices against judgment."},{"reference": "James 2:14", "verseNumber": 14, "scripture": "What does it profit, my brethren, though a man say he has faith, and have not works? can faith save him?"},{"reference": "James 2:15", "verseNumber": 15, "scripture": "If a brother or sister be naked, and destitute of daily food,"},{"reference": "James 2:16", "verseNumber": 16, "scripture": "And one of you say unto them, Depart in peace, be all of you warmed and filled; notwithstanding all of you give them not those things which are necessary to the body; what does it profit?"},{"reference": "James 2:17", "verseNumber": 17, "scripture": "Even so faith, if it has not works, is dead, being alone."},{"reference": "James 2:18", "verseNumber": 18, "scripture": "Yea, a man may say, You have faith, and I have works: show me your faith without your works, and I will show you my faith by my works."},{"reference": "James 2:19", "verseNumber": 19, "scripture": "You believe that there is one God; you do well: the devils also believe, and tremble."},{"reference": "James 2:20", "verseNumber": 20, "scripture": "But will you know, O vain man, that faith without works is dead?"},{"reference": "James 2:21", "verseNumber": 21, "scripture": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"},{"reference": "James 2:22", "verseNumber": 22, "scripture": "See you how faith wrought with his works, and by works was faith made perfect?"},{"reference": "James 2:23", "verseNumber": 23, "scripture": "And the scripture was fulfilled which says, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."},{"reference": "James 2:24", "verseNumber": 24, "scripture": "All of you see then how that by works a man is justified, and not by faith only."},{"reference": "James 2:25", "verseNumber": 25, "scripture": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"},{"reference": "James 2:26", "verseNumber": 26, "scripture": "For as the body without the spirit is dead, so faith without works is dead also."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "James",
+     "bookAbbreviation":  "Jam",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "James 2:1",
+             "verseNumber":  1,
+             "scripture":  "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+        },
+        {
+            "reference":  "James 2:2",
+             "verseNumber":  2,
+             "scripture":  "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+        },
+        {
+            "reference":  "James 2:3",
+             "verseNumber":  3,
+             "scripture":  "And all of you have respect to him that wears the cheerful clothing, and say unto him, Sit you here in a good place; and say to the poor, Stand you there, or sit here under my footstool:"
+        },
+        {
+            "reference":  "James 2:4",
+             "verseNumber":  4,
+             "scripture":  "Are all of you not then partial in yourselves, and are become judges of evil thoughts?"
+        },
+        {
+            "reference":  "James 2:5",
+             "verseNumber":  5,
+             "scripture":  "Hearken, my beloved brethren, Has not God chosen the poor of this world rich in faith, and heirs of the kingdom which he has promised to them that love him?"
+        },
+        {
+            "reference":  "James 2:6",
+             "verseNumber":  6,
+             "scripture":  "But all of you have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+        },
+        {
+            "reference":  "James 2:7",
+             "verseNumber":  7,
+             "scripture":  "Do not they blaspheme that worthy name by the which all of you are called?"
+        },
+        {
+            "reference":  "James 2:8",
+             "verseNumber":  8,
+             "scripture":  "If all of you fulfill the royal law according to the scripture, You shall love your neighbour as yourself, all of you do well:"
+        },
+        {
+            "reference":  "James 2:9",
+             "verseNumber":  9,
+             "scripture":  "But if all of you have respect to persons, all of you commit sin, and are convinced of the law as transgressors."
+        },
+        {
+            "reference":  "James 2:10",
+             "verseNumber":  10,
+             "scripture":  "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
+        },
+        {
+            "reference":  "James 2:11",
+             "verseNumber":  11,
+             "scripture":  "For he that said, Do not commit adultery, said also, Do not kill. Now if you commit no adultery, yet if you kill, you are become a transgressor of the law."
+        },
+        {
+            "reference":  "James 2:12",
+             "verseNumber":  12,
+             "scripture":  "So speak all of you, and so do, as they that shall be judged by the law of liberty."
+        },
+        {
+            "reference":  "James 2:13",
+             "verseNumber":  13,
+             "scripture":  "For he shall have judgment without mercy, that has showed no mercy; and mercy rejoices against judgment."
+        },
+        {
+            "reference":  "James 2:14",
+             "verseNumber":  14,
+             "scripture":  "What does it profit, my brethren, though a man say he has faith, and have not works? can faith save him?"
+        },
+        {
+            "reference":  "James 2:15",
+             "verseNumber":  15,
+             "scripture":  "If a brother or sister be naked, and destitute of daily food,"
+        },
+        {
+            "reference":  "James 2:16",
+             "verseNumber":  16,
+             "scripture":  "And one of you say unto them, Depart in peace, be all of you warmed and filled; notwithstanding all of you give them not those things which are necessary to the body; what does it profit?"
+        },
+        {
+            "reference":  "James 2:17",
+             "verseNumber":  17,
+             "scripture":  "Even so faith, if it has not works, is dead, being alone."
+        },
+        {
+            "reference":  "James 2:18",
+             "verseNumber":  18,
+             "scripture":  "Yea, a man may say, You have faith, and I have works: show me your faith without your works, and I will show you my faith by my works."
+        },
+        {
+            "reference":  "James 2:19",
+             "verseNumber":  19,
+             "scripture":  "You believe that there is one God; you do well: the devils also believe, and tremble."
+        },
+        {
+            "reference":  "James 2:20",
+             "verseNumber":  20,
+             "scripture":  "But will you know, O vain man, that faith without works is dead?"
+        },
+        {
+            "reference":  "James 2:21",
+             "verseNumber":  21,
+             "scripture":  "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+        },
+        {
+            "reference":  "James 2:22",
+             "verseNumber":  22,
+             "scripture":  "See you how faith wrought with his works, and by works was faith made perfect?"
+        },
+        {
+            "reference":  "James 2:23",
+             "verseNumber":  23,
+             "scripture":  "And the scripture was fulfilled which says, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+        },
+        {
+            "reference":  "James 2:24",
+             "verseNumber":  24,
+             "scripture":  "All of you see then how that by works a man is justified, and not by faith only."
+        },
+        {
+            "reference":  "James 2:25",
+             "verseNumber":  25,
+             "scripture":  "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
+        },
+        {
+            "reference":  "James 2:26",
+             "verseNumber":  26,
+             "scripture":  "For as the body without the spirit is dead, so faith without works is dead also."
+        }
+    ]
+}

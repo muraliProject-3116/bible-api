@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 62, "verses": [{"reference": "Psalm 62:1", "verseNumber": 1, "scripture": "Truly my soul waits upon God: from him comes my salvation."},{"reference": "Psalm 62:2", "verseNumber": 2, "scripture": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."},{"reference": "Psalm 62:3", "verseNumber": 3, "scripture": "How long will all of you imagine mischief against a man? all of you shall be slain all of you: as a bowing wall shall all of you be, and as a tottering fence."},{"reference": "Psalm 62:4", "verseNumber": 4, "scripture": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."},{"reference": "Psalm 62:5", "verseNumber": 5, "scripture": "My soul, wait you only upon God; for my expectation is from him."},{"reference": "Psalm 62:6", "verseNumber": 6, "scripture": "He only is my rock and my salvation: he is my defence; I shall not be moved."},{"reference": "Psalm 62:7", "verseNumber": 7, "scripture": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."},{"reference": "Psalm 62:8", "verseNumber": 8, "scripture": "Trust in him at all times; all of you people, pour out your heart before him: God is a refuge for us. Selah."},{"reference": "Psalm 62:9", "verseNumber": 9, "scripture": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."},{"reference": "Psalm 62:10", "verseNumber": 10, "scripture": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."},{"reference": "Psalm 62:11", "verseNumber": 11, "scripture": "God has spoken once; twice have I heard this; that power belongs unto God."},{"reference": "Psalm 62:12", "verseNumber": 12, "scripture": "Also unto you, O Lord, belongs mercy: for you render to every man according to his work."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  62,
+     "verses":  [
+        {
+            "reference":  "Psalm 62:1",
+             "verseNumber":  1,
+             "scripture":  "Truly my soul waits upon God: from him comes my salvation."
+        },
+        {
+            "reference":  "Psalm 62:2",
+             "verseNumber":  2,
+             "scripture":  "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
+        },
+        {
+            "reference":  "Psalm 62:3",
+             "verseNumber":  3,
+             "scripture":  "How long will all of you imagine mischief against a man? all of you shall be slain all of you: as a bowing wall shall all of you be, and as a tottering fence."
+        },
+        {
+            "reference":  "Psalm 62:4",
+             "verseNumber":  4,
+             "scripture":  "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."
+        },
+        {
+            "reference":  "Psalm 62:5",
+             "verseNumber":  5,
+             "scripture":  "My soul, wait you only upon God; for my expectation is from him."
+        },
+        {
+            "reference":  "Psalm 62:6",
+             "verseNumber":  6,
+             "scripture":  "He only is my rock and my salvation: he is my defence; I shall not be moved."
+        },
+        {
+            "reference":  "Psalm 62:7",
+             "verseNumber":  7,
+             "scripture":  "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
+        },
+        {
+            "reference":  "Psalm 62:8",
+             "verseNumber":  8,
+             "scripture":  "Trust in him at all times; all of you people, pour out your heart before him: God is a refuge for us. Selah."
+        },
+        {
+            "reference":  "Psalm 62:9",
+             "verseNumber":  9,
+             "scripture":  "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."
+        },
+        {
+            "reference":  "Psalm 62:10",
+             "verseNumber":  10,
+             "scripture":  "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."
+        },
+        {
+            "reference":  "Psalm 62:11",
+             "verseNumber":  11,
+             "scripture":  "God has spoken once; twice have I heard this; that power belongs unto God."
+        },
+        {
+            "reference":  "Psalm 62:12",
+             "verseNumber":  12,
+             "scripture":  "Also unto you, O Lord, belongs mercy: for you render to every man according to his work."
+        }
+    ]
+}

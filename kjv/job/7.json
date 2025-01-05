@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 7, "verses": [{"reference": "Job 7:1", "verseNumber": 1, "scripture": "Is there not an appointed time to man upon earth? are not his days also like the days of a worker?"},{"reference": "Job 7:2", "verseNumber": 2, "scripture": "As a servant earnestly desires the shadow, and as a worker looks for the reward of his work:"},{"reference": "Job 7:3", "verseNumber": 3, "scripture": "So am I made to possess months of vanity, and wearisome nights are appointed to me."},{"reference": "Job 7:4", "verseNumber": 4, "scripture": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings back and forth unto the dawning of the day."},{"reference": "Job 7:5", "verseNumber": 5, "scripture": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."},{"reference": "Job 7:6", "verseNumber": 6, "scripture": "My days are swifter than a weaver's shuttle, and are spent without hope."},{"reference": "Job 7:7", "verseNumber": 7, "scripture": "O remember that my life is wind: mine eye shall no more see good."},{"reference": "Job 7:8", "verseNumber": 8, "scripture": "The eye of him that has seen me shall see me no more: yours eyes are upon me, and I am not."},{"reference": "Job 7:9", "verseNumber": 9, "scripture": "As the cloud is consumed and vanishes away: so he that goes down to the grave shall come up no more."},{"reference": "Job 7:10", "verseNumber": 10, "scripture": "He shall return no more to his house, neither shall his place know him any more."},{"reference": "Job 7:11", "verseNumber": 11, "scripture": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."},{"reference": "Job 7:12", "verseNumber": 12, "scripture": "Am I a sea, or a whale, that you set a watch over me?"},{"reference": "Job 7:13", "verseNumber": 13, "scripture": "When I say, My bed shall comfort me, my couch shall ease my complaints;"},{"reference": "Job 7:14", "verseNumber": 14, "scripture": "Then you scare me with dreams, and terrify me through visions:"},{"reference": "Job 7:15", "verseNumber": 15, "scripture": "So that my soul chooses strangling, and death rather than my life."},{"reference": "Job 7:16", "verseNumber": 16, "scripture": "I loathe it; I would not live always: let me alone; for my days are vanity."},{"reference": "Job 7:17", "verseNumber": 17, "scripture": "What is man, that you should magnify him? and that you should set yours heart upon him?"},{"reference": "Job 7:18", "verseNumber": 18, "scripture": "And that you should visit him every morning, and try him every moment?"},{"reference": "Job 7:19", "verseNumber": 19, "scripture": "How long will you not depart from me, nor let me alone till I swallow down my spittle?"},{"reference": "Job 7:20", "verseNumber": 20, "scripture": "I have sinned; what shall I do unto you, O you preserver of men? why have you set me as a mark against you, so that I am a burden to myself?"},{"reference": "Job 7:21", "verseNumber": 21, "scripture": "And why do you not pardon my transgression, and take away my iniquity? for now shall I sleep in the dust; and you shall seek me in the morning, but I shall not be."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "Job 7:1",
+             "verseNumber":  1,
+             "scripture":  "Is there not an appointed time to man upon earth? are not his days also like the days of a worker?"
+        },
+        {
+            "reference":  "Job 7:2",
+             "verseNumber":  2,
+             "scripture":  "As a servant earnestly desires the shadow, and as a worker looks for the reward of his work:"
+        },
+        {
+            "reference":  "Job 7:3",
+             "verseNumber":  3,
+             "scripture":  "So am I made to possess months of vanity, and wearisome nights are appointed to me."
+        },
+        {
+            "reference":  "Job 7:4",
+             "verseNumber":  4,
+             "scripture":  "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings back and forth unto the dawning of the day."
+        },
+        {
+            "reference":  "Job 7:5",
+             "verseNumber":  5,
+             "scripture":  "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
+        },
+        {
+            "reference":  "Job 7:6",
+             "verseNumber":  6,
+             "scripture":  "My days are swifter than a weaver's shuttle, and are spent without hope."
+        },
+        {
+            "reference":  "Job 7:7",
+             "verseNumber":  7,
+             "scripture":  "O remember that my life is wind: mine eye shall no more see good."
+        },
+        {
+            "reference":  "Job 7:8",
+             "verseNumber":  8,
+             "scripture":  "The eye of him that has seen me shall see me no more: yours eyes are upon me, and I am not."
+        },
+        {
+            "reference":  "Job 7:9",
+             "verseNumber":  9,
+             "scripture":  "As the cloud is consumed and vanishes away: so he that goes down to the grave shall come up no more."
+        },
+        {
+            "reference":  "Job 7:10",
+             "verseNumber":  10,
+             "scripture":  "He shall return no more to his house, neither shall his place know him any more."
+        },
+        {
+            "reference":  "Job 7:11",
+             "verseNumber":  11,
+             "scripture":  "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+        },
+        {
+            "reference":  "Job 7:12",
+             "verseNumber":  12,
+             "scripture":  "Am I a sea, or a whale, that you set a watch over me?"
+        },
+        {
+            "reference":  "Job 7:13",
+             "verseNumber":  13,
+             "scripture":  "When I say, My bed shall comfort me, my couch shall ease my complaints;"
+        },
+        {
+            "reference":  "Job 7:14",
+             "verseNumber":  14,
+             "scripture":  "Then you scare me with dreams, and terrify me through visions:"
+        },
+        {
+            "reference":  "Job 7:15",
+             "verseNumber":  15,
+             "scripture":  "So that my soul chooses strangling, and death rather than my life."
+        },
+        {
+            "reference":  "Job 7:16",
+             "verseNumber":  16,
+             "scripture":  "I loathe it; I would not live always: let me alone; for my days are vanity."
+        },
+        {
+            "reference":  "Job 7:17",
+             "verseNumber":  17,
+             "scripture":  "What is man, that you should magnify him? and that you should set yours heart upon him?"
+        },
+        {
+            "reference":  "Job 7:18",
+             "verseNumber":  18,
+             "scripture":  "And that you should visit him every morning, and try him every moment?"
+        },
+        {
+            "reference":  "Job 7:19",
+             "verseNumber":  19,
+             "scripture":  "How long will you not depart from me, nor let me alone till I swallow down my spittle?"
+        },
+        {
+            "reference":  "Job 7:20",
+             "verseNumber":  20,
+             "scripture":  "I have sinned; what shall I do unto you, O you preserver of men? why have you set me as a mark against you, so that I am a burden to myself?"
+        },
+        {
+            "reference":  "Job 7:21",
+             "verseNumber":  21,
+             "scripture":  "And why do you not pardon my transgression, and take away my iniquity? for now shall I sleep in the dust; and you shall seek me in the morning, but I shall not be."
+        }
+    ]
+}

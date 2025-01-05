@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 9, "verses": [{"reference": "Proverbs 9:1", "verseNumber": 1, "scripture": "Wisdom has built her house, she has hewn out her seven pillars:"},{"reference": "Proverbs 9:2", "verseNumber": 2, "scripture": "She has killed her beasts; she has mingled her wine; she has also furnished her table."},{"reference": "Proverbs 9:3", "verseNumber": 3, "scripture": "She has sent forth her maidens: she cries upon the highest places of the city,"},{"reference": "Proverbs 9:4", "verseNumber": 4, "scripture": "Whoso is simple, let him turn in here: as for him that wants understanding, she says to him,"},{"reference": "Proverbs 9:5", "verseNumber": 5, "scripture": "Come, eat of my bread, and drink of the wine which I have mingled."},{"reference": "Proverbs 9:6", "verseNumber": 6, "scripture": "Forsake the foolish, and live; and go in the way of understanding."},{"reference": "Proverbs 9:7", "verseNumber": 7, "scripture": "He that reproves a scorner gets to himself shame: and he that rebukes a wicked man gets himself a blot."},{"reference": "Proverbs 9:8", "verseNumber": 8, "scripture": "Reprove not a scorner, lest he hate you: rebuke a wise man, and he will love you."},{"reference": "Proverbs 9:9", "verseNumber": 9, "scripture": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning."},{"reference": "Proverbs 9:10", "verseNumber": 10, "scripture": "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding."},{"reference": "Proverbs 9:11", "verseNumber": 11, "scripture": "For by me your days shall be multiplied, and the years of your life shall be increased."},{"reference": "Proverbs 9:12", "verseNumber": 12, "scripture": "If you be wise, you shall be wise for yourself: but if you scorn, you alone shall bear it."},{"reference": "Proverbs 9:13", "verseNumber": 13, "scripture": "A foolish woman is clamorous: she is simple, and knows nothing."},{"reference": "Proverbs 9:14", "verseNumber": 14, "scripture": "For she sits at the door of her house, on a seat in the high places of the city,"},{"reference": "Proverbs 9:15", "verseNumber": 15, "scripture": "To call passengers who go right on their ways:"},{"reference": "Proverbs 9:16", "verseNumber": 16, "scripture": "Whoso is simple, let him turn in here: and as for him that wants understanding, she says to him,"},{"reference": "Proverbs 9:17", "verseNumber": 17, "scripture": "Stolen waters are sweet, and bread eaten in secret is pleasant."},{"reference": "Proverbs 9:18", "verseNumber": 18, "scripture": "But he knows not that the dead are there; and that her guest are in the depths of hell."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  9,
+     "verses":  [
+        {
+            "reference":  "Proverbs 9:1",
+             "verseNumber":  1,
+             "scripture":  "Wisdom has built her house, she has hewn out her seven pillars:"
+        },
+        {
+            "reference":  "Proverbs 9:2",
+             "verseNumber":  2,
+             "scripture":  "She has killed her beasts; she has mingled her wine; she has also furnished her table."
+        },
+        {
+            "reference":  "Proverbs 9:3",
+             "verseNumber":  3,
+             "scripture":  "She has sent forth her maidens: she cries upon the highest places of the city,"
+        },
+        {
+            "reference":  "Proverbs 9:4",
+             "verseNumber":  4,
+             "scripture":  "Whoso is simple, let him turn in here: as for him that wants understanding, she says to him,"
+        },
+        {
+            "reference":  "Proverbs 9:5",
+             "verseNumber":  5,
+             "scripture":  "Come, eat of my bread, and drink of the wine which I have mingled."
+        },
+        {
+            "reference":  "Proverbs 9:6",
+             "verseNumber":  6,
+             "scripture":  "Forsake the foolish, and live; and go in the way of understanding."
+        },
+        {
+            "reference":  "Proverbs 9:7",
+             "verseNumber":  7,
+             "scripture":  "He that reproves a scorner gets to himself shame: and he that rebukes a wicked man gets himself a blot."
+        },
+        {
+            "reference":  "Proverbs 9:8",
+             "verseNumber":  8,
+             "scripture":  "Reprove not a scorner, lest he hate you: rebuke a wise man, and he will love you."
+        },
+        {
+            "reference":  "Proverbs 9:9",
+             "verseNumber":  9,
+             "scripture":  "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning."
+        },
+        {
+            "reference":  "Proverbs 9:10",
+             "verseNumber":  10,
+             "scripture":  "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding."
+        },
+        {
+            "reference":  "Proverbs 9:11",
+             "verseNumber":  11,
+             "scripture":  "For by me your days shall be multiplied, and the years of your life shall be increased."
+        },
+        {
+            "reference":  "Proverbs 9:12",
+             "verseNumber":  12,
+             "scripture":  "If you be wise, you shall be wise for yourself: but if you scorn, you alone shall bear it."
+        },
+        {
+            "reference":  "Proverbs 9:13",
+             "verseNumber":  13,
+             "scripture":  "A foolish woman is clamorous: she is simple, and knows nothing."
+        },
+        {
+            "reference":  "Proverbs 9:14",
+             "verseNumber":  14,
+             "scripture":  "For she sits at the door of her house, on a seat in the high places of the city,"
+        },
+        {
+            "reference":  "Proverbs 9:15",
+             "verseNumber":  15,
+             "scripture":  "To call passengers who go right on their ways:"
+        },
+        {
+            "reference":  "Proverbs 9:16",
+             "verseNumber":  16,
+             "scripture":  "Whoso is simple, let him turn in here: and as for him that wants understanding, she says to him,"
+        },
+        {
+            "reference":  "Proverbs 9:17",
+             "verseNumber":  17,
+             "scripture":  "Stolen waters are sweet, and bread eaten in secret is pleasant."
+        },
+        {
+            "reference":  "Proverbs 9:18",
+             "verseNumber":  18,
+             "scripture":  "But he knows not that the dead are there; and that her guest are in the depths of hell."
+        }
+    ]
+}

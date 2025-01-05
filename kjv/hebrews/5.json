@@ -1,1 +1,85 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Hebrews", "bookAbbreviation": "Heb", "chapterNumber": 5, "verses": [{"reference": "Hebrews 5:1", "verseNumber": 1, "scripture": "For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:"},{"reference": "Hebrews 5:2", "verseNumber": 2, "scripture": "Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity."},{"reference": "Hebrews 5:3", "verseNumber": 3, "scripture": "And by reason hereof he ought, as for the people, so also for himself, to offer for sins."},{"reference": "Hebrews 5:4", "verseNumber": 4, "scripture": "And no man takes this honour unto himself, but he that is called of God, as was Aaron."},{"reference": "Hebrews 5:5", "verseNumber": 5, "scripture": "So also Christ glorified not himself to be made an high priest; but he that said unto him, You are my Son, to day have I begotten you."},{"reference": "Hebrews 5:6", "verseNumber": 6, "scripture": "As he says also in another place, You are a priest for ever after the order of Melchisedec."},{"reference": "Hebrews 5:7", "verseNumber": 7, "scripture": "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;"},{"reference": "Hebrews 5:8", "verseNumber": 8, "scripture": "Though he were a Son, yet learned he obedience by the things which he suffered;"},{"reference": "Hebrews 5:9", "verseNumber": 9, "scripture": "And being made perfect, he became the author of eternal salvation unto all them that obey him;"},{"reference": "Hebrews 5:10", "verseNumber": 10, "scripture": "Called of God an high priest after the order of Melchisedec."},{"reference": "Hebrews 5:11", "verseNumber": 11, "scripture": "Of whom we have many things to say, and hard to be uttered, seeing all of you are dull of hearing."},{"reference": "Hebrews 5:12", "verseNumber": 12, "scripture": "For when for the time all of you ought to be teachers, all of you have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong food."},{"reference": "Hebrews 5:13", "verseNumber": 13, "scripture": "For every one that uses milk is unskillful in the word of righteousness: for he is a babe."},{"reference": "Hebrews 5:14", "verseNumber": 14, "scripture": "But strong food belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Hebrews",
+     "bookAbbreviation":  "Heb",
+     "chapterNumber":  5,
+     "verses":  [
+        {
+            "reference":  "Hebrews 5:1",
+             "verseNumber":  1,
+             "scripture":  "For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:"
+        },
+        {
+            "reference":  "Hebrews 5:2",
+             "verseNumber":  2,
+             "scripture":  "Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity."
+        },
+        {
+            "reference":  "Hebrews 5:3",
+             "verseNumber":  3,
+             "scripture":  "And by reason hereof he ought, as for the people, so also for himself, to offer for sins."
+        },
+        {
+            "reference":  "Hebrews 5:4",
+             "verseNumber":  4,
+             "scripture":  "And no man takes this honour unto himself, but he that is called of God, as was Aaron."
+        },
+        {
+            "reference":  "Hebrews 5:5",
+             "verseNumber":  5,
+             "scripture":  "So also Christ glorified not himself to be made an high priest; but he that said unto him, You are my Son, to day have I begotten you."
+        },
+        {
+            "reference":  "Hebrews 5:6",
+             "verseNumber":  6,
+             "scripture":  "As he says also in another place, You are a priest for ever after the order of Melchisedec."
+        },
+        {
+            "reference":  "Hebrews 5:7",
+             "verseNumber":  7,
+             "scripture":  "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;"
+        },
+        {
+            "reference":  "Hebrews 5:8",
+             "verseNumber":  8,
+             "scripture":  "Though he were a Son, yet learned he obedience by the things which he suffered;"
+        },
+        {
+            "reference":  "Hebrews 5:9",
+             "verseNumber":  9,
+             "scripture":  "And being made perfect, he became the author of eternal salvation unto all them that obey him;"
+        },
+        {
+            "reference":  "Hebrews 5:10",
+             "verseNumber":  10,
+             "scripture":  "Called of God an high priest after the order of Melchisedec."
+        },
+        {
+            "reference":  "Hebrews 5:11",
+             "verseNumber":  11,
+             "scripture":  "Of whom we have many things to say, and hard to be uttered, seeing all of you are dull of hearing."
+        },
+        {
+            "reference":  "Hebrews 5:12",
+             "verseNumber":  12,
+             "scripture":  "For when for the time all of you ought to be teachers, all of you have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong food."
+        },
+        {
+            "reference":  "Hebrews 5:13",
+             "verseNumber":  13,
+             "scripture":  "For every one that uses milk is unskillful in the word of righteousness: for he is a babe."
+        },
+        {
+            "reference":  "Hebrews 5:14",
+             "verseNumber":  14,
+             "scripture":  "But strong food belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil."
+        }
+    ]
+}

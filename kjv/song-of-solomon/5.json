@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Song of Solomon", "bookAbbreviation": "Son", "chapterNumber": 5, "verses": [{"reference": "Song of Solomon 5:1", "verseNumber": 1, "scripture": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved."},{"reference": "Song of Solomon 5:2", "verseNumber": 2, "scripture": "I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night."},{"reference": "Song of Solomon 5:3", "verseNumber": 3, "scripture": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"},{"reference": "Song of Solomon 5:4", "verseNumber": 4, "scripture": "My beloved put in his hand by the hole of the door, and my bowels were moved for him."},{"reference": "Song of Solomon 5:5", "verseNumber": 5, "scripture": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."},{"reference": "Song of Solomon 5:6", "verseNumber": 6, "scripture": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spoke: I sought him, but I could not find him; I called him, but he gave me no answer."},{"reference": "Song of Solomon 5:7", "verseNumber": 7, "scripture": "The watchmen that went about the city found me, they stroke me, they wounded me; the keepers of the walls took away my veil from me."},{"reference": "Song of Solomon 5:8", "verseNumber": 8, "scripture": "I charge you, O daughters of Jerusalem, if all of you find my beloved, that all of you tell him, that I am sick of love."},{"reference": "Song of Solomon 5:9", "verseNumber": 9, "scripture": "What is your beloved more than another beloved, O you fairest among women? what is your beloved more than another beloved, that you do so charge us?"},{"reference": "Song of Solomon 5:10", "verseNumber": 10, "scripture": "My beloved is white and rosy, the chiefest among ten thousand."},{"reference": "Song of Solomon 5:11", "verseNumber": 11, "scripture": "His head is as the most fine gold, his locks are bushy, and black as a raven."},{"reference": "Song of Solomon 5:12", "verseNumber": 12, "scripture": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."},{"reference": "Song of Solomon 5:13", "verseNumber": 13, "scripture": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh."},{"reference": "Song of Solomon 5:14", "verseNumber": 14, "scripture": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires."},{"reference": "Song of Solomon 5:15", "verseNumber": 15, "scripture": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars."},{"reference": "Song of Solomon 5:16", "verseNumber": 16, "scripture": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Song of Solomon",
+     "bookAbbreviation":  "Son",
+     "chapterNumber":  5,
+     "verses":  [
+        {
+            "reference":  "Song of Solomon 5:1",
+             "verseNumber":  1,
+             "scripture":  "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved."
+        },
+        {
+            "reference":  "Song of Solomon 5:2",
+             "verseNumber":  2,
+             "scripture":  "I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night."
+        },
+        {
+            "reference":  "Song of Solomon 5:3",
+             "verseNumber":  3,
+             "scripture":  "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"
+        },
+        {
+            "reference":  "Song of Solomon 5:4",
+             "verseNumber":  4,
+             "scripture":  "My beloved put in his hand by the hole of the door, and my bowels were moved for him."
+        },
+        {
+            "reference":  "Song of Solomon 5:5",
+             "verseNumber":  5,
+             "scripture":  "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock."
+        },
+        {
+            "reference":  "Song of Solomon 5:6",
+             "verseNumber":  6,
+             "scripture":  "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spoke: I sought him, but I could not find him; I called him, but he gave me no answer."
+        },
+        {
+            "reference":  "Song of Solomon 5:7",
+             "verseNumber":  7,
+             "scripture":  "The watchmen that went about the city found me, they stroke me, they wounded me; the keepers of the walls took away my veil from me."
+        },
+        {
+            "reference":  "Song of Solomon 5:8",
+             "verseNumber":  8,
+             "scripture":  "I charge you, O daughters of Jerusalem, if all of you find my beloved, that all of you tell him, that I am sick of love."
+        },
+        {
+            "reference":  "Song of Solomon 5:9",
+             "verseNumber":  9,
+             "scripture":  "What is your beloved more than another beloved, O you fairest among women? what is your beloved more than another beloved, that you do so charge us?"
+        },
+        {
+            "reference":  "Song of Solomon 5:10",
+             "verseNumber":  10,
+             "scripture":  "My beloved is white and rosy, the chiefest among ten thousand."
+        },
+        {
+            "reference":  "Song of Solomon 5:11",
+             "verseNumber":  11,
+             "scripture":  "His head is as the most fine gold, his locks are bushy, and black as a raven."
+        },
+        {
+            "reference":  "Song of Solomon 5:12",
+             "verseNumber":  12,
+             "scripture":  "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set."
+        },
+        {
+            "reference":  "Song of Solomon 5:13",
+             "verseNumber":  13,
+             "scripture":  "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh."
+        },
+        {
+            "reference":  "Song of Solomon 5:14",
+             "verseNumber":  14,
+             "scripture":  "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires."
+        },
+        {
+            "reference":  "Song of Solomon 5:15",
+             "verseNumber":  15,
+             "scripture":  "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars."
+        },
+        {
+            "reference":  "Song of Solomon 5:16",
+             "verseNumber":  16,
+             "scripture":  "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem."
+        }
+    ]
+}

@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 56, "verses": [{"reference": "Isaiah 56:1", "verseNumber": 1, "scripture": "Thus says the LORD, Keep all of you judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed."},{"reference": "Isaiah 56:2", "verseNumber": 2, "scripture": "Blessed is the man that does this, and the son of man that lays hold on it; that keeps the sabbath from polluting it, and keeps his hand from doing any evil."},{"reference": "Isaiah 56:3", "verseNumber": 3, "scripture": "Neither let the son of the stranger, that has joined himself to the LORD, speak, saying, The LORD has utterly separated me from his people: neither let the eunuch say, Behold, I am a dry tree."},{"reference": "Isaiah 56:4", "verseNumber": 4, "scripture": "For thus says the LORD unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;"},{"reference": "Isaiah 56:5", "verseNumber": 5, "scripture": "Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off."},{"reference": "Isaiah 56:6", "verseNumber": 6, "scripture": "Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keeps the sabbath from polluting it, and takes hold of my covenant;"},{"reference": "Isaiah 56:7", "verseNumber": 7, "scripture": "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people."},{"reference": "Isaiah 56:8", "verseNumber": 8, "scripture": "The Lord GOD, which gathers the outcasts of Israel says, Yet will I gather others to him, beside those that are gathered unto him."},{"reference": "Isaiah 56:9", "verseNumber": 9, "scripture": "All you beasts of the field, come to devour, yea, all you beasts in the forest."},{"reference": "Isaiah 56:10", "verseNumber": 10, "scripture": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."},{"reference": "Isaiah 56:11", "verseNumber": 11, "scripture": "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter."},{"reference": "Isaiah 56:12", "verseNumber": 12, "scripture": "Come all of you, say they, I will fetch wine, and we will fill ourselves with strong drink; and tomorrow shall be as this day, and much more abundant."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  56,
+     "verses":  [
+        {
+            "reference":  "Isaiah 56:1",
+             "verseNumber":  1,
+             "scripture":  "Thus says the LORD, Keep all of you judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed."
+        },
+        {
+            "reference":  "Isaiah 56:2",
+             "verseNumber":  2,
+             "scripture":  "Blessed is the man that does this, and the son of man that lays hold on it; that keeps the sabbath from polluting it, and keeps his hand from doing any evil."
+        },
+        {
+            "reference":  "Isaiah 56:3",
+             "verseNumber":  3,
+             "scripture":  "Neither let the son of the stranger, that has joined himself to the LORD, speak, saying, The LORD has utterly separated me from his people: neither let the eunuch say, Behold, I am a dry tree."
+        },
+        {
+            "reference":  "Isaiah 56:4",
+             "verseNumber":  4,
+             "scripture":  "For thus says the LORD unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;"
+        },
+        {
+            "reference":  "Isaiah 56:5",
+             "verseNumber":  5,
+             "scripture":  "Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off."
+        },
+        {
+            "reference":  "Isaiah 56:6",
+             "verseNumber":  6,
+             "scripture":  "Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keeps the sabbath from polluting it, and takes hold of my covenant;"
+        },
+        {
+            "reference":  "Isaiah 56:7",
+             "verseNumber":  7,
+             "scripture":  "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people."
+        },
+        {
+            "reference":  "Isaiah 56:8",
+             "verseNumber":  8,
+             "scripture":  "The Lord GOD, which gathers the outcasts of Israel says, Yet will I gather others to him, beside those that are gathered unto him."
+        },
+        {
+            "reference":  "Isaiah 56:9",
+             "verseNumber":  9,
+             "scripture":  "All you beasts of the field, come to devour, yea, all you beasts in the forest."
+        },
+        {
+            "reference":  "Isaiah 56:10",
+             "verseNumber":  10,
+             "scripture":  "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."
+        },
+        {
+            "reference":  "Isaiah 56:11",
+             "verseNumber":  11,
+             "scripture":  "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter."
+        },
+        {
+            "reference":  "Isaiah 56:12",
+             "verseNumber":  12,
+             "scripture":  "Come all of you, say they, I will fetch wine, and we will fill ourselves with strong drink; and tomorrow shall be as this day, and much more abundant."
+        }
+    ]
+}

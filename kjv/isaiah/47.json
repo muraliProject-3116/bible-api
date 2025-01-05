@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 47, "verses": [{"reference": "Isaiah 47:1", "verseNumber": 1, "scripture": "Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for you shall no more be called tender and delicate."},{"reference": "Isaiah 47:2", "verseNumber": 2, "scripture": "Take the millstones, and grind meal: uncover your locks, make bare the leg, uncover the thigh, pass over the rivers."},{"reference": "Isaiah 47:3", "verseNumber": 3, "scripture": "Your nakedness shall be uncovered, yea, your shame shall be seen: I will take vengeance, and I will not meet you as a man."},{"reference": "Isaiah 47:4", "verseNumber": 4, "scripture": "As for our redeemer, the LORD of hosts is his name, the Holy One of Israel."},{"reference": "Isaiah 47:5", "verseNumber": 5, "scripture": "Sit you silent, and get you into darkness, O daughter of the Chaldeans: for you shall no more be called, The lady of kingdoms."},{"reference": "Isaiah 47:6", "verseNumber": 6, "scripture": "I was angry with my people, I have polluted mine inheritance, and given them into yours hand: you did show them no mercy; upon the ancient have you very heavily laid your yoke."},{"reference": "Isaiah 47:7", "verseNumber": 7, "scripture": "And you said, I shall be a lady for ever: so that you did not lay these things to your heart, neither did remember the latter end of it."},{"reference": "Isaiah 47:8", "verseNumber": 8, "scripture": "Therefore hear now this, you that are given to pleasures, that dwell carelessly, that says in yours heart, I am, and none else beside me; I shall not sit as a widow, neither shall I know the loss of children:"},{"reference": "Isaiah 47:9", "verseNumber": 9, "scripture": "But these two things shall come to you in a moment in one day, the loss of children, and widowhood: they shall come upon you in their perfection for the multitude of your sorceries, and for the great abundance of yours enchantments."},{"reference": "Isaiah 47:10", "verseNumber": 10, "scripture": "For you have trusted in your wickedness: you have said, None sees me. Your wisdom and your knowledge, it has perverted you; and you have said in yours heart, I am, and none else beside me."},{"reference": "Isaiah 47:11", "verseNumber": 11, "scripture": "Therefore shall evil come upon you; you shall not know from whence it rises: and mischief shall fall upon you; you shall not be able to put it off: and desolation shall come upon you suddenly, which you shall not know."},{"reference": "Isaiah 47:12", "verseNumber": 12, "scripture": "Stand now with yours enchantments, and with the multitude of your sorceries, wherein you have laboured from your youth; if so be you shall be able to profit, if so be you may prevail."},{"reference": "Isaiah 47:13", "verseNumber": 13, "scripture": "You are wearied in the multitude of your counsels. Let now the astrologers, the stargazers, the monthly sign tellers, stand up, and save you from these things that shall come upon you."},{"reference": "Isaiah 47:14", "verseNumber": 14, "scripture": "Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: there shall not be a coal to warm at, nor fire to sit before it."},{"reference": "Isaiah 47:15", "verseNumber": 15, "scripture": "Thus shall they be unto you with whom you have laboured, even your merchants, from your youth: they shall wander every one to his quarter; none shall save you."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  47,
+     "verses":  [
+        {
+            "reference":  "Isaiah 47:1",
+             "verseNumber":  1,
+             "scripture":  "Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for you shall no more be called tender and delicate."
+        },
+        {
+            "reference":  "Isaiah 47:2",
+             "verseNumber":  2,
+             "scripture":  "Take the millstones, and grind meal: uncover your locks, make bare the leg, uncover the thigh, pass over the rivers."
+        },
+        {
+            "reference":  "Isaiah 47:3",
+             "verseNumber":  3,
+             "scripture":  "Your nakedness shall be uncovered, yea, your shame shall be seen: I will take vengeance, and I will not meet you as a man."
+        },
+        {
+            "reference":  "Isaiah 47:4",
+             "verseNumber":  4,
+             "scripture":  "As for our redeemer, the LORD of hosts is his name, the Holy One of Israel."
+        },
+        {
+            "reference":  "Isaiah 47:5",
+             "verseNumber":  5,
+             "scripture":  "Sit you silent, and get you into darkness, O daughter of the Chaldeans: for you shall no more be called, The lady of kingdoms."
+        },
+        {
+            "reference":  "Isaiah 47:6",
+             "verseNumber":  6,
+             "scripture":  "I was angry with my people, I have polluted mine inheritance, and given them into yours hand: you did show them no mercy; upon the ancient have you very heavily laid your yoke."
+        },
+        {
+            "reference":  "Isaiah 47:7",
+             "verseNumber":  7,
+             "scripture":  "And you said, I shall be a lady for ever: so that you did not lay these things to your heart, neither did remember the latter end of it."
+        },
+        {
+            "reference":  "Isaiah 47:8",
+             "verseNumber":  8,
+             "scripture":  "Therefore hear now this, you that are given to pleasures, that dwell carelessly, that says in yours heart, I am, and none else beside me; I shall not sit as a widow, neither shall I know the loss of children:"
+        },
+        {
+            "reference":  "Isaiah 47:9",
+             "verseNumber":  9,
+             "scripture":  "But these two things shall come to you in a moment in one day, the loss of children, and widowhood: they shall come upon you in their perfection for the multitude of your sorceries, and for the great abundance of yours enchantments."
+        },
+        {
+            "reference":  "Isaiah 47:10",
+             "verseNumber":  10,
+             "scripture":  "For you have trusted in your wickedness: you have said, None sees me. Your wisdom and your knowledge, it has perverted you; and you have said in yours heart, I am, and none else beside me."
+        },
+        {
+            "reference":  "Isaiah 47:11",
+             "verseNumber":  11,
+             "scripture":  "Therefore shall evil come upon you; you shall not know from whence it rises: and mischief shall fall upon you; you shall not be able to put it off: and desolation shall come upon you suddenly, which you shall not know."
+        },
+        {
+            "reference":  "Isaiah 47:12",
+             "verseNumber":  12,
+             "scripture":  "Stand now with yours enchantments, and with the multitude of your sorceries, wherein you have laboured from your youth; if so be you shall be able to profit, if so be you may prevail."
+        },
+        {
+            "reference":  "Isaiah 47:13",
+             "verseNumber":  13,
+             "scripture":  "You are wearied in the multitude of your counsels. Let now the astrologers, the stargazers, the monthly sign tellers, stand up, and save you from these things that shall come upon you."
+        },
+        {
+            "reference":  "Isaiah 47:14",
+             "verseNumber":  14,
+             "scripture":  "Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: there shall not be a coal to warm at, nor fire to sit before it."
+        },
+        {
+            "reference":  "Isaiah 47:15",
+             "verseNumber":  15,
+             "scripture":  "Thus shall they be unto you with whom you have laboured, even your merchants, from your youth: they shall wander every one to his quarter; none shall save you."
+        }
+    ]
+}

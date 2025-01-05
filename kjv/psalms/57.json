@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 57, "verses": [{"reference": "Psalm 57:1", "verseNumber": 1, "scripture": "Be merciful unto me, O God, be merciful unto me: for my soul trusts in you: yea, in the shadow of your wings will I make my refuge, until these calamities pass over."},{"reference": "Psalm 57:2", "verseNumber": 2, "scripture": "I will cry unto God most high; unto God that performs all things for me."},{"reference": "Psalm 57:3", "verseNumber": 3, "scripture": "He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth."},{"reference": "Psalm 57:4", "verseNumber": 4, "scripture": "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword."},{"reference": "Psalm 57:5", "verseNumber": 5, "scripture": "Be you exalted, O God, above the heavens; let your glory be above all the earth."},{"reference": "Psalm 57:6", "verseNumber": 6, "scripture": "They have prepared a net for my steps; my soul is bowed down: they have dug a pit before me, into the midst whereof they are fallen themselves. Selah."},{"reference": "Psalm 57:7", "verseNumber": 7, "scripture": "My heart is fixed, O God, my heart is fixed: I will sing and give praise."},{"reference": "Psalm 57:8", "verseNumber": 8, "scripture": "Awake up, my glory; awake, psaltery and harp: I myself will awake early."},{"reference": "Psalm 57:9", "verseNumber": 9, "scripture": "I will praise you, O Lord, among the people: I will sing unto you among the nations."},{"reference": "Psalm 57:10", "verseNumber": 10, "scripture": "For your mercy is great unto the heavens, and your truth unto the clouds."},{"reference": "Psalm 57:11", "verseNumber": 11, "scripture": "Be you exalted, O God, above the heavens: let your glory be above all the earth."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  57,
+     "verses":  [
+        {
+            "reference":  "Psalm 57:1",
+             "verseNumber":  1,
+             "scripture":  "Be merciful unto me, O God, be merciful unto me: for my soul trusts in you: yea, in the shadow of your wings will I make my refuge, until these calamities pass over."
+        },
+        {
+            "reference":  "Psalm 57:2",
+             "verseNumber":  2,
+             "scripture":  "I will cry unto God most high; unto God that performs all things for me."
+        },
+        {
+            "reference":  "Psalm 57:3",
+             "verseNumber":  3,
+             "scripture":  "He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth."
+        },
+        {
+            "reference":  "Psalm 57:4",
+             "verseNumber":  4,
+             "scripture":  "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword."
+        },
+        {
+            "reference":  "Psalm 57:5",
+             "verseNumber":  5,
+             "scripture":  "Be you exalted, O God, above the heavens; let your glory be above all the earth."
+        },
+        {
+            "reference":  "Psalm 57:6",
+             "verseNumber":  6,
+             "scripture":  "They have prepared a net for my steps; my soul is bowed down: they have dug a pit before me, into the midst whereof they are fallen themselves. Selah."
+        },
+        {
+            "reference":  "Psalm 57:7",
+             "verseNumber":  7,
+             "scripture":  "My heart is fixed, O God, my heart is fixed: I will sing and give praise."
+        },
+        {
+            "reference":  "Psalm 57:8",
+             "verseNumber":  8,
+             "scripture":  "Awake up, my glory; awake, psaltery and harp: I myself will awake early."
+        },
+        {
+            "reference":  "Psalm 57:9",
+             "verseNumber":  9,
+             "scripture":  "I will praise you, O Lord, among the people: I will sing unto you among the nations."
+        },
+        {
+            "reference":  "Psalm 57:10",
+             "verseNumber":  10,
+             "scripture":  "For your mercy is great unto the heavens, and your truth unto the clouds."
+        },
+        {
+            "reference":  "Psalm 57:11",
+             "verseNumber":  11,
+             "scripture":  "Be you exalted, O God, above the heavens: let your glory be above all the earth."
+        }
+    ]
+}

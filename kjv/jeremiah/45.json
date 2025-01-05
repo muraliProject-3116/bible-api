@@ -1,1 +1,40 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Jeremiah", "bookAbbreviation": "Jer", "chapterNumber": 45, "verses": [{"reference": "Jeremiah 45:1", "verseNumber": 1, "scripture": "The word that Jeremiah the prophet spoke unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"},{"reference": "Jeremiah 45:2", "verseNumber": 2, "scripture": "Thus says the LORD, the God of Israel, unto you, O Baruch:"},{"reference": "Jeremiah 45:3", "verseNumber": 3, "scripture": "You did say, Woe is me now! for the LORD has added grief to my sorrow; I fainted in my sighing, and I find no rest."},{"reference": "Jeremiah 45:4", "verseNumber": 4, "scripture": "Thus shall you say unto him, The LORD says thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land."},{"reference": "Jeremiah 45:5", "verseNumber": 5, "scripture": "And seek you great things for yourself? seek them not: for, behold, I will bring evil upon all flesh, says the LORD: but your life will I give unto you for a prey in all places where you go."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Jeremiah",
+     "bookAbbreviation":  "Jer",
+     "chapterNumber":  45,
+     "verses":  [
+        {
+            "reference":  "Jeremiah 45:1",
+             "verseNumber":  1,
+             "scripture":  "The word that Jeremiah the prophet spoke unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
+        },
+        {
+            "reference":  "Jeremiah 45:2",
+             "verseNumber":  2,
+             "scripture":  "Thus says the LORD, the God of Israel, unto you, O Baruch:"
+        },
+        {
+            "reference":  "Jeremiah 45:3",
+             "verseNumber":  3,
+             "scripture":  "You did say, Woe is me now! for the LORD has added grief to my sorrow; I fainted in my sighing, and I find no rest."
+        },
+        {
+            "reference":  "Jeremiah 45:4",
+             "verseNumber":  4,
+             "scripture":  "Thus shall you say unto him, The LORD says thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land."
+        },
+        {
+            "reference":  "Jeremiah 45:5",
+             "verseNumber":  5,
+             "scripture":  "And seek you great things for yourself? seek them not: for, behold, I will bring evil upon all flesh, says the LORD: but your life will I give unto you for a prey in all places where you go."
+        }
+    ]
+}

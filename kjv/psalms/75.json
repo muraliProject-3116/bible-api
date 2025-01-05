@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 75, "verses": [{"reference": "Psalm 75:1", "verseNumber": 1, "scripture": "Unto you, O God, do we give thanks, unto you do we give thanks: for that your name is near your wondrous works declare."},{"reference": "Psalm 75:2", "verseNumber": 2, "scripture": "When I shall receive the congregation I will judge uprightly."},{"reference": "Psalm 75:3", "verseNumber": 3, "scripture": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah."},{"reference": "Psalm 75:4", "verseNumber": 4, "scripture": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:"},{"reference": "Psalm 75:5", "verseNumber": 5, "scripture": "Lift not up your horn on high: speak not with a stiff neck."},{"reference": "Psalm 75:6", "verseNumber": 6, "scripture": "For promotion comes neither from the east, nor from the west, nor from the south."},{"reference": "Psalm 75:7", "verseNumber": 7, "scripture": "But God is the judge: he puts down one, and sets up another."},{"reference": "Psalm 75:8", "verseNumber": 8, "scripture": "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he pours out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them."},{"reference": "Psalm 75:9", "verseNumber": 9, "scripture": "But I will declare for ever; I will sing praises to the God of Jacob."},{"reference": "Psalm 75:10", "verseNumber": 10, "scripture": "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  75,
+     "verses":  [
+        {
+            "reference":  "Psalm 75:1",
+             "verseNumber":  1,
+             "scripture":  "Unto you, O God, do we give thanks, unto you do we give thanks: for that your name is near your wondrous works declare."
+        },
+        {
+            "reference":  "Psalm 75:2",
+             "verseNumber":  2,
+             "scripture":  "When I shall receive the congregation I will judge uprightly."
+        },
+        {
+            "reference":  "Psalm 75:3",
+             "verseNumber":  3,
+             "scripture":  "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah."
+        },
+        {
+            "reference":  "Psalm 75:4",
+             "verseNumber":  4,
+             "scripture":  "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:"
+        },
+        {
+            "reference":  "Psalm 75:5",
+             "verseNumber":  5,
+             "scripture":  "Lift not up your horn on high: speak not with a stiff neck."
+        },
+        {
+            "reference":  "Psalm 75:6",
+             "verseNumber":  6,
+             "scripture":  "For promotion comes neither from the east, nor from the west, nor from the south."
+        },
+        {
+            "reference":  "Psalm 75:7",
+             "verseNumber":  7,
+             "scripture":  "But God is the judge: he puts down one, and sets up another."
+        },
+        {
+            "reference":  "Psalm 75:8",
+             "verseNumber":  8,
+             "scripture":  "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he pours out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them."
+        },
+        {
+            "reference":  "Psalm 75:9",
+             "verseNumber":  9,
+             "scripture":  "But I will declare for ever; I will sing praises to the God of Jacob."
+        },
+        {
+            "reference":  "Psalm 75:10",
+             "verseNumber":  10,
+             "scripture":  "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted."
+        }
+    ]
+}

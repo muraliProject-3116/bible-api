@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 8, "verses": [{"reference": "Job 8:1", "verseNumber": 1, "scripture": "Then answered Bildad the Shuhite, and said,"},{"reference": "Job 8:2", "verseNumber": 2, "scripture": "How long will you speak these things? and how long shall the words of your mouth be like a strong wind?"},{"reference": "Job 8:3", "verseNumber": 3, "scripture": "Does God pervert judgment? or does the Almighty pervert justice?"},{"reference": "Job 8:4", "verseNumber": 4, "scripture": "If your children have sinned against him, and he have cast them away for their transgression;"},{"reference": "Job 8:5", "verseNumber": 5, "scripture": "If you would seek unto God early, and make your supplication to the Almighty;"},{"reference": "Job 8:6", "verseNumber": 6, "scripture": "If you were pure and upright; surely now he would awake for you, and make the habitation of your righteousness prosperous."},{"reference": "Job 8:7", "verseNumber": 7, "scripture": "Though your beginning was small, yet your latter end should greatly increase."},{"reference": "Job 8:8", "verseNumber": 8, "scripture": "For enquire, I pray you, of the former age, and prepare yourself to the search of their fathers:"},{"reference": "Job 8:9", "verseNumber": 9, "scripture": "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"},{"reference": "Job 8:10", "verseNumber": 10, "scripture": "Shall not they teach you, and tell you, and utter words out of their heart?"},{"reference": "Job 8:11", "verseNumber": 11, "scripture": "Can the rush grow up without mire? can the flag grow without water?"},{"reference": "Job 8:12", "verseNumber": 12, "scripture": "Whilst it is yet in his greenness, and not cut down, it withers before any other herb."},{"reference": "Job 8:13", "verseNumber": 13, "scripture": "So are the paths of all that forget God; and the hypocrite's hope shall perish:"},{"reference": "Job 8:14", "verseNumber": 14, "scripture": "Whose hope shall be cut off, and whose trust shall be a spider's web."},{"reference": "Job 8:15", "verseNumber": 15, "scripture": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure."},{"reference": "Job 8:16", "verseNumber": 16, "scripture": "He is green before the sun, and his branch shoots forth in his garden."},{"reference": "Job 8:17", "verseNumber": 17, "scripture": "His roots are wrapped about the heap, and sees the place of stones."},{"reference": "Job 8:18", "verseNumber": 18, "scripture": "If he destroy him from his place, then it shall deny him, saying, I have not seen you."},{"reference": "Job 8:19", "verseNumber": 19, "scripture": "Behold, this is the joy of his way, and out of the earth shall others grow."},{"reference": "Job 8:20", "verseNumber": 20, "scripture": "Behold, God will not cast away a perfect man, neither will he help the evil doers:"},{"reference": "Job 8:21", "verseNumber": 21, "scripture": "Till he fill your mouth with laughing, and your lips with rejoicing."},{"reference": "Job 8:22", "verseNumber": 22, "scripture": "They that hate you shall be clothed with shame; and the dwelling place of the wicked shall come to nothing."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  8,
+     "verses":  [
+        {
+            "reference":  "Job 8:1",
+             "verseNumber":  1,
+             "scripture":  "Then answered Bildad the Shuhite, and said,"
+        },
+        {
+            "reference":  "Job 8:2",
+             "verseNumber":  2,
+             "scripture":  "How long will you speak these things? and how long shall the words of your mouth be like a strong wind?"
+        },
+        {
+            "reference":  "Job 8:3",
+             "verseNumber":  3,
+             "scripture":  "Does God pervert judgment? or does the Almighty pervert justice?"
+        },
+        {
+            "reference":  "Job 8:4",
+             "verseNumber":  4,
+             "scripture":  "If your children have sinned against him, and he have cast them away for their transgression;"
+        },
+        {
+            "reference":  "Job 8:5",
+             "verseNumber":  5,
+             "scripture":  "If you would seek unto God early, and make your supplication to the Almighty;"
+        },
+        {
+            "reference":  "Job 8:6",
+             "verseNumber":  6,
+             "scripture":  "If you were pure and upright; surely now he would awake for you, and make the habitation of your righteousness prosperous."
+        },
+        {
+            "reference":  "Job 8:7",
+             "verseNumber":  7,
+             "scripture":  "Though your beginning was small, yet your latter end should greatly increase."
+        },
+        {
+            "reference":  "Job 8:8",
+             "verseNumber":  8,
+             "scripture":  "For enquire, I pray you, of the former age, and prepare yourself to the search of their fathers:"
+        },
+        {
+            "reference":  "Job 8:9",
+             "verseNumber":  9,
+             "scripture":  "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"
+        },
+        {
+            "reference":  "Job 8:10",
+             "verseNumber":  10,
+             "scripture":  "Shall not they teach you, and tell you, and utter words out of their heart?"
+        },
+        {
+            "reference":  "Job 8:11",
+             "verseNumber":  11,
+             "scripture":  "Can the rush grow up without mire? can the flag grow without water?"
+        },
+        {
+            "reference":  "Job 8:12",
+             "verseNumber":  12,
+             "scripture":  "Whilst it is yet in his greenness, and not cut down, it withers before any other herb."
+        },
+        {
+            "reference":  "Job 8:13",
+             "verseNumber":  13,
+             "scripture":  "So are the paths of all that forget God; and the hypocrite's hope shall perish:"
+        },
+        {
+            "reference":  "Job 8:14",
+             "verseNumber":  14,
+             "scripture":  "Whose hope shall be cut off, and whose trust shall be a spider's web."
+        },
+        {
+            "reference":  "Job 8:15",
+             "verseNumber":  15,
+             "scripture":  "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure."
+        },
+        {
+            "reference":  "Job 8:16",
+             "verseNumber":  16,
+             "scripture":  "He is green before the sun, and his branch shoots forth in his garden."
+        },
+        {
+            "reference":  "Job 8:17",
+             "verseNumber":  17,
+             "scripture":  "His roots are wrapped about the heap, and sees the place of stones."
+        },
+        {
+            "reference":  "Job 8:18",
+             "verseNumber":  18,
+             "scripture":  "If he destroy him from his place, then it shall deny him, saying, I have not seen you."
+        },
+        {
+            "reference":  "Job 8:19",
+             "verseNumber":  19,
+             "scripture":  "Behold, this is the joy of his way, and out of the earth shall others grow."
+        },
+        {
+            "reference":  "Job 8:20",
+             "verseNumber":  20,
+             "scripture":  "Behold, God will not cast away a perfect man, neither will he help the evil doers:"
+        },
+        {
+            "reference":  "Job 8:21",
+             "verseNumber":  21,
+             "scripture":  "Till he fill your mouth with laughing, and your lips with rejoicing."
+        },
+        {
+            "reference":  "Job 8:22",
+             "verseNumber":  22,
+             "scripture":  "They that hate you shall be clothed with shame; and the dwelling place of the wicked shall come to nothing."
+        }
+    ]
+}

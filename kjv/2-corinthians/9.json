@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Corinthians", "bookAbbreviation": "2 Cor", "chapterNumber": 9, "verses": [{"reference": "2 Corinthians 9:1", "verseNumber": 1, "scripture": "For as concerning the ministering to the saints, it is superfluous for me to write to you:"},{"reference": "2 Corinthians 9:2", "verseNumber": 2, "scripture": "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has provoked very many."},{"reference": "2 Corinthians 9:3", "verseNumber": 3, "scripture": "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, all of you may be ready:"},{"reference": "2 Corinthians 9:4", "verseNumber": 4, "scripture": "Lest lest by any means if they of Macedonia come with me, and find you unprepared, we (that we say not, all of you) should be ashamed in this same confident boasting."},{"reference": "2 Corinthians 9:5", "verseNumber": 5, "scripture": "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof all of you had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness."},{"reference": "2 Corinthians 9:6", "verseNumber": 6, "scripture": "But this I say, He which sows sparingly shall reap also sparingly; and he which sows bountifully shall reap also bountifully."},{"reference": "2 Corinthians 9:7", "verseNumber": 7, "scripture": "Every man according as he purposes in his heart, so let him give; not grudgingly, or of necessity: for God loves a cheerful giver."},{"reference": "2 Corinthians 9:8", "verseNumber": 8, "scripture": "And God is able to make all grace abound toward you; that all of you, always having all sufficiency in all things, may abound to every good work:"},{"reference": "2 Corinthians 9:9", "verseNumber": 9, "scripture": "(As it is written, He has dispersed abroad; he has given to the poor: his righteousness remains for ever."},{"reference": "2 Corinthians 9:10", "verseNumber": 10, "scripture": "Now he that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)"},{"reference": "2 Corinthians 9:11", "verseNumber": 11, "scripture": "Being enriched in every thing to all bountifulness, which causes through us thanksgiving to God."},{"reference": "2 Corinthians 9:12", "verseNumber": 12, "scripture": "For the administration of this service not only supplies the lack of the saints, but is abundant also by many thanksgivings unto God;"},{"reference": "2 Corinthians 9:13", "verseNumber": 13, "scripture": "While by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;"},{"reference": "2 Corinthians 9:14", "verseNumber": 14, "scripture": "And by their prayer for you, which long after you for the exceeding grace of God in you."},{"reference": "2 Corinthians 9:15", "verseNumber": 15, "scripture": "Thanks be unto God for his unspeakable gift."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Corinthians",
+     "bookAbbreviation":  "2 Cor",
+     "chapterNumber":  9,
+     "verses":  [
+        {
+            "reference":  "2 Corinthians 9:1",
+             "verseNumber":  1,
+             "scripture":  "For as concerning the ministering to the saints, it is superfluous for me to write to you:"
+        },
+        {
+            "reference":  "2 Corinthians 9:2",
+             "verseNumber":  2,
+             "scripture":  "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has provoked very many."
+        },
+        {
+            "reference":  "2 Corinthians 9:3",
+             "verseNumber":  3,
+             "scripture":  "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, all of you may be ready:"
+        },
+        {
+            "reference":  "2 Corinthians 9:4",
+             "verseNumber":  4,
+             "scripture":  "Lest lest by any means if they of Macedonia come with me, and find you unprepared, we (that we say not, all of you) should be ashamed in this same confident boasting."
+        },
+        {
+            "reference":  "2 Corinthians 9:5",
+             "verseNumber":  5,
+             "scripture":  "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof all of you had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness."
+        },
+        {
+            "reference":  "2 Corinthians 9:6",
+             "verseNumber":  6,
+             "scripture":  "But this I say, He which sows sparingly shall reap also sparingly; and he which sows bountifully shall reap also bountifully."
+        },
+        {
+            "reference":  "2 Corinthians 9:7",
+             "verseNumber":  7,
+             "scripture":  "Every man according as he purposes in his heart, so let him give; not grudgingly, or of necessity: for God loves a cheerful giver."
+        },
+        {
+            "reference":  "2 Corinthians 9:8",
+             "verseNumber":  8,
+             "scripture":  "And God is able to make all grace abound toward you; that all of you, always having all sufficiency in all things, may abound to every good work:"
+        },
+        {
+            "reference":  "2 Corinthians 9:9",
+             "verseNumber":  9,
+             "scripture":  "(As it is written, He has dispersed abroad; he has given to the poor: his righteousness remains for ever."
+        },
+        {
+            "reference":  "2 Corinthians 9:10",
+             "verseNumber":  10,
+             "scripture":  "Now he that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)"
+        },
+        {
+            "reference":  "2 Corinthians 9:11",
+             "verseNumber":  11,
+             "scripture":  "Being enriched in every thing to all bountifulness, which causes through us thanksgiving to God."
+        },
+        {
+            "reference":  "2 Corinthians 9:12",
+             "verseNumber":  12,
+             "scripture":  "For the administration of this service not only supplies the lack of the saints, but is abundant also by many thanksgivings unto God;"
+        },
+        {
+            "reference":  "2 Corinthians 9:13",
+             "verseNumber":  13,
+             "scripture":  "While by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;"
+        },
+        {
+            "reference":  "2 Corinthians 9:14",
+             "verseNumber":  14,
+             "scripture":  "And by their prayer for you, which long after you for the exceeding grace of God in you."
+        },
+        {
+            "reference":  "2 Corinthians 9:15",
+             "verseNumber":  15,
+             "scripture":  "Thanks be unto God for his unspeakable gift."
+        }
+    ]
+}

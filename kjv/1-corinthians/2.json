@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Corinthians", "bookAbbreviation": "1 Cor", "chapterNumber": 2, "verses": [{"reference": "1 Corinthians 2:1", "verseNumber": 1, "scripture": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God."},{"reference": "1 Corinthians 2:2", "verseNumber": 2, "scripture": "For I determined not to know any thing among you, save Jesus Christ, and him crucified."},{"reference": "1 Corinthians 2:3", "verseNumber": 3, "scripture": "And I was with you in weakness, and in fear, and in much trembling."},{"reference": "1 Corinthians 2:4", "verseNumber": 4, "scripture": "And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Spirit and of power:"},{"reference": "1 Corinthians 2:5", "verseNumber": 5, "scripture": "That your faith should not stand in the wisdom of men, but in the power of God."},{"reference": "1 Corinthians 2:6", "verseNumber": 6, "scripture": "Nevertheless we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nothing:"},{"reference": "1 Corinthians 2:7", "verseNumber": 7, "scripture": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"},{"reference": "1 Corinthians 2:8", "verseNumber": 8, "scripture": "Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory."},{"reference": "1 Corinthians 2:9", "verseNumber": 9, "scripture": "But as it is written, Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for them that love him."},{"reference": "1 Corinthians 2:10", "verseNumber": 10, "scripture": "But God has revealed them unto us by his Spirit: for the Spirit searches all things, yea, the deep things of God."},{"reference": "1 Corinthians 2:11", "verseNumber": 11, "scripture": "For what man knows the things of a man, save the spirit of man which is in him? even so the things of God knows no man, but the Spirit of God."},{"reference": "1 Corinthians 2:12", "verseNumber": 12, "scripture": "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."},{"reference": "1 Corinthians 2:13", "verseNumber": 13, "scripture": "Which things also we speak, not in the words which man's wisdom teaches, but which the Holy Spirit teaches; comparing spiritual things with spiritual."},{"reference": "1 Corinthians 2:14", "verseNumber": 14, "scripture": "But the natural man receives not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."},{"reference": "1 Corinthians 2:15", "verseNumber": 15, "scripture": "But he that is spiritual judges all things, yet he himself is judged of no man."},{"reference": "1 Corinthians 2:16", "verseNumber": 16, "scripture": "For who has known the mind of the Lord, that he may instruct him? But we have the mind of Christ."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Corinthians",
+     "bookAbbreviation":  "1 Cor",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "1 Corinthians 2:1",
+             "verseNumber":  1,
+             "scripture":  "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God."
+        },
+        {
+            "reference":  "1 Corinthians 2:2",
+             "verseNumber":  2,
+             "scripture":  "For I determined not to know any thing among you, save Jesus Christ, and him crucified."
+        },
+        {
+            "reference":  "1 Corinthians 2:3",
+             "verseNumber":  3,
+             "scripture":  "And I was with you in weakness, and in fear, and in much trembling."
+        },
+        {
+            "reference":  "1 Corinthians 2:4",
+             "verseNumber":  4,
+             "scripture":  "And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Spirit and of power:"
+        },
+        {
+            "reference":  "1 Corinthians 2:5",
+             "verseNumber":  5,
+             "scripture":  "That your faith should not stand in the wisdom of men, but in the power of God."
+        },
+        {
+            "reference":  "1 Corinthians 2:6",
+             "verseNumber":  6,
+             "scripture":  "Nevertheless we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nothing:"
+        },
+        {
+            "reference":  "1 Corinthians 2:7",
+             "verseNumber":  7,
+             "scripture":  "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+        },
+        {
+            "reference":  "1 Corinthians 2:8",
+             "verseNumber":  8,
+             "scripture":  "Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory."
+        },
+        {
+            "reference":  "1 Corinthians 2:9",
+             "verseNumber":  9,
+             "scripture":  "But as it is written, Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for them that love him."
+        },
+        {
+            "reference":  "1 Corinthians 2:10",
+             "verseNumber":  10,
+             "scripture":  "But God has revealed them unto us by his Spirit: for the Spirit searches all things, yea, the deep things of God."
+        },
+        {
+            "reference":  "1 Corinthians 2:11",
+             "verseNumber":  11,
+             "scripture":  "For what man knows the things of a man, save the spirit of man which is in him? even so the things of God knows no man, but the Spirit of God."
+        },
+        {
+            "reference":  "1 Corinthians 2:12",
+             "verseNumber":  12,
+             "scripture":  "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."
+        },
+        {
+            "reference":  "1 Corinthians 2:13",
+             "verseNumber":  13,
+             "scripture":  "Which things also we speak, not in the words which man's wisdom teaches, but which the Holy Spirit teaches; comparing spiritual things with spiritual."
+        },
+        {
+            "reference":  "1 Corinthians 2:14",
+             "verseNumber":  14,
+             "scripture":  "But the natural man receives not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."
+        },
+        {
+            "reference":  "1 Corinthians 2:15",
+             "verseNumber":  15,
+             "scripture":  "But he that is spiritual judges all things, yet he himself is judged of no man."
+        },
+        {
+            "reference":  "1 Corinthians 2:16",
+             "verseNumber":  16,
+             "scripture":  "For who has known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
+        }
+    ]
+}

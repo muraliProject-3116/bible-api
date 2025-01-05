@@ -1,1 +1,175 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ephesians", "bookAbbreviation": "Eph", "chapterNumber": 4, "verses": [{"reference": "Ephesians 4:1", "verseNumber": 1, "scripture": "I therefore, the prisoner of the Lord, plead to you that all of you walk worthy of the vocation wherewith all of you are called,"},{"reference": "Ephesians 4:2", "verseNumber": 2, "scripture": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"},{"reference": "Ephesians 4:3", "verseNumber": 3, "scripture": "Endeavouring to keep the unity of the Spirit in the bond of peace."},{"reference": "Ephesians 4:4", "verseNumber": 4, "scripture": "There is one body, and one Spirit, even as all of you are called in one hope of your calling;"},{"reference": "Ephesians 4:5", "verseNumber": 5, "scripture": "One Lord, one faith, one baptism,"},{"reference": "Ephesians 4:6", "verseNumber": 6, "scripture": "One God and Father of all, who is above all, and through all, and in you all."},{"reference": "Ephesians 4:7", "verseNumber": 7, "scripture": "But unto every one of us is given grace according to the measure of the gift of Christ."},{"reference": "Ephesians 4:8", "verseNumber": 8, "scripture": "Wherefore he says, When he ascended up on high, he led captivity captive, and gave gifts unto men."},{"reference": "Ephesians 4:9", "verseNumber": 9, "scripture": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"},{"reference": "Ephesians 4:10", "verseNumber": 10, "scripture": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"},{"reference": "Ephesians 4:11", "verseNumber": 11, "scripture": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"},{"reference": "Ephesians 4:12", "verseNumber": 12, "scripture": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"},{"reference": "Ephesians 4:13", "verseNumber": 13, "scripture": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fullness of Christ:"},{"reference": "Ephesians 4:14", "verseNumber": 14, "scripture": "That we henceforth be no more children, tossed back and forth, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"},{"reference": "Ephesians 4:15", "verseNumber": 15, "scripture": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"},{"reference": "Ephesians 4:16", "verseNumber": 16, "scripture": "From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effectual working in the measure of every part, makes increase of the body unto the edifying of itself in love."},{"reference": "Ephesians 4:17", "verseNumber": 17, "scripture": "This I say therefore, and testify in the Lord, that all of you henceforth walk not as other Gentiles walk, in the vanity of their mind,"},{"reference": "Ephesians 4:18", "verseNumber": 18, "scripture": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"},{"reference": "Ephesians 4:19", "verseNumber": 19, "scripture": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."},{"reference": "Ephesians 4:20", "verseNumber": 20, "scripture": "But all of you have not so learned Christ;"},{"reference": "Ephesians 4:21", "verseNumber": 21, "scripture": "If so be that all of you have heard him, and have been taught by him, as the truth is in Jesus:"},{"reference": "Ephesians 4:22", "verseNumber": 22, "scripture": "That all of you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"},{"reference": "Ephesians 4:23", "verseNumber": 23, "scripture": "And be renewed in the spirit of your mind;"},{"reference": "Ephesians 4:24", "verseNumber": 24, "scripture": "And that all of you put on the new man, which after God is created in righteousness and true holiness."},{"reference": "Ephesians 4:25", "verseNumber": 25, "scripture": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."},{"reference": "Ephesians 4:26", "verseNumber": 26, "scripture": "Be all of you angry, and sin not: let not the sun go down upon your wrath:"},{"reference": "Ephesians 4:27", "verseNumber": 27, "scripture": "Neither give place to the devil."},{"reference": "Ephesians 4:28", "verseNumber": 28, "scripture": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needs."},{"reference": "Ephesians 4:29", "verseNumber": 29, "scripture": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."},{"reference": "Ephesians 4:30", "verseNumber": 30, "scripture": "And grieve not the holy Spirit of God, whereby all of you are sealed unto the day of redemption."},{"reference": "Ephesians 4:31", "verseNumber": 31, "scripture": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"},{"reference": "Ephesians 4:32", "verseNumber": 32, "scripture": "And be all of you kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake has forgiven you."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ephesians",
+     "bookAbbreviation":  "Eph",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Ephesians 4:1",
+             "verseNumber":  1,
+             "scripture":  "I therefore, the prisoner of the Lord, plead to you that all of you walk worthy of the vocation wherewith all of you are called,"
+        },
+        {
+            "reference":  "Ephesians 4:2",
+             "verseNumber":  2,
+             "scripture":  "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+        },
+        {
+            "reference":  "Ephesians 4:3",
+             "verseNumber":  3,
+             "scripture":  "Endeavouring to keep the unity of the Spirit in the bond of peace."
+        },
+        {
+            "reference":  "Ephesians 4:4",
+             "verseNumber":  4,
+             "scripture":  "There is one body, and one Spirit, even as all of you are called in one hope of your calling;"
+        },
+        {
+            "reference":  "Ephesians 4:5",
+             "verseNumber":  5,
+             "scripture":  "One Lord, one faith, one baptism,"
+        },
+        {
+            "reference":  "Ephesians 4:6",
+             "verseNumber":  6,
+             "scripture":  "One God and Father of all, who is above all, and through all, and in you all."
+        },
+        {
+            "reference":  "Ephesians 4:7",
+             "verseNumber":  7,
+             "scripture":  "But unto every one of us is given grace according to the measure of the gift of Christ."
+        },
+        {
+            "reference":  "Ephesians 4:8",
+             "verseNumber":  8,
+             "scripture":  "Wherefore he says, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+        },
+        {
+            "reference":  "Ephesians 4:9",
+             "verseNumber":  9,
+             "scripture":  "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+        },
+        {
+            "reference":  "Ephesians 4:10",
+             "verseNumber":  10,
+             "scripture":  "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
+        },
+        {
+            "reference":  "Ephesians 4:11",
+             "verseNumber":  11,
+             "scripture":  "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+        },
+        {
+            "reference":  "Ephesians 4:12",
+             "verseNumber":  12,
+             "scripture":  "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+        },
+        {
+            "reference":  "Ephesians 4:13",
+             "verseNumber":  13,
+             "scripture":  "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fullness of Christ:"
+        },
+        {
+            "reference":  "Ephesians 4:14",
+             "verseNumber":  14,
+             "scripture":  "That we henceforth be no more children, tossed back and forth, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+        },
+        {
+            "reference":  "Ephesians 4:15",
+             "verseNumber":  15,
+             "scripture":  "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
+        },
+        {
+            "reference":  "Ephesians 4:16",
+             "verseNumber":  16,
+             "scripture":  "From whom the whole body fitly joined together and compacted by that which every joint supplies, according to the effectual working in the measure of every part, makes increase of the body unto the edifying of itself in love."
+        },
+        {
+            "reference":  "Ephesians 4:17",
+             "verseNumber":  17,
+             "scripture":  "This I say therefore, and testify in the Lord, that all of you henceforth walk not as other Gentiles walk, in the vanity of their mind,"
+        },
+        {
+            "reference":  "Ephesians 4:18",
+             "verseNumber":  18,
+             "scripture":  "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+        },
+        {
+            "reference":  "Ephesians 4:19",
+             "verseNumber":  19,
+             "scripture":  "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
+        },
+        {
+            "reference":  "Ephesians 4:20",
+             "verseNumber":  20,
+             "scripture":  "But all of you have not so learned Christ;"
+        },
+        {
+            "reference":  "Ephesians 4:21",
+             "verseNumber":  21,
+             "scripture":  "If so be that all of you have heard him, and have been taught by him, as the truth is in Jesus:"
+        },
+        {
+            "reference":  "Ephesians 4:22",
+             "verseNumber":  22,
+             "scripture":  "That all of you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+        },
+        {
+            "reference":  "Ephesians 4:23",
+             "verseNumber":  23,
+             "scripture":  "And be renewed in the spirit of your mind;"
+        },
+        {
+            "reference":  "Ephesians 4:24",
+             "verseNumber":  24,
+             "scripture":  "And that all of you put on the new man, which after God is created in righteousness and true holiness."
+        },
+        {
+            "reference":  "Ephesians 4:25",
+             "verseNumber":  25,
+             "scripture":  "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+        },
+        {
+            "reference":  "Ephesians 4:26",
+             "verseNumber":  26,
+             "scripture":  "Be all of you angry, and sin not: let not the sun go down upon your wrath:"
+        },
+        {
+            "reference":  "Ephesians 4:27",
+             "verseNumber":  27,
+             "scripture":  "Neither give place to the devil."
+        },
+        {
+            "reference":  "Ephesians 4:28",
+             "verseNumber":  28,
+             "scripture":  "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needs."
+        },
+        {
+            "reference":  "Ephesians 4:29",
+             "verseNumber":  29,
+             "scripture":  "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+        },
+        {
+            "reference":  "Ephesians 4:30",
+             "verseNumber":  30,
+             "scripture":  "And grieve not the holy Spirit of God, whereby all of you are sealed unto the day of redemption."
+        },
+        {
+            "reference":  "Ephesians 4:31",
+             "verseNumber":  31,
+             "scripture":  "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+        },
+        {
+            "reference":  "Ephesians 4:32",
+             "verseNumber":  32,
+             "scripture":  "And be all of you kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake has forgiven you."
+        }
+    ]
+}

@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 20, "verses": [{"reference": "Isaiah 20:1", "verseNumber": 1, "scripture": "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;"},{"reference": "Isaiah 20:2", "verseNumber": 2, "scripture": "At the same time spoke the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off your loins, and put off your shoe from your foot. And he did so, walking naked and barefoot."},{"reference": "Isaiah 20:3", "verseNumber": 3, "scripture": "And the LORD said, Like my servant Isaiah has walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;"},{"reference": "Isaiah 20:4", "verseNumber": 4, "scripture": "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt."},{"reference": "Isaiah 20:5", "verseNumber": 5, "scripture": "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory."},{"reference": "Isaiah 20:6", "verseNumber": 6, "scripture": "And the inhabitant of this isle shall say in that day, Behold, such is our expectation, where we flee for help to be delivered from the king of Assyria: and how shall we escape?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  20,
+     "verses":  [
+        {
+            "reference":  "Isaiah 20:1",
+             "verseNumber":  1,
+             "scripture":  "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;"
+        },
+        {
+            "reference":  "Isaiah 20:2",
+             "verseNumber":  2,
+             "scripture":  "At the same time spoke the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off your loins, and put off your shoe from your foot. And he did so, walking naked and barefoot."
+        },
+        {
+            "reference":  "Isaiah 20:3",
+             "verseNumber":  3,
+             "scripture":  "And the LORD said, Like my servant Isaiah has walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;"
+        },
+        {
+            "reference":  "Isaiah 20:4",
+             "verseNumber":  4,
+             "scripture":  "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt."
+        },
+        {
+            "reference":  "Isaiah 20:5",
+             "verseNumber":  5,
+             "scripture":  "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory."
+        },
+        {
+            "reference":  "Isaiah 20:6",
+             "verseNumber":  6,
+             "scripture":  "And the inhabitant of this isle shall say in that day, Behold, such is our expectation, where we flee for help to be delivered from the king of Assyria: and how shall we escape?"
+        }
+    ]
+}

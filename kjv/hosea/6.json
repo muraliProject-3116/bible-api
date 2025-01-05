@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Hosea", "bookAbbreviation": "Hos", "chapterNumber": 6, "verses": [{"reference": "Hosea 6:1", "verseNumber": 1, "scripture": "Come, and let us return unto the LORD: for he has torn, and he will heal us; he has smitten, and he will bind us up."},{"reference": "Hosea 6:2", "verseNumber": 2, "scripture": "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight."},{"reference": "Hosea 6:3", "verseNumber": 3, "scripture": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth."},{"reference": "Hosea 6:4", "verseNumber": 4, "scripture": "O Ephraim, what shall I do unto you? O Judah, what shall I do unto you? for your goodness is as a morning cloud, and as the early dew it goes away."},{"reference": "Hosea 6:5", "verseNumber": 5, "scripture": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and your judgments are as the light that goes forth."},{"reference": "Hosea 6:6", "verseNumber": 6, "scripture": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."},{"reference": "Hosea 6:7", "verseNumber": 7, "scripture": "But they like men have transgressed the covenant: there have they dealt treacherously against me."},{"reference": "Hosea 6:8", "verseNumber": 8, "scripture": "Gilead is a city of them that work iniquity, and is polluted with blood."},{"reference": "Hosea 6:9", "verseNumber": 9, "scripture": "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness."},{"reference": "Hosea 6:10", "verseNumber": 10, "scripture": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled."},{"reference": "Hosea 6:11", "verseNumber": 11, "scripture": "Also, O Judah, he has set an harvest for you, when I returned the captivity of my people."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Hosea",
+     "bookAbbreviation":  "Hos",
+     "chapterNumber":  6,
+     "verses":  [
+        {
+            "reference":  "Hosea 6:1",
+             "verseNumber":  1,
+             "scripture":  "Come, and let us return unto the LORD: for he has torn, and he will heal us; he has smitten, and he will bind us up."
+        },
+        {
+            "reference":  "Hosea 6:2",
+             "verseNumber":  2,
+             "scripture":  "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight."
+        },
+        {
+            "reference":  "Hosea 6:3",
+             "verseNumber":  3,
+             "scripture":  "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth."
+        },
+        {
+            "reference":  "Hosea 6:4",
+             "verseNumber":  4,
+             "scripture":  "O Ephraim, what shall I do unto you? O Judah, what shall I do unto you? for your goodness is as a morning cloud, and as the early dew it goes away."
+        },
+        {
+            "reference":  "Hosea 6:5",
+             "verseNumber":  5,
+             "scripture":  "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and your judgments are as the light that goes forth."
+        },
+        {
+            "reference":  "Hosea 6:6",
+             "verseNumber":  6,
+             "scripture":  "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+        },
+        {
+            "reference":  "Hosea 6:7",
+             "verseNumber":  7,
+             "scripture":  "But they like men have transgressed the covenant: there have they dealt treacherously against me."
+        },
+        {
+            "reference":  "Hosea 6:8",
+             "verseNumber":  8,
+             "scripture":  "Gilead is a city of them that work iniquity, and is polluted with blood."
+        },
+        {
+            "reference":  "Hosea 6:9",
+             "verseNumber":  9,
+             "scripture":  "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness."
+        },
+        {
+            "reference":  "Hosea 6:10",
+             "verseNumber":  10,
+             "scripture":  "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled."
+        },
+        {
+            "reference":  "Hosea 6:11",
+             "verseNumber":  11,
+             "scripture":  "Also, O Judah, he has set an harvest for you, when I returned the captivity of my people."
+        }
+    ]
+}

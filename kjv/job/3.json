@@ -1,1 +1,145 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 3, "verses": [{"reference": "Job 3:1", "verseNumber": 1, "scripture": "After this opened Job his mouth, and cursed his day."},{"reference": "Job 3:2", "verseNumber": 2, "scripture": "And Job spoke, and said,"},{"reference": "Job 3:3", "verseNumber": 3, "scripture": "Let the day perish wherein I was born, and the night in which it was said, There is a male child conceived."},{"reference": "Job 3:4", "verseNumber": 4, "scripture": "Let that day be darkness; let not God regard it from above, neither let the light shine upon it."},{"reference": "Job 3:5", "verseNumber": 5, "scripture": "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it."},{"reference": "Job 3:6", "verseNumber": 6, "scripture": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."},{"reference": "Job 3:7", "verseNumber": 7, "scripture": "Lo, let that night be solitary, let no joyful voice come therein."},{"reference": "Job 3:8", "verseNumber": 8, "scripture": "Let them curse it that curse the day, who are ready to raise up their mourning."},{"reference": "Job 3:9", "verseNumber": 9, "scripture": "Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:"},{"reference": "Job 3:10", "verseNumber": 10, "scripture": "Because it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes."},{"reference": "Job 3:11", "verseNumber": 11, "scripture": "Why died I not from the womb? why did I not give up the spirit when I came out of the belly?"},{"reference": "Job 3:12", "verseNumber": 12, "scripture": "Why did the knees prevent me? or why the breasts that I should suck?"},{"reference": "Job 3:13", "verseNumber": 13, "scripture": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"},{"reference": "Job 3:14", "verseNumber": 14, "scripture": "With kings and counsellors of the earth, which build desolate places for themselves;"},{"reference": "Job 3:15", "verseNumber": 15, "scripture": "Or with princes that had gold, who filled their houses with silver:"},{"reference": "Job 3:16", "verseNumber": 16, "scripture": "Or as an hidden untimely birth I had not been; as infants which never saw light."},{"reference": "Job 3:17", "verseNumber": 17, "scripture": "There the wicked cease from troubling; and there the weary be at rest."},{"reference": "Job 3:18", "verseNumber": 18, "scripture": "There the prisoners rest together; they hear not the voice of the oppressor."},{"reference": "Job 3:19", "verseNumber": 19, "scripture": "The small and great are there; and the servant is free from his master."},{"reference": "Job 3:20", "verseNumber": 20, "scripture": "Wherefore is light given to him that is in misery, and life unto the bitter in soul;"},{"reference": "Job 3:21", "verseNumber": 21, "scripture": "Which long for death, but it comes not; and dig for it more than for hid treasures;"},{"reference": "Job 3:22", "verseNumber": 22, "scripture": "Which rejoice exceedingly, and are glad, when they can find the grave?"},{"reference": "Job 3:23", "verseNumber": 23, "scripture": "Why is light given to a man whose way is hid, and whom God has hedged in?"},{"reference": "Job 3:24", "verseNumber": 24, "scripture": "For my sighing comes before I eat, and my roarings are poured out like the waters."},{"reference": "Job 3:25", "verseNumber": 25, "scripture": "For the thing which I greatly feared has come upon me, and that which I was afraid of has come unto me."},{"reference": "Job 3:26", "verseNumber": 26, "scripture": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "Job 3:1",
+             "verseNumber":  1,
+             "scripture":  "After this opened Job his mouth, and cursed his day."
+        },
+        {
+            "reference":  "Job 3:2",
+             "verseNumber":  2,
+             "scripture":  "And Job spoke, and said,"
+        },
+        {
+            "reference":  "Job 3:3",
+             "verseNumber":  3,
+             "scripture":  "Let the day perish wherein I was born, and the night in which it was said, There is a male child conceived."
+        },
+        {
+            "reference":  "Job 3:4",
+             "verseNumber":  4,
+             "scripture":  "Let that day be darkness; let not God regard it from above, neither let the light shine upon it."
+        },
+        {
+            "reference":  "Job 3:5",
+             "verseNumber":  5,
+             "scripture":  "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it."
+        },
+        {
+            "reference":  "Job 3:6",
+             "verseNumber":  6,
+             "scripture":  "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."
+        },
+        {
+            "reference":  "Job 3:7",
+             "verseNumber":  7,
+             "scripture":  "Lo, let that night be solitary, let no joyful voice come therein."
+        },
+        {
+            "reference":  "Job 3:8",
+             "verseNumber":  8,
+             "scripture":  "Let them curse it that curse the day, who are ready to raise up their mourning."
+        },
+        {
+            "reference":  "Job 3:9",
+             "verseNumber":  9,
+             "scripture":  "Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:"
+        },
+        {
+            "reference":  "Job 3:10",
+             "verseNumber":  10,
+             "scripture":  "Because it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes."
+        },
+        {
+            "reference":  "Job 3:11",
+             "verseNumber":  11,
+             "scripture":  "Why died I not from the womb? why did I not give up the spirit when I came out of the belly?"
+        },
+        {
+            "reference":  "Job 3:12",
+             "verseNumber":  12,
+             "scripture":  "Why did the knees prevent me? or why the breasts that I should suck?"
+        },
+        {
+            "reference":  "Job 3:13",
+             "verseNumber":  13,
+             "scripture":  "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"
+        },
+        {
+            "reference":  "Job 3:14",
+             "verseNumber":  14,
+             "scripture":  "With kings and counsellors of the earth, which build desolate places for themselves;"
+        },
+        {
+            "reference":  "Job 3:15",
+             "verseNumber":  15,
+             "scripture":  "Or with princes that had gold, who filled their houses with silver:"
+        },
+        {
+            "reference":  "Job 3:16",
+             "verseNumber":  16,
+             "scripture":  "Or as an hidden untimely birth I had not been; as infants which never saw light."
+        },
+        {
+            "reference":  "Job 3:17",
+             "verseNumber":  17,
+             "scripture":  "There the wicked cease from troubling; and there the weary be at rest."
+        },
+        {
+            "reference":  "Job 3:18",
+             "verseNumber":  18,
+             "scripture":  "There the prisoners rest together; they hear not the voice of the oppressor."
+        },
+        {
+            "reference":  "Job 3:19",
+             "verseNumber":  19,
+             "scripture":  "The small and great are there; and the servant is free from his master."
+        },
+        {
+            "reference":  "Job 3:20",
+             "verseNumber":  20,
+             "scripture":  "Wherefore is light given to him that is in misery, and life unto the bitter in soul;"
+        },
+        {
+            "reference":  "Job 3:21",
+             "verseNumber":  21,
+             "scripture":  "Which long for death, but it comes not; and dig for it more than for hid treasures;"
+        },
+        {
+            "reference":  "Job 3:22",
+             "verseNumber":  22,
+             "scripture":  "Which rejoice exceedingly, and are glad, when they can find the grave?"
+        },
+        {
+            "reference":  "Job 3:23",
+             "verseNumber":  23,
+             "scripture":  "Why is light given to a man whose way is hid, and whom God has hedged in?"
+        },
+        {
+            "reference":  "Job 3:24",
+             "verseNumber":  24,
+             "scripture":  "For my sighing comes before I eat, and my roarings are poured out like the waters."
+        },
+        {
+            "reference":  "Job 3:25",
+             "verseNumber":  25,
+             "scripture":  "For the thing which I greatly feared has come upon me, and that which I was afraid of has come unto me."
+        },
+        {
+            "reference":  "Job 3:26",
+             "verseNumber":  26,
+             "scripture":  "I was not in safety, neither had I rest, neither was I quiet; yet trouble came."
+        }
+    ]
+}

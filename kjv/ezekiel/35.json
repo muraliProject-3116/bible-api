@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezekiel", "bookAbbreviation": "Eze", "chapterNumber": 35, "verses": [{"reference": "Ezekiel 35:1", "verseNumber": 1, "scripture": "Moreover the word of the LORD came unto me, saying,"},{"reference": "Ezekiel 35:2", "verseNumber": 2, "scripture": "Son of man, set your face against mount Seir, and prophesy against it,"},{"reference": "Ezekiel 35:3", "verseNumber": 3, "scripture": "And say unto it, Thus says the Lord GOD; Behold, O mount Seir, I am against you, and I will stretch out mine hand against you, and I will make you most desolate."},{"reference": "Ezekiel 35:4", "verseNumber": 4, "scripture": "I will lay your cities waste, and you shall be desolate, and you shall know that I am the LORD."},{"reference": "Ezekiel 35:5", "verseNumber": 5, "scripture": "Because you have had a perpetual hatred, and have shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:"},{"reference": "Ezekiel 35:6", "verseNumber": 6, "scripture": "Therefore, as I live, says the Lord GOD, I will prepare you unto blood, and blood shall pursue you: since you have not hated blood, even blood shall pursue you."},{"reference": "Ezekiel 35:7", "verseNumber": 7, "scripture": "Thus will I make mount Seir most desolate, and cut off from it him that passes out and him that returns."},{"reference": "Ezekiel 35:8", "verseNumber": 8, "scripture": "And I will fill his mountains with his slain men: in your hills, and in your valleys, and in all your rivers, shall they fall that are slain with the sword."},{"reference": "Ezekiel 35:9", "verseNumber": 9, "scripture": "I will make you perpetual desolations, and your cities shall not return: and all of you shall know that I am the LORD."},{"reference": "Ezekiel 35:10", "verseNumber": 10, "scripture": "Because you have said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:"},{"reference": "Ezekiel 35:11", "verseNumber": 11, "scripture": "Therefore, as I live, says the Lord GOD, I will even do according to yours anger, and according to yours envy which you have used out of your hatred against them; and I will make myself known among them, when I have judged you."},{"reference": "Ezekiel 35:12", "verseNumber": 12, "scripture": "And you shall know that I am the LORD, and that I have heard all your blasphemies which you have spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume."},{"reference": "Ezekiel 35:13", "verseNumber": 13, "scripture": "Thus with your mouth all of you have boasted against me, and have multiplied your words against me: I have heard them."},{"reference": "Ezekiel 35:14", "verseNumber": 14, "scripture": "Thus says the Lord GOD; When the whole earth rejoices, I will make you desolate."},{"reference": "Ezekiel 35:15", "verseNumber": 15, "scripture": "As you did rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto you: you shall be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezekiel",
+     "bookAbbreviation":  "Eze",
+     "chapterNumber":  35,
+     "verses":  [
+        {
+            "reference":  "Ezekiel 35:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Ezekiel 35:2",
+             "verseNumber":  2,
+             "scripture":  "Son of man, set your face against mount Seir, and prophesy against it,"
+        },
+        {
+            "reference":  "Ezekiel 35:3",
+             "verseNumber":  3,
+             "scripture":  "And say unto it, Thus says the Lord GOD; Behold, O mount Seir, I am against you, and I will stretch out mine hand against you, and I will make you most desolate."
+        },
+        {
+            "reference":  "Ezekiel 35:4",
+             "verseNumber":  4,
+             "scripture":  "I will lay your cities waste, and you shall be desolate, and you shall know that I am the LORD."
+        },
+        {
+            "reference":  "Ezekiel 35:5",
+             "verseNumber":  5,
+             "scripture":  "Because you have had a perpetual hatred, and have shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:"
+        },
+        {
+            "reference":  "Ezekiel 35:6",
+             "verseNumber":  6,
+             "scripture":  "Therefore, as I live, says the Lord GOD, I will prepare you unto blood, and blood shall pursue you: since you have not hated blood, even blood shall pursue you."
+        },
+        {
+            "reference":  "Ezekiel 35:7",
+             "verseNumber":  7,
+             "scripture":  "Thus will I make mount Seir most desolate, and cut off from it him that passes out and him that returns."
+        },
+        {
+            "reference":  "Ezekiel 35:8",
+             "verseNumber":  8,
+             "scripture":  "And I will fill his mountains with his slain men: in your hills, and in your valleys, and in all your rivers, shall they fall that are slain with the sword."
+        },
+        {
+            "reference":  "Ezekiel 35:9",
+             "verseNumber":  9,
+             "scripture":  "I will make you perpetual desolations, and your cities shall not return: and all of you shall know that I am the LORD."
+        },
+        {
+            "reference":  "Ezekiel 35:10",
+             "verseNumber":  10,
+             "scripture":  "Because you have said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:"
+        },
+        {
+            "reference":  "Ezekiel 35:11",
+             "verseNumber":  11,
+             "scripture":  "Therefore, as I live, says the Lord GOD, I will even do according to yours anger, and according to yours envy which you have used out of your hatred against them; and I will make myself known among them, when I have judged you."
+        },
+        {
+            "reference":  "Ezekiel 35:12",
+             "verseNumber":  12,
+             "scripture":  "And you shall know that I am the LORD, and that I have heard all your blasphemies which you have spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume."
+        },
+        {
+            "reference":  "Ezekiel 35:13",
+             "verseNumber":  13,
+             "scripture":  "Thus with your mouth all of you have boasted against me, and have multiplied your words against me: I have heard them."
+        },
+        {
+            "reference":  "Ezekiel 35:14",
+             "verseNumber":  14,
+             "scripture":  "Thus says the Lord GOD; When the whole earth rejoices, I will make you desolate."
+        },
+        {
+            "reference":  "Ezekiel 35:15",
+             "verseNumber":  15,
+             "scripture":  "As you did rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto you: you shall be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the LORD."
+        }
+    ]
+}

@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Leviticus", "bookAbbreviation": "Levi", "chapterNumber": 12, "verses": [{"reference": "Leviticus 12:1", "verseNumber": 1, "scripture": "And the LORD spoke unto Moses, saying,"},{"reference": "Leviticus 12:2", "verseNumber": 2, "scripture": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a male child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."},{"reference": "Leviticus 12:3", "verseNumber": 3, "scripture": "And in the eighth day the flesh of his foreskin shall be circumcised."},{"reference": "Leviticus 12:4", "verseNumber": 4, "scripture": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."},{"reference": "Leviticus 12:5", "verseNumber": 5, "scripture": "But if she bear a female child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."},{"reference": "Leviticus 12:6", "verseNumber": 6, "scripture": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"},{"reference": "Leviticus 12:7", "verseNumber": 7, "scripture": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that has born a male or a female."},{"reference": "Leviticus 12:8", "verseNumber": 8, "scripture": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Leviticus",
+     "bookAbbreviation":  "Levi",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "Leviticus 12:1",
+             "verseNumber":  1,
+             "scripture":  "And the LORD spoke unto Moses, saying,"
+        },
+        {
+            "reference":  "Leviticus 12:2",
+             "verseNumber":  2,
+             "scripture":  "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a male child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+        },
+        {
+            "reference":  "Leviticus 12:3",
+             "verseNumber":  3,
+             "scripture":  "And in the eighth day the flesh of his foreskin shall be circumcised."
+        },
+        {
+            "reference":  "Leviticus 12:4",
+             "verseNumber":  4,
+             "scripture":  "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+        },
+        {
+            "reference":  "Leviticus 12:5",
+             "verseNumber":  5,
+             "scripture":  "But if she bear a female child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
+        },
+        {
+            "reference":  "Leviticus 12:6",
+             "verseNumber":  6,
+             "scripture":  "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
+        },
+        {
+            "reference":  "Leviticus 12:7",
+             "verseNumber":  7,
+             "scripture":  "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that has born a male or a female."
+        },
+        {
+            "reference":  "Leviticus 12:8",
+             "verseNumber":  8,
+             "scripture":  "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."
+        }
+    ]
+}

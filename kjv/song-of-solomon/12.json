@@ -1,1 +1,85 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ecclesiastes", "bookAbbreviation": "Son", "chapterNumber": 12, "verses": [{"reference": "Ecclesiastes 12:1", "verseNumber": 1, "scripture": "Remember now your Creator in the days of your youth, while the evil days come not, nor the years draw nigh, when you shall say, I have no pleasure in them;"},{"reference": "Ecclesiastes 12:2", "verseNumber": 2, "scripture": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:"},{"reference": "Ecclesiastes 12:3", "verseNumber": 3, "scripture": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,"},{"reference": "Ecclesiastes 12:4", "verseNumber": 4, "scripture": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of music shall be brought low;"},{"reference": "Ecclesiastes 12:5", "verseNumber": 5, "scripture": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goes to his eternal home, and the mourners go about the streets:"},{"reference": "Ecclesiastes 12:6", "verseNumber": 6, "scripture": "Before even the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern."},{"reference": "Ecclesiastes 12:7", "verseNumber": 7, "scripture": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."},{"reference": "Ecclesiastes 12:8", "verseNumber": 8, "scripture": "Vanity of vanities, says the preacher; all is vanity."},{"reference": "Ecclesiastes 12:9", "verseNumber": 9, "scripture": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs."},{"reference": "Ecclesiastes 12:10", "verseNumber": 10, "scripture": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth."},{"reference": "Ecclesiastes 12:11", "verseNumber": 11, "scripture": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd."},{"reference": "Ecclesiastes 12:12", "verseNumber": 12, "scripture": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh."},{"reference": "Ecclesiastes 12:13", "verseNumber": 13, "scripture": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."},{"reference": "Ecclesiastes 12:14", "verseNumber": 14, "scripture": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ecclesiastes",
+     "bookAbbreviation":  "Son",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "Ecclesiastes 12:1",
+             "verseNumber":  1,
+             "scripture":  "Remember now your Creator in the days of your youth, while the evil days come not, nor the years draw nigh, when you shall say, I have no pleasure in them;"
+        },
+        {
+            "reference":  "Ecclesiastes 12:2",
+             "verseNumber":  2,
+             "scripture":  "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:"
+        },
+        {
+            "reference":  "Ecclesiastes 12:3",
+             "verseNumber":  3,
+             "scripture":  "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,"
+        },
+        {
+            "reference":  "Ecclesiastes 12:4",
+             "verseNumber":  4,
+             "scripture":  "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of music shall be brought low;"
+        },
+        {
+            "reference":  "Ecclesiastes 12:5",
+             "verseNumber":  5,
+             "scripture":  "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goes to his eternal home, and the mourners go about the streets:"
+        },
+        {
+            "reference":  "Ecclesiastes 12:6",
+             "verseNumber":  6,
+             "scripture":  "Before even the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern."
+        },
+        {
+            "reference":  "Ecclesiastes 12:7",
+             "verseNumber":  7,
+             "scripture":  "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."
+        },
+        {
+            "reference":  "Ecclesiastes 12:8",
+             "verseNumber":  8,
+             "scripture":  "Vanity of vanities, says the preacher; all is vanity."
+        },
+        {
+            "reference":  "Ecclesiastes 12:9",
+             "verseNumber":  9,
+             "scripture":  "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs."
+        },
+        {
+            "reference":  "Ecclesiastes 12:10",
+             "verseNumber":  10,
+             "scripture":  "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth."
+        },
+        {
+            "reference":  "Ecclesiastes 12:11",
+             "verseNumber":  11,
+             "scripture":  "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd."
+        },
+        {
+            "reference":  "Ecclesiastes 12:12",
+             "verseNumber":  12,
+             "scripture":  "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh."
+        },
+        {
+            "reference":  "Ecclesiastes 12:13",
+             "verseNumber":  13,
+             "scripture":  "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
+        },
+        {
+            "reference":  "Ecclesiastes 12:14",
+             "verseNumber":  14,
+             "scripture":  "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."
+        }
+    ]
+}

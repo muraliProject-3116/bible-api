@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 32, "verses": [{"reference": "Isaiah 32:1", "verseNumber": 1, "scripture": "Behold, a king shall reign in righteousness, and princes shall rule in judgment."},{"reference": "Isaiah 32:2", "verseNumber": 2, "scripture": "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land."},{"reference": "Isaiah 32:3", "verseNumber": 3, "scripture": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken."},{"reference": "Isaiah 32:4", "verseNumber": 4, "scripture": "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly."},{"reference": "Isaiah 32:5", "verseNumber": 5, "scripture": "The vile person shall be no more called liberal, nor the churl said to be bountiful."},{"reference": "Isaiah 32:6", "verseNumber": 6, "scripture": "For the vile person will speak villainy, and his heart will work iniquity, to practice hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail."},{"reference": "Isaiah 32:7", "verseNumber": 7, "scripture": "The instruments also of the churl are evil: he devises wicked devices to destroy the poor with lying words, even when the needy speaks right."},{"reference": "Isaiah 32:8", "verseNumber": 8, "scripture": "But the liberal devises liberal things; and by liberal things shall he stand."},{"reference": "Isaiah 32:9", "verseNumber": 9, "scripture": "Rise up, all of you women that are at ease; hear my voice, all of you careless daughters; give ear unto my speech."},{"reference": "Isaiah 32:10", "verseNumber": 10, "scripture": "Many days and years shall all of you be troubled, all of you careless women: for the vintage shall fail, the gathering shall not come."},{"reference": "Isaiah 32:11", "verseNumber": 11, "scripture": "Tremble, all of you women that are at ease; be troubled, all of you careless ones: strip you, and make you bare, and gird sackcloth upon your loins."},{"reference": "Isaiah 32:12", "verseNumber": 12, "scripture": "They shall lament for the teats, for the pleasant fields, for the fruitful vine."},{"reference": "Isaiah 32:13", "verseNumber": 13, "scripture": "Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:"},{"reference": "Isaiah 32:14", "verseNumber": 14, "scripture": "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;"},{"reference": "Isaiah 32:15", "verseNumber": 15, "scripture": "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest."},{"reference": "Isaiah 32:16", "verseNumber": 16, "scripture": "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field."},{"reference": "Isaiah 32:17", "verseNumber": 17, "scripture": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever."},{"reference": "Isaiah 32:18", "verseNumber": 18, "scripture": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;"},{"reference": "Isaiah 32:19", "verseNumber": 19, "scripture": "When it shall hail, coming down on the forest; and the city shall be low in a low place."},{"reference": "Isaiah 32:20", "verseNumber": 20, "scripture": "Blessed are all of you that sow beside all waters, that send forth thither the feet of the ox and the ass."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  32,
+     "verses":  [
+        {
+            "reference":  "Isaiah 32:1",
+             "verseNumber":  1,
+             "scripture":  "Behold, a king shall reign in righteousness, and princes shall rule in judgment."
+        },
+        {
+            "reference":  "Isaiah 32:2",
+             "verseNumber":  2,
+             "scripture":  "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land."
+        },
+        {
+            "reference":  "Isaiah 32:3",
+             "verseNumber":  3,
+             "scripture":  "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken."
+        },
+        {
+            "reference":  "Isaiah 32:4",
+             "verseNumber":  4,
+             "scripture":  "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly."
+        },
+        {
+            "reference":  "Isaiah 32:5",
+             "verseNumber":  5,
+             "scripture":  "The vile person shall be no more called liberal, nor the churl said to be bountiful."
+        },
+        {
+            "reference":  "Isaiah 32:6",
+             "verseNumber":  6,
+             "scripture":  "For the vile person will speak villainy, and his heart will work iniquity, to practice hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail."
+        },
+        {
+            "reference":  "Isaiah 32:7",
+             "verseNumber":  7,
+             "scripture":  "The instruments also of the churl are evil: he devises wicked devices to destroy the poor with lying words, even when the needy speaks right."
+        },
+        {
+            "reference":  "Isaiah 32:8",
+             "verseNumber":  8,
+             "scripture":  "But the liberal devises liberal things; and by liberal things shall he stand."
+        },
+        {
+            "reference":  "Isaiah 32:9",
+             "verseNumber":  9,
+             "scripture":  "Rise up, all of you women that are at ease; hear my voice, all of you careless daughters; give ear unto my speech."
+        },
+        {
+            "reference":  "Isaiah 32:10",
+             "verseNumber":  10,
+             "scripture":  "Many days and years shall all of you be troubled, all of you careless women: for the vintage shall fail, the gathering shall not come."
+        },
+        {
+            "reference":  "Isaiah 32:11",
+             "verseNumber":  11,
+             "scripture":  "Tremble, all of you women that are at ease; be troubled, all of you careless ones: strip you, and make you bare, and gird sackcloth upon your loins."
+        },
+        {
+            "reference":  "Isaiah 32:12",
+             "verseNumber":  12,
+             "scripture":  "They shall lament for the teats, for the pleasant fields, for the fruitful vine."
+        },
+        {
+            "reference":  "Isaiah 32:13",
+             "verseNumber":  13,
+             "scripture":  "Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:"
+        },
+        {
+            "reference":  "Isaiah 32:14",
+             "verseNumber":  14,
+             "scripture":  "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;"
+        },
+        {
+            "reference":  "Isaiah 32:15",
+             "verseNumber":  15,
+             "scripture":  "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest."
+        },
+        {
+            "reference":  "Isaiah 32:16",
+             "verseNumber":  16,
+             "scripture":  "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field."
+        },
+        {
+            "reference":  "Isaiah 32:17",
+             "verseNumber":  17,
+             "scripture":  "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever."
+        },
+        {
+            "reference":  "Isaiah 32:18",
+             "verseNumber":  18,
+             "scripture":  "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;"
+        },
+        {
+            "reference":  "Isaiah 32:19",
+             "verseNumber":  19,
+             "scripture":  "When it shall hail, coming down on the forest; and the city shall be low in a low place."
+        },
+        {
+            "reference":  "Isaiah 32:20",
+             "verseNumber":  20,
+             "scripture":  "Blessed are all of you that sow beside all waters, that send forth thither the feet of the ox and the ass."
+        }
+    ]
+}

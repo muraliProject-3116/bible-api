@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "James", "bookAbbreviation": "1 Pet", "chapterNumber": 5, "verses": [{"reference": "James 5:1", "verseNumber": 1, "scripture": "Go to now, all of you rich men, weep and wail for your miseries that shall come upon you."},{"reference": "James 5:2", "verseNumber": 2, "scripture": "Your riches are corrupted, and your garments are moth-eaten."},{"reference": "James 5:3", "verseNumber": 3, "scripture": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. All of you have heaped treasure together for the last days."},{"reference": "James 5:4", "verseNumber": 4, "scripture": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth."},{"reference": "James 5:5", "verseNumber": 5, "scripture": "All of you have lived in pleasure on the earth, and been wanton; all of you have nourished your hearts, as in a day of slaughter."},{"reference": "James 5:6", "verseNumber": 6, "scripture": "All of you have condemned and killed the just; and he does not resist you."},{"reference": "James 5:7", "verseNumber": 7, "scripture": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, and has long patience for it, until he receive the early and latter rain."},{"reference": "James 5:8", "verseNumber": 8, "scripture": "Be all of you also patient; establish your hearts: for the coming of the Lord draws nigh."},{"reference": "James 5:9", "verseNumber": 9, "scripture": "Grudge not one against another, brethren, lest all of you be condemned: behold, the judge stands before the door."},{"reference": "James 5:10", "verseNumber": 10, "scripture": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."},{"reference": "James 5:11", "verseNumber": 11, "scripture": "Behold, we count them happy which endure. All of you have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."},{"reference": "James 5:12", "verseNumber": 12, "scripture": "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest all of you fall into condemnation."},{"reference": "James 5:13", "verseNumber": 13, "scripture": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms."},{"reference": "James 5:14", "verseNumber": 14, "scripture": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"},{"reference": "James 5:15", "verseNumber": 15, "scripture": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."},{"reference": "James 5:16", "verseNumber": 16, "scripture": "Confess your faults one to another, and pray one for another, that all of you may be healed. The effectual fervent prayer of a righteous man avails much."},{"reference": "James 5:17", "verseNumber": 17, "scripture": "Elijah was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."},{"reference": "James 5:18", "verseNumber": 18, "scripture": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit."},{"reference": "James 5:19", "verseNumber": 19, "scripture": "Brethren, if any of you do go astray from the truth, and one convert him;"},{"reference": "James 5:20", "verseNumber": 20, "scripture": "Let him know, that he which converts the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "James",
+     "bookAbbreviation":  "1 Pet",
+     "chapterNumber":  5,
+     "verses":  [
+        {
+            "reference":  "James 5:1",
+             "verseNumber":  1,
+             "scripture":  "Go to now, all of you rich men, weep and wail for your miseries that shall come upon you."
+        },
+        {
+            "reference":  "James 5:2",
+             "verseNumber":  2,
+             "scripture":  "Your riches are corrupted, and your garments are moth-eaten."
+        },
+        {
+            "reference":  "James 5:3",
+             "verseNumber":  3,
+             "scripture":  "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. All of you have heaped treasure together for the last days."
+        },
+        {
+            "reference":  "James 5:4",
+             "verseNumber":  4,
+             "scripture":  "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth."
+        },
+        {
+            "reference":  "James 5:5",
+             "verseNumber":  5,
+             "scripture":  "All of you have lived in pleasure on the earth, and been wanton; all of you have nourished your hearts, as in a day of slaughter."
+        },
+        {
+            "reference":  "James 5:6",
+             "verseNumber":  6,
+             "scripture":  "All of you have condemned and killed the just; and he does not resist you."
+        },
+        {
+            "reference":  "James 5:7",
+             "verseNumber":  7,
+             "scripture":  "Be patient therefore, brethren, unto the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, and has long patience for it, until he receive the early and latter rain."
+        },
+        {
+            "reference":  "James 5:8",
+             "verseNumber":  8,
+             "scripture":  "Be all of you also patient; establish your hearts: for the coming of the Lord draws nigh."
+        },
+        {
+            "reference":  "James 5:9",
+             "verseNumber":  9,
+             "scripture":  "Grudge not one against another, brethren, lest all of you be condemned: behold, the judge stands before the door."
+        },
+        {
+            "reference":  "James 5:10",
+             "verseNumber":  10,
+             "scripture":  "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."
+        },
+        {
+            "reference":  "James 5:11",
+             "verseNumber":  11,
+             "scripture":  "Behold, we count them happy which endure. All of you have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."
+        },
+        {
+            "reference":  "James 5:12",
+             "verseNumber":  12,
+             "scripture":  "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest all of you fall into condemnation."
+        },
+        {
+            "reference":  "James 5:13",
+             "verseNumber":  13,
+             "scripture":  "Is any among you afflicted? let him pray. Is any merry? let him sing psalms."
+        },
+        {
+            "reference":  "James 5:14",
+             "verseNumber":  14,
+             "scripture":  "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+        },
+        {
+            "reference":  "James 5:15",
+             "verseNumber":  15,
+             "scripture":  "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."
+        },
+        {
+            "reference":  "James 5:16",
+             "verseNumber":  16,
+             "scripture":  "Confess your faults one to another, and pray one for another, that all of you may be healed. The effectual fervent prayer of a righteous man avails much."
+        },
+        {
+            "reference":  "James 5:17",
+             "verseNumber":  17,
+             "scripture":  "Elijah was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."
+        },
+        {
+            "reference":  "James 5:18",
+             "verseNumber":  18,
+             "scripture":  "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit."
+        },
+        {
+            "reference":  "James 5:19",
+             "verseNumber":  19,
+             "scripture":  "Brethren, if any of you do go astray from the truth, and one convert him;"
+        },
+        {
+            "reference":  "James 5:20",
+             "verseNumber":  20,
+             "scripture":  "Let him know, that he which converts the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."
+        }
+    ]
+}

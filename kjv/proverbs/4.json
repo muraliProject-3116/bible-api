@@ -1,1 +1,150 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 4, "verses": [{"reference": "Proverbs 4:1", "verseNumber": 1, "scripture": "Hear, all of you children, the instruction of a father, and attend to know understanding."},{"reference": "Proverbs 4:2", "verseNumber": 2, "scripture": "For I give you good doctrine, forsake all of you not my law."},{"reference": "Proverbs 4:3", "verseNumber": 3, "scripture": "For I was my father's son, tender and only beloved in the sight of my mother."},{"reference": "Proverbs 4:4", "verseNumber": 4, "scripture": "He taught me also, and said unto me, Let yours heart retain my words: keep my commandments, and live."},{"reference": "Proverbs 4:5", "verseNumber": 5, "scripture": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."},{"reference": "Proverbs 4:6", "verseNumber": 6, "scripture": "Forsake her not, and she shall preserve you: love her, and she shall keep you."},{"reference": "Proverbs 4:7", "verseNumber": 7, "scripture": "Wisdom is the principal thing; therefore get wisdom: and with all your getting get understanding."},{"reference": "Proverbs 4:8", "verseNumber": 8, "scripture": "Exalt her, and she shall promote you: she shall bring you to honour, when you do embrace her."},{"reference": "Proverbs 4:9", "verseNumber": 9, "scripture": "She shall give to yours head an ornament of grace: a crown of glory shall she deliver to you."},{"reference": "Proverbs 4:10", "verseNumber": 10, "scripture": "Hear, O my son, and receive my sayings; and the years of your life shall be many."},{"reference": "Proverbs 4:11", "verseNumber": 11, "scripture": "I have taught you in the way of wisdom; I have led you in right paths."},{"reference": "Proverbs 4:12", "verseNumber": 12, "scripture": "When you go, your steps shall not be straitened; and when you run, you shall not stumble."},{"reference": "Proverbs 4:13", "verseNumber": 13, "scripture": "Take fast hold of instruction; let her not go: keep her; for she is your life."},{"reference": "Proverbs 4:14", "verseNumber": 14, "scripture": "Enter not into the path of the wicked, and go not in the way of evil men."},{"reference": "Proverbs 4:15", "verseNumber": 15, "scripture": "Avoid it, pass not by it, turn from it, and pass away."},{"reference": "Proverbs 4:16", "verseNumber": 16, "scripture": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall."},{"reference": "Proverbs 4:17", "verseNumber": 17, "scripture": "For they eat the bread of wickedness, and drink the wine of violence."},{"reference": "Proverbs 4:18", "verseNumber": 18, "scripture": "But the path of the just is as the shining light, that shines more and more unto the perfect day."},{"reference": "Proverbs 4:19", "verseNumber": 19, "scripture": "The way of the wicked is as darkness: they know not at what they stumble."},{"reference": "Proverbs 4:20", "verseNumber": 20, "scripture": "My son, attend to my words; incline yours ear unto my sayings."},{"reference": "Proverbs 4:21", "verseNumber": 21, "scripture": "Let them not depart from yours eyes; keep them in the midst of yours heart."},{"reference": "Proverbs 4:22", "verseNumber": 22, "scripture": "For they are life unto those that find them, and health to all their flesh."},{"reference": "Proverbs 4:23", "verseNumber": 23, "scripture": "Keep your heart with all diligence; for out of it are the issues of life."},{"reference": "Proverbs 4:24", "verseNumber": 24, "scripture": "Put away from you a perverse mouth, and perverse lips put far from you."},{"reference": "Proverbs 4:25", "verseNumber": 25, "scripture": "Let yours eyes look right on, and let yours eyelids look straight before you."},{"reference": "Proverbs 4:26", "verseNumber": 26, "scripture": "Ponder the path of your feet, and let all your ways be established."},{"reference": "Proverbs 4:27", "verseNumber": 27, "scripture": "Turn not to the right hand nor to the left: remove your foot from evil."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Proverbs 4:1",
+             "verseNumber":  1,
+             "scripture":  "Hear, all of you children, the instruction of a father, and attend to know understanding."
+        },
+        {
+            "reference":  "Proverbs 4:2",
+             "verseNumber":  2,
+             "scripture":  "For I give you good doctrine, forsake all of you not my law."
+        },
+        {
+            "reference":  "Proverbs 4:3",
+             "verseNumber":  3,
+             "scripture":  "For I was my father's son, tender and only beloved in the sight of my mother."
+        },
+        {
+            "reference":  "Proverbs 4:4",
+             "verseNumber":  4,
+             "scripture":  "He taught me also, and said unto me, Let yours heart retain my words: keep my commandments, and live."
+        },
+        {
+            "reference":  "Proverbs 4:5",
+             "verseNumber":  5,
+             "scripture":  "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+        },
+        {
+            "reference":  "Proverbs 4:6",
+             "verseNumber":  6,
+             "scripture":  "Forsake her not, and she shall preserve you: love her, and she shall keep you."
+        },
+        {
+            "reference":  "Proverbs 4:7",
+             "verseNumber":  7,
+             "scripture":  "Wisdom is the principal thing; therefore get wisdom: and with all your getting get understanding."
+        },
+        {
+            "reference":  "Proverbs 4:8",
+             "verseNumber":  8,
+             "scripture":  "Exalt her, and she shall promote you: she shall bring you to honour, when you do embrace her."
+        },
+        {
+            "reference":  "Proverbs 4:9",
+             "verseNumber":  9,
+             "scripture":  "She shall give to yours head an ornament of grace: a crown of glory shall she deliver to you."
+        },
+        {
+            "reference":  "Proverbs 4:10",
+             "verseNumber":  10,
+             "scripture":  "Hear, O my son, and receive my sayings; and the years of your life shall be many."
+        },
+        {
+            "reference":  "Proverbs 4:11",
+             "verseNumber":  11,
+             "scripture":  "I have taught you in the way of wisdom; I have led you in right paths."
+        },
+        {
+            "reference":  "Proverbs 4:12",
+             "verseNumber":  12,
+             "scripture":  "When you go, your steps shall not be straitened; and when you run, you shall not stumble."
+        },
+        {
+            "reference":  "Proverbs 4:13",
+             "verseNumber":  13,
+             "scripture":  "Take fast hold of instruction; let her not go: keep her; for she is your life."
+        },
+        {
+            "reference":  "Proverbs 4:14",
+             "verseNumber":  14,
+             "scripture":  "Enter not into the path of the wicked, and go not in the way of evil men."
+        },
+        {
+            "reference":  "Proverbs 4:15",
+             "verseNumber":  15,
+             "scripture":  "Avoid it, pass not by it, turn from it, and pass away."
+        },
+        {
+            "reference":  "Proverbs 4:16",
+             "verseNumber":  16,
+             "scripture":  "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall."
+        },
+        {
+            "reference":  "Proverbs 4:17",
+             "verseNumber":  17,
+             "scripture":  "For they eat the bread of wickedness, and drink the wine of violence."
+        },
+        {
+            "reference":  "Proverbs 4:18",
+             "verseNumber":  18,
+             "scripture":  "But the path of the just is as the shining light, that shines more and more unto the perfect day."
+        },
+        {
+            "reference":  "Proverbs 4:19",
+             "verseNumber":  19,
+             "scripture":  "The way of the wicked is as darkness: they know not at what they stumble."
+        },
+        {
+            "reference":  "Proverbs 4:20",
+             "verseNumber":  20,
+             "scripture":  "My son, attend to my words; incline yours ear unto my sayings."
+        },
+        {
+            "reference":  "Proverbs 4:21",
+             "verseNumber":  21,
+             "scripture":  "Let them not depart from yours eyes; keep them in the midst of yours heart."
+        },
+        {
+            "reference":  "Proverbs 4:22",
+             "verseNumber":  22,
+             "scripture":  "For they are life unto those that find them, and health to all their flesh."
+        },
+        {
+            "reference":  "Proverbs 4:23",
+             "verseNumber":  23,
+             "scripture":  "Keep your heart with all diligence; for out of it are the issues of life."
+        },
+        {
+            "reference":  "Proverbs 4:24",
+             "verseNumber":  24,
+             "scripture":  "Put away from you a perverse mouth, and perverse lips put far from you."
+        },
+        {
+            "reference":  "Proverbs 4:25",
+             "verseNumber":  25,
+             "scripture":  "Let yours eyes look right on, and let yours eyelids look straight before you."
+        },
+        {
+            "reference":  "Proverbs 4:26",
+             "verseNumber":  26,
+             "scripture":  "Ponder the path of your feet, and let all your ways be established."
+        },
+        {
+            "reference":  "Proverbs 4:27",
+             "verseNumber":  27,
+             "scripture":  "Turn not to the right hand nor to the left: remove your foot from evil."
+        }
+    ]
+}

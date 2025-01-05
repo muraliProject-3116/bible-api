@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ecclesiastes", "bookAbbreviation": "Ecc", "chapterNumber": 1, "verses": [{"reference": "Ecclesiastes 1:1", "verseNumber": 1, "scripture": "The words of the Preacher, the son of David, king in Jerusalem."},{"reference": "Ecclesiastes 1:2", "verseNumber": 2, "scripture": "Vanity of vanities, says the Preacher, vanity of vanities; all is vanity."},{"reference": "Ecclesiastes 1:3", "verseNumber": 3, "scripture": "What profit has a man of all his labour which he takes under the sun?"},{"reference": "Ecclesiastes 1:4", "verseNumber": 4, "scripture": "One generation passes away, and another generation comes: but the earth abides for ever."},{"reference": "Ecclesiastes 1:5", "verseNumber": 5, "scripture": "The sun also arises, and the sun goes down, and hastes to his place where he arose."},{"reference": "Ecclesiastes 1:6", "verseNumber": 6, "scripture": "The wind goes toward the south, and turns about unto the north; it whirls about continually, and the wind returns again according to his circuits."},{"reference": "Ecclesiastes 1:7", "verseNumber": 7, "scripture": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."},{"reference": "Ecclesiastes 1:8", "verseNumber": 8, "scripture": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."},{"reference": "Ecclesiastes 1:9", "verseNumber": 9, "scripture": "The thing that has been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."},{"reference": "Ecclesiastes 1:10", "verseNumber": 10, "scripture": "Is there any thing whereof it may be said, See, this is new? it has been already of old time, which was before us."},{"reference": "Ecclesiastes 1:11", "verseNumber": 11, "scripture": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after."},{"reference": "Ecclesiastes 1:12", "verseNumber": 12, "scripture": "I the Preacher was king over Israel in Jerusalem."},{"reference": "Ecclesiastes 1:13", "verseNumber": 13, "scripture": "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail has God given to the sons of man to be exercised therewith."},{"reference": "Ecclesiastes 1:14", "verseNumber": 14, "scripture": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."},{"reference": "Ecclesiastes 1:15", "verseNumber": 15, "scripture": "That which is crooked cannot be made straight: and that which is lacking cannot be numbered."},{"reference": "Ecclesiastes 1:16", "verseNumber": 16, "scripture": "I communed with mine own heart, saying, Lo, I am come to great estate, and have got more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."},{"reference": "Ecclesiastes 1:17", "verseNumber": 17, "scripture": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."},{"reference": "Ecclesiastes 1:18", "verseNumber": 18, "scripture": "For in much wisdom is much grief: and he that increases knowledge increases sorrow."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ecclesiastes",
+     "bookAbbreviation":  "Ecc",
+     "chapterNumber":  1,
+     "verses":  [
+        {
+            "reference":  "Ecclesiastes 1:1",
+             "verseNumber":  1,
+             "scripture":  "The words of the Preacher, the son of David, king in Jerusalem."
+        },
+        {
+            "reference":  "Ecclesiastes 1:2",
+             "verseNumber":  2,
+             "scripture":  "Vanity of vanities, says the Preacher, vanity of vanities; all is vanity."
+        },
+        {
+            "reference":  "Ecclesiastes 1:3",
+             "verseNumber":  3,
+             "scripture":  "What profit has a man of all his labour which he takes under the sun?"
+        },
+        {
+            "reference":  "Ecclesiastes 1:4",
+             "verseNumber":  4,
+             "scripture":  "One generation passes away, and another generation comes: but the earth abides for ever."
+        },
+        {
+            "reference":  "Ecclesiastes 1:5",
+             "verseNumber":  5,
+             "scripture":  "The sun also arises, and the sun goes down, and hastes to his place where he arose."
+        },
+        {
+            "reference":  "Ecclesiastes 1:6",
+             "verseNumber":  6,
+             "scripture":  "The wind goes toward the south, and turns about unto the north; it whirls about continually, and the wind returns again according to his circuits."
+        },
+        {
+            "reference":  "Ecclesiastes 1:7",
+             "verseNumber":  7,
+             "scripture":  "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
+        },
+        {
+            "reference":  "Ecclesiastes 1:8",
+             "verseNumber":  8,
+             "scripture":  "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."
+        },
+        {
+            "reference":  "Ecclesiastes 1:9",
+             "verseNumber":  9,
+             "scripture":  "The thing that has been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
+        },
+        {
+            "reference":  "Ecclesiastes 1:10",
+             "verseNumber":  10,
+             "scripture":  "Is there any thing whereof it may be said, See, this is new? it has been already of old time, which was before us."
+        },
+        {
+            "reference":  "Ecclesiastes 1:11",
+             "verseNumber":  11,
+             "scripture":  "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after."
+        },
+        {
+            "reference":  "Ecclesiastes 1:12",
+             "verseNumber":  12,
+             "scripture":  "I the Preacher was king over Israel in Jerusalem."
+        },
+        {
+            "reference":  "Ecclesiastes 1:13",
+             "verseNumber":  13,
+             "scripture":  "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail has God given to the sons of man to be exercised therewith."
+        },
+        {
+            "reference":  "Ecclesiastes 1:14",
+             "verseNumber":  14,
+             "scripture":  "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
+        },
+        {
+            "reference":  "Ecclesiastes 1:15",
+             "verseNumber":  15,
+             "scripture":  "That which is crooked cannot be made straight: and that which is lacking cannot be numbered."
+        },
+        {
+            "reference":  "Ecclesiastes 1:16",
+             "verseNumber":  16,
+             "scripture":  "I communed with mine own heart, saying, Lo, I am come to great estate, and have got more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
+        },
+        {
+            "reference":  "Ecclesiastes 1:17",
+             "verseNumber":  17,
+             "scripture":  "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."
+        },
+        {
+            "reference":  "Ecclesiastes 1:18",
+             "verseNumber":  18,
+             "scripture":  "For in much wisdom is much grief: and he that increases knowledge increases sorrow."
+        }
+    ]
+}
