@@ -1,1 +1,150 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 17, "verses": [{"reference": "Genesis 17:1", "verseNumber": 1, "scripture": "And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be you perfect."},{"reference": "Genesis 17:2", "verseNumber": 2, "scripture": "And I will make my covenant between me and you, and will multiply you exceedingly."},{"reference": "Genesis 17:3", "verseNumber": 3, "scripture": "And Abram fell on his face: and God talked with him, saying,"},{"reference": "Genesis 17:4", "verseNumber": 4, "scripture": "As for me, behold, my covenant is with you, and you shall be a father of many nations."},{"reference": "Genesis 17:5", "verseNumber": 5, "scripture": "Neither shall your name any more be called Abram, but your name shall be Abraham; for a father of many nations have I made you."},{"reference": "Genesis 17:6", "verseNumber": 6, "scripture": "And I will make you exceeding fruitful, and I will make nations of you, and kings shall come out of you."},{"reference": "Genesis 17:7", "verseNumber": 7, "scripture": "And I will establish my covenant between me and you and your seed after you in their generations for an everlasting covenant, to be a God unto you, and to your seed after you."},{"reference": "Genesis 17:8", "verseNumber": 8, "scripture": "And I will give unto you, and to your seed after you, the land wherein you are a stranger, all the land of Canaan, for an everlasting possession; and I will be their God."},{"reference": "Genesis 17:9", "verseNumber": 9, "scripture": "And God said unto Abraham, You shall keep my covenant therefore, you, and your seed after you in their generations."},{"reference": "Genesis 17:10", "verseNumber": 10, "scripture": "This is my covenant, which all of you shall keep, between me and you and your seed after you; Every male child among you shall be circumcised."},{"reference": "Genesis 17:11", "verseNumber": 11, "scripture": "And all of you shall circumcise the flesh of your foreskin; and it shall be a token of the covenant between me and you."},{"reference": "Genesis 17:12", "verseNumber": 12, "scripture": "And he that is eight days old shall be circumcised among you, every male child in your generations, he that is born in the house, or bought with money of any stranger, which is not of your seed."},{"reference": "Genesis 17:13", "verseNumber": 13, "scripture": "He that is born in your house, and he that is bought with your money, must essentially be circumcised: and my covenant shall be in your flesh for an everlasting covenant."},{"reference": "Genesis 17:14", "verseNumber": 14, "scripture": "And the uncircumcised male child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he has broken my covenant."},{"reference": "Genesis 17:15", "verseNumber": 15, "scripture": "And God said unto Abraham, As for Sarai your wife, you shall not call her name Sarai, but Sarah shall her name be."},{"reference": "Genesis 17:16", "verseNumber": 16, "scripture": "And I will bless her, and give you a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her."},{"reference": "Genesis 17:17", "verseNumber": 17, "scripture": "Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?"},{"reference": "Genesis 17:18", "verseNumber": 18, "scripture": "And Abraham said unto God, O that Ishmael might live before you!"},{"reference": "Genesis 17:19", "verseNumber": 19, "scripture": "And God said, Sarah your wife shall bear you a son indeed; and you shall call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him."},{"reference": "Genesis 17:20", "verseNumber": 20, "scripture": "And as for Ishmael, I have heard you: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he brought forth, and I will make him a great nation."},{"reference": "Genesis 17:21", "verseNumber": 21, "scripture": "But my covenant will I establish with Isaac, which Sarah shall bear unto you at this set time in the next year."},{"reference": "Genesis 17:22", "verseNumber": 22, "scripture": "And he left off talking with him, and God went up from Abraham."},{"reference": "Genesis 17:23", "verseNumber": 23, "scripture": "And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham's house; and circumcised the flesh of their foreskin in the very same day, as God had said unto him."},{"reference": "Genesis 17:24", "verseNumber": 24, "scripture": "And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin."},{"reference": "Genesis 17:25", "verseNumber": 25, "scripture": "And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin."},{"reference": "Genesis 17:26", "verseNumber": 26, "scripture": "In the very same day was Abraham circumcised, and Ishmael his son."},{"reference": "Genesis 17:27", "verseNumber": 27, "scripture": "And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Genesis 17:1",
+             "verseNumber":  1,
+             "scripture":  "And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be you perfect."
+        },
+        {
+            "reference":  "Genesis 17:2",
+             "verseNumber":  2,
+             "scripture":  "And I will make my covenant between me and you, and will multiply you exceedingly."
+        },
+        {
+            "reference":  "Genesis 17:3",
+             "verseNumber":  3,
+             "scripture":  "And Abram fell on his face: and God talked with him, saying,"
+        },
+        {
+            "reference":  "Genesis 17:4",
+             "verseNumber":  4,
+             "scripture":  "As for me, behold, my covenant is with you, and you shall be a father of many nations."
+        },
+        {
+            "reference":  "Genesis 17:5",
+             "verseNumber":  5,
+             "scripture":  "Neither shall your name any more be called Abram, but your name shall be Abraham; for a father of many nations have I made you."
+        },
+        {
+            "reference":  "Genesis 17:6",
+             "verseNumber":  6,
+             "scripture":  "And I will make you exceeding fruitful, and I will make nations of you, and kings shall come out of you."
+        },
+        {
+            "reference":  "Genesis 17:7",
+             "verseNumber":  7,
+             "scripture":  "And I will establish my covenant between me and you and your seed after you in their generations for an everlasting covenant, to be a God unto you, and to your seed after you."
+        },
+        {
+            "reference":  "Genesis 17:8",
+             "verseNumber":  8,
+             "scripture":  "And I will give unto you, and to your seed after you, the land wherein you are a stranger, all the land of Canaan, for an everlasting possession; and I will be their God."
+        },
+        {
+            "reference":  "Genesis 17:9",
+             "verseNumber":  9,
+             "scripture":  "And God said unto Abraham, You shall keep my covenant therefore, you, and your seed after you in their generations."
+        },
+        {
+            "reference":  "Genesis 17:10",
+             "verseNumber":  10,
+             "scripture":  "This is my covenant, which all of you shall keep, between me and you and your seed after you; Every male child among you shall be circumcised."
+        },
+        {
+            "reference":  "Genesis 17:11",
+             "verseNumber":  11,
+             "scripture":  "And all of you shall circumcise the flesh of your foreskin; and it shall be a token of the covenant between me and you."
+        },
+        {
+            "reference":  "Genesis 17:12",
+             "verseNumber":  12,
+             "scripture":  "And he that is eight days old shall be circumcised among you, every male child in your generations, he that is born in the house, or bought with money of any stranger, which is not of your seed."
+        },
+        {
+            "reference":  "Genesis 17:13",
+             "verseNumber":  13,
+             "scripture":  "He that is born in your house, and he that is bought with your money, must essentially be circumcised: and my covenant shall be in your flesh for an everlasting covenant."
+        },
+        {
+            "reference":  "Genesis 17:14",
+             "verseNumber":  14,
+             "scripture":  "And the uncircumcised male child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he has broken my covenant."
+        },
+        {
+            "reference":  "Genesis 17:15",
+             "verseNumber":  15,
+             "scripture":  "And God said unto Abraham, As for Sarai your wife, you shall not call her name Sarai, but Sarah shall her name be."
+        },
+        {
+            "reference":  "Genesis 17:16",
+             "verseNumber":  16,
+             "scripture":  "And I will bless her, and give you a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her."
+        },
+        {
+            "reference":  "Genesis 17:17",
+             "verseNumber":  17,
+             "scripture":  "Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?"
+        },
+        {
+            "reference":  "Genesis 17:18",
+             "verseNumber":  18,
+             "scripture":  "And Abraham said unto God, O that Ishmael might live before you!"
+        },
+        {
+            "reference":  "Genesis 17:19",
+             "verseNumber":  19,
+             "scripture":  "And God said, Sarah your wife shall bear you a son indeed; and you shall call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him."
+        },
+        {
+            "reference":  "Genesis 17:20",
+             "verseNumber":  20,
+             "scripture":  "And as for Ishmael, I have heard you: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he brought forth, and I will make him a great nation."
+        },
+        {
+            "reference":  "Genesis 17:21",
+             "verseNumber":  21,
+             "scripture":  "But my covenant will I establish with Isaac, which Sarah shall bear unto you at this set time in the next year."
+        },
+        {
+            "reference":  "Genesis 17:22",
+             "verseNumber":  22,
+             "scripture":  "And he left off talking with him, and God went up from Abraham."
+        },
+        {
+            "reference":  "Genesis 17:23",
+             "verseNumber":  23,
+             "scripture":  "And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham's house; and circumcised the flesh of their foreskin in the very same day, as God had said unto him."
+        },
+        {
+            "reference":  "Genesis 17:24",
+             "verseNumber":  24,
+             "scripture":  "And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin."
+        },
+        {
+            "reference":  "Genesis 17:25",
+             "verseNumber":  25,
+             "scripture":  "And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin."
+        },
+        {
+            "reference":  "Genesis 17:26",
+             "verseNumber":  26,
+             "scripture":  "In the very same day was Abraham circumcised, and Ishmael his son."
+        },
+        {
+            "reference":  "Genesis 17:27",
+             "verseNumber":  27,
+             "scripture":  "And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him."
+        }
+    ]
+}

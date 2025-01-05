@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Nehemiah", "bookAbbreviation": "Neh", "chapterNumber": 2, "verses": [{"reference": "Nehemiah 2:1", "verseNumber": 1, "scripture": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been in time past sad in his presence."},{"reference": "Nehemiah 2:2", "verseNumber": 2, "scripture": "Wherefore the king said unto me, Why is your countenance sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,"},{"reference": "Nehemiah 2:3", "verseNumber": 3, "scripture": "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' sepulchers, lies waste, and the gates thereof are consumed with fire?"},{"reference": "Nehemiah 2:4", "verseNumber": 4, "scripture": "Then the king said unto me, For what do you make request? So I prayed to the God of heaven."},{"reference": "Nehemiah 2:5", "verseNumber": 5, "scripture": "And I said unto the king, If it please the king, and if your servant have found favour in your sight, that you would send me unto Judah, unto the city of my fathers' sepulchers, that I may build it."},{"reference": "Nehemiah 2:6", "verseNumber": 6, "scripture": "And the king said unto me, (the queen also sitting by him,) For how long shall your journey be? and when will you return? So it pleased the king to send me; and I set him a time."},{"reference": "Nehemiah 2:7", "verseNumber": 7, "scripture": "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;"},{"reference": "Nehemiah 2:8", "verseNumber": 8, "scripture": "And a letter unto Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me."},{"reference": "Nehemiah 2:9", "verseNumber": 9, "scripture": "Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me."},{"reference": "Nehemiah 2:10", "verseNumber": 10, "scripture": "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel."},{"reference": "Nehemiah 2:11", "verseNumber": 11, "scripture": "So I came to Jerusalem, and was there three days."},{"reference": "Nehemiah 2:12", "verseNumber": 12, "scripture": "And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon."},{"reference": "Nehemiah 2:13", "verseNumber": 13, "scripture": "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."},{"reference": "Nehemiah 2:14", "verseNumber": 14, "scripture": "Then I went on to the gate of the fountain, and to the king's pool: but there was no place for the beast that was under me to pass."},{"reference": "Nehemiah 2:15", "verseNumber": 15, "scripture": "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned."},{"reference": "Nehemiah 2:16", "verseNumber": 16, "scripture": "And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work."},{"reference": "Nehemiah 2:17", "verseNumber": 17, "scripture": "Then said I unto them, All of you see the distress that we are in, how Jerusalem lies waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach."},{"reference": "Nehemiah 2:18", "verseNumber": 18, "scripture": "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work."},{"reference": "Nehemiah 2:19", "verseNumber": 19, "scripture": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that all of you do? will all of you rebel against the king?"},{"reference": "Nehemiah 2:20", "verseNumber": 20, "scripture": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but all of you have no portion, nor right, nor memorial, in Jerusalem."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Nehemiah",
+     "bookAbbreviation":  "Neh",
+     "chapterNumber":  2,
+     "verses":  [
+        {
+            "reference":  "Nehemiah 2:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been in time past sad in his presence."
+        },
+        {
+            "reference":  "Nehemiah 2:2",
+             "verseNumber":  2,
+             "scripture":  "Wherefore the king said unto me, Why is your countenance sad, seeing you are not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,"
+        },
+        {
+            "reference":  "Nehemiah 2:3",
+             "verseNumber":  3,
+             "scripture":  "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' sepulchers, lies waste, and the gates thereof are consumed with fire?"
+        },
+        {
+            "reference":  "Nehemiah 2:4",
+             "verseNumber":  4,
+             "scripture":  "Then the king said unto me, For what do you make request? So I prayed to the God of heaven."
+        },
+        {
+            "reference":  "Nehemiah 2:5",
+             "verseNumber":  5,
+             "scripture":  "And I said unto the king, If it please the king, and if your servant have found favour in your sight, that you would send me unto Judah, unto the city of my fathers' sepulchers, that I may build it."
+        },
+        {
+            "reference":  "Nehemiah 2:6",
+             "verseNumber":  6,
+             "scripture":  "And the king said unto me, (the queen also sitting by him,) For how long shall your journey be? and when will you return? So it pleased the king to send me; and I set him a time."
+        },
+        {
+            "reference":  "Nehemiah 2:7",
+             "verseNumber":  7,
+             "scripture":  "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;"
+        },
+        {
+            "reference":  "Nehemiah 2:8",
+             "verseNumber":  8,
+             "scripture":  "And a letter unto Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me."
+        },
+        {
+            "reference":  "Nehemiah 2:9",
+             "verseNumber":  9,
+             "scripture":  "Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me."
+        },
+        {
+            "reference":  "Nehemiah 2:10",
+             "verseNumber":  10,
+             "scripture":  "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel."
+        },
+        {
+            "reference":  "Nehemiah 2:11",
+             "verseNumber":  11,
+             "scripture":  "So I came to Jerusalem, and was there three days."
+        },
+        {
+            "reference":  "Nehemiah 2:12",
+             "verseNumber":  12,
+             "scripture":  "And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon."
+        },
+        {
+            "reference":  "Nehemiah 2:13",
+             "verseNumber":  13,
+             "scripture":  "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."
+        },
+        {
+            "reference":  "Nehemiah 2:14",
+             "verseNumber":  14,
+             "scripture":  "Then I went on to the gate of the fountain, and to the king's pool: but there was no place for the beast that was under me to pass."
+        },
+        {
+            "reference":  "Nehemiah 2:15",
+             "verseNumber":  15,
+             "scripture":  "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned."
+        },
+        {
+            "reference":  "Nehemiah 2:16",
+             "verseNumber":  16,
+             "scripture":  "And the rulers knew not where I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work."
+        },
+        {
+            "reference":  "Nehemiah 2:17",
+             "verseNumber":  17,
+             "scripture":  "Then said I unto them, All of you see the distress that we are in, how Jerusalem lies waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach."
+        },
+        {
+            "reference":  "Nehemiah 2:18",
+             "verseNumber":  18,
+             "scripture":  "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work."
+        },
+        {
+            "reference":  "Nehemiah 2:19",
+             "verseNumber":  19,
+             "scripture":  "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that all of you do? will all of you rebel against the king?"
+        },
+        {
+            "reference":  "Nehemiah 2:20",
+             "verseNumber":  20,
+             "scripture":  "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but all of you have no portion, nor right, nor memorial, in Jerusalem."
+        }
+    ]
+}

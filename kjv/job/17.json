@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 17, "verses": [{"reference": "Job 17:1", "verseNumber": 1, "scripture": "My breath is corrupt, my days are extinct, the graves are ready for me."},{"reference": "Job 17:2", "verseNumber": 2, "scripture": "Are there not mockers with me? and does not mine eye continue in their provocation?"},{"reference": "Job 17:3", "verseNumber": 3, "scripture": "Lay down now, put me in a guarantor with you; who is he that will shake hands with me?"},{"reference": "Job 17:4", "verseNumber": 4, "scripture": "For you have hid their heart from understanding: therefore shall you not exalt them."},{"reference": "Job 17:5", "verseNumber": 5, "scripture": "He that speaks flattery to his friends, even the eyes of his children shall fail."},{"reference": "Job 17:6", "verseNumber": 6, "scripture": "He has made me also a byword of the people; and in old times I was as a timbrel."},{"reference": "Job 17:7", "verseNumber": 7, "scripture": "Mine eye also is dim by reason of sorrow, and all my members are as a shadow."},{"reference": "Job 17:8", "verseNumber": 8, "scripture": "Upright men shall be astonished at this, and the innocent shall stir up himself against the hypocrite."},{"reference": "Job 17:9", "verseNumber": 9, "scripture": "The righteous also shall hold on his way, and he that has clean hands shall be stronger and stronger."},{"reference": "Job 17:10", "verseNumber": 10, "scripture": "But as for you all, do all of you return, and come now: for I cannot find one wise man among you."},{"reference": "Job 17:11", "verseNumber": 11, "scripture": "My days are past, my purposes are broken off, even the thoughts of my heart."},{"reference": "Job 17:12", "verseNumber": 12, "scripture": "They change the night into day: the light is short because of darkness."},{"reference": "Job 17:13", "verseNumber": 13, "scripture": "If I wait, the grave is mine house: I have made my bed in the darkness."},{"reference": "Job 17:14", "verseNumber": 14, "scripture": "I have said to corruption, You are my father: to the worm, You are my mother, and my sister."},{"reference": "Job 17:15", "verseNumber": 15, "scripture": "And where is now my hope? as for my hope, who shall see it?"},{"reference": "Job 17:16", "verseNumber": 16, "scripture": "They shall go down to the bars of the pit, when our rest together is in the dust."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Job 17:1",
+             "verseNumber":  1,
+             "scripture":  "My breath is corrupt, my days are extinct, the graves are ready for me."
+        },
+        {
+            "reference":  "Job 17:2",
+             "verseNumber":  2,
+             "scripture":  "Are there not mockers with me? and does not mine eye continue in their provocation?"
+        },
+        {
+            "reference":  "Job 17:3",
+             "verseNumber":  3,
+             "scripture":  "Lay down now, put me in a guarantor with you; who is he that will shake hands with me?"
+        },
+        {
+            "reference":  "Job 17:4",
+             "verseNumber":  4,
+             "scripture":  "For you have hid their heart from understanding: therefore shall you not exalt them."
+        },
+        {
+            "reference":  "Job 17:5",
+             "verseNumber":  5,
+             "scripture":  "He that speaks flattery to his friends, even the eyes of his children shall fail."
+        },
+        {
+            "reference":  "Job 17:6",
+             "verseNumber":  6,
+             "scripture":  "He has made me also a byword of the people; and in old times I was as a timbrel."
+        },
+        {
+            "reference":  "Job 17:7",
+             "verseNumber":  7,
+             "scripture":  "Mine eye also is dim by reason of sorrow, and all my members are as a shadow."
+        },
+        {
+            "reference":  "Job 17:8",
+             "verseNumber":  8,
+             "scripture":  "Upright men shall be astonished at this, and the innocent shall stir up himself against the hypocrite."
+        },
+        {
+            "reference":  "Job 17:9",
+             "verseNumber":  9,
+             "scripture":  "The righteous also shall hold on his way, and he that has clean hands shall be stronger and stronger."
+        },
+        {
+            "reference":  "Job 17:10",
+             "verseNumber":  10,
+             "scripture":  "But as for you all, do all of you return, and come now: for I cannot find one wise man among you."
+        },
+        {
+            "reference":  "Job 17:11",
+             "verseNumber":  11,
+             "scripture":  "My days are past, my purposes are broken off, even the thoughts of my heart."
+        },
+        {
+            "reference":  "Job 17:12",
+             "verseNumber":  12,
+             "scripture":  "They change the night into day: the light is short because of darkness."
+        },
+        {
+            "reference":  "Job 17:13",
+             "verseNumber":  13,
+             "scripture":  "If I wait, the grave is mine house: I have made my bed in the darkness."
+        },
+        {
+            "reference":  "Job 17:14",
+             "verseNumber":  14,
+             "scripture":  "I have said to corruption, You are my father: to the worm, You are my mother, and my sister."
+        },
+        {
+            "reference":  "Job 17:15",
+             "verseNumber":  15,
+             "scripture":  "And where is now my hope? as for my hope, who shall see it?"
+        },
+        {
+            "reference":  "Job 17:16",
+             "verseNumber":  16,
+             "scripture":  "They shall go down to the bars of the pit, when our rest together is in the dust."
+        }
+    ]
+}

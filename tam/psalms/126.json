@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "சங்கீதம்", "bookAbbreviation": "சங்", "chapterNumber": 126, "verses": [{"reference": "சங்கீதம் 126:1", "verseNumber": 1, "scripture": "சீயோனின் சிறையிருப்பைக் கர்த்தர் திருப்பும்போது, சொப்பனம் காண்கிறவர்கள்போல் இருந்தோம்."},{"reference": "சங்கீதம் 126:2", "verseNumber": 2, "scripture": "அப்பொழுது நம்முடைய வாய் நகைப்பினாலும், நம்முடைய நாவு ஆனந்தசத்தத்தினாலும் நிறைந்திருந்தது; அப்பொழுது: கர்த்தர் இவர்களுக்குப் பெரிய காரியங்களைச் செய்தார் என்று புறஜாதிகளுக்குள்ளே சொல்லிக்கொண்டார்கள்."},{"reference": "சங்கீதம் 126:3", "verseNumber": 3, "scripture": "கர்த்தர் நமக்குப் பெரிய காரியங்களைச் செய்தார்; இதினிமித்தம் நாம் மகிழ்ந்திருக்கிறோம்."},{"reference": "சங்கீதம் 126:4", "verseNumber": 4, "scripture": "கர்த்தாவே, தெற்கத்தி வெள்ளங்களைத் திருப்புவதுபோல, எங்கள் சிறையிருப்பைத் திருப்பும்."},{"reference": "சங்கீதம் 126:5", "verseNumber": 5, "scripture": "கண்ணீரோடே விதைக்கிறவர்கள் கெம்பீரத்தோடே அறுப்பார்கள்."},{"reference": "சங்கீதம் 126:6", "verseNumber": 6, "scripture": "அள்ளித்தூவும் விதையைச் சுமக்கிறவன் அழுதுகொண்டு போகிறான்; ஆனாலும் தான் அறுத்த அரிகளைச் சுமந்துகொண்டு கெம்பீரத்தோடே திரும்பிவருவான்."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "சங்கீதம்",
+     "bookAbbreviation":  "சங்",
+     "chapterNumber":  126,
+     "verses":  [
+        {
+            "reference":  "சங்கீதம் 126:1",
+             "verseNumber":  1,
+             "scripture":  "சீயோனின் சிறையிருப்பைக் கர்த்தர் திருப்பும்போது, சொப்பனம் காண்கிறவர்கள்போல் இருந்தோம்."
+        },
+        {
+            "reference":  "சங்கீதம் 126:2",
+             "verseNumber":  2,
+             "scripture":  "அப்பொழுது நம்முடைய வாய் நகைப்பினாலும், நம்முடைய நாவு ஆனந்தசத்தத்தினாலும் நிறைந்திருந்தது; அப்பொழுது: கர்த்தர் இவர்களுக்குப் பெரிய காரியங்களைச் செய்தார் என்று புறஜாதிகளுக்குள்ளே சொல்லிக்கொண்டார்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 126:3",
+             "verseNumber":  3,
+             "scripture":  "கர்த்தர் நமக்குப் பெரிய காரியங்களைச் செய்தார்; இதினிமித்தம் நாம் மகிழ்ந்திருக்கிறோம்."
+        },
+        {
+            "reference":  "சங்கீதம் 126:4",
+             "verseNumber":  4,
+             "scripture":  "கர்த்தாவே, தெற்கத்தி வெள்ளங்களைத் திருப்புவதுபோல, எங்கள் சிறையிருப்பைத் திருப்பும்."
+        },
+        {
+            "reference":  "சங்கீதம் 126:5",
+             "verseNumber":  5,
+             "scripture":  "கண்ணீரோடே விதைக்கிறவர்கள் கெம்பீரத்தோடே அறுப்பார்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 126:6",
+             "verseNumber":  6,
+             "scripture":  "அள்ளித்தூவும் விதையைச் சுமக்கிறவன் அழுதுகொண்டு போகிறான்; ஆனாலும் தான் அறுத்த அரிகளைச் சுமந்துகொண்டு கெம்பீரத்தோடே திரும்பிவருவான்."
+        }
+    ]
+}

@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Deuteronomy", "bookAbbreviation": "Deu", "chapterNumber": 24, "verses": [{"reference": "Deuteronomy 24:1", "verseNumber": 1, "scripture": "When a man has taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he has found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house."},{"reference": "Deuteronomy 24:2", "verseNumber": 2, "scripture": "And when she is departed out of his house, she may go and be another man's wife."},{"reference": "Deuteronomy 24:3", "verseNumber": 3, "scripture": "And if the latter husband hate her, and write her a bill of divorcement, and gives it in her hand, and sends her out of his house; or if the latter husband die, which took her to be his wife;"},{"reference": "Deuteronomy 24:4", "verseNumber": 4, "scripture": "Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the LORD: and you shall not cause the land to sin, which the LORD your God gives you for an inheritance."},{"reference": "Deuteronomy 24:5", "verseNumber": 5, "scripture": "When a man has taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he has taken."},{"reference": "Deuteronomy 24:6", "verseNumber": 6, "scripture": "No man shall take the nether or the upper millstone to pledge: for he takes a man's life to pledge."},{"reference": "Deuteronomy 24:7", "verseNumber": 7, "scripture": "If a man be found stealing any of his brethren of the children of Israel, and makes merchandise of him, or sells him; then that thief shall die; and you shall put evil away from among you."},{"reference": "Deuteronomy 24:8", "verseNumber": 8, "scripture": "Take heed in the plague of leprosy, that you observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so all of you shall observe to do."},{"reference": "Deuteronomy 24:9", "verseNumber": 9, "scripture": "Remember what the LORD your God did unto Miriam by the way, after that all of you were come forth out of Egypt."},{"reference": "Deuteronomy 24:10", "verseNumber": 10, "scripture": "When you do lend your brother any thing, you shall not go into his house to fetch his pledge."},{"reference": "Deuteronomy 24:11", "verseNumber": 11, "scripture": "You shall stand abroad, and the man to whom you do lend shall bring out the pledge abroad unto you."},{"reference": "Deuteronomy 24:12", "verseNumber": 12, "scripture": "And if the man be poor, you shall not sleep with his pledge:"},{"reference": "Deuteronomy 24:13", "verseNumber": 13, "scripture": "In any case you shall deliver him the pledge again when the sun goes down, that he may sleep in his own raiment, and bless you: and it shall be righteousness unto you before the LORD your God."},{"reference": "Deuteronomy 24:14", "verseNumber": 14, "scripture": "You shall not oppress an hired servant that is poor and needy, whether he be of your brethren, or of your strangers that are in your land within your gates:"},{"reference": "Deuteronomy 24:15", "verseNumber": 15, "scripture": "At his day you shall give him his hire, neither shall the sun go down upon it; for he is poor, and sets his heart upon it: lest he cry against you unto the LORD, and it be sin unto you."},{"reference": "Deuteronomy 24:16", "verseNumber": 16, "scripture": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin."},{"reference": "Deuteronomy 24:17", "verseNumber": 17, "scripture": "You shall not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's raiment to pledge:"},{"reference": "Deuteronomy 24:18", "verseNumber": 18, "scripture": "But you shall remember that you were a bondman in Egypt, and the LORD your God redeemed you thence: therefore I command you to do this thing."},{"reference": "Deuteronomy 24:19", "verseNumber": 19, "scripture": "When you cut down yours harvest in your field, and have forgot a sheaf in the field, you shall not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD your God may bless you in all the work of yours hands."},{"reference": "Deuteronomy 24:20", "verseNumber": 20, "scripture": "When you beat yours olive tree, you shall not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow."},{"reference": "Deuteronomy 24:21", "verseNumber": 21, "scripture": "When you gather the grapes of your vineyard, you shall not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow."},{"reference": "Deuteronomy 24:22", "verseNumber": 22, "scripture": "And you shall remember that you were a bondman in the land of Egypt: therefore I command you to do this thing."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Deuteronomy",
+     "bookAbbreviation":  "Deu",
+     "chapterNumber":  24,
+     "verses":  [
+        {
+            "reference":  "Deuteronomy 24:1",
+             "verseNumber":  1,
+             "scripture":  "When a man has taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he has found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house."
+        },
+        {
+            "reference":  "Deuteronomy 24:2",
+             "verseNumber":  2,
+             "scripture":  "And when she is departed out of his house, she may go and be another man's wife."
+        },
+        {
+            "reference":  "Deuteronomy 24:3",
+             "verseNumber":  3,
+             "scripture":  "And if the latter husband hate her, and write her a bill of divorcement, and gives it in her hand, and sends her out of his house; or if the latter husband die, which took her to be his wife;"
+        },
+        {
+            "reference":  "Deuteronomy 24:4",
+             "verseNumber":  4,
+             "scripture":  "Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the LORD: and you shall not cause the land to sin, which the LORD your God gives you for an inheritance."
+        },
+        {
+            "reference":  "Deuteronomy 24:5",
+             "verseNumber":  5,
+             "scripture":  "When a man has taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he has taken."
+        },
+        {
+            "reference":  "Deuteronomy 24:6",
+             "verseNumber":  6,
+             "scripture":  "No man shall take the nether or the upper millstone to pledge: for he takes a man's life to pledge."
+        },
+        {
+            "reference":  "Deuteronomy 24:7",
+             "verseNumber":  7,
+             "scripture":  "If a man be found stealing any of his brethren of the children of Israel, and makes merchandise of him, or sells him; then that thief shall die; and you shall put evil away from among you."
+        },
+        {
+            "reference":  "Deuteronomy 24:8",
+             "verseNumber":  8,
+             "scripture":  "Take heed in the plague of leprosy, that you observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so all of you shall observe to do."
+        },
+        {
+            "reference":  "Deuteronomy 24:9",
+             "verseNumber":  9,
+             "scripture":  "Remember what the LORD your God did unto Miriam by the way, after that all of you were come forth out of Egypt."
+        },
+        {
+            "reference":  "Deuteronomy 24:10",
+             "verseNumber":  10,
+             "scripture":  "When you do lend your brother any thing, you shall not go into his house to fetch his pledge."
+        },
+        {
+            "reference":  "Deuteronomy 24:11",
+             "verseNumber":  11,
+             "scripture":  "You shall stand abroad, and the man to whom you do lend shall bring out the pledge abroad unto you."
+        },
+        {
+            "reference":  "Deuteronomy 24:12",
+             "verseNumber":  12,
+             "scripture":  "And if the man be poor, you shall not sleep with his pledge:"
+        },
+        {
+            "reference":  "Deuteronomy 24:13",
+             "verseNumber":  13,
+             "scripture":  "In any case you shall deliver him the pledge again when the sun goes down, that he may sleep in his own raiment, and bless you: and it shall be righteousness unto you before the LORD your God."
+        },
+        {
+            "reference":  "Deuteronomy 24:14",
+             "verseNumber":  14,
+             "scripture":  "You shall not oppress an hired servant that is poor and needy, whether he be of your brethren, or of your strangers that are in your land within your gates:"
+        },
+        {
+            "reference":  "Deuteronomy 24:15",
+             "verseNumber":  15,
+             "scripture":  "At his day you shall give him his hire, neither shall the sun go down upon it; for he is poor, and sets his heart upon it: lest he cry against you unto the LORD, and it be sin unto you."
+        },
+        {
+            "reference":  "Deuteronomy 24:16",
+             "verseNumber":  16,
+             "scripture":  "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin."
+        },
+        {
+            "reference":  "Deuteronomy 24:17",
+             "verseNumber":  17,
+             "scripture":  "You shall not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's raiment to pledge:"
+        },
+        {
+            "reference":  "Deuteronomy 24:18",
+             "verseNumber":  18,
+             "scripture":  "But you shall remember that you were a bondman in Egypt, and the LORD your God redeemed you thence: therefore I command you to do this thing."
+        },
+        {
+            "reference":  "Deuteronomy 24:19",
+             "verseNumber":  19,
+             "scripture":  "When you cut down yours harvest in your field, and have forgot a sheaf in the field, you shall not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD your God may bless you in all the work of yours hands."
+        },
+        {
+            "reference":  "Deuteronomy 24:20",
+             "verseNumber":  20,
+             "scripture":  "When you beat yours olive tree, you shall not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow."
+        },
+        {
+            "reference":  "Deuteronomy 24:21",
+             "verseNumber":  21,
+             "scripture":  "When you gather the grapes of your vineyard, you shall not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow."
+        },
+        {
+            "reference":  "Deuteronomy 24:22",
+             "verseNumber":  22,
+             "scripture":  "And you shall remember that you were a bondman in the land of Egypt: therefore I command you to do this thing."
+        }
+    ]
+}

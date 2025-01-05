@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Micah", "bookAbbreviation": "Mic", "chapterNumber": 5, "verses": [{"reference": "Micah 5:1", "verseNumber": 1, "scripture": "Now gather yourself in troops, O daughter of troops: he has laid siege against us: they shall strike the judge of Israel with a rod upon the cheek."},{"reference": "Micah 5:2", "verseNumber": 2, "scripture": "But you, Bethlehem Ephratah, though you be little among the thousands of Judah, yet out of you shall he comes forth unto me that is to be ruler in Israel; whose activities forth have been from of old, from everlasting."},{"reference": "Micah 5:3", "verseNumber": 3, "scripture": "Therefore will he give them up, until the time that she which labors has brought forth: then the remnant of his brethren shall return unto the children of Israel."},{"reference": "Micah 5:4", "verseNumber": 4, "scripture": "And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth."},{"reference": "Micah 5:5", "verseNumber": 5, "scripture": "And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men."},{"reference": "Micah 5:6", "verseNumber": 6, "scripture": "And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he comes into our land, and when he treads within our borders."},{"reference": "Micah 5:7", "verseNumber": 7, "scripture": "And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarries not for man, nor waits for the sons of men."},{"reference": "Micah 5:8", "verseNumber": 8, "scripture": "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treads down, and tears in pieces, and none can deliver."},{"reference": "Micah 5:9", "verseNumber": 9, "scripture": "Yours hand shall be lifted up upon yours adversaries, and all yours enemies shall be cut off."},{"reference": "Micah 5:10", "verseNumber": 10, "scripture": "And it shall come to pass in that day, says the LORD, that I will cut off your horses out of the midst of you, and I will destroy your chariots:"},{"reference": "Micah 5:11", "verseNumber": 11, "scripture": "And I will cut off the cities of your land, and throw down all your strong holds:"},{"reference": "Micah 5:12", "verseNumber": 12, "scripture": "And I will cut off witchcrafts out of yours hand; and you shall have no more soothsayers:"},{"reference": "Micah 5:13", "verseNumber": 13, "scripture": "Your graven images also will I cut off, and your standing images out of the midst of you; and you shall no more worship the work of yours hands."},{"reference": "Micah 5:14", "verseNumber": 14, "scripture": "And I will pluck up your groves out of the midst of you: so will I destroy your cities."},{"reference": "Micah 5:15", "verseNumber": 15, "scripture": "And I will execute vengeance in anger and fury upon the heathen, such as they have not heard."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Micah",
+     "bookAbbreviation":  "Mic",
+     "chapterNumber":  5,
+     "verses":  [
+        {
+            "reference":  "Micah 5:1",
+             "verseNumber":  1,
+             "scripture":  "Now gather yourself in troops, O daughter of troops: he has laid siege against us: they shall strike the judge of Israel with a rod upon the cheek."
+        },
+        {
+            "reference":  "Micah 5:2",
+             "verseNumber":  2,
+             "scripture":  "But you, Bethlehem Ephratah, though you be little among the thousands of Judah, yet out of you shall he comes forth unto me that is to be ruler in Israel; whose activities forth have been from of old, from everlasting."
+        },
+        {
+            "reference":  "Micah 5:3",
+             "verseNumber":  3,
+             "scripture":  "Therefore will he give them up, until the time that she which labors has brought forth: then the remnant of his brethren shall return unto the children of Israel."
+        },
+        {
+            "reference":  "Micah 5:4",
+             "verseNumber":  4,
+             "scripture":  "And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth."
+        },
+        {
+            "reference":  "Micah 5:5",
+             "verseNumber":  5,
+             "scripture":  "And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men."
+        },
+        {
+            "reference":  "Micah 5:6",
+             "verseNumber":  6,
+             "scripture":  "And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he comes into our land, and when he treads within our borders."
+        },
+        {
+            "reference":  "Micah 5:7",
+             "verseNumber":  7,
+             "scripture":  "And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarries not for man, nor waits for the sons of men."
+        },
+        {
+            "reference":  "Micah 5:8",
+             "verseNumber":  8,
+             "scripture":  "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treads down, and tears in pieces, and none can deliver."
+        },
+        {
+            "reference":  "Micah 5:9",
+             "verseNumber":  9,
+             "scripture":  "Yours hand shall be lifted up upon yours adversaries, and all yours enemies shall be cut off."
+        },
+        {
+            "reference":  "Micah 5:10",
+             "verseNumber":  10,
+             "scripture":  "And it shall come to pass in that day, says the LORD, that I will cut off your horses out of the midst of you, and I will destroy your chariots:"
+        },
+        {
+            "reference":  "Micah 5:11",
+             "verseNumber":  11,
+             "scripture":  "And I will cut off the cities of your land, and throw down all your strong holds:"
+        },
+        {
+            "reference":  "Micah 5:12",
+             "verseNumber":  12,
+             "scripture":  "And I will cut off witchcrafts out of yours hand; and you shall have no more soothsayers:"
+        },
+        {
+            "reference":  "Micah 5:13",
+             "verseNumber":  13,
+             "scripture":  "Your graven images also will I cut off, and your standing images out of the midst of you; and you shall no more worship the work of yours hands."
+        },
+        {
+            "reference":  "Micah 5:14",
+             "verseNumber":  14,
+             "scripture":  "And I will pluck up your groves out of the midst of you: so will I destroy your cities."
+        },
+        {
+            "reference":  "Micah 5:15",
+             "verseNumber":  15,
+             "scripture":  "And I will execute vengeance in anger and fury upon the heathen, such as they have not heard."
+        }
+    ]
+}

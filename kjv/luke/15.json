@@ -1,1 +1,175 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Luke", "bookAbbreviation": "Luk", "chapterNumber": 15, "verses": [{"reference": "Luke 15:1", "verseNumber": 1, "scripture": "Then drew near unto him all the publicans and sinners in order to hear him."},{"reference": "Luke 15:2", "verseNumber": 2, "scripture": "And the Pharisees and scribes murmured, saying, This man receives sinners, and eats with them."},{"reference": "Luke 15:3", "verseNumber": 3, "scripture": "And he spoke this parable unto them, saying,"},{"reference": "Luke 15:4", "verseNumber": 4, "scripture": "What man of you, having an hundred sheep, if he lose one of them, does not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"},{"reference": "Luke 15:5", "verseNumber": 5, "scripture": "And when he has found it, he lays it on his shoulders, rejoicing."},{"reference": "Luke 15:6", "verseNumber": 6, "scripture": "And when he comes home, he calls together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."},{"reference": "Luke 15:7", "verseNumber": 7, "scripture": "I say unto you, that likewise joy shall be in heaven over one sinner that repents, more than over ninety and nine just persons, which need no repentance."},{"reference": "Luke 15:8", "verseNumber": 8, "scripture": "Either what woman having ten pieces of silver, if she lose one piece, does not light a candle, and sweep the house, and seek diligently till she find it?"},{"reference": "Luke 15:9", "verseNumber": 9, "scripture": "And when she has found it, she calls her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."},{"reference": "Luke 15:10", "verseNumber": 10, "scripture": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repents."},{"reference": "Luke 15:11", "verseNumber": 11, "scripture": "And he said, A certain man had two sons:"},{"reference": "Luke 15:12", "verseNumber": 12, "scripture": "And the younger of them said to his father, Father, give me the portion of goods that falls to me. And he divided unto them his living."},{"reference": "Luke 15:13", "verseNumber": 13, "scripture": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."},{"reference": "Luke 15:14", "verseNumber": 14, "scripture": "And when he had spent all, there arose a mighty famine in that land; and he began to be in lack."},{"reference": "Luke 15:15", "verseNumber": 15, "scripture": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."},{"reference": "Luke 15:16", "verseNumber": 16, "scripture": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."},{"reference": "Luke 15:17", "verseNumber": 17, "scripture": "And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!"},{"reference": "Luke 15:18", "verseNumber": 18, "scripture": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before you,"},{"reference": "Luke 15:19", "verseNumber": 19, "scripture": "And am no more worthy to be called your son: make me as one of your hired servants."},{"reference": "Luke 15:20", "verseNumber": 20, "scripture": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."},{"reference": "Luke 15:21", "verseNumber": 21, "scripture": "And the son said unto him, Father, I have sinned against heaven, and in your sight, and am no more worthy to be called your son."},{"reference": "Luke 15:22", "verseNumber": 22, "scripture": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"},{"reference": "Luke 15:23", "verseNumber": 23, "scripture": "And bring here the fatted calf, and kill it; and let us eat, and be merry:"},{"reference": "Luke 15:24", "verseNumber": 24, "scripture": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."},{"reference": "Luke 15:25", "verseNumber": 25, "scripture": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing."},{"reference": "Luke 15:26", "verseNumber": 26, "scripture": "And he called one of the servants, and asked what these things meant."},{"reference": "Luke 15:27", "verseNumber": 27, "scripture": "And he said unto him, Your brother has come; and your father has killed the fatted calf, because he has received him safe and sound."},{"reference": "Luke 15:28", "verseNumber": 28, "scripture": "And he was angry, and would not go in: therefore came his father out, and implored him."},{"reference": "Luke 15:29", "verseNumber": 29, "scripture": "And he answering said to his father, Lo, these many years do I serve you, neither transgressed I at any time your commandment: and yet you never gave me a kid, that I might make merry with my friends:"},{"reference": "Luke 15:30", "verseNumber": 30, "scripture": "But as soon as this your son was come, which has devoured your living with harlots, you have killed for him the fatted calf."},{"reference": "Luke 15:31", "verseNumber": 31, "scripture": "And he said unto him, Son, you are ever with me, and all that I have is yours."},{"reference": "Luke 15:32", "verseNumber": 32, "scripture": "It was meet that we should make merry, and be glad: for this your brother was dead, and is alive again; and was lost, and is found."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Luke",
+     "bookAbbreviation":  "Luk",
+     "chapterNumber":  15,
+     "verses":  [
+        {
+            "reference":  "Luke 15:1",
+             "verseNumber":  1,
+             "scripture":  "Then drew near unto him all the publicans and sinners in order to hear him."
+        },
+        {
+            "reference":  "Luke 15:2",
+             "verseNumber":  2,
+             "scripture":  "And the Pharisees and scribes murmured, saying, This man receives sinners, and eats with them."
+        },
+        {
+            "reference":  "Luke 15:3",
+             "verseNumber":  3,
+             "scripture":  "And he spoke this parable unto them, saying,"
+        },
+        {
+            "reference":  "Luke 15:4",
+             "verseNumber":  4,
+             "scripture":  "What man of you, having an hundred sheep, if he lose one of them, does not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+        },
+        {
+            "reference":  "Luke 15:5",
+             "verseNumber":  5,
+             "scripture":  "And when he has found it, he lays it on his shoulders, rejoicing."
+        },
+        {
+            "reference":  "Luke 15:6",
+             "verseNumber":  6,
+             "scripture":  "And when he comes home, he calls together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."
+        },
+        {
+            "reference":  "Luke 15:7",
+             "verseNumber":  7,
+             "scripture":  "I say unto you, that likewise joy shall be in heaven over one sinner that repents, more than over ninety and nine just persons, which need no repentance."
+        },
+        {
+            "reference":  "Luke 15:8",
+             "verseNumber":  8,
+             "scripture":  "Either what woman having ten pieces of silver, if she lose one piece, does not light a candle, and sweep the house, and seek diligently till she find it?"
+        },
+        {
+            "reference":  "Luke 15:9",
+             "verseNumber":  9,
+             "scripture":  "And when she has found it, she calls her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
+        },
+        {
+            "reference":  "Luke 15:10",
+             "verseNumber":  10,
+             "scripture":  "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repents."
+        },
+        {
+            "reference":  "Luke 15:11",
+             "verseNumber":  11,
+             "scripture":  "And he said, A certain man had two sons:"
+        },
+        {
+            "reference":  "Luke 15:12",
+             "verseNumber":  12,
+             "scripture":  "And the younger of them said to his father, Father, give me the portion of goods that falls to me. And he divided unto them his living."
+        },
+        {
+            "reference":  "Luke 15:13",
+             "verseNumber":  13,
+             "scripture":  "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
+        },
+        {
+            "reference":  "Luke 15:14",
+             "verseNumber":  14,
+             "scripture":  "And when he had spent all, there arose a mighty famine in that land; and he began to be in lack."
+        },
+        {
+            "reference":  "Luke 15:15",
+             "verseNumber":  15,
+             "scripture":  "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+        },
+        {
+            "reference":  "Luke 15:16",
+             "verseNumber":  16,
+             "scripture":  "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+        },
+        {
+            "reference":  "Luke 15:17",
+             "verseNumber":  17,
+             "scripture":  "And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!"
+        },
+        {
+            "reference":  "Luke 15:18",
+             "verseNumber":  18,
+             "scripture":  "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before you,"
+        },
+        {
+            "reference":  "Luke 15:19",
+             "verseNumber":  19,
+             "scripture":  "And am no more worthy to be called your son: make me as one of your hired servants."
+        },
+        {
+            "reference":  "Luke 15:20",
+             "verseNumber":  20,
+             "scripture":  "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+        },
+        {
+            "reference":  "Luke 15:21",
+             "verseNumber":  21,
+             "scripture":  "And the son said unto him, Father, I have sinned against heaven, and in your sight, and am no more worthy to be called your son."
+        },
+        {
+            "reference":  "Luke 15:22",
+             "verseNumber":  22,
+             "scripture":  "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
+        },
+        {
+            "reference":  "Luke 15:23",
+             "verseNumber":  23,
+             "scripture":  "And bring here the fatted calf, and kill it; and let us eat, and be merry:"
+        },
+        {
+            "reference":  "Luke 15:24",
+             "verseNumber":  24,
+             "scripture":  "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+        },
+        {
+            "reference":  "Luke 15:25",
+             "verseNumber":  25,
+             "scripture":  "Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing."
+        },
+        {
+            "reference":  "Luke 15:26",
+             "verseNumber":  26,
+             "scripture":  "And he called one of the servants, and asked what these things meant."
+        },
+        {
+            "reference":  "Luke 15:27",
+             "verseNumber":  27,
+             "scripture":  "And he said unto him, Your brother has come; and your father has killed the fatted calf, because he has received him safe and sound."
+        },
+        {
+            "reference":  "Luke 15:28",
+             "verseNumber":  28,
+             "scripture":  "And he was angry, and would not go in: therefore came his father out, and implored him."
+        },
+        {
+            "reference":  "Luke 15:29",
+             "verseNumber":  29,
+             "scripture":  "And he answering said to his father, Lo, these many years do I serve you, neither transgressed I at any time your commandment: and yet you never gave me a kid, that I might make merry with my friends:"
+        },
+        {
+            "reference":  "Luke 15:30",
+             "verseNumber":  30,
+             "scripture":  "But as soon as this your son was come, which has devoured your living with harlots, you have killed for him the fatted calf."
+        },
+        {
+            "reference":  "Luke 15:31",
+             "verseNumber":  31,
+             "scripture":  "And he said unto him, Son, you are ever with me, and all that I have is yours."
+        },
+        {
+            "reference":  "Luke 15:32",
+             "verseNumber":  32,
+             "scripture":  "It was meet that we should make merry, and be glad: for this your brother was dead, and is alive again; and was lost, and is found."
+        }
+    ]
+}

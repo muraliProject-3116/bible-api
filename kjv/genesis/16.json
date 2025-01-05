@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 16, "verses": [{"reference": "Genesis 16:1", "verseNumber": 1, "scripture": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar."},{"reference": "Genesis 16:2", "verseNumber": 2, "scripture": "And Sarai said unto Abram, Behold now, the LORD has restrained me from bearing: I pray you, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai."},{"reference": "Genesis 16:3", "verseNumber": 3, "scripture": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife."},{"reference": "Genesis 16:4", "verseNumber": 4, "scripture": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes."},{"reference": "Genesis 16:5", "verseNumber": 5, "scripture": "And Sarai said unto Abram, My wrong be upon you: I have given my maid into your bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and you."},{"reference": "Genesis 16:6", "verseNumber": 6, "scripture": "But Abram said unto Sarai, Behold, your maid is in yours hand; do to her as it pleases you. And when Sarai dealt hardly with her, she fled from her face."},{"reference": "Genesis 16:7", "verseNumber": 7, "scripture": "And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur."},{"reference": "Genesis 16:8", "verseNumber": 8, "scripture": "And he said, Hagar, Sarai's maid, whence came you? and where will you go? And she said, I flee from the face of my mistress Sarai."},{"reference": "Genesis 16:9", "verseNumber": 9, "scripture": "And the angel of the LORD said unto her, Return to your mistress, and submit yourself under her hands."},{"reference": "Genesis 16:10", "verseNumber": 10, "scripture": "And the angel of the LORD said unto her, I will multiply your seed exceedingly, that it shall not be numbered for multitude."},{"reference": "Genesis 16:11", "verseNumber": 11, "scripture": "And the angel of the LORD said unto her, Behold, you are with child and shall bear a son, and shall call his name Ishmael; because the LORD has heard your affliction."},{"reference": "Genesis 16:12", "verseNumber": 12, "scripture": "And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."},{"reference": "Genesis 16:13", "verseNumber": 13, "scripture": "And she called the name of the LORD that spoke unto her, You God see me: for she said, Have I also here looked after him that sees me?"},{"reference": "Genesis 16:14", "verseNumber": 14, "scripture": "Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered."},{"reference": "Genesis 16:15", "verseNumber": 15, "scripture": "And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael."},{"reference": "Genesis 16:16", "verseNumber": 16, "scripture": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  16,
+     "verses":  [
+        {
+            "reference":  "Genesis 16:1",
+             "verseNumber":  1,
+             "scripture":  "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar."
+        },
+        {
+            "reference":  "Genesis 16:2",
+             "verseNumber":  2,
+             "scripture":  "And Sarai said unto Abram, Behold now, the LORD has restrained me from bearing: I pray you, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai."
+        },
+        {
+            "reference":  "Genesis 16:3",
+             "verseNumber":  3,
+             "scripture":  "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife."
+        },
+        {
+            "reference":  "Genesis 16:4",
+             "verseNumber":  4,
+             "scripture":  "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes."
+        },
+        {
+            "reference":  "Genesis 16:5",
+             "verseNumber":  5,
+             "scripture":  "And Sarai said unto Abram, My wrong be upon you: I have given my maid into your bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and you."
+        },
+        {
+            "reference":  "Genesis 16:6",
+             "verseNumber":  6,
+             "scripture":  "But Abram said unto Sarai, Behold, your maid is in yours hand; do to her as it pleases you. And when Sarai dealt hardly with her, she fled from her face."
+        },
+        {
+            "reference":  "Genesis 16:7",
+             "verseNumber":  7,
+             "scripture":  "And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur."
+        },
+        {
+            "reference":  "Genesis 16:8",
+             "verseNumber":  8,
+             "scripture":  "And he said, Hagar, Sarai's maid, whence came you? and where will you go? And she said, I flee from the face of my mistress Sarai."
+        },
+        {
+            "reference":  "Genesis 16:9",
+             "verseNumber":  9,
+             "scripture":  "And the angel of the LORD said unto her, Return to your mistress, and submit yourself under her hands."
+        },
+        {
+            "reference":  "Genesis 16:10",
+             "verseNumber":  10,
+             "scripture":  "And the angel of the LORD said unto her, I will multiply your seed exceedingly, that it shall not be numbered for multitude."
+        },
+        {
+            "reference":  "Genesis 16:11",
+             "verseNumber":  11,
+             "scripture":  "And the angel of the LORD said unto her, Behold, you are with child and shall bear a son, and shall call his name Ishmael; because the LORD has heard your affliction."
+        },
+        {
+            "reference":  "Genesis 16:12",
+             "verseNumber":  12,
+             "scripture":  "And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."
+        },
+        {
+            "reference":  "Genesis 16:13",
+             "verseNumber":  13,
+             "scripture":  "And she called the name of the LORD that spoke unto her, You God see me: for she said, Have I also here looked after him that sees me?"
+        },
+        {
+            "reference":  "Genesis 16:14",
+             "verseNumber":  14,
+             "scripture":  "Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered."
+        },
+        {
+            "reference":  "Genesis 16:15",
+             "verseNumber":  15,
+             "scripture":  "And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael."
+        },
+        {
+            "reference":  "Genesis 16:16",
+             "verseNumber":  16,
+             "scripture":  "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram."
+        }
+    ]
+}

@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 64, "verses": [{"reference": "Psalm 64:1", "verseNumber": 1, "scripture": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy."},{"reference": "Psalm 64:2", "verseNumber": 2, "scripture": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:"},{"reference": "Psalm 64:3", "verseNumber": 3, "scripture": "Who sharpen their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"},{"reference": "Psalm 64:4", "verseNumber": 4, "scripture": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not."},{"reference": "Psalm 64:5", "verseNumber": 5, "scripture": "They encourage themselves in an evil matter: they commune of laying snares privately; they say, Who shall see them?"},{"reference": "Psalm 64:6", "verseNumber": 6, "scripture": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep."},{"reference": "Psalm 64:7", "verseNumber": 7, "scripture": "But God shall shoot at them with an arrow; suddenly shall they be wounded."},{"reference": "Psalm 64:8", "verseNumber": 8, "scripture": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away."},{"reference": "Psalm 64:9", "verseNumber": 9, "scripture": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing."},{"reference": "Psalm 64:10", "verseNumber": 10, "scripture": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  64,
+     "verses":  [
+        {
+            "reference":  "Psalm 64:1",
+             "verseNumber":  1,
+             "scripture":  "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy."
+        },
+        {
+            "reference":  "Psalm 64:2",
+             "verseNumber":  2,
+             "scripture":  "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:"
+        },
+        {
+            "reference":  "Psalm 64:3",
+             "verseNumber":  3,
+             "scripture":  "Who sharpen their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"
+        },
+        {
+            "reference":  "Psalm 64:4",
+             "verseNumber":  4,
+             "scripture":  "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not."
+        },
+        {
+            "reference":  "Psalm 64:5",
+             "verseNumber":  5,
+             "scripture":  "They encourage themselves in an evil matter: they commune of laying snares privately; they say, Who shall see them?"
+        },
+        {
+            "reference":  "Psalm 64:6",
+             "verseNumber":  6,
+             "scripture":  "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep."
+        },
+        {
+            "reference":  "Psalm 64:7",
+             "verseNumber":  7,
+             "scripture":  "But God shall shoot at them with an arrow; suddenly shall they be wounded."
+        },
+        {
+            "reference":  "Psalm 64:8",
+             "verseNumber":  8,
+             "scripture":  "So they shall make their own tongue to fall upon themselves: all that see them shall flee away."
+        },
+        {
+            "reference":  "Psalm 64:9",
+             "verseNumber":  9,
+             "scripture":  "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing."
+        },
+        {
+            "reference":  "Psalm 64:10",
+             "verseNumber":  10,
+             "scripture":  "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory."
+        }
+    ]
+}

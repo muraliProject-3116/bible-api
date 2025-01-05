@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 21, "verses": [{"reference": "Isaiah 21:1", "verseNumber": 1, "scripture": "The burden of the desert of the sea. As whirlwinds in the south pass through; so it comes from the desert, from a terrible land."},{"reference": "Isaiah 21:2", "verseNumber": 2, "scripture": "A grievous vision is declared unto me; the treacherous dealer deals treacherously, and the spoiler spoils. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease."},{"reference": "Isaiah 21:3", "verseNumber": 3, "scripture": "Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that labors: I was bowed down at the hearing of it; I was dismayed at the seeing of it."},{"reference": "Isaiah 21:4", "verseNumber": 4, "scripture": "My heart panted, fearfulness affrighted me: the night of my pleasure has he turned into fear unto me."},{"reference": "Isaiah 21:5", "verseNumber": 5, "scripture": "Prepare the table, watch in the watchtower, eat, drink: arise, all of you princes, and anoint the shield."},{"reference": "Isaiah 21:6", "verseNumber": 6, "scripture": "For thus has the LORD said unto me, Go, set a watchman, let him declare what he sees."},{"reference": "Isaiah 21:7", "verseNumber": 7, "scripture": "And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed:"},{"reference": "Isaiah 21:8", "verseNumber": 8, "scripture": "And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:"},{"reference": "Isaiah 21:9", "verseNumber": 9, "scripture": "And, behold, here comes a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he has broken unto the ground."},{"reference": "Isaiah 21:10", "verseNumber": 10, "scripture": "O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you."},{"reference": "Isaiah 21:11", "verseNumber": 11, "scripture": "The burden of Dumah. He calls to me out of Seir, Watchman, what of the night? Watchman, what of the night?"},{"reference": "Isaiah 21:12", "verseNumber": 12, "scripture": "The watchman said, The morning comes, and also the night: if all of you will enquire, enquire all of you: return, come."},{"reference": "Isaiah 21:13", "verseNumber": 13, "scripture": "The burden upon Arabia. In the forest in Arabia shall all of you lodge, O all of you travelling companies of Dedanim."},{"reference": "Isaiah 21:14", "verseNumber": 14, "scripture": "The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled."},{"reference": "Isaiah 21:15", "verseNumber": 15, "scripture": "For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war."},{"reference": "Isaiah 21:16", "verseNumber": 16, "scripture": "For thus has the LORD said unto me, Within a year, according to the years of a worker, and all the glory of Kedar shall fail:"},{"reference": "Isaiah 21:17", "verseNumber": 17, "scripture": "And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel has spoken it."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  21,
+     "verses":  [
+        {
+            "reference":  "Isaiah 21:1",
+             "verseNumber":  1,
+             "scripture":  "The burden of the desert of the sea. As whirlwinds in the south pass through; so it comes from the desert, from a terrible land."
+        },
+        {
+            "reference":  "Isaiah 21:2",
+             "verseNumber":  2,
+             "scripture":  "A grievous vision is declared unto me; the treacherous dealer deals treacherously, and the spoiler spoils. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease."
+        },
+        {
+            "reference":  "Isaiah 21:3",
+             "verseNumber":  3,
+             "scripture":  "Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that labors: I was bowed down at the hearing of it; I was dismayed at the seeing of it."
+        },
+        {
+            "reference":  "Isaiah 21:4",
+             "verseNumber":  4,
+             "scripture":  "My heart panted, fearfulness affrighted me: the night of my pleasure has he turned into fear unto me."
+        },
+        {
+            "reference":  "Isaiah 21:5",
+             "verseNumber":  5,
+             "scripture":  "Prepare the table, watch in the watchtower, eat, drink: arise, all of you princes, and anoint the shield."
+        },
+        {
+            "reference":  "Isaiah 21:6",
+             "verseNumber":  6,
+             "scripture":  "For thus has the LORD said unto me, Go, set a watchman, let him declare what he sees."
+        },
+        {
+            "reference":  "Isaiah 21:7",
+             "verseNumber":  7,
+             "scripture":  "And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed:"
+        },
+        {
+            "reference":  "Isaiah 21:8",
+             "verseNumber":  8,
+             "scripture":  "And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:"
+        },
+        {
+            "reference":  "Isaiah 21:9",
+             "verseNumber":  9,
+             "scripture":  "And, behold, here comes a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he has broken unto the ground."
+        },
+        {
+            "reference":  "Isaiah 21:10",
+             "verseNumber":  10,
+             "scripture":  "O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you."
+        },
+        {
+            "reference":  "Isaiah 21:11",
+             "verseNumber":  11,
+             "scripture":  "The burden of Dumah. He calls to me out of Seir, Watchman, what of the night? Watchman, what of the night?"
+        },
+        {
+            "reference":  "Isaiah 21:12",
+             "verseNumber":  12,
+             "scripture":  "The watchman said, The morning comes, and also the night: if all of you will enquire, enquire all of you: return, come."
+        },
+        {
+            "reference":  "Isaiah 21:13",
+             "verseNumber":  13,
+             "scripture":  "The burden upon Arabia. In the forest in Arabia shall all of you lodge, O all of you travelling companies of Dedanim."
+        },
+        {
+            "reference":  "Isaiah 21:14",
+             "verseNumber":  14,
+             "scripture":  "The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled."
+        },
+        {
+            "reference":  "Isaiah 21:15",
+             "verseNumber":  15,
+             "scripture":  "For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war."
+        },
+        {
+            "reference":  "Isaiah 21:16",
+             "verseNumber":  16,
+             "scripture":  "For thus has the LORD said unto me, Within a year, according to the years of a worker, and all the glory of Kedar shall fail:"
+        },
+        {
+            "reference":  "Isaiah 21:17",
+             "verseNumber":  17,
+             "scripture":  "And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel has spoken it."
+        }
+    ]
+}

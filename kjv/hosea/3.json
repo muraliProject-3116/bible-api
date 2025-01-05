@@ -1,1 +1,40 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Hosea", "bookAbbreviation": "Hos", "chapterNumber": 3, "verses": [{"reference": "Hosea 3:1", "verseNumber": 1, "scripture": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine."},{"reference": "Hosea 3:2", "verseNumber": 2, "scripture": "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:"},{"reference": "Hosea 3:3", "verseNumber": 3, "scripture": "And I said unto her, You shall abide for me many days; you shall not play the harlot, and you shall not be for another man: so will I also be for you."},{"reference": "Hosea 3:4", "verseNumber": 4, "scripture": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:"},{"reference": "Hosea 3:5", "verseNumber": 5, "scripture": "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Hosea",
+     "bookAbbreviation":  "Hos",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "Hosea 3:1",
+             "verseNumber":  1,
+             "scripture":  "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine."
+        },
+        {
+            "reference":  "Hosea 3:2",
+             "verseNumber":  2,
+             "scripture":  "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:"
+        },
+        {
+            "reference":  "Hosea 3:3",
+             "verseNumber":  3,
+             "scripture":  "And I said unto her, You shall abide for me many days; you shall not play the harlot, and you shall not be for another man: so will I also be for you."
+        },
+        {
+            "reference":  "Hosea 3:4",
+             "verseNumber":  4,
+             "scripture":  "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:"
+        },
+        {
+            "reference":  "Hosea 3:5",
+             "verseNumber":  5,
+             "scripture":  "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days."
+        }
+    ]
+}

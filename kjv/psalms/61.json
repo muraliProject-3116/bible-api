@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 61, "verses": [{"reference": "Psalm 61:1", "verseNumber": 1, "scripture": "Hear my cry, O God; attend unto my prayer."},{"reference": "Psalm 61:2", "verseNumber": 2, "scripture": "From the end of the earth will I cry unto you, when my heart is overwhelmed: lead me to the rock that is higher than I."},{"reference": "Psalm 61:3", "verseNumber": 3, "scripture": "For you have been a shelter for me, and a strong tower from the enemy."},{"reference": "Psalm 61:4", "verseNumber": 4, "scripture": "I will abide in your tabernacle for ever: I will trust in the covert of your wings. Selah."},{"reference": "Psalm 61:5", "verseNumber": 5, "scripture": "For you, O God, have heard my vows: you have given me the heritage of those that fear your name."},{"reference": "Psalm 61:6", "verseNumber": 6, "scripture": "You will prolong the king's life: and his years as many generations."},{"reference": "Psalm 61:7", "verseNumber": 7, "scripture": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."},{"reference": "Psalm 61:8", "verseNumber": 8, "scripture": "So will I sing praise unto your name for ever, that I may daily perform my vows."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  61,
+     "verses":  [
+        {
+            "reference":  "Psalm 61:1",
+             "verseNumber":  1,
+             "scripture":  "Hear my cry, O God; attend unto my prayer."
+        },
+        {
+            "reference":  "Psalm 61:2",
+             "verseNumber":  2,
+             "scripture":  "From the end of the earth will I cry unto you, when my heart is overwhelmed: lead me to the rock that is higher than I."
+        },
+        {
+            "reference":  "Psalm 61:3",
+             "verseNumber":  3,
+             "scripture":  "For you have been a shelter for me, and a strong tower from the enemy."
+        },
+        {
+            "reference":  "Psalm 61:4",
+             "verseNumber":  4,
+             "scripture":  "I will abide in your tabernacle for ever: I will trust in the covert of your wings. Selah."
+        },
+        {
+            "reference":  "Psalm 61:5",
+             "verseNumber":  5,
+             "scripture":  "For you, O God, have heard my vows: you have given me the heritage of those that fear your name."
+        },
+        {
+            "reference":  "Psalm 61:6",
+             "verseNumber":  6,
+             "scripture":  "You will prolong the king's life: and his years as many generations."
+        },
+        {
+            "reference":  "Psalm 61:7",
+             "verseNumber":  7,
+             "scripture":  "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
+        },
+        {
+            "reference":  "Psalm 61:8",
+             "verseNumber":  8,
+             "scripture":  "So will I sing praise unto your name for ever, that I may daily perform my vows."
+        }
+    ]
+}

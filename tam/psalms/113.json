@@ -1,1 +1,60 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "சங்கீதம்", "bookAbbreviation": "சங்", "chapterNumber": 113, "verses": [{"reference": "சங்கீதம் 113:1", "verseNumber": 1, "scripture": "அல்லேலூயா, கர்த்தருடைய ஊழியக்காரரே, துதியுங்கள்; கர்த்தருடைய நாமத்தைத் துதியுங்கள்."},{"reference": "சங்கீதம் 113:2", "verseNumber": 2, "scripture": "இதுமுதல் என்றென்றைக்கும் கர்த்தருடைய நாமம் ஸ்தோத்திரிக்கப்படக்கடவது."},{"reference": "சங்கீதம் 113:3", "verseNumber": 3, "scripture": "சூரியன் உதிக்கும் திசைதொடங்கி அது அஸ்தமிக்கும் திசைமட்டும் கர்த்தருடைய நாமம் துதிக்கப்படுவதாக."},{"reference": "சங்கீதம் 113:4", "verseNumber": 4, "scripture": "கர்த்தர் எல்லா ஜாதிகள்மேலும் உயர்ந்தவர்; அவருடைய மகிமை வானங்களுக்கு மேலானது."},{"reference": "சங்கீதம் 113:5", "verseNumber": 5, "scripture": "உன்னதங்களில் வாசம்பண்ணுகிற நம்முடைய தேவனாகிய கர்த்தருக்குச் சமானமானவர் யார்?"},{"reference": "சங்கீதம் 113:6", "verseNumber": 6, "scripture": "அவர் வானத்திலும் பூமியிலுமுள்ளவைகளைப் பார்க்கும்படி தம்மைத் தாழ்த்துகிறார்."},{"reference": "சங்கீதம் 113:7", "verseNumber": 7, "scripture": "அவர் சிறியவனைப் புழுதியிலிருந்து தூக்கிவிடுகிறார்; எளியவனைக் குப்பையிலிருந்து உயர்த்துகிறார்."},{"reference": "சங்கீதம் 113:8", "verseNumber": 8, "scripture": "அவனைப் பிரபுக்களோடும், தமது ஜனத்தின் அதிபதிகளோடும் உட்காரப்பண்ணுகிறார்."},{"reference": "சங்கீதம் 113:9", "verseNumber": 9, "scripture": "மலடியைச் சந்தோஷமான பிள்ளைத்தாய்ச்சியாக்கி, வீட்டிலே குடியிருக்கப்பண்ணுகிறார். அல்லேலூயா."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "சங்கீதம்",
+     "bookAbbreviation":  "சங்",
+     "chapterNumber":  113,
+     "verses":  [
+        {
+            "reference":  "சங்கீதம் 113:1",
+             "verseNumber":  1,
+             "scripture":  "அல்லேலூயா, கர்த்தருடைய ஊழியக்காரரே, துதியுங்கள்; கர்த்தருடைய நாமத்தைத் துதியுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 113:2",
+             "verseNumber":  2,
+             "scripture":  "இதுமுதல் என்றென்றைக்கும் கர்த்தருடைய நாமம் ஸ்தோத்திரிக்கப்படக்கடவது."
+        },
+        {
+            "reference":  "சங்கீதம் 113:3",
+             "verseNumber":  3,
+             "scripture":  "சூரியன் உதிக்கும் திசைதொடங்கி அது அஸ்தமிக்கும் திசைமட்டும் கர்த்தருடைய நாமம் துதிக்கப்படுவதாக."
+        },
+        {
+            "reference":  "சங்கீதம் 113:4",
+             "verseNumber":  4,
+             "scripture":  "கர்த்தர் எல்லா ஜாதிகள்மேலும் உயர்ந்தவர்; அவருடைய மகிமை வானங்களுக்கு மேலானது."
+        },
+        {
+            "reference":  "சங்கீதம் 113:5",
+             "verseNumber":  5,
+             "scripture":  "உன்னதங்களில் வாசம்பண்ணுகிற நம்முடைய தேவனாகிய கர்த்தருக்குச் சமானமானவர் யார்?"
+        },
+        {
+            "reference":  "சங்கீதம் 113:6",
+             "verseNumber":  6,
+             "scripture":  "அவர் வானத்திலும் பூமியிலுமுள்ளவைகளைப் பார்க்கும்படி தம்மைத் தாழ்த்துகிறார்."
+        },
+        {
+            "reference":  "சங்கீதம் 113:7",
+             "verseNumber":  7,
+             "scripture":  "அவர் சிறியவனைப் புழுதியிலிருந்து தூக்கிவிடுகிறார்; எளியவனைக் குப்பையிலிருந்து உயர்த்துகிறார்."
+        },
+        {
+            "reference":  "சங்கீதம் 113:8",
+             "verseNumber":  8,
+             "scripture":  "அவனைப் பிரபுக்களோடும், தமது ஜனத்தின் அதிபதிகளோடும் உட்காரப்பண்ணுகிறார்."
+        },
+        {
+            "reference":  "சங்கீதம் 113:9",
+             "verseNumber":  9,
+             "scripture":  "மலடியைச் சந்தோஷமான பிள்ளைத்தாய்ச்சியாக்கி, வீட்டிலே குடியிருக்கப்பண்ணுகிறார். அல்லேலூயா."
+        }
+    ]
+}

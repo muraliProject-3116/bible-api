@@ -1,1 +1,60 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 113, "verses": [{"reference": "Psalm 113:1", "verseNumber": 1, "scripture": "Praise all of you the LORD. Praise, O all of you servants of the LORD, praise the name of the LORD."},{"reference": "Psalm 113:2", "verseNumber": 2, "scripture": "Blessed be the name of the LORD from this time forth and for evermore."},{"reference": "Psalm 113:3", "verseNumber": 3, "scripture": "From the rising of the sun unto the going down of the same the LORD's name is to be praised."},{"reference": "Psalm 113:4", "verseNumber": 4, "scripture": "The LORD is high above all nations, and his glory above the heavens."},{"reference": "Psalm 113:5", "verseNumber": 5, "scripture": "Who is like unto the LORD our God, who dwells on high,"},{"reference": "Psalm 113:6", "verseNumber": 6, "scripture": "Who humbles himself to behold the things that are in heaven, and in the earth!"},{"reference": "Psalm 113:7", "verseNumber": 7, "scripture": "He raises up the poor out of the dust, and lifts the needy out of the dunghill;"},{"reference": "Psalm 113:8", "verseNumber": 8, "scripture": "That he may set him with princes, even with the princes of his people."},{"reference": "Psalm 113:9", "verseNumber": 9, "scripture": "He makes the barren woman to keep house, and to be a joyful mother of children. Praise all of you the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  113,
+     "verses":  [
+        {
+            "reference":  "Psalm 113:1",
+             "verseNumber":  1,
+             "scripture":  "Praise all of you the LORD. Praise, O all of you servants of the LORD, praise the name of the LORD."
+        },
+        {
+            "reference":  "Psalm 113:2",
+             "verseNumber":  2,
+             "scripture":  "Blessed be the name of the LORD from this time forth and for evermore."
+        },
+        {
+            "reference":  "Psalm 113:3",
+             "verseNumber":  3,
+             "scripture":  "From the rising of the sun unto the going down of the same the LORD's name is to be praised."
+        },
+        {
+            "reference":  "Psalm 113:4",
+             "verseNumber":  4,
+             "scripture":  "The LORD is high above all nations, and his glory above the heavens."
+        },
+        {
+            "reference":  "Psalm 113:5",
+             "verseNumber":  5,
+             "scripture":  "Who is like unto the LORD our God, who dwells on high,"
+        },
+        {
+            "reference":  "Psalm 113:6",
+             "verseNumber":  6,
+             "scripture":  "Who humbles himself to behold the things that are in heaven, and in the earth!"
+        },
+        {
+            "reference":  "Psalm 113:7",
+             "verseNumber":  7,
+             "scripture":  "He raises up the poor out of the dust, and lifts the needy out of the dunghill;"
+        },
+        {
+            "reference":  "Psalm 113:8",
+             "verseNumber":  8,
+             "scripture":  "That he may set him with princes, even with the princes of his people."
+        },
+        {
+            "reference":  "Psalm 113:9",
+             "verseNumber":  9,
+             "scripture":  "He makes the barren woman to keep house, and to be a joyful mother of children. Praise all of you the LORD."
+        }
+    ]
+}

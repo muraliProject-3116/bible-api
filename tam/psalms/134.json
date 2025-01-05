@@ -1,1 +1,30 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "சங்கீதம்", "bookAbbreviation": "சங்", "chapterNumber": 134, "verses": [{"reference": "சங்கீதம் 134:1", "verseNumber": 1, "scripture": "இதோ, இராக்காலங்களில் கர்த்தருடைய ஆலயத்தில் நிற்கும் கர்த்தரின் ஊழியக்காரரே, நீங்களெல்லாரும் கர்த்தரை ஸ்தோத்திரியுங்கள்."},{"reference": "சங்கீதம் 134:2", "verseNumber": 2, "scripture": "உங்கள் கைகளைப் பரிசுத்த ஸ்தலத்திற்கு நேராக எடுத்து, கர்த்தரை ஸ்தோத்திரியுங்கள்."},{"reference": "சங்கீதம் 134:3", "verseNumber": 3, "scripture": "வானத்தையும் பூமியையும் உண்டாக்கின கர்த்தர் சீயோனிலிருந்து உன்னை ஆசீர்வதிப்பாராக."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "சங்கீதம்",
+     "bookAbbreviation":  "சங்",
+     "chapterNumber":  134,
+     "verses":  [
+        {
+            "reference":  "சங்கீதம் 134:1",
+             "verseNumber":  1,
+             "scripture":  "இதோ, இராக்காலங்களில் கர்த்தருடைய ஆலயத்தில் நிற்கும் கர்த்தரின் ஊழியக்காரரே, நீங்களெல்லாரும் கர்த்தரை ஸ்தோத்திரியுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 134:2",
+             "verseNumber":  2,
+             "scripture":  "உங்கள் கைகளைப் பரிசுத்த ஸ்தலத்திற்கு நேராக எடுத்து, கர்த்தரை ஸ்தோத்திரியுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 134:3",
+             "verseNumber":  3,
+             "scripture":  "வானத்தையும் பூமியையும் உண்டாக்கின கர்த்தர் சீயோனிலிருந்து உன்னை ஆசீர்வதிப்பாராக."
+        }
+    ]
+}

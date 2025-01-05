@@ -1,1 +1,40 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 15, "verses": [{"reference": "Psalm 15:1", "verseNumber": 1, "scripture": "Lord, who shall abide in your tabernacle? who shall dwell in your holy hill?"},{"reference": "Psalm 15:2", "verseNumber": 2, "scripture": "He that walks uprightly, and works righteousness, and speaks the truth in his heart."},{"reference": "Psalm 15:3", "verseNumber": 3, "scripture": "He that backbites not with his tongue, nor does evil to his neighbour, nor takes up a reproach against his neighbour."},{"reference": "Psalm 15:4", "verseNumber": 4, "scripture": "In whose eyes a vile person is contemned; but he honors them that fear the LORD. He that swears to his own hurt, and changes not."},{"reference": "Psalm 15:5", "verseNumber": 5, "scripture": "He that puts not out his money to interest, nor takes reward against the innocent. He that does these things shall never be moved."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  15,
+     "verses":  [
+        {
+            "reference":  "Psalm 15:1",
+             "verseNumber":  1,
+             "scripture":  "Lord, who shall abide in your tabernacle? who shall dwell in your holy hill?"
+        },
+        {
+            "reference":  "Psalm 15:2",
+             "verseNumber":  2,
+             "scripture":  "He that walks uprightly, and works righteousness, and speaks the truth in his heart."
+        },
+        {
+            "reference":  "Psalm 15:3",
+             "verseNumber":  3,
+             "scripture":  "He that backbites not with his tongue, nor does evil to his neighbour, nor takes up a reproach against his neighbour."
+        },
+        {
+            "reference":  "Psalm 15:4",
+             "verseNumber":  4,
+             "scripture":  "In whose eyes a vile person is contemned; but he honors them that fear the LORD. He that swears to his own hurt, and changes not."
+        },
+        {
+            "reference":  "Psalm 15:5",
+             "verseNumber":  5,
+             "scripture":  "He that puts not out his money to interest, nor takes reward against the innocent. He that does these things shall never be moved."
+        }
+    ]
+}

@@ -1,1 +1,155 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 28, "verses": [{"reference": "Proverbs 28:1", "verseNumber": 1, "scripture": "The wicked flee when no man pursues: but the righteous are bold as a lion."},{"reference": "Proverbs 28:2", "verseNumber": 2, "scripture": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged."},{"reference": "Proverbs 28:3", "verseNumber": 3, "scripture": "A poor man that oppresses the poor is like a sweeping rain which left no food."},{"reference": "Proverbs 28:4", "verseNumber": 4, "scripture": "They that forsake the law praise the wicked: but such as keep the law contend with them."},{"reference": "Proverbs 28:5", "verseNumber": 5, "scripture": "Evil men understand not judgment: but they that seek the LORD understand all things."},{"reference": "Proverbs 28:6", "verseNumber": 6, "scripture": "Better is the poor that walks in his uprightness, than he that is perverse in his ways, though he be rich."},{"reference": "Proverbs 28:7", "verseNumber": 7, "scripture": "Whoso keeps the law is a wise son: but he that is a companion of riotous men shames his father."},{"reference": "Proverbs 28:8", "verseNumber": 8, "scripture": "He that by interest and unjust gain increases his substance, he shall gather it for him that will pity the poor."},{"reference": "Proverbs 28:9", "verseNumber": 9, "scripture": "He that turns away his ear from hearing the law, even his prayer shall be abomination."},{"reference": "Proverbs 28:10", "verseNumber": 10, "scripture": "Whoso causes the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession."},{"reference": "Proverbs 28:11", "verseNumber": 11, "scripture": "The rich man is wise in his own conceit; but the poor that has understanding searches him out."},{"reference": "Proverbs 28:12", "verseNumber": 12, "scripture": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden."},{"reference": "Proverbs 28:13", "verseNumber": 13, "scripture": "He that covers his sins shall not prosper: but whoso confesses and forsakes them shall have mercy."},{"reference": "Proverbs 28:14", "verseNumber": 14, "scripture": "Happy is the man that fears always: but he that hardens his heart shall fall into mischief."},{"reference": "Proverbs 28:15", "verseNumber": 15, "scripture": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people."},{"reference": "Proverbs 28:16", "verseNumber": 16, "scripture": "The prince that wants understanding is also a great oppressor: but he that hates covetousness shall prolong his days."},{"reference": "Proverbs 28:17", "verseNumber": 17, "scripture": "A man that does violence to the blood of any person shall flee to the pit; let no man stay him."},{"reference": "Proverbs 28:18", "verseNumber": 18, "scripture": "Whoso walks uprightly shall be saved: but he that is perverse in his ways shall fall at once."},{"reference": "Proverbs 28:19", "verseNumber": 19, "scripture": "He that tills his land shall have plenty of bread: but he that follows after vain persons shall have poverty enough."},{"reference": "Proverbs 28:20", "verseNumber": 20, "scripture": "A faithful man shall abound with blessings: but he that makes haste to be rich shall not be innocent."},{"reference": "Proverbs 28:21", "verseNumber": 21, "scripture": "To have respect of persons is not good: for for a piece of bread that man will transgress."},{"reference": "Proverbs 28:22", "verseNumber": 22, "scripture": "He that hastes to be rich has an evil eye, and considers not that poverty shall come upon him."},{"reference": "Proverbs 28:23", "verseNumber": 23, "scripture": "He that rebukes a man afterwards shall find more favour than he that flatters with the tongue."},{"reference": "Proverbs 28:24", "verseNumber": 24, "scripture": "Whoso robs his father or his mother, and says, It is no transgression; the same is the companion of a destroyer."},{"reference": "Proverbs 28:25", "verseNumber": 25, "scripture": "He that is of a proud heart stirs up strife: but he that puts his trust in the LORD shall be made fat."},{"reference": "Proverbs 28:26", "verseNumber": 26, "scripture": "He that trusts in his own heart is a fool: but whoso walks wisely, he shall be delivered."},{"reference": "Proverbs 28:27", "verseNumber": 27, "scripture": "He that gives unto the poor shall not lack: but he that hides his eyes shall have many a curse."},{"reference": "Proverbs 28:28", "verseNumber": 28, "scripture": "When the wicked rise, men hide themselves: but when they perish, the righteous increase."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  28,
+     "verses":  [
+        {
+            "reference":  "Proverbs 28:1",
+             "verseNumber":  1,
+             "scripture":  "The wicked flee when no man pursues: but the righteous are bold as a lion."
+        },
+        {
+            "reference":  "Proverbs 28:2",
+             "verseNumber":  2,
+             "scripture":  "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged."
+        },
+        {
+            "reference":  "Proverbs 28:3",
+             "verseNumber":  3,
+             "scripture":  "A poor man that oppresses the poor is like a sweeping rain which left no food."
+        },
+        {
+            "reference":  "Proverbs 28:4",
+             "verseNumber":  4,
+             "scripture":  "They that forsake the law praise the wicked: but such as keep the law contend with them."
+        },
+        {
+            "reference":  "Proverbs 28:5",
+             "verseNumber":  5,
+             "scripture":  "Evil men understand not judgment: but they that seek the LORD understand all things."
+        },
+        {
+            "reference":  "Proverbs 28:6",
+             "verseNumber":  6,
+             "scripture":  "Better is the poor that walks in his uprightness, than he that is perverse in his ways, though he be rich."
+        },
+        {
+            "reference":  "Proverbs 28:7",
+             "verseNumber":  7,
+             "scripture":  "Whoso keeps the law is a wise son: but he that is a companion of riotous men shames his father."
+        },
+        {
+            "reference":  "Proverbs 28:8",
+             "verseNumber":  8,
+             "scripture":  "He that by interest and unjust gain increases his substance, he shall gather it for him that will pity the poor."
+        },
+        {
+            "reference":  "Proverbs 28:9",
+             "verseNumber":  9,
+             "scripture":  "He that turns away his ear from hearing the law, even his prayer shall be abomination."
+        },
+        {
+            "reference":  "Proverbs 28:10",
+             "verseNumber":  10,
+             "scripture":  "Whoso causes the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession."
+        },
+        {
+            "reference":  "Proverbs 28:11",
+             "verseNumber":  11,
+             "scripture":  "The rich man is wise in his own conceit; but the poor that has understanding searches him out."
+        },
+        {
+            "reference":  "Proverbs 28:12",
+             "verseNumber":  12,
+             "scripture":  "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden."
+        },
+        {
+            "reference":  "Proverbs 28:13",
+             "verseNumber":  13,
+             "scripture":  "He that covers his sins shall not prosper: but whoso confesses and forsakes them shall have mercy."
+        },
+        {
+            "reference":  "Proverbs 28:14",
+             "verseNumber":  14,
+             "scripture":  "Happy is the man that fears always: but he that hardens his heart shall fall into mischief."
+        },
+        {
+            "reference":  "Proverbs 28:15",
+             "verseNumber":  15,
+             "scripture":  "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people."
+        },
+        {
+            "reference":  "Proverbs 28:16",
+             "verseNumber":  16,
+             "scripture":  "The prince that wants understanding is also a great oppressor: but he that hates covetousness shall prolong his days."
+        },
+        {
+            "reference":  "Proverbs 28:17",
+             "verseNumber":  17,
+             "scripture":  "A man that does violence to the blood of any person shall flee to the pit; let no man stay him."
+        },
+        {
+            "reference":  "Proverbs 28:18",
+             "verseNumber":  18,
+             "scripture":  "Whoso walks uprightly shall be saved: but he that is perverse in his ways shall fall at once."
+        },
+        {
+            "reference":  "Proverbs 28:19",
+             "verseNumber":  19,
+             "scripture":  "He that tills his land shall have plenty of bread: but he that follows after vain persons shall have poverty enough."
+        },
+        {
+            "reference":  "Proverbs 28:20",
+             "verseNumber":  20,
+             "scripture":  "A faithful man shall abound with blessings: but he that makes haste to be rich shall not be innocent."
+        },
+        {
+            "reference":  "Proverbs 28:21",
+             "verseNumber":  21,
+             "scripture":  "To have respect of persons is not good: for for a piece of bread that man will transgress."
+        },
+        {
+            "reference":  "Proverbs 28:22",
+             "verseNumber":  22,
+             "scripture":  "He that hastes to be rich has an evil eye, and considers not that poverty shall come upon him."
+        },
+        {
+            "reference":  "Proverbs 28:23",
+             "verseNumber":  23,
+             "scripture":  "He that rebukes a man afterwards shall find more favour than he that flatters with the tongue."
+        },
+        {
+            "reference":  "Proverbs 28:24",
+             "verseNumber":  24,
+             "scripture":  "Whoso robs his father or his mother, and says, It is no transgression; the same is the companion of a destroyer."
+        },
+        {
+            "reference":  "Proverbs 28:25",
+             "verseNumber":  25,
+             "scripture":  "He that is of a proud heart stirs up strife: but he that puts his trust in the LORD shall be made fat."
+        },
+        {
+            "reference":  "Proverbs 28:26",
+             "verseNumber":  26,
+             "scripture":  "He that trusts in his own heart is a fool: but whoso walks wisely, he shall be delivered."
+        },
+        {
+            "reference":  "Proverbs 28:27",
+             "verseNumber":  27,
+             "scripture":  "He that gives unto the poor shall not lack: but he that hides his eyes shall have many a curse."
+        },
+        {
+            "reference":  "Proverbs 28:28",
+             "verseNumber":  28,
+             "scripture":  "When the wicked rise, men hide themselves: but when they perish, the righteous increase."
+        }
+    ]
+}

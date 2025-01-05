@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Matthew", "bookAbbreviation": "Mat", "chapterNumber": 7, "verses": [{"reference": "Matthew 7:1", "verseNumber": 1, "scripture": "Judge not, that all of you be not judged."},{"reference": "Matthew 7:2", "verseNumber": 2, "scripture": "For with what judgment all of you judge, all of you shall be judged: and with what measure all of you mete, it shall be measured to you again."},{"reference": "Matthew 7:3", "verseNumber": 3, "scripture": "And why behold you the splinter that is in your brother's eye, but consider not the beam that is in yours own eye?"},{"reference": "Matthew 7:4", "verseNumber": 4, "scripture": "Or how will you say to your brother, Let me pull out the splinter out of yours eye; and, behold, a beam is in yours own eye?"},{"reference": "Matthew 7:5", "verseNumber": 5, "scripture": "You hypocrite, first cast out the beam out of yours own eye; and then shall you see clearly to cast out the splinter out of your brother's eye."},{"reference": "Matthew 7:6", "verseNumber": 6, "scripture": "Give not that which is holy unto the dogs, neither cast all of you your pearls before swine, lest they trample them under their feet, and return and rend you."},{"reference": "Matthew 7:7", "verseNumber": 7, "scripture": "Ask, and it shall be given you; seek, and all of you shall find; knock, and it shall be opened unto you:"},{"reference": "Matthew 7:8", "verseNumber": 8, "scripture": "For every one that asks receives; and he that seeks finds; and to him that knocks it shall be opened."},{"reference": "Matthew 7:9", "verseNumber": 9, "scripture": "Or what man is there of you, whom if his son ask bread, will he give him a stone?"},{"reference": "Matthew 7:10", "verseNumber": 10, "scripture": "Or if he ask a fish, will he give him a serpent?"},{"reference": "Matthew 7:11", "verseNumber": 11, "scripture": "If all of you then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"},{"reference": "Matthew 7:12", "verseNumber": 12, "scripture": "Therefore all things whatsoever all of you would that men should do to you, do all of you even so to them: for this is the law and the prophets."},{"reference": "Matthew 7:13", "verseNumber": 13, "scripture": "Enter all of you in at the strait gate: for wide is the gate, and broad is the way, that leads to destruction, and many there be which go in thereat:"},{"reference": "Matthew 7:14", "verseNumber": 14, "scripture": "Because strait is the gate, and narrow is the way, which leads unto life, and few there be that find it."},{"reference": "Matthew 7:15", "verseNumber": 15, "scripture": "Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves."},{"reference": "Matthew 7:16", "verseNumber": 16, "scripture": "All of you shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?"},{"reference": "Matthew 7:17", "verseNumber": 17, "scripture": "Even so every good tree brings forth good fruit; but a corrupt tree brings forth evil fruit."},{"reference": "Matthew 7:18", "verseNumber": 18, "scripture": "A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit."},{"reference": "Matthew 7:19", "verseNumber": 19, "scripture": "Every tree that brings not forth good fruit is hewn down, and cast into the fire."},{"reference": "Matthew 7:20", "verseNumber": 20, "scripture": "Wherefore by their fruits all of you shall know them."},{"reference": "Matthew 7:21", "verseNumber": 21, "scripture": "Not every one that says unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that does the will of my Father which is in heaven."},{"reference": "Matthew 7:22", "verseNumber": 22, "scripture": "Many will say to me in that day, Lord, Lord, have we not prophesied in your name? and in your name have cast out devils? and in your name done many wonderful works?"},{"reference": "Matthew 7:23", "verseNumber": 23, "scripture": "And then will I profess unto them, I never knew you: depart from me, all of you that work iniquity."},{"reference": "Matthew 7:24", "verseNumber": 24, "scripture": "Therefore whosoever hears these sayings of mine, and does them, I will liken him unto a wise man, which built his house upon a rock:"},{"reference": "Matthew 7:25", "verseNumber": 25, "scripture": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock."},{"reference": "Matthew 7:26", "verseNumber": 26, "scripture": "And every one that hears these sayings of mine, and does them not, shall be likened unto a foolish man, which built his house upon the sand:"},{"reference": "Matthew 7:27", "verseNumber": 27, "scripture": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."},{"reference": "Matthew 7:28", "verseNumber": 28, "scripture": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:"},{"reference": "Matthew 7:29", "verseNumber": 29, "scripture": "For he taught them as one having authority, and not as the scribes."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Matthew",
+     "bookAbbreviation":  "Mat",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "Matthew 7:1",
+             "verseNumber":  1,
+             "scripture":  "Judge not, that all of you be not judged."
+        },
+        {
+            "reference":  "Matthew 7:2",
+             "verseNumber":  2,
+             "scripture":  "For with what judgment all of you judge, all of you shall be judged: and with what measure all of you mete, it shall be measured to you again."
+        },
+        {
+            "reference":  "Matthew 7:3",
+             "verseNumber":  3,
+             "scripture":  "And why behold you the splinter that is in your brother's eye, but consider not the beam that is in yours own eye?"
+        },
+        {
+            "reference":  "Matthew 7:4",
+             "verseNumber":  4,
+             "scripture":  "Or how will you say to your brother, Let me pull out the splinter out of yours eye; and, behold, a beam is in yours own eye?"
+        },
+        {
+            "reference":  "Matthew 7:5",
+             "verseNumber":  5,
+             "scripture":  "You hypocrite, first cast out the beam out of yours own eye; and then shall you see clearly to cast out the splinter out of your brother's eye."
+        },
+        {
+            "reference":  "Matthew 7:6",
+             "verseNumber":  6,
+             "scripture":  "Give not that which is holy unto the dogs, neither cast all of you your pearls before swine, lest they trample them under their feet, and return and rend you."
+        },
+        {
+            "reference":  "Matthew 7:7",
+             "verseNumber":  7,
+             "scripture":  "Ask, and it shall be given you; seek, and all of you shall find; knock, and it shall be opened unto you:"
+        },
+        {
+            "reference":  "Matthew 7:8",
+             "verseNumber":  8,
+             "scripture":  "For every one that asks receives; and he that seeks finds; and to him that knocks it shall be opened."
+        },
+        {
+            "reference":  "Matthew 7:9",
+             "verseNumber":  9,
+             "scripture":  "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
+        },
+        {
+            "reference":  "Matthew 7:10",
+             "verseNumber":  10,
+             "scripture":  "Or if he ask a fish, will he give him a serpent?"
+        },
+        {
+            "reference":  "Matthew 7:11",
+             "verseNumber":  11,
+             "scripture":  "If all of you then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
+        },
+        {
+            "reference":  "Matthew 7:12",
+             "verseNumber":  12,
+             "scripture":  "Therefore all things whatsoever all of you would that men should do to you, do all of you even so to them: for this is the law and the prophets."
+        },
+        {
+            "reference":  "Matthew 7:13",
+             "verseNumber":  13,
+             "scripture":  "Enter all of you in at the strait gate: for wide is the gate, and broad is the way, that leads to destruction, and many there be which go in thereat:"
+        },
+        {
+            "reference":  "Matthew 7:14",
+             "verseNumber":  14,
+             "scripture":  "Because strait is the gate, and narrow is the way, which leads unto life, and few there be that find it."
+        },
+        {
+            "reference":  "Matthew 7:15",
+             "verseNumber":  15,
+             "scripture":  "Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves."
+        },
+        {
+            "reference":  "Matthew 7:16",
+             "verseNumber":  16,
+             "scripture":  "All of you shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?"
+        },
+        {
+            "reference":  "Matthew 7:17",
+             "verseNumber":  17,
+             "scripture":  "Even so every good tree brings forth good fruit; but a corrupt tree brings forth evil fruit."
+        },
+        {
+            "reference":  "Matthew 7:18",
+             "verseNumber":  18,
+             "scripture":  "A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit."
+        },
+        {
+            "reference":  "Matthew 7:19",
+             "verseNumber":  19,
+             "scripture":  "Every tree that brings not forth good fruit is hewn down, and cast into the fire."
+        },
+        {
+            "reference":  "Matthew 7:20",
+             "verseNumber":  20,
+             "scripture":  "Wherefore by their fruits all of you shall know them."
+        },
+        {
+            "reference":  "Matthew 7:21",
+             "verseNumber":  21,
+             "scripture":  "Not every one that says unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that does the will of my Father which is in heaven."
+        },
+        {
+            "reference":  "Matthew 7:22",
+             "verseNumber":  22,
+             "scripture":  "Many will say to me in that day, Lord, Lord, have we not prophesied in your name? and in your name have cast out devils? and in your name done many wonderful works?"
+        },
+        {
+            "reference":  "Matthew 7:23",
+             "verseNumber":  23,
+             "scripture":  "And then will I profess unto them, I never knew you: depart from me, all of you that work iniquity."
+        },
+        {
+            "reference":  "Matthew 7:24",
+             "verseNumber":  24,
+             "scripture":  "Therefore whosoever hears these sayings of mine, and does them, I will liken him unto a wise man, which built his house upon a rock:"
+        },
+        {
+            "reference":  "Matthew 7:25",
+             "verseNumber":  25,
+             "scripture":  "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock."
+        },
+        {
+            "reference":  "Matthew 7:26",
+             "verseNumber":  26,
+             "scripture":  "And every one that hears these sayings of mine, and does them not, shall be likened unto a foolish man, which built his house upon the sand:"
+        },
+        {
+            "reference":  "Matthew 7:27",
+             "verseNumber":  27,
+             "scripture":  "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
+        },
+        {
+            "reference":  "Matthew 7:28",
+             "verseNumber":  28,
+             "scripture":  "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:"
+        },
+        {
+            "reference":  "Matthew 7:29",
+             "verseNumber":  29,
+             "scripture":  "For he taught them as one having authority, and not as the scribes."
+        }
+    ]
+}

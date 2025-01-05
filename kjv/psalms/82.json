@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 82, "verses": [{"reference": "Psalm 82:1", "verseNumber": 1, "scripture": "God stands in the congregation of the mighty; he judges among the gods."},{"reference": "Psalm 82:2", "verseNumber": 2, "scripture": "How long will all of you judge unjustly, and accept the persons of the wicked? Selah."},{"reference": "Psalm 82:3", "verseNumber": 3, "scripture": "Defend the poor and fatherless: do justice to the afflicted and needy."},{"reference": "Psalm 82:4", "verseNumber": 4, "scripture": "Deliver the poor and needy: rid them out of the hand of the wicked."},{"reference": "Psalm 82:5", "verseNumber": 5, "scripture": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."},{"reference": "Psalm 82:6", "verseNumber": 6, "scripture": "I have said, All of you are gods; and all of you are children of the most High."},{"reference": "Psalm 82:7", "verseNumber": 7, "scripture": "But all of you shall die like men, and fall like one of the princes."},{"reference": "Psalm 82:8", "verseNumber": 8, "scripture": "Arise, O God, judge the earth: for you shall inherit all nations."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  82,
+     "verses":  [
+        {
+            "reference":  "Psalm 82:1",
+             "verseNumber":  1,
+             "scripture":  "God stands in the congregation of the mighty; he judges among the gods."
+        },
+        {
+            "reference":  "Psalm 82:2",
+             "verseNumber":  2,
+             "scripture":  "How long will all of you judge unjustly, and accept the persons of the wicked? Selah."
+        },
+        {
+            "reference":  "Psalm 82:3",
+             "verseNumber":  3,
+             "scripture":  "Defend the poor and fatherless: do justice to the afflicted and needy."
+        },
+        {
+            "reference":  "Psalm 82:4",
+             "verseNumber":  4,
+             "scripture":  "Deliver the poor and needy: rid them out of the hand of the wicked."
+        },
+        {
+            "reference":  "Psalm 82:5",
+             "verseNumber":  5,
+             "scripture":  "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."
+        },
+        {
+            "reference":  "Psalm 82:6",
+             "verseNumber":  6,
+             "scripture":  "I have said, All of you are gods; and all of you are children of the most High."
+        },
+        {
+            "reference":  "Psalm 82:7",
+             "verseNumber":  7,
+             "scripture":  "But all of you shall die like men, and fall like one of the princes."
+        },
+        {
+            "reference":  "Psalm 82:8",
+             "verseNumber":  8,
+             "scripture":  "Arise, O God, judge the earth: for you shall inherit all nations."
+        }
+    ]
+}

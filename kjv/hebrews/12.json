@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Hebrews", "bookAbbreviation": "Heb", "chapterNumber": 12, "verses": [{"reference": "Hebrews 12:1", "verseNumber": 1, "scripture": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which does so easily beset us, and let us run with patience the race that is set before us,"},{"reference": "Hebrews 12:2", "verseNumber": 2, "scripture": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God."},{"reference": "Hebrews 12:3", "verseNumber": 3, "scripture": "For consider him that endured such contradiction of sinners against himself, lest all of you be wearied and faint in your minds."},{"reference": "Hebrews 12:4", "verseNumber": 4, "scripture": "All of you have not yet resisted unto blood, striving against sin."},{"reference": "Hebrews 12:5", "verseNumber": 5, "scripture": "And all of you have forgotten the exhortation which speaks unto you as unto children, My son, despise not you the chastening of the Lord, nor faint when you are rebuked of him:"},{"reference": "Hebrews 12:6", "verseNumber": 6, "scripture": "For whom the Lord loves he chastens, and scourges every son whom he receives."},{"reference": "Hebrews 12:7", "verseNumber": 7, "scripture": "If all of you endure chastening, God deals with you as with sons; for what son is he whom the father chastens not?"},{"reference": "Hebrews 12:8", "verseNumber": 8, "scripture": "But if all of you be without chastisement, whereof all are partakers, then are all of you bastards, and not sons."},{"reference": "Hebrews 12:9", "verseNumber": 9, "scripture": "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?"},{"reference": "Hebrews 12:10", "verseNumber": 10, "scripture": "For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness."},{"reference": "Hebrews 12:11", "verseNumber": 11, "scripture": "Now no chastening for the present seems to be joyous, but grievous: nevertheless afterward it yields the peaceable fruit of righteousness unto them which are exercised thereby."},{"reference": "Hebrews 12:12", "verseNumber": 12, "scripture": "Wherefore lift up the hands which hang down, and the feeble knees;"},{"reference": "Hebrews 12:13", "verseNumber": 13, "scripture": "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed."},{"reference": "Hebrews 12:14", "verseNumber": 14, "scripture": "Follow peace with all men, and holiness, without which no man shall see the Lord:"},{"reference": "Hebrews 12:15", "verseNumber": 15, "scripture": "Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;"},{"reference": "Hebrews 12:16", "verseNumber": 16, "scripture": "Lest there be any fornicator, or profane person, as Esau, who for one morsel of food sold his birthright."},{"reference": "Hebrews 12:17", "verseNumber": 17, "scripture": "For all of you know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears."},{"reference": "Hebrews 12:18", "verseNumber": 18, "scripture": "For all of you are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,"},{"reference": "Hebrews 12:19", "verseNumber": 19, "scripture": "And the sound of a trumpet, and the voice of words; which voice they that heard implored that the word should not be spoken to them any more:"},{"reference": "Hebrews 12:20", "verseNumber": 20, "scripture": "(For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:"},{"reference": "Hebrews 12:21", "verseNumber": 21, "scripture": "And so terrible was the sight, that Moses said, I exceedingly fear and quake:)"},{"reference": "Hebrews 12:22", "verseNumber": 22, "scripture": "But all of you are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,"},{"reference": "Hebrews 12:23", "verseNumber": 23, "scripture": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,"},{"reference": "Hebrews 12:24", "verseNumber": 24, "scripture": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things that that of Abel."},{"reference": "Hebrews 12:25", "verseNumber": 25, "scripture": "See that all of you refuse not him that speaks. For if they escaped not who refused him that spoke on earth, much more shall not we escape, if we turn away from him that speaks from heaven:"},{"reference": "Hebrews 12:26", "verseNumber": 26, "scripture": "Whose voice then shook the earth: but now he has promised, saying, Yet once more I shake not the earth only, but also heaven."},{"reference": "Hebrews 12:27", "verseNumber": 27, "scripture": "And this word, Yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain."},{"reference": "Hebrews 12:28", "verseNumber": 28, "scripture": "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:"},{"reference": "Hebrews 12:29", "verseNumber": 29, "scripture": "For our God is a consuming fire."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Hebrews",
+     "bookAbbreviation":  "Heb",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "Hebrews 12:1",
+             "verseNumber":  1,
+             "scripture":  "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which does so easily beset us, and let us run with patience the race that is set before us,"
+        },
+        {
+            "reference":  "Hebrews 12:2",
+             "verseNumber":  2,
+             "scripture":  "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God."
+        },
+        {
+            "reference":  "Hebrews 12:3",
+             "verseNumber":  3,
+             "scripture":  "For consider him that endured such contradiction of sinners against himself, lest all of you be wearied and faint in your minds."
+        },
+        {
+            "reference":  "Hebrews 12:4",
+             "verseNumber":  4,
+             "scripture":  "All of you have not yet resisted unto blood, striving against sin."
+        },
+        {
+            "reference":  "Hebrews 12:5",
+             "verseNumber":  5,
+             "scripture":  "And all of you have forgotten the exhortation which speaks unto you as unto children, My son, despise not you the chastening of the Lord, nor faint when you are rebuked of him:"
+        },
+        {
+            "reference":  "Hebrews 12:6",
+             "verseNumber":  6,
+             "scripture":  "For whom the Lord loves he chastens, and scourges every son whom he receives."
+        },
+        {
+            "reference":  "Hebrews 12:7",
+             "verseNumber":  7,
+             "scripture":  "If all of you endure chastening, God deals with you as with sons; for what son is he whom the father chastens not?"
+        },
+        {
+            "reference":  "Hebrews 12:8",
+             "verseNumber":  8,
+             "scripture":  "But if all of you be without chastisement, whereof all are partakers, then are all of you bastards, and not sons."
+        },
+        {
+            "reference":  "Hebrews 12:9",
+             "verseNumber":  9,
+             "scripture":  "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?"
+        },
+        {
+            "reference":  "Hebrews 12:10",
+             "verseNumber":  10,
+             "scripture":  "For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness."
+        },
+        {
+            "reference":  "Hebrews 12:11",
+             "verseNumber":  11,
+             "scripture":  "Now no chastening for the present seems to be joyous, but grievous: nevertheless afterward it yields the peaceable fruit of righteousness unto them which are exercised thereby."
+        },
+        {
+            "reference":  "Hebrews 12:12",
+             "verseNumber":  12,
+             "scripture":  "Wherefore lift up the hands which hang down, and the feeble knees;"
+        },
+        {
+            "reference":  "Hebrews 12:13",
+             "verseNumber":  13,
+             "scripture":  "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed."
+        },
+        {
+            "reference":  "Hebrews 12:14",
+             "verseNumber":  14,
+             "scripture":  "Follow peace with all men, and holiness, without which no man shall see the Lord:"
+        },
+        {
+            "reference":  "Hebrews 12:15",
+             "verseNumber":  15,
+             "scripture":  "Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;"
+        },
+        {
+            "reference":  "Hebrews 12:16",
+             "verseNumber":  16,
+             "scripture":  "Lest there be any fornicator, or profane person, as Esau, who for one morsel of food sold his birthright."
+        },
+        {
+            "reference":  "Hebrews 12:17",
+             "verseNumber":  17,
+             "scripture":  "For all of you know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears."
+        },
+        {
+            "reference":  "Hebrews 12:18",
+             "verseNumber":  18,
+             "scripture":  "For all of you are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,"
+        },
+        {
+            "reference":  "Hebrews 12:19",
+             "verseNumber":  19,
+             "scripture":  "And the sound of a trumpet, and the voice of words; which voice they that heard implored that the word should not be spoken to them any more:"
+        },
+        {
+            "reference":  "Hebrews 12:20",
+             "verseNumber":  20,
+             "scripture":  "(For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:"
+        },
+        {
+            "reference":  "Hebrews 12:21",
+             "verseNumber":  21,
+             "scripture":  "And so terrible was the sight, that Moses said, I exceedingly fear and quake:)"
+        },
+        {
+            "reference":  "Hebrews 12:22",
+             "verseNumber":  22,
+             "scripture":  "But all of you are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,"
+        },
+        {
+            "reference":  "Hebrews 12:23",
+             "verseNumber":  23,
+             "scripture":  "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,"
+        },
+        {
+            "reference":  "Hebrews 12:24",
+             "verseNumber":  24,
+             "scripture":  "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things that that of Abel."
+        },
+        {
+            "reference":  "Hebrews 12:25",
+             "verseNumber":  25,
+             "scripture":  "See that all of you refuse not him that speaks. For if they escaped not who refused him that spoke on earth, much more shall not we escape, if we turn away from him that speaks from heaven:"
+        },
+        {
+            "reference":  "Hebrews 12:26",
+             "verseNumber":  26,
+             "scripture":  "Whose voice then shook the earth: but now he has promised, saying, Yet once more I shake not the earth only, but also heaven."
+        },
+        {
+            "reference":  "Hebrews 12:27",
+             "verseNumber":  27,
+             "scripture":  "And this word, Yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain."
+        },
+        {
+            "reference":  "Hebrews 12:28",
+             "verseNumber":  28,
+             "scripture":  "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:"
+        },
+        {
+            "reference":  "Hebrews 12:29",
+             "verseNumber":  29,
+             "scripture":  "For our God is a consuming fire."
+        }
+    ]
+}

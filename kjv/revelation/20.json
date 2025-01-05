@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Revelation", "bookAbbreviation": "Rev", "chapterNumber": 20, "verses": [{"reference": "Revelation 20:1", "verseNumber": 1, "scripture": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."},{"reference": "Revelation 20:2", "verseNumber": 2, "scripture": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"},{"reference": "Revelation 20:3", "verseNumber": 3, "scripture": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."},{"reference": "Revelation 20:4", "verseNumber": 4, "scripture": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."},{"reference": "Revelation 20:5", "verseNumber": 5, "scripture": "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."},{"reference": "Revelation 20:6", "verseNumber": 6, "scripture": "Blessed and holy is he that has part in the first resurrection: on such the second death has no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."},{"reference": "Revelation 20:7", "verseNumber": 7, "scripture": "And when the thousand years are expired, Satan shall be loosed out of his prison,"},{"reference": "Revelation 20:8", "verseNumber": 8, "scripture": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea."},{"reference": "Revelation 20:9", "verseNumber": 9, "scripture": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."},{"reference": "Revelation 20:10", "verseNumber": 10, "scripture": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."},{"reference": "Revelation 20:11", "verseNumber": 11, "scripture": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."},{"reference": "Revelation 20:12", "verseNumber": 12, "scripture": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."},{"reference": "Revelation 20:13", "verseNumber": 13, "scripture": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."},{"reference": "Revelation 20:14", "verseNumber": 14, "scripture": "And death and hell were cast into the lake of fire. This is the second death."},{"reference": "Revelation 20:15", "verseNumber": 15, "scripture": "And whosoever was not found written in the book of life was cast into the lake of fire."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Revelation",
+     "bookAbbreviation":  "Rev",
+     "chapterNumber":  20,
+     "verses":  [
+        {
+            "reference":  "Revelation 20:1",
+             "verseNumber":  1,
+             "scripture":  "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
+        },
+        {
+            "reference":  "Revelation 20:2",
+             "verseNumber":  2,
+             "scripture":  "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+        },
+        {
+            "reference":  "Revelation 20:3",
+             "verseNumber":  3,
+             "scripture":  "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
+        },
+        {
+            "reference":  "Revelation 20:4",
+             "verseNumber":  4,
+             "scripture":  "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+        },
+        {
+            "reference":  "Revelation 20:5",
+             "verseNumber":  5,
+             "scripture":  "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
+        },
+        {
+            "reference":  "Revelation 20:6",
+             "verseNumber":  6,
+             "scripture":  "Blessed and holy is he that has part in the first resurrection: on such the second death has no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+        },
+        {
+            "reference":  "Revelation 20:7",
+             "verseNumber":  7,
+             "scripture":  "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+        },
+        {
+            "reference":  "Revelation 20:8",
+             "verseNumber":  8,
+             "scripture":  "And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
+        },
+        {
+            "reference":  "Revelation 20:9",
+             "verseNumber":  9,
+             "scripture":  "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+        },
+        {
+            "reference":  "Revelation 20:10",
+             "verseNumber":  10,
+             "scripture":  "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
+        },
+        {
+            "reference":  "Revelation 20:11",
+             "verseNumber":  11,
+             "scripture":  "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
+        },
+        {
+            "reference":  "Revelation 20:12",
+             "verseNumber":  12,
+             "scripture":  "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+        },
+        {
+            "reference":  "Revelation 20:13",
+             "verseNumber":  13,
+             "scripture":  "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+        },
+        {
+            "reference":  "Revelation 20:14",
+             "verseNumber":  14,
+             "scripture":  "And death and hell were cast into the lake of fire. This is the second death."
+        },
+        {
+            "reference":  "Revelation 20:15",
+             "verseNumber":  15,
+             "scripture":  "And whosoever was not found written in the book of life was cast into the lake of fire."
+        }
+    ]
+}

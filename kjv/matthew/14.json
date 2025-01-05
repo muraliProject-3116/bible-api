@@ -1,1 +1,195 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Matthew", "bookAbbreviation": "Mat", "chapterNumber": 14, "verses": [{"reference": "Matthew 14:1", "verseNumber": 1, "scripture": "At that time Herod the tetrarch heard of the fame of Jesus,"},{"reference": "Matthew 14:2", "verseNumber": 2, "scripture": "And said unto his servants, This is John the Baptist; he has risen from the dead; and therefore mighty works do show forth themselves in him."},{"reference": "Matthew 14:3", "verseNumber": 3, "scripture": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife."},{"reference": "Matthew 14:4", "verseNumber": 4, "scripture": "For John said unto him, It is not lawful for you to have her."},{"reference": "Matthew 14:5", "verseNumber": 5, "scripture": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."},{"reference": "Matthew 14:6", "verseNumber": 6, "scripture": "But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod."},{"reference": "Matthew 14:7", "verseNumber": 7, "scripture": "Whereupon he promised with an oath to give her whatsoever she would ask."},{"reference": "Matthew 14:8", "verseNumber": 8, "scripture": "And she, being before instructed of her mother, said, Give me here John Baptist's head in a charger."},{"reference": "Matthew 14:9", "verseNumber": 9, "scripture": "And the king was sorry: nevertheless for the oath's sake, and them which sat with him at food, he commanded it to be given her."},{"reference": "Matthew 14:10", "verseNumber": 10, "scripture": "And he sent, and beheaded John in the prison."},{"reference": "Matthew 14:11", "verseNumber": 11, "scripture": "And his head was brought in a charger, and given to the damsel: and she brought it to her mother."},{"reference": "Matthew 14:12", "verseNumber": 12, "scripture": "And his disciples came, and took up the body, and buried it, and went and told Jesus."},{"reference": "Matthew 14:13", "verseNumber": 13, "scripture": "When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities."},{"reference": "Matthew 14:14", "verseNumber": 14, "scripture": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick."},{"reference": "Matthew 14:15", "verseNumber": 15, "scripture": "And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals."},{"reference": "Matthew 14:16", "verseNumber": 16, "scripture": "But Jesus said unto them, They need not depart; give all of you them to eat."},{"reference": "Matthew 14:17", "verseNumber": 17, "scripture": "And they say unto him, We have here but five loaves, and two fishes."},{"reference": "Matthew 14:18", "verseNumber": 18, "scripture": "He said, Bring them here to me."},{"reference": "Matthew 14:19", "verseNumber": 19, "scripture": "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude."},{"reference": "Matthew 14:20", "verseNumber": 20, "scripture": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."},{"reference": "Matthew 14:21", "verseNumber": 21, "scripture": "And they that had eaten were about five thousand men, beside women and children."},{"reference": "Matthew 14:22", "verseNumber": 22, "scripture": "And immediately Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away."},{"reference": "Matthew 14:23", "verseNumber": 23, "scripture": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."},{"reference": "Matthew 14:24", "verseNumber": 24, "scripture": "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary."},{"reference": "Matthew 14:25", "verseNumber": 25, "scripture": "And in the fourth watch of the night Jesus went unto them, walking on the sea."},{"reference": "Matthew 14:26", "verseNumber": 26, "scripture": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear."},{"reference": "Matthew 14:27", "verseNumber": 27, "scripture": "But immediately Jesus spoke unto them, saying, Be of good cheer; it is I; be not afraid."},{"reference": "Matthew 14:28", "verseNumber": 28, "scripture": "And Peter answered him and said, Lord, if it be you, bid me come unto you on the water."},{"reference": "Matthew 14:29", "verseNumber": 29, "scripture": "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."},{"reference": "Matthew 14:30", "verseNumber": 30, "scripture": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."},{"reference": "Matthew 14:31", "verseNumber": 31, "scripture": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O you of little faith, wherefore did you doubt?"},{"reference": "Matthew 14:32", "verseNumber": 32, "scripture": "And when they were come into the ship, the wind ceased."},{"reference": "Matthew 14:33", "verseNumber": 33, "scripture": "Then they that were in the ship came and worshipped him, saying, Truthfully you are the Son of God."},{"reference": "Matthew 14:34", "verseNumber": 34, "scripture": "And when they were gone over, they came into the land of Gennesaret."},{"reference": "Matthew 14:35", "verseNumber": 35, "scripture": "And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;"},{"reference": "Matthew 14:36", "verseNumber": 36, "scripture": "And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Matthew",
+     "bookAbbreviation":  "Mat",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "Matthew 14:1",
+             "verseNumber":  1,
+             "scripture":  "At that time Herod the tetrarch heard of the fame of Jesus,"
+        },
+        {
+            "reference":  "Matthew 14:2",
+             "verseNumber":  2,
+             "scripture":  "And said unto his servants, This is John the Baptist; he has risen from the dead; and therefore mighty works do show forth themselves in him."
+        },
+        {
+            "reference":  "Matthew 14:3",
+             "verseNumber":  3,
+             "scripture":  "For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife."
+        },
+        {
+            "reference":  "Matthew 14:4",
+             "verseNumber":  4,
+             "scripture":  "For John said unto him, It is not lawful for you to have her."
+        },
+        {
+            "reference":  "Matthew 14:5",
+             "verseNumber":  5,
+             "scripture":  "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."
+        },
+        {
+            "reference":  "Matthew 14:6",
+             "verseNumber":  6,
+             "scripture":  "But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod."
+        },
+        {
+            "reference":  "Matthew 14:7",
+             "verseNumber":  7,
+             "scripture":  "Whereupon he promised with an oath to give her whatsoever she would ask."
+        },
+        {
+            "reference":  "Matthew 14:8",
+             "verseNumber":  8,
+             "scripture":  "And she, being before instructed of her mother, said, Give me here John Baptist's head in a charger."
+        },
+        {
+            "reference":  "Matthew 14:9",
+             "verseNumber":  9,
+             "scripture":  "And the king was sorry: nevertheless for the oath's sake, and them which sat with him at food, he commanded it to be given her."
+        },
+        {
+            "reference":  "Matthew 14:10",
+             "verseNumber":  10,
+             "scripture":  "And he sent, and beheaded John in the prison."
+        },
+        {
+            "reference":  "Matthew 14:11",
+             "verseNumber":  11,
+             "scripture":  "And his head was brought in a charger, and given to the damsel: and she brought it to her mother."
+        },
+        {
+            "reference":  "Matthew 14:12",
+             "verseNumber":  12,
+             "scripture":  "And his disciples came, and took up the body, and buried it, and went and told Jesus."
+        },
+        {
+            "reference":  "Matthew 14:13",
+             "verseNumber":  13,
+             "scripture":  "When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities."
+        },
+        {
+            "reference":  "Matthew 14:14",
+             "verseNumber":  14,
+             "scripture":  "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick."
+        },
+        {
+            "reference":  "Matthew 14:15",
+             "verseNumber":  15,
+             "scripture":  "And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals."
+        },
+        {
+            "reference":  "Matthew 14:16",
+             "verseNumber":  16,
+             "scripture":  "But Jesus said unto them, They need not depart; give all of you them to eat."
+        },
+        {
+            "reference":  "Matthew 14:17",
+             "verseNumber":  17,
+             "scripture":  "And they say unto him, We have here but five loaves, and two fishes."
+        },
+        {
+            "reference":  "Matthew 14:18",
+             "verseNumber":  18,
+             "scripture":  "He said, Bring them here to me."
+        },
+        {
+            "reference":  "Matthew 14:19",
+             "verseNumber":  19,
+             "scripture":  "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude."
+        },
+        {
+            "reference":  "Matthew 14:20",
+             "verseNumber":  20,
+             "scripture":  "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."
+        },
+        {
+            "reference":  "Matthew 14:21",
+             "verseNumber":  21,
+             "scripture":  "And they that had eaten were about five thousand men, beside women and children."
+        },
+        {
+            "reference":  "Matthew 14:22",
+             "verseNumber":  22,
+             "scripture":  "And immediately Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away."
+        },
+        {
+            "reference":  "Matthew 14:23",
+             "verseNumber":  23,
+             "scripture":  "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+        },
+        {
+            "reference":  "Matthew 14:24",
+             "verseNumber":  24,
+             "scripture":  "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary."
+        },
+        {
+            "reference":  "Matthew 14:25",
+             "verseNumber":  25,
+             "scripture":  "And in the fourth watch of the night Jesus went unto them, walking on the sea."
+        },
+        {
+            "reference":  "Matthew 14:26",
+             "verseNumber":  26,
+             "scripture":  "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear."
+        },
+        {
+            "reference":  "Matthew 14:27",
+             "verseNumber":  27,
+             "scripture":  "But immediately Jesus spoke unto them, saying, Be of good cheer; it is I; be not afraid."
+        },
+        {
+            "reference":  "Matthew 14:28",
+             "verseNumber":  28,
+             "scripture":  "And Peter answered him and said, Lord, if it be you, bid me come unto you on the water."
+        },
+        {
+            "reference":  "Matthew 14:29",
+             "verseNumber":  29,
+             "scripture":  "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+        },
+        {
+            "reference":  "Matthew 14:30",
+             "verseNumber":  30,
+             "scripture":  "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
+        },
+        {
+            "reference":  "Matthew 14:31",
+             "verseNumber":  31,
+             "scripture":  "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O you of little faith, wherefore did you doubt?"
+        },
+        {
+            "reference":  "Matthew 14:32",
+             "verseNumber":  32,
+             "scripture":  "And when they were come into the ship, the wind ceased."
+        },
+        {
+            "reference":  "Matthew 14:33",
+             "verseNumber":  33,
+             "scripture":  "Then they that were in the ship came and worshipped him, saying, Truthfully you are the Son of God."
+        },
+        {
+            "reference":  "Matthew 14:34",
+             "verseNumber":  34,
+             "scripture":  "And when they were gone over, they came into the land of Gennesaret."
+        },
+        {
+            "reference":  "Matthew 14:35",
+             "verseNumber":  35,
+             "scripture":  "And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;"
+        },
+        {
+            "reference":  "Matthew 14:36",
+             "verseNumber":  36,
+             "scripture":  "And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole."
+        }
+    ]
+}

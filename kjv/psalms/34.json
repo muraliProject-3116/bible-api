@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 34, "verses": [{"reference": "Psalm 34:1", "verseNumber": 1, "scripture": "I will bless the LORD at all times: his praise shall continually be in my mouth."},{"reference": "Psalm 34:2", "verseNumber": 2, "scripture": "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad."},{"reference": "Psalm 34:3", "verseNumber": 3, "scripture": "O magnify the LORD with me, and let us exalt his name together."},{"reference": "Psalm 34:4", "verseNumber": 4, "scripture": "I sought the LORD, and he heard me, and delivered me from all my fears."},{"reference": "Psalm 34:5", "verseNumber": 5, "scripture": "They looked unto him, and were lightened: and their faces were not ashamed."},{"reference": "Psalm 34:6", "verseNumber": 6, "scripture": "This poor man cried, and the LORD heard him, and saved him out of all his troubles."},{"reference": "Psalm 34:7", "verseNumber": 7, "scripture": "The angel of the LORD camps round about them that fear him, and delivers them."},{"reference": "Psalm 34:8", "verseNumber": 8, "scripture": "O taste and see that the LORD is good: blessed is the man that trusts in him."},{"reference": "Psalm 34:9", "verseNumber": 9, "scripture": "O fear the LORD, all of you his saints: for there is no lack to them that fear him."},{"reference": "Psalm 34:10", "verseNumber": 10, "scripture": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not lack any good thing."},{"reference": "Psalm 34:11", "verseNumber": 11, "scripture": "Come, all of you children, hearken unto me: I will teach you the fear of the LORD."},{"reference": "Psalm 34:12", "verseNumber": 12, "scripture": "What man is he that desires life, and loves many days, that he may see good?"},{"reference": "Psalm 34:13", "verseNumber": 13, "scripture": "Keep your tongue from evil, and your lips from speaking guile."},{"reference": "Psalm 34:14", "verseNumber": 14, "scripture": "Depart from evil, and do good; seek peace, and pursue it."},{"reference": "Psalm 34:15", "verseNumber": 15, "scripture": "The eyes of the LORD are upon the righteous, and his ears are open unto their cry."},{"reference": "Psalm 34:16", "verseNumber": 16, "scripture": "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth."},{"reference": "Psalm 34:17", "verseNumber": 17, "scripture": "The righteous cry, and the LORD hears, and delivers them out of all their troubles."},{"reference": "Psalm 34:18", "verseNumber": 18, "scripture": "The LORD is nigh unto them that are of a broken heart; and saves such as be of a contrite spirit."},{"reference": "Psalm 34:19", "verseNumber": 19, "scripture": "Many are the afflictions of the righteous: but the LORD delivers him out of them all."},{"reference": "Psalm 34:20", "verseNumber": 20, "scripture": "He keeps all his bones: not one of them is broken."},{"reference": "Psalm 34:21", "verseNumber": 21, "scripture": "Evil shall slay the wicked: and they that hate the righteous shall be desolate."},{"reference": "Psalm 34:22", "verseNumber": 22, "scripture": "The LORD redeems the soul of his servants: and none of them that trust in him shall be desolate."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  34,
+     "verses":  [
+        {
+            "reference":  "Psalm 34:1",
+             "verseNumber":  1,
+             "scripture":  "I will bless the LORD at all times: his praise shall continually be in my mouth."
+        },
+        {
+            "reference":  "Psalm 34:2",
+             "verseNumber":  2,
+             "scripture":  "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad."
+        },
+        {
+            "reference":  "Psalm 34:3",
+             "verseNumber":  3,
+             "scripture":  "O magnify the LORD with me, and let us exalt his name together."
+        },
+        {
+            "reference":  "Psalm 34:4",
+             "verseNumber":  4,
+             "scripture":  "I sought the LORD, and he heard me, and delivered me from all my fears."
+        },
+        {
+            "reference":  "Psalm 34:5",
+             "verseNumber":  5,
+             "scripture":  "They looked unto him, and were lightened: and their faces were not ashamed."
+        },
+        {
+            "reference":  "Psalm 34:6",
+             "verseNumber":  6,
+             "scripture":  "This poor man cried, and the LORD heard him, and saved him out of all his troubles."
+        },
+        {
+            "reference":  "Psalm 34:7",
+             "verseNumber":  7,
+             "scripture":  "The angel of the LORD camps round about them that fear him, and delivers them."
+        },
+        {
+            "reference":  "Psalm 34:8",
+             "verseNumber":  8,
+             "scripture":  "O taste and see that the LORD is good: blessed is the man that trusts in him."
+        },
+        {
+            "reference":  "Psalm 34:9",
+             "verseNumber":  9,
+             "scripture":  "O fear the LORD, all of you his saints: for there is no lack to them that fear him."
+        },
+        {
+            "reference":  "Psalm 34:10",
+             "verseNumber":  10,
+             "scripture":  "The young lions do lack, and suffer hunger: but they that seek the LORD shall not lack any good thing."
+        },
+        {
+            "reference":  "Psalm 34:11",
+             "verseNumber":  11,
+             "scripture":  "Come, all of you children, hearken unto me: I will teach you the fear of the LORD."
+        },
+        {
+            "reference":  "Psalm 34:12",
+             "verseNumber":  12,
+             "scripture":  "What man is he that desires life, and loves many days, that he may see good?"
+        },
+        {
+            "reference":  "Psalm 34:13",
+             "verseNumber":  13,
+             "scripture":  "Keep your tongue from evil, and your lips from speaking guile."
+        },
+        {
+            "reference":  "Psalm 34:14",
+             "verseNumber":  14,
+             "scripture":  "Depart from evil, and do good; seek peace, and pursue it."
+        },
+        {
+            "reference":  "Psalm 34:15",
+             "verseNumber":  15,
+             "scripture":  "The eyes of the LORD are upon the righteous, and his ears are open unto their cry."
+        },
+        {
+            "reference":  "Psalm 34:16",
+             "verseNumber":  16,
+             "scripture":  "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth."
+        },
+        {
+            "reference":  "Psalm 34:17",
+             "verseNumber":  17,
+             "scripture":  "The righteous cry, and the LORD hears, and delivers them out of all their troubles."
+        },
+        {
+            "reference":  "Psalm 34:18",
+             "verseNumber":  18,
+             "scripture":  "The LORD is nigh unto them that are of a broken heart; and saves such as be of a contrite spirit."
+        },
+        {
+            "reference":  "Psalm 34:19",
+             "verseNumber":  19,
+             "scripture":  "Many are the afflictions of the righteous: but the LORD delivers him out of them all."
+        },
+        {
+            "reference":  "Psalm 34:20",
+             "verseNumber":  20,
+             "scripture":  "He keeps all his bones: not one of them is broken."
+        },
+        {
+            "reference":  "Psalm 34:21",
+             "verseNumber":  21,
+             "scripture":  "Evil shall slay the wicked: and they that hate the righteous shall be desolate."
+        },
+        {
+            "reference":  "Psalm 34:22",
+             "verseNumber":  22,
+             "scripture":  "The LORD redeems the soul of his servants: and none of them that trust in him shall be desolate."
+        }
+    ]
+}

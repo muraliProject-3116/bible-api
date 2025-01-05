@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 22, "verses": [{"reference": "Genesis 22:1", "verseNumber": 1, "scripture": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am."},{"reference": "Genesis 22:2", "verseNumber": 2, "scripture": "And he said, Take now your son, yours only son Isaac, whom you love, and get you into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell you of."},{"reference": "Genesis 22:3", "verseNumber": 3, "scripture": "And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him."},{"reference": "Genesis 22:4", "verseNumber": 4, "scripture": "Then on the third day Abraham lifted up his eyes, and saw the place far off."},{"reference": "Genesis 22:5", "verseNumber": 5, "scripture": "And Abraham said unto his young men, Abide all of you here with the ass; and I and the lad will go yonder and worship, and come again to you."},{"reference": "Genesis 22:6", "verseNumber": 6, "scripture": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together."},{"reference": "Genesis 22:7", "verseNumber": 7, "scripture": "And Isaac spoke unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"},{"reference": "Genesis 22:8", "verseNumber": 8, "scripture": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together."},{"reference": "Genesis 22:9", "verseNumber": 9, "scripture": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood."},{"reference": "Genesis 22:10", "verseNumber": 10, "scripture": "And Abraham stretched forth his hand, and took the knife to slay his son."},{"reference": "Genesis 22:11", "verseNumber": 11, "scripture": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I."},{"reference": "Genesis 22:12", "verseNumber": 12, "scripture": "And he said, Lay not yours hand upon the lad, neither do you any thing unto him: for now I know that you fear God, seeing you have not withheld your son, yours only son from me."},{"reference": "Genesis 22:13", "verseNumber": 13, "scripture": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the position of his son."},{"reference": "Genesis 22:14", "verseNumber": 14, "scripture": "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen."},{"reference": "Genesis 22:15", "verseNumber": 15, "scripture": "And the angel of the LORD called unto Abraham out of heaven the second time,"},{"reference": "Genesis 22:16", "verseNumber": 16, "scripture": "And said, By myself have I sworn, says the LORD, for because you have done this thing, and have not withheld your son, yours only son:"},{"reference": "Genesis 22:17", "verseNumber": 17, "scripture": "That in blessing I will bless you, and in multiplying I will multiply your seed as the stars of the heaven, and as the sand which is upon the sea shore; and your seed shall possess the gate of his enemies;"},{"reference": "Genesis 22:18", "verseNumber": 18, "scripture": "And in your seed shall all the nations of the earth be blessed; because you have obeyed my voice."},{"reference": "Genesis 22:19", "verseNumber": 19, "scripture": "So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba."},{"reference": "Genesis 22:20", "verseNumber": 20, "scripture": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she has also born children unto your brother Nahor;"},{"reference": "Genesis 22:21", "verseNumber": 21, "scripture": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,"},{"reference": "Genesis 22:22", "verseNumber": 22, "scripture": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel."},{"reference": "Genesis 22:23", "verseNumber": 23, "scripture": "And Bethuel brings forth Rebekah: these eight Milcah did bear to Nahor, Abraham's brother."},{"reference": "Genesis 22:24", "verseNumber": 24, "scripture": "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  22,
+     "verses":  [
+        {
+            "reference":  "Genesis 22:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am."
+        },
+        {
+            "reference":  "Genesis 22:2",
+             "verseNumber":  2,
+             "scripture":  "And he said, Take now your son, yours only son Isaac, whom you love, and get you into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell you of."
+        },
+        {
+            "reference":  "Genesis 22:3",
+             "verseNumber":  3,
+             "scripture":  "And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him."
+        },
+        {
+            "reference":  "Genesis 22:4",
+             "verseNumber":  4,
+             "scripture":  "Then on the third day Abraham lifted up his eyes, and saw the place far off."
+        },
+        {
+            "reference":  "Genesis 22:5",
+             "verseNumber":  5,
+             "scripture":  "And Abraham said unto his young men, Abide all of you here with the ass; and I and the lad will go yonder and worship, and come again to you."
+        },
+        {
+            "reference":  "Genesis 22:6",
+             "verseNumber":  6,
+             "scripture":  "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together."
+        },
+        {
+            "reference":  "Genesis 22:7",
+             "verseNumber":  7,
+             "scripture":  "And Isaac spoke unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"
+        },
+        {
+            "reference":  "Genesis 22:8",
+             "verseNumber":  8,
+             "scripture":  "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
+        },
+        {
+            "reference":  "Genesis 22:9",
+             "verseNumber":  9,
+             "scripture":  "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood."
+        },
+        {
+            "reference":  "Genesis 22:10",
+             "verseNumber":  10,
+             "scripture":  "And Abraham stretched forth his hand, and took the knife to slay his son."
+        },
+        {
+            "reference":  "Genesis 22:11",
+             "verseNumber":  11,
+             "scripture":  "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I."
+        },
+        {
+            "reference":  "Genesis 22:12",
+             "verseNumber":  12,
+             "scripture":  "And he said, Lay not yours hand upon the lad, neither do you any thing unto him: for now I know that you fear God, seeing you have not withheld your son, yours only son from me."
+        },
+        {
+            "reference":  "Genesis 22:13",
+             "verseNumber":  13,
+             "scripture":  "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the position of his son."
+        },
+        {
+            "reference":  "Genesis 22:14",
+             "verseNumber":  14,
+             "scripture":  "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen."
+        },
+        {
+            "reference":  "Genesis 22:15",
+             "verseNumber":  15,
+             "scripture":  "And the angel of the LORD called unto Abraham out of heaven the second time,"
+        },
+        {
+            "reference":  "Genesis 22:16",
+             "verseNumber":  16,
+             "scripture":  "And said, By myself have I sworn, says the LORD, for because you have done this thing, and have not withheld your son, yours only son:"
+        },
+        {
+            "reference":  "Genesis 22:17",
+             "verseNumber":  17,
+             "scripture":  "That in blessing I will bless you, and in multiplying I will multiply your seed as the stars of the heaven, and as the sand which is upon the sea shore; and your seed shall possess the gate of his enemies;"
+        },
+        {
+            "reference":  "Genesis 22:18",
+             "verseNumber":  18,
+             "scripture":  "And in your seed shall all the nations of the earth be blessed; because you have obeyed my voice."
+        },
+        {
+            "reference":  "Genesis 22:19",
+             "verseNumber":  19,
+             "scripture":  "So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba."
+        },
+        {
+            "reference":  "Genesis 22:20",
+             "verseNumber":  20,
+             "scripture":  "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she has also born children unto your brother Nahor;"
+        },
+        {
+            "reference":  "Genesis 22:21",
+             "verseNumber":  21,
+             "scripture":  "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,"
+        },
+        {
+            "reference":  "Genesis 22:22",
+             "verseNumber":  22,
+             "scripture":  "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel."
+        },
+        {
+            "reference":  "Genesis 22:23",
+             "verseNumber":  23,
+             "scripture":  "And Bethuel brings forth Rebekah: these eight Milcah did bear to Nahor, Abraham's brother."
+        },
+        {
+            "reference":  "Genesis 22:24",
+             "verseNumber":  24,
+             "scripture":  "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah."
+        }
+    ]
+}

@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Esther", "bookAbbreviation": "Est", "chapterNumber": 7, "verses": [{"reference": "Esther 7:1", "verseNumber": 1, "scripture": "So the king and Haman came to banquet with Esther the queen."},{"reference": "Esther 7:2", "verseNumber": 2, "scripture": "And the king said again unto Esther on the second day at the banquet of wine, What is your petition, queen Esther? and it shall be granted you: and what is your request? and it shall be performed, even to the half of the kingdom."},{"reference": "Esther 7:3", "verseNumber": 3, "scripture": "Then Esther the queen answered and said, If I have found favour in your sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:"},{"reference": "Esther 7:4", "verseNumber": 4, "scripture": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage."},{"reference": "Esther 7:5", "verseNumber": 5, "scripture": "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?"},{"reference": "Esther 7:6", "verseNumber": 6, "scripture": "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen."},{"reference": "Esther 7:7", "verseNumber": 7, "scripture": "And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king."},{"reference": "Esther 7:8", "verseNumber": 8, "scripture": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of king's mouth, they covered Haman's face."},{"reference": "Esther 7:9", "verseNumber": 9, "scripture": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who spoken good for the king, stands in the house of Haman. Then the king said, Hang him thereon."},{"reference": "Esther 7:10", "verseNumber": 10, "scripture": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Esther",
+     "bookAbbreviation":  "Est",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "Esther 7:1",
+             "verseNumber":  1,
+             "scripture":  "So the king and Haman came to banquet with Esther the queen."
+        },
+        {
+            "reference":  "Esther 7:2",
+             "verseNumber":  2,
+             "scripture":  "And the king said again unto Esther on the second day at the banquet of wine, What is your petition, queen Esther? and it shall be granted you: and what is your request? and it shall be performed, even to the half of the kingdom."
+        },
+        {
+            "reference":  "Esther 7:3",
+             "verseNumber":  3,
+             "scripture":  "Then Esther the queen answered and said, If I have found favour in your sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:"
+        },
+        {
+            "reference":  "Esther 7:4",
+             "verseNumber":  4,
+             "scripture":  "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage."
+        },
+        {
+            "reference":  "Esther 7:5",
+             "verseNumber":  5,
+             "scripture":  "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?"
+        },
+        {
+            "reference":  "Esther 7:6",
+             "verseNumber":  6,
+             "scripture":  "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen."
+        },
+        {
+            "reference":  "Esther 7:7",
+             "verseNumber":  7,
+             "scripture":  "And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king."
+        },
+        {
+            "reference":  "Esther 7:8",
+             "verseNumber":  8,
+             "scripture":  "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of king's mouth, they covered Haman's face."
+        },
+        {
+            "reference":  "Esther 7:9",
+             "verseNumber":  9,
+             "scripture":  "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who spoken good for the king, stands in the house of Haman. Then the king said, Hang him thereon."
+        },
+        {
+            "reference":  "Esther 7:10",
+             "verseNumber":  10,
+             "scripture":  "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified."
+        }
+    ]
+}

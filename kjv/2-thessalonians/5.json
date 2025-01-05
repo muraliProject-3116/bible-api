@@ -1,1 +1,155 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Thessalonians", "bookAbbreviation": "2 The", "chapterNumber": 5, "verses": [{"reference": "1 Thessalonians 5:1", "verseNumber": 1, "scripture": "But of the times and the seasons, brethren, all of you have no need that I write unto you."},{"reference": "1 Thessalonians 5:2", "verseNumber": 2, "scripture": "For yourselves know perfectly that the day of the Lord so comes as a thief in the night."},{"reference": "1 Thessalonians 5:3", "verseNumber": 3, "scripture": "For when they shall say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they shall not escape."},{"reference": "1 Thessalonians 5:4", "verseNumber": 4, "scripture": "But all of you, brethren, are not in darkness, that that day should overtake you as a thief."},{"reference": "1 Thessalonians 5:5", "verseNumber": 5, "scripture": "All of you are all the children of light, and the children of the day: we are not of the night, nor of darkness."},{"reference": "1 Thessalonians 5:6", "verseNumber": 6, "scripture": "Therefore let us not sleep, as do others; but let us watch and be sober."},{"reference": "1 Thessalonians 5:7", "verseNumber": 7, "scripture": "For they that sleep sleep in the night; and they that be drunken are drunken in the night."},{"reference": "1 Thessalonians 5:8", "verseNumber": 8, "scripture": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."},{"reference": "1 Thessalonians 5:9", "verseNumber": 9, "scripture": "For God has not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"},{"reference": "1 Thessalonians 5:10", "verseNumber": 10, "scripture": "Who died for us, that, whether we wake or sleep, we should live together with him."},{"reference": "1 Thessalonians 5:11", "verseNumber": 11, "scripture": "Wherefore comfort yourselves together, and edify one another, even as also all of you do."},{"reference": "1 Thessalonians 5:12", "verseNumber": 12, "scripture": "And we plead to you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"},{"reference": "1 Thessalonians 5:13", "verseNumber": 13, "scripture": "And to esteem them very highly in love for their work's sake. And be at peace among yourselves."},{"reference": "1 Thessalonians 5:14", "verseNumber": 14, "scripture": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men."},{"reference": "1 Thessalonians 5:15", "verseNumber": 15, "scripture": "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men."},{"reference": "1 Thessalonians 5:16", "verseNumber": 16, "scripture": "Rejoice evermore."},{"reference": "1 Thessalonians 5:17", "verseNumber": 17, "scripture": "Pray without ceasing."},{"reference": "1 Thessalonians 5:18", "verseNumber": 18, "scripture": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."},{"reference": "1 Thessalonians 5:19", "verseNumber": 19, "scripture": "Quench not the Spirit."},{"reference": "1 Thessalonians 5:20", "verseNumber": 20, "scripture": "Despise not prophesyings."},{"reference": "1 Thessalonians 5:21", "verseNumber": 21, "scripture": "Prove all things; hold fast that which is good."},{"reference": "1 Thessalonians 5:22", "verseNumber": 22, "scripture": "Abstain from all appearance of evil."},{"reference": "1 Thessalonians 5:23", "verseNumber": 23, "scripture": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."},{"reference": "1 Thessalonians 5:24", "verseNumber": 24, "scripture": "Faithful is he that calls you, who also will do it."},{"reference": "1 Thessalonians 5:25", "verseNumber": 25, "scripture": "Brethren, pray for us."},{"reference": "1 Thessalonians 5:26", "verseNumber": 26, "scripture": "Greet all the brethren with an holy kiss."},{"reference": "1 Thessalonians 5:27", "verseNumber": 27, "scripture": "I charge you by the Lord that this epistle be read unto all the holy brethren."},{"reference": "1 Thessalonians 5:28", "verseNumber": 28, "scripture": "The grace of our Lord Jesus Christ be with you. Amen."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Thessalonians",
+     "bookAbbreviation":  "2 The",
+     "chapterNumber":  5,
+     "verses":  [
+        {
+            "reference":  "1 Thessalonians 5:1",
+             "verseNumber":  1,
+             "scripture":  "But of the times and the seasons, brethren, all of you have no need that I write unto you."
+        },
+        {
+            "reference":  "1 Thessalonians 5:2",
+             "verseNumber":  2,
+             "scripture":  "For yourselves know perfectly that the day of the Lord so comes as a thief in the night."
+        },
+        {
+            "reference":  "1 Thessalonians 5:3",
+             "verseNumber":  3,
+             "scripture":  "For when they shall say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they shall not escape."
+        },
+        {
+            "reference":  "1 Thessalonians 5:4",
+             "verseNumber":  4,
+             "scripture":  "But all of you, brethren, are not in darkness, that that day should overtake you as a thief."
+        },
+        {
+            "reference":  "1 Thessalonians 5:5",
+             "verseNumber":  5,
+             "scripture":  "All of you are all the children of light, and the children of the day: we are not of the night, nor of darkness."
+        },
+        {
+            "reference":  "1 Thessalonians 5:6",
+             "verseNumber":  6,
+             "scripture":  "Therefore let us not sleep, as do others; but let us watch and be sober."
+        },
+        {
+            "reference":  "1 Thessalonians 5:7",
+             "verseNumber":  7,
+             "scripture":  "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
+        },
+        {
+            "reference":  "1 Thessalonians 5:8",
+             "verseNumber":  8,
+             "scripture":  "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
+        },
+        {
+            "reference":  "1 Thessalonians 5:9",
+             "verseNumber":  9,
+             "scripture":  "For God has not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+        },
+        {
+            "reference":  "1 Thessalonians 5:10",
+             "verseNumber":  10,
+             "scripture":  "Who died for us, that, whether we wake or sleep, we should live together with him."
+        },
+        {
+            "reference":  "1 Thessalonians 5:11",
+             "verseNumber":  11,
+             "scripture":  "Wherefore comfort yourselves together, and edify one another, even as also all of you do."
+        },
+        {
+            "reference":  "1 Thessalonians 5:12",
+             "verseNumber":  12,
+             "scripture":  "And we plead to you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
+        },
+        {
+            "reference":  "1 Thessalonians 5:13",
+             "verseNumber":  13,
+             "scripture":  "And to esteem them very highly in love for their work's sake. And be at peace among yourselves."
+        },
+        {
+            "reference":  "1 Thessalonians 5:14",
+             "verseNumber":  14,
+             "scripture":  "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men."
+        },
+        {
+            "reference":  "1 Thessalonians 5:15",
+             "verseNumber":  15,
+             "scripture":  "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men."
+        },
+        {
+            "reference":  "1 Thessalonians 5:16",
+             "verseNumber":  16,
+             "scripture":  "Rejoice evermore."
+        },
+        {
+            "reference":  "1 Thessalonians 5:17",
+             "verseNumber":  17,
+             "scripture":  "Pray without ceasing."
+        },
+        {
+            "reference":  "1 Thessalonians 5:18",
+             "verseNumber":  18,
+             "scripture":  "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+        },
+        {
+            "reference":  "1 Thessalonians 5:19",
+             "verseNumber":  19,
+             "scripture":  "Quench not the Spirit."
+        },
+        {
+            "reference":  "1 Thessalonians 5:20",
+             "verseNumber":  20,
+             "scripture":  "Despise not prophesyings."
+        },
+        {
+            "reference":  "1 Thessalonians 5:21",
+             "verseNumber":  21,
+             "scripture":  "Prove all things; hold fast that which is good."
+        },
+        {
+            "reference":  "1 Thessalonians 5:22",
+             "verseNumber":  22,
+             "scripture":  "Abstain from all appearance of evil."
+        },
+        {
+            "reference":  "1 Thessalonians 5:23",
+             "verseNumber":  23,
+             "scripture":  "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
+        },
+        {
+            "reference":  "1 Thessalonians 5:24",
+             "verseNumber":  24,
+             "scripture":  "Faithful is he that calls you, who also will do it."
+        },
+        {
+            "reference":  "1 Thessalonians 5:25",
+             "verseNumber":  25,
+             "scripture":  "Brethren, pray for us."
+        },
+        {
+            "reference":  "1 Thessalonians 5:26",
+             "verseNumber":  26,
+             "scripture":  "Greet all the brethren with an holy kiss."
+        },
+        {
+            "reference":  "1 Thessalonians 5:27",
+             "verseNumber":  27,
+             "scripture":  "I charge you by the Lord that this epistle be read unto all the holy brethren."
+        },
+        {
+            "reference":  "1 Thessalonians 5:28",
+             "verseNumber":  28,
+             "scripture":  "The grace of our Lord Jesus Christ be with you. Amen."
+        }
+    ]
+}

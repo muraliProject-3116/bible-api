@@ -1,1 +1,150 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Joshua", "bookAbbreviation": "Jos", "chapterNumber": 9, "verses": [{"reference": "Joshua 9:1", "verseNumber": 1, "scripture": "And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea opposite to Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;"},{"reference": "Joshua 9:2", "verseNumber": 2, "scripture": "That they gathered themselves together, to fight with Joshua and with Israel, with one accord."},{"reference": "Joshua 9:3", "verseNumber": 3, "scripture": "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,"},{"reference": "Joshua 9:4", "verseNumber": 4, "scripture": "They did work cunningly, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;"},{"reference": "Joshua 9:5", "verseNumber": 5, "scripture": "And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry and mouldy."},{"reference": "Joshua 9:6", "verseNumber": 6, "scripture": "And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make all of you a league with us."},{"reference": "Joshua 9:7", "verseNumber": 7, "scripture": "And the men of Israel said unto the Hivites, Possibly all of you dwell among us; and how shall we make a league with you?"},{"reference": "Joshua 9:8", "verseNumber": 8, "scripture": "And they said unto Joshua, We are your servants. And Joshua said unto them, Who are all of you? and from whence come all of you?"},{"reference": "Joshua 9:9", "verseNumber": 9, "scripture": "And they said unto him, From a very far country your servants are come because of the name of the LORD your God: for we have heard the fame of him, and all that he did in Egypt,"},{"reference": "Joshua 9:10", "verseNumber": 10, "scripture": "And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth."},{"reference": "Joshua 9:11", "verseNumber": 11, "scripture": "Wherefore our elders and all the inhabitants of our country spoke to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make all of you a league with us."},{"reference": "Joshua 9:12", "verseNumber": 12, "scripture": "This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:"},{"reference": "Joshua 9:13", "verseNumber": 13, "scripture": "And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey."},{"reference": "Joshua 9:14", "verseNumber": 14, "scripture": "And the men took of their victuals, and asked not counsel at the mouth of the LORD."},{"reference": "Joshua 9:15", "verseNumber": 15, "scripture": "And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation swore unto them."},{"reference": "Joshua 9:16", "verseNumber": 16, "scripture": "And it came to pass at the end of three days after they had made a league with them, that they heard that they were their neighbours, and that they dwelt among them."},{"reference": "Joshua 9:17", "verseNumber": 17, "scripture": "And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjathjearim."},{"reference": "Joshua 9:18", "verseNumber": 18, "scripture": "And the children of Israel stroke them not, because the princes of the congregation had sworn unto them by the LORD God of Israel. And all the congregation murmured against the princes."},{"reference": "Joshua 9:19", "verseNumber": 19, "scripture": "But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them."},{"reference": "Joshua 9:20", "verseNumber": 20, "scripture": "This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we swore unto them."},{"reference": "Joshua 9:21", "verseNumber": 21, "scripture": "And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them."},{"reference": "Joshua 9:22", "verseNumber": 22, "scripture": "And Joshua called for them, and he spoke unto them, saying, Wherefore have all of you misled us, saying, We are very far from you; when all of you dwell among us?"},{"reference": "Joshua 9:23", "verseNumber": 23, "scripture": "Now therefore all of you are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God."},{"reference": "Joshua 9:24", "verseNumber": 24, "scripture": "And they answered Joshua, and said, Because it was certainly told your servants, how that the LORD your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing."},{"reference": "Joshua 9:25", "verseNumber": 25, "scripture": "And now, behold, we are in yours hand: as it seems good and right unto you to do unto us, do."},{"reference": "Joshua 9:26", "verseNumber": 26, "scripture": "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not."},{"reference": "Joshua 9:27", "verseNumber": 27, "scripture": "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Joshua",
+     "bookAbbreviation":  "Jos",
+     "chapterNumber":  9,
+     "verses":  [
+        {
+            "reference":  "Joshua 9:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea opposite to Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;"
+        },
+        {
+            "reference":  "Joshua 9:2",
+             "verseNumber":  2,
+             "scripture":  "That they gathered themselves together, to fight with Joshua and with Israel, with one accord."
+        },
+        {
+            "reference":  "Joshua 9:3",
+             "verseNumber":  3,
+             "scripture":  "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,"
+        },
+        {
+            "reference":  "Joshua 9:4",
+             "verseNumber":  4,
+             "scripture":  "They did work cunningly, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;"
+        },
+        {
+            "reference":  "Joshua 9:5",
+             "verseNumber":  5,
+             "scripture":  "And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry and mouldy."
+        },
+        {
+            "reference":  "Joshua 9:6",
+             "verseNumber":  6,
+             "scripture":  "And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make all of you a league with us."
+        },
+        {
+            "reference":  "Joshua 9:7",
+             "verseNumber":  7,
+             "scripture":  "And the men of Israel said unto the Hivites, Possibly all of you dwell among us; and how shall we make a league with you?"
+        },
+        {
+            "reference":  "Joshua 9:8",
+             "verseNumber":  8,
+             "scripture":  "And they said unto Joshua, We are your servants. And Joshua said unto them, Who are all of you? and from whence come all of you?"
+        },
+        {
+            "reference":  "Joshua 9:9",
+             "verseNumber":  9,
+             "scripture":  "And they said unto him, From a very far country your servants are come because of the name of the LORD your God: for we have heard the fame of him, and all that he did in Egypt,"
+        },
+        {
+            "reference":  "Joshua 9:10",
+             "verseNumber":  10,
+             "scripture":  "And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth."
+        },
+        {
+            "reference":  "Joshua 9:11",
+             "verseNumber":  11,
+             "scripture":  "Wherefore our elders and all the inhabitants of our country spoke to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make all of you a league with us."
+        },
+        {
+            "reference":  "Joshua 9:12",
+             "verseNumber":  12,
+             "scripture":  "This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:"
+        },
+        {
+            "reference":  "Joshua 9:13",
+             "verseNumber":  13,
+             "scripture":  "And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey."
+        },
+        {
+            "reference":  "Joshua 9:14",
+             "verseNumber":  14,
+             "scripture":  "And the men took of their victuals, and asked not counsel at the mouth of the LORD."
+        },
+        {
+            "reference":  "Joshua 9:15",
+             "verseNumber":  15,
+             "scripture":  "And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation swore unto them."
+        },
+        {
+            "reference":  "Joshua 9:16",
+             "verseNumber":  16,
+             "scripture":  "And it came to pass at the end of three days after they had made a league with them, that they heard that they were their neighbours, and that they dwelt among them."
+        },
+        {
+            "reference":  "Joshua 9:17",
+             "verseNumber":  17,
+             "scripture":  "And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjathjearim."
+        },
+        {
+            "reference":  "Joshua 9:18",
+             "verseNumber":  18,
+             "scripture":  "And the children of Israel stroke them not, because the princes of the congregation had sworn unto them by the LORD God of Israel. And all the congregation murmured against the princes."
+        },
+        {
+            "reference":  "Joshua 9:19",
+             "verseNumber":  19,
+             "scripture":  "But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them."
+        },
+        {
+            "reference":  "Joshua 9:20",
+             "verseNumber":  20,
+             "scripture":  "This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we swore unto them."
+        },
+        {
+            "reference":  "Joshua 9:21",
+             "verseNumber":  21,
+             "scripture":  "And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them."
+        },
+        {
+            "reference":  "Joshua 9:22",
+             "verseNumber":  22,
+             "scripture":  "And Joshua called for them, and he spoke unto them, saying, Wherefore have all of you misled us, saying, We are very far from you; when all of you dwell among us?"
+        },
+        {
+            "reference":  "Joshua 9:23",
+             "verseNumber":  23,
+             "scripture":  "Now therefore all of you are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God."
+        },
+        {
+            "reference":  "Joshua 9:24",
+             "verseNumber":  24,
+             "scripture":  "And they answered Joshua, and said, Because it was certainly told your servants, how that the LORD your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing."
+        },
+        {
+            "reference":  "Joshua 9:25",
+             "verseNumber":  25,
+             "scripture":  "And now, behold, we are in yours hand: as it seems good and right unto you to do unto us, do."
+        },
+        {
+            "reference":  "Joshua 9:26",
+             "verseNumber":  26,
+             "scripture":  "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not."
+        },
+        {
+            "reference":  "Joshua 9:27",
+             "verseNumber":  27,
+             "scripture":  "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose."
+        }
+    ]
+}

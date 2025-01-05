@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 72, "verses": [{"reference": "Psalm 72:1", "verseNumber": 1, "scripture": "Give the king your judgments, O God, and your righteousness unto the king's son."},{"reference": "Psalm 72:2", "verseNumber": 2, "scripture": "He shall judge your people with righteousness, and your poor with judgment."},{"reference": "Psalm 72:3", "verseNumber": 3, "scripture": "The mountains shall bring peace to the people, and the little hills, by righteousness."},{"reference": "Psalm 72:4", "verseNumber": 4, "scripture": "He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor."},{"reference": "Psalm 72:5", "verseNumber": 5, "scripture": "They shall fear you as long as the sun and moon endure, throughout all generations."},{"reference": "Psalm 72:6", "verseNumber": 6, "scripture": "He shall come down like rain upon the mown grass: as showers that water the earth."},{"reference": "Psalm 72:7", "verseNumber": 7, "scripture": "In his days shall the righteous flourish; and abundance of peace so long as the moon endures."},{"reference": "Psalm 72:8", "verseNumber": 8, "scripture": "He shall have dominion also from sea to sea, and from the river unto the ends of the earth."},{"reference": "Psalm 72:9", "verseNumber": 9, "scripture": "They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust."},{"reference": "Psalm 72:10", "verseNumber": 10, "scripture": "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts."},{"reference": "Psalm 72:11", "verseNumber": 11, "scripture": "Yea, all kings shall fall down before him: all nations shall serve him."},{"reference": "Psalm 72:12", "verseNumber": 12, "scripture": "For he shall deliver the needy when he cries; the poor also, and him that has no helper."},{"reference": "Psalm 72:13", "verseNumber": 13, "scripture": "He shall spare the poor and needy, and shall save the souls of the needy."},{"reference": "Psalm 72:14", "verseNumber": 14, "scripture": "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight."},{"reference": "Psalm 72:15", "verseNumber": 15, "scripture": "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised."},{"reference": "Psalm 72:16", "verseNumber": 16, "scripture": "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth."},{"reference": "Psalm 72:17", "verseNumber": 17, "scripture": "His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed."},{"reference": "Psalm 72:18", "verseNumber": 18, "scripture": "Blessed be the LORD God, the God of Israel, who only does wondrous things."},{"reference": "Psalm 72:19", "verseNumber": 19, "scripture": "And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen."},{"reference": "Psalm 72:20", "verseNumber": 20, "scripture": "The prayers of David the son of Jesse are ended."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  72,
+     "verses":  [
+        {
+            "reference":  "Psalm 72:1",
+             "verseNumber":  1,
+             "scripture":  "Give the king your judgments, O God, and your righteousness unto the king's son."
+        },
+        {
+            "reference":  "Psalm 72:2",
+             "verseNumber":  2,
+             "scripture":  "He shall judge your people with righteousness, and your poor with judgment."
+        },
+        {
+            "reference":  "Psalm 72:3",
+             "verseNumber":  3,
+             "scripture":  "The mountains shall bring peace to the people, and the little hills, by righteousness."
+        },
+        {
+            "reference":  "Psalm 72:4",
+             "verseNumber":  4,
+             "scripture":  "He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor."
+        },
+        {
+            "reference":  "Psalm 72:5",
+             "verseNumber":  5,
+             "scripture":  "They shall fear you as long as the sun and moon endure, throughout all generations."
+        },
+        {
+            "reference":  "Psalm 72:6",
+             "verseNumber":  6,
+             "scripture":  "He shall come down like rain upon the mown grass: as showers that water the earth."
+        },
+        {
+            "reference":  "Psalm 72:7",
+             "verseNumber":  7,
+             "scripture":  "In his days shall the righteous flourish; and abundance of peace so long as the moon endures."
+        },
+        {
+            "reference":  "Psalm 72:8",
+             "verseNumber":  8,
+             "scripture":  "He shall have dominion also from sea to sea, and from the river unto the ends of the earth."
+        },
+        {
+            "reference":  "Psalm 72:9",
+             "verseNumber":  9,
+             "scripture":  "They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust."
+        },
+        {
+            "reference":  "Psalm 72:10",
+             "verseNumber":  10,
+             "scripture":  "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts."
+        },
+        {
+            "reference":  "Psalm 72:11",
+             "verseNumber":  11,
+             "scripture":  "Yea, all kings shall fall down before him: all nations shall serve him."
+        },
+        {
+            "reference":  "Psalm 72:12",
+             "verseNumber":  12,
+             "scripture":  "For he shall deliver the needy when he cries; the poor also, and him that has no helper."
+        },
+        {
+            "reference":  "Psalm 72:13",
+             "verseNumber":  13,
+             "scripture":  "He shall spare the poor and needy, and shall save the souls of the needy."
+        },
+        {
+            "reference":  "Psalm 72:14",
+             "verseNumber":  14,
+             "scripture":  "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight."
+        },
+        {
+            "reference":  "Psalm 72:15",
+             "verseNumber":  15,
+             "scripture":  "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised."
+        },
+        {
+            "reference":  "Psalm 72:16",
+             "verseNumber":  16,
+             "scripture":  "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth."
+        },
+        {
+            "reference":  "Psalm 72:17",
+             "verseNumber":  17,
+             "scripture":  "His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed."
+        },
+        {
+            "reference":  "Psalm 72:18",
+             "verseNumber":  18,
+             "scripture":  "Blessed be the LORD God, the God of Israel, who only does wondrous things."
+        },
+        {
+            "reference":  "Psalm 72:19",
+             "verseNumber":  19,
+             "scripture":  "And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen."
+        },
+        {
+            "reference":  "Psalm 72:20",
+             "verseNumber":  20,
+             "scripture":  "The prayers of David the son of Jesse are ended."
+        }
+    ]
+}

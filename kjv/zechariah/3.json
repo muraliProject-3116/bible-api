@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Zechariah", "bookAbbreviation": "Zec", "chapterNumber": 3, "verses": [{"reference": "Zechariah 3:1", "verseNumber": 1, "scripture": "And he showed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him."},{"reference": "Zechariah 3:2", "verseNumber": 2, "scripture": "And the LORD said unto Satan, The LORD rebuke you, O Satan; even the LORD that has chosen Jerusalem rebuke you: is not this a brand plucked out of the fire?"},{"reference": "Zechariah 3:3", "verseNumber": 3, "scripture": "Now Joshua was clothed with filthy garments, and stood before the angel."},{"reference": "Zechariah 3:4", "verseNumber": 4, "scripture": "And he answered and spoke unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused yours iniquity to pass from you, and I will clothe you with change of raiment."},{"reference": "Zechariah 3:5", "verseNumber": 5, "scripture": "And I said, Let them set a fair turban upon his head. So they set a fair turban upon his head, and clothed him with garments. And the angel of the LORD stood by."},{"reference": "Zechariah 3:6", "verseNumber": 6, "scripture": "And the angel of the LORD protested unto Joshua, saying,"},{"reference": "Zechariah 3:7", "verseNumber": 7, "scripture": "Thus says the LORD of hosts; If you will walk in my ways, and if you will keep my charge, then you shall also judge my house, and shall also keep my courts, and I will give you places to walk among these that stand by."},{"reference": "Zechariah 3:8", "verseNumber": 8, "scripture": "Hear now, O Joshua the high priest, you, and your fellows that sit before you: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH."},{"reference": "Zechariah 3:9", "verseNumber": 9, "scripture": "For behold the stone that I have laid before Joshua; upon one stone shall be seven eyes: behold, I will engrave the graving thereof, says the LORD of hosts, and I will remove the iniquity of that land in one day."},{"reference": "Zechariah 3:10", "verseNumber": 10, "scripture": "In that day, says the LORD of hosts, shall all of you call every man his neighbour under the vine and under the fig tree."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Zechariah",
+     "bookAbbreviation":  "Zec",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "Zechariah 3:1",
+             "verseNumber":  1,
+             "scripture":  "And he showed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him."
+        },
+        {
+            "reference":  "Zechariah 3:2",
+             "verseNumber":  2,
+             "scripture":  "And the LORD said unto Satan, The LORD rebuke you, O Satan; even the LORD that has chosen Jerusalem rebuke you: is not this a brand plucked out of the fire?"
+        },
+        {
+            "reference":  "Zechariah 3:3",
+             "verseNumber":  3,
+             "scripture":  "Now Joshua was clothed with filthy garments, and stood before the angel."
+        },
+        {
+            "reference":  "Zechariah 3:4",
+             "verseNumber":  4,
+             "scripture":  "And he answered and spoke unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused yours iniquity to pass from you, and I will clothe you with change of raiment."
+        },
+        {
+            "reference":  "Zechariah 3:5",
+             "verseNumber":  5,
+             "scripture":  "And I said, Let them set a fair turban upon his head. So they set a fair turban upon his head, and clothed him with garments. And the angel of the LORD stood by."
+        },
+        {
+            "reference":  "Zechariah 3:6",
+             "verseNumber":  6,
+             "scripture":  "And the angel of the LORD protested unto Joshua, saying,"
+        },
+        {
+            "reference":  "Zechariah 3:7",
+             "verseNumber":  7,
+             "scripture":  "Thus says the LORD of hosts; If you will walk in my ways, and if you will keep my charge, then you shall also judge my house, and shall also keep my courts, and I will give you places to walk among these that stand by."
+        },
+        {
+            "reference":  "Zechariah 3:8",
+             "verseNumber":  8,
+             "scripture":  "Hear now, O Joshua the high priest, you, and your fellows that sit before you: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH."
+        },
+        {
+            "reference":  "Zechariah 3:9",
+             "verseNumber":  9,
+             "scripture":  "For behold the stone that I have laid before Joshua; upon one stone shall be seven eyes: behold, I will engrave the graving thereof, says the LORD of hosts, and I will remove the iniquity of that land in one day."
+        },
+        {
+            "reference":  "Zechariah 3:10",
+             "verseNumber":  10,
+             "scripture":  "In that day, says the LORD of hosts, shall all of you call every man his neighbour under the vine and under the fig tree."
+        }
+    ]
+}

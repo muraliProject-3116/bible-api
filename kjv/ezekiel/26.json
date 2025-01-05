@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezekiel", "bookAbbreviation": "Eze", "chapterNumber": 26, "verses": [{"reference": "Ezekiel 26:1", "verseNumber": 1, "scripture": "And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,"},{"reference": "Ezekiel 26:2", "verseNumber": 2, "scripture": "Son of man, because that Tyrus has said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste:"},{"reference": "Ezekiel 26:3", "verseNumber": 3, "scripture": "Therefore thus says the Lord GOD; Behold, I am against you, O Tyrus, and will cause many nations to come up against you, as the sea causes his waves to come up."},{"reference": "Ezekiel 26:4", "verseNumber": 4, "scripture": "And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock."},{"reference": "Ezekiel 26:5", "verseNumber": 5, "scripture": "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, says the Lord GOD: and it shall become a spoil to the nations."},{"reference": "Ezekiel 26:6", "verseNumber": 6, "scripture": "And her daughters which are in the field shall be slain by the sword; and they shall know that I am the LORD."},{"reference": "Ezekiel 26:7", "verseNumber": 7, "scripture": "For thus says the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people."},{"reference": "Ezekiel 26:8", "verseNumber": 8, "scripture": "He shall slay with the sword your daughters in the field: and he shall make a fort against you, and cast a mount against you, and lift up the buckler against you."},{"reference": "Ezekiel 26:9", "verseNumber": 9, "scripture": "And he shall set engines of war against your walls, and with his axes he shall break down your towers."},{"reference": "Ezekiel 26:10", "verseNumber": 10, "scripture": "By reason of the abundance of his horses their dust shall cover you: your walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into your gates, as men enter into a city wherein is made a breach."},{"reference": "Ezekiel 26:11", "verseNumber": 11, "scripture": "With the hoofs of his horses shall he tread down all your streets: he shall slay your people by the sword, and your strong garrisons shall go down to the ground."},{"reference": "Ezekiel 26:12", "verseNumber": 12, "scripture": "And they shall make a spoil of your riches, and make a prey of your merchandise: and they shall break down your walls, and destroy your pleasant houses: and they shall lay your stones and your timber and your dust in the midst of the water."},{"reference": "Ezekiel 26:13", "verseNumber": 13, "scripture": "And I will cause the noise of your songs to cease; and the sound of your harps shall be no more heard."},{"reference": "Ezekiel 26:14", "verseNumber": 14, "scripture": "And I will make you like the top of a rock: you shall be a place to spread nets upon; you shall be built no more: for I the LORD have spoken it, says the Lord GOD."},{"reference": "Ezekiel 26:15", "verseNumber": 15, "scripture": "Thus says the Lord GOD to Tyrus; Shall not the isles shake at the sound of your fall, when the wounded cry, when the slaughter is made in the midst of you?"},{"reference": "Ezekiel 26:16", "verseNumber": 16, "scripture": "Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at every moment, and be astonished at you."},{"reference": "Ezekiel 26:17", "verseNumber": 17, "scripture": "And they shall take up a lamentation for you, and say to you, How are you destroyed, that were inhabited of seafaring men, the renowned city, which were strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!"},{"reference": "Ezekiel 26:18", "verseNumber": 18, "scripture": "Now shall the isles tremble in the day of your fall; yea, the isles that are in the sea shall be troubled at your departure."},{"reference": "Ezekiel 26:19", "verseNumber": 19, "scripture": "For thus says the Lord GOD; When I shall make you a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon you, and great waters shall cover you;"},{"reference": "Ezekiel 26:20", "verseNumber": 20, "scripture": "When I shall bring you down with them that descend into the pit, with the people of old time, and shall set you in the low parts of the earth, in places desolate of old, with them that go down to the pit, that you be not inhabited; and I shall set glory in the land of the living;"},{"reference": "Ezekiel 26:21", "verseNumber": 21, "scripture": "I will make you a terror, and you shall be no more: though you be sought for, yet shall you never be found again, says the Lord GOD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezekiel",
+     "bookAbbreviation":  "Eze",
+     "chapterNumber":  26,
+     "verses":  [
+        {
+            "reference":  "Ezekiel 26:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Ezekiel 26:2",
+             "verseNumber":  2,
+             "scripture":  "Son of man, because that Tyrus has said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste:"
+        },
+        {
+            "reference":  "Ezekiel 26:3",
+             "verseNumber":  3,
+             "scripture":  "Therefore thus says the Lord GOD; Behold, I am against you, O Tyrus, and will cause many nations to come up against you, as the sea causes his waves to come up."
+        },
+        {
+            "reference":  "Ezekiel 26:4",
+             "verseNumber":  4,
+             "scripture":  "And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock."
+        },
+        {
+            "reference":  "Ezekiel 26:5",
+             "verseNumber":  5,
+             "scripture":  "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, says the Lord GOD: and it shall become a spoil to the nations."
+        },
+        {
+            "reference":  "Ezekiel 26:6",
+             "verseNumber":  6,
+             "scripture":  "And her daughters which are in the field shall be slain by the sword; and they shall know that I am the LORD."
+        },
+        {
+            "reference":  "Ezekiel 26:7",
+             "verseNumber":  7,
+             "scripture":  "For thus says the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people."
+        },
+        {
+            "reference":  "Ezekiel 26:8",
+             "verseNumber":  8,
+             "scripture":  "He shall slay with the sword your daughters in the field: and he shall make a fort against you, and cast a mount against you, and lift up the buckler against you."
+        },
+        {
+            "reference":  "Ezekiel 26:9",
+             "verseNumber":  9,
+             "scripture":  "And he shall set engines of war against your walls, and with his axes he shall break down your towers."
+        },
+        {
+            "reference":  "Ezekiel 26:10",
+             "verseNumber":  10,
+             "scripture":  "By reason of the abundance of his horses their dust shall cover you: your walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into your gates, as men enter into a city wherein is made a breach."
+        },
+        {
+            "reference":  "Ezekiel 26:11",
+             "verseNumber":  11,
+             "scripture":  "With the hoofs of his horses shall he tread down all your streets: he shall slay your people by the sword, and your strong garrisons shall go down to the ground."
+        },
+        {
+            "reference":  "Ezekiel 26:12",
+             "verseNumber":  12,
+             "scripture":  "And they shall make a spoil of your riches, and make a prey of your merchandise: and they shall break down your walls, and destroy your pleasant houses: and they shall lay your stones and your timber and your dust in the midst of the water."
+        },
+        {
+            "reference":  "Ezekiel 26:13",
+             "verseNumber":  13,
+             "scripture":  "And I will cause the noise of your songs to cease; and the sound of your harps shall be no more heard."
+        },
+        {
+            "reference":  "Ezekiel 26:14",
+             "verseNumber":  14,
+             "scripture":  "And I will make you like the top of a rock: you shall be a place to spread nets upon; you shall be built no more: for I the LORD have spoken it, says the Lord GOD."
+        },
+        {
+            "reference":  "Ezekiel 26:15",
+             "verseNumber":  15,
+             "scripture":  "Thus says the Lord GOD to Tyrus; Shall not the isles shake at the sound of your fall, when the wounded cry, when the slaughter is made in the midst of you?"
+        },
+        {
+            "reference":  "Ezekiel 26:16",
+             "verseNumber":  16,
+             "scripture":  "Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at every moment, and be astonished at you."
+        },
+        {
+            "reference":  "Ezekiel 26:17",
+             "verseNumber":  17,
+             "scripture":  "And they shall take up a lamentation for you, and say to you, How are you destroyed, that were inhabited of seafaring men, the renowned city, which were strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!"
+        },
+        {
+            "reference":  "Ezekiel 26:18",
+             "verseNumber":  18,
+             "scripture":  "Now shall the isles tremble in the day of your fall; yea, the isles that are in the sea shall be troubled at your departure."
+        },
+        {
+            "reference":  "Ezekiel 26:19",
+             "verseNumber":  19,
+             "scripture":  "For thus says the Lord GOD; When I shall make you a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon you, and great waters shall cover you;"
+        },
+        {
+            "reference":  "Ezekiel 26:20",
+             "verseNumber":  20,
+             "scripture":  "When I shall bring you down with them that descend into the pit, with the people of old time, and shall set you in the low parts of the earth, in places desolate of old, with them that go down to the pit, that you be not inhabited; and I shall set glory in the land of the living;"
+        },
+        {
+            "reference":  "Ezekiel 26:21",
+             "verseNumber":  21,
+             "scripture":  "I will make you a terror, and you shall be no more: though you be sought for, yet shall you never be found again, says the Lord GOD."
+        }
+    ]
+}

@@ -1,1 +1,110 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Chronicles", "bookAbbreviation": "2 Chr", "chapterNumber": 10, "verses": [{"reference": "2 Chronicles 10:1", "verseNumber": 1, "scripture": "And Rehoboam went to Shechem: in order to Shechem were all Israel come to make him king."},{"reference": "2 Chronicles 10:2", "verseNumber": 2, "scripture": "And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, where he fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt."},{"reference": "2 Chronicles 10:3", "verseNumber": 3, "scripture": "And they sent and called him. So Jeroboam and all Israel came and spoke to Rehoboam, saying,"},{"reference": "2 Chronicles 10:4", "verseNumber": 4, "scripture": "Your father made our yoke grievous: now therefore ease you somewhat the grievous servitude of your father, and his heavy yoke that he put upon us, and we will serve you."},{"reference": "2 Chronicles 10:5", "verseNumber": 5, "scripture": "And he said unto them, Come again unto me after three days. And the people departed."},{"reference": "2 Chronicles 10:6", "verseNumber": 6, "scripture": "And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give all of you me to return answer to this people?"},{"reference": "2 Chronicles 10:7", "verseNumber": 7, "scripture": "And they spoke unto him, saying, If you be kind to this people, and please them, and speak good words to them, they will be your servants for ever."},{"reference": "2 Chronicles 10:8", "verseNumber": 8, "scripture": "But he forsook the counsel which the old men gave him, and took counsel with the young men that were brought up with him, that stood before him."},{"reference": "2 Chronicles 10:9", "verseNumber": 9, "scripture": "And he said unto them, What advice give all of you that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that your father did put upon us?"},{"reference": "2 Chronicles 10:10", "verseNumber": 10, "scripture": "And the young men that were brought up with him spoke unto him, saying, Thus shall you answer the people that spoke unto you, saying, Your father made our yoke heavy, but make you it somewhat lighter for us; thus shall you say unto them, My little finger shall be thicker than my father's loins."},{"reference": "2 Chronicles 10:11", "verseNumber": 11, "scripture": "For whereas my father put a heavy yoke upon you, I will put more to your yoke: my father chastised you with whips, but I will chastise you with scorpions."},{"reference": "2 Chronicles 10:12", "verseNumber": 12, "scripture": "So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day."},{"reference": "2 Chronicles 10:13", "verseNumber": 13, "scripture": "And the king answered them roughly; and king Rehoboam forsook the counsel of the old men,"},{"reference": "2 Chronicles 10:14", "verseNumber": 14, "scripture": "And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I will chastise you with scorpions."},{"reference": "2 Chronicles 10:15", "verseNumber": 15, "scripture": "So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spoke by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat."},{"reference": "2 Chronicles 10:16", "verseNumber": 16, "scripture": "And when all Israel saw that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and we have none inheritance in the son of Jesse: every man to your tents, O Israel: and now, David, see to yours own house. So all Israel went to their tents."},{"reference": "2 Chronicles 10:17", "verseNumber": 17, "scripture": "But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them."},{"reference": "2 Chronicles 10:18", "verseNumber": 18, "scripture": "Then king Rehoboam sent Hadoram that was over the tribute; and the children of Israel stoned him with stones, that he died. But king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem."},{"reference": "2 Chronicles 10:19", "verseNumber": 19, "scripture": "And Israel rebelled against the house of David unto this day."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Chronicles",
+     "bookAbbreviation":  "2 Chr",
+     "chapterNumber":  10,
+     "verses":  [
+        {
+            "reference":  "2 Chronicles 10:1",
+             "verseNumber":  1,
+             "scripture":  "And Rehoboam went to Shechem: in order to Shechem were all Israel come to make him king."
+        },
+        {
+            "reference":  "2 Chronicles 10:2",
+             "verseNumber":  2,
+             "scripture":  "And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, where he fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt."
+        },
+        {
+            "reference":  "2 Chronicles 10:3",
+             "verseNumber":  3,
+             "scripture":  "And they sent and called him. So Jeroboam and all Israel came and spoke to Rehoboam, saying,"
+        },
+        {
+            "reference":  "2 Chronicles 10:4",
+             "verseNumber":  4,
+             "scripture":  "Your father made our yoke grievous: now therefore ease you somewhat the grievous servitude of your father, and his heavy yoke that he put upon us, and we will serve you."
+        },
+        {
+            "reference":  "2 Chronicles 10:5",
+             "verseNumber":  5,
+             "scripture":  "And he said unto them, Come again unto me after three days. And the people departed."
+        },
+        {
+            "reference":  "2 Chronicles 10:6",
+             "verseNumber":  6,
+             "scripture":  "And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give all of you me to return answer to this people?"
+        },
+        {
+            "reference":  "2 Chronicles 10:7",
+             "verseNumber":  7,
+             "scripture":  "And they spoke unto him, saying, If you be kind to this people, and please them, and speak good words to them, they will be your servants for ever."
+        },
+        {
+            "reference":  "2 Chronicles 10:8",
+             "verseNumber":  8,
+             "scripture":  "But he forsook the counsel which the old men gave him, and took counsel with the young men that were brought up with him, that stood before him."
+        },
+        {
+            "reference":  "2 Chronicles 10:9",
+             "verseNumber":  9,
+             "scripture":  "And he said unto them, What advice give all of you that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that your father did put upon us?"
+        },
+        {
+            "reference":  "2 Chronicles 10:10",
+             "verseNumber":  10,
+             "scripture":  "And the young men that were brought up with him spoke unto him, saying, Thus shall you answer the people that spoke unto you, saying, Your father made our yoke heavy, but make you it somewhat lighter for us; thus shall you say unto them, My little finger shall be thicker than my father's loins."
+        },
+        {
+            "reference":  "2 Chronicles 10:11",
+             "verseNumber":  11,
+             "scripture":  "For whereas my father put a heavy yoke upon you, I will put more to your yoke: my father chastised you with whips, but I will chastise you with scorpions."
+        },
+        {
+            "reference":  "2 Chronicles 10:12",
+             "verseNumber":  12,
+             "scripture":  "So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day."
+        },
+        {
+            "reference":  "2 Chronicles 10:13",
+             "verseNumber":  13,
+             "scripture":  "And the king answered them roughly; and king Rehoboam forsook the counsel of the old men,"
+        },
+        {
+            "reference":  "2 Chronicles 10:14",
+             "verseNumber":  14,
+             "scripture":  "And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I will chastise you with scorpions."
+        },
+        {
+            "reference":  "2 Chronicles 10:15",
+             "verseNumber":  15,
+             "scripture":  "So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spoke by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat."
+        },
+        {
+            "reference":  "2 Chronicles 10:16",
+             "verseNumber":  16,
+             "scripture":  "And when all Israel saw that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and we have none inheritance in the son of Jesse: every man to your tents, O Israel: and now, David, see to yours own house. So all Israel went to their tents."
+        },
+        {
+            "reference":  "2 Chronicles 10:17",
+             "verseNumber":  17,
+             "scripture":  "But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them."
+        },
+        {
+            "reference":  "2 Chronicles 10:18",
+             "verseNumber":  18,
+             "scripture":  "Then king Rehoboam sent Hadoram that was over the tribute; and the children of Israel stoned him with stones, that he died. But king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem."
+        },
+        {
+            "reference":  "2 Chronicles 10:19",
+             "verseNumber":  19,
+             "scripture":  "And Israel rebelled against the house of David unto this day."
+        }
+    ]
+}

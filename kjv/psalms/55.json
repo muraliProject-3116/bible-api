@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 55, "verses": [{"reference": "Psalm 55:1", "verseNumber": 1, "scripture": "Give ear to my prayer, O God; and hide not yourself from my supplication."},{"reference": "Psalm 55:2", "verseNumber": 2, "scripture": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;"},{"reference": "Psalm 55:3", "verseNumber": 3, "scripture": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me."},{"reference": "Psalm 55:4", "verseNumber": 4, "scripture": "My heart is sore pained within me: and the terrors of death are fallen upon me."},{"reference": "Psalm 55:5", "verseNumber": 5, "scripture": "Fearfulness and trembling are come upon me, and horror has overwhelmed me."},{"reference": "Psalm 55:6", "verseNumber": 6, "scripture": "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest."},{"reference": "Psalm 55:7", "verseNumber": 7, "scripture": "Lo, then would I wander far off, and remain in the wilderness. Selah."},{"reference": "Psalm 55:8", "verseNumber": 8, "scripture": "I would hasten my escape from the windy storm and tempest."},{"reference": "Psalm 55:9", "verseNumber": 9, "scripture": "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city."},{"reference": "Psalm 55:10", "verseNumber": 10, "scripture": "Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it."},{"reference": "Psalm 55:11", "verseNumber": 11, "scripture": "Wickedness is in the midst thereof: deceit and guile depart not from her streets."},{"reference": "Psalm 55:12", "verseNumber": 12, "scripture": "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:"},{"reference": "Psalm 55:13", "verseNumber": 13, "scripture": "But it was you, a man mine equal, my guide, and mine acquaintance."},{"reference": "Psalm 55:14", "verseNumber": 14, "scripture": "We took sweet counsel together, and walked unto the house of God in company."},{"reference": "Psalm 55:15", "verseNumber": 15, "scripture": "Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them."},{"reference": "Psalm 55:16", "verseNumber": 16, "scripture": "As for me, I will call upon God; and the LORD shall save me."},{"reference": "Psalm 55:17", "verseNumber": 17, "scripture": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice."},{"reference": "Psalm 55:18", "verseNumber": 18, "scripture": "He has delivered my soul in peace from the battle that was against me: for there were many with me."},{"reference": "Psalm 55:19", "verseNumber": 19, "scripture": "God shall hear, and afflict them, even he that abides of old. Selah. Because they have no changes, therefore they fear not God."},{"reference": "Psalm 55:20", "verseNumber": 20, "scripture": "He has put forth his hands against such as be at peace with him: he has broken his covenant."},{"reference": "Psalm 55:21", "verseNumber": 21, "scripture": "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords."},{"reference": "Psalm 55:22", "verseNumber": 22, "scripture": "Cast your burden upon the LORD, and he shall sustain you: he shall never suffer the righteous to be moved."},{"reference": "Psalm 55:23", "verseNumber": 23, "scripture": "But you, O God, shall bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in you."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  55,
+     "verses":  [
+        {
+            "reference":  "Psalm 55:1",
+             "verseNumber":  1,
+             "scripture":  "Give ear to my prayer, O God; and hide not yourself from my supplication."
+        },
+        {
+            "reference":  "Psalm 55:2",
+             "verseNumber":  2,
+             "scripture":  "Attend unto me, and hear me: I mourn in my complaint, and make a noise;"
+        },
+        {
+            "reference":  "Psalm 55:3",
+             "verseNumber":  3,
+             "scripture":  "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me."
+        },
+        {
+            "reference":  "Psalm 55:4",
+             "verseNumber":  4,
+             "scripture":  "My heart is sore pained within me: and the terrors of death are fallen upon me."
+        },
+        {
+            "reference":  "Psalm 55:5",
+             "verseNumber":  5,
+             "scripture":  "Fearfulness and trembling are come upon me, and horror has overwhelmed me."
+        },
+        {
+            "reference":  "Psalm 55:6",
+             "verseNumber":  6,
+             "scripture":  "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest."
+        },
+        {
+            "reference":  "Psalm 55:7",
+             "verseNumber":  7,
+             "scripture":  "Lo, then would I wander far off, and remain in the wilderness. Selah."
+        },
+        {
+            "reference":  "Psalm 55:8",
+             "verseNumber":  8,
+             "scripture":  "I would hasten my escape from the windy storm and tempest."
+        },
+        {
+            "reference":  "Psalm 55:9",
+             "verseNumber":  9,
+             "scripture":  "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city."
+        },
+        {
+            "reference":  "Psalm 55:10",
+             "verseNumber":  10,
+             "scripture":  "Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it."
+        },
+        {
+            "reference":  "Psalm 55:11",
+             "verseNumber":  11,
+             "scripture":  "Wickedness is in the midst thereof: deceit and guile depart not from her streets."
+        },
+        {
+            "reference":  "Psalm 55:12",
+             "verseNumber":  12,
+             "scripture":  "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:"
+        },
+        {
+            "reference":  "Psalm 55:13",
+             "verseNumber":  13,
+             "scripture":  "But it was you, a man mine equal, my guide, and mine acquaintance."
+        },
+        {
+            "reference":  "Psalm 55:14",
+             "verseNumber":  14,
+             "scripture":  "We took sweet counsel together, and walked unto the house of God in company."
+        },
+        {
+            "reference":  "Psalm 55:15",
+             "verseNumber":  15,
+             "scripture":  "Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them."
+        },
+        {
+            "reference":  "Psalm 55:16",
+             "verseNumber":  16,
+             "scripture":  "As for me, I will call upon God; and the LORD shall save me."
+        },
+        {
+            "reference":  "Psalm 55:17",
+             "verseNumber":  17,
+             "scripture":  "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice."
+        },
+        {
+            "reference":  "Psalm 55:18",
+             "verseNumber":  18,
+             "scripture":  "He has delivered my soul in peace from the battle that was against me: for there were many with me."
+        },
+        {
+            "reference":  "Psalm 55:19",
+             "verseNumber":  19,
+             "scripture":  "God shall hear, and afflict them, even he that abides of old. Selah. Because they have no changes, therefore they fear not God."
+        },
+        {
+            "reference":  "Psalm 55:20",
+             "verseNumber":  20,
+             "scripture":  "He has put forth his hands against such as be at peace with him: he has broken his covenant."
+        },
+        {
+            "reference":  "Psalm 55:21",
+             "verseNumber":  21,
+             "scripture":  "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords."
+        },
+        {
+            "reference":  "Psalm 55:22",
+             "verseNumber":  22,
+             "scripture":  "Cast your burden upon the LORD, and he shall sustain you: he shall never suffer the righteous to be moved."
+        },
+        {
+            "reference":  "Psalm 55:23",
+             "verseNumber":  23,
+             "scripture":  "But you, O God, shall bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in you."
+        }
+    ]
+}

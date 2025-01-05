@@ -1,1 +1,190 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 23, "verses": [{"reference": "Proverbs 23:1", "verseNumber": 1, "scripture": "When you sit to eat with a ruler, consider diligently what is before you:"},{"reference": "Proverbs 23:2", "verseNumber": 2, "scripture": "And put a knife to your throat, if you be a man given to appetite."},{"reference": "Proverbs 23:3", "verseNumber": 3, "scripture": "Be not desirous of his dainties: for they are deceitful food."},{"reference": "Proverbs 23:4", "verseNumber": 4, "scripture": "Labour not to be rich: cease from yours own wisdom."},{"reference": "Proverbs 23:5", "verseNumber": 5, "scripture": "Will you set yours eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven."},{"reference": "Proverbs 23:6", "verseNumber": 6, "scripture": "Eat you not the bread of him that has an evil eye, neither desire you his dainty meats:"},{"reference": "Proverbs 23:7", "verseNumber": 7, "scripture": "For as he thinks in his heart, so is he: Eat and drink, says he to you; but his heart is not with you."},{"reference": "Proverbs 23:8", "verseNumber": 8, "scripture": "The morsel which you have eaten shall you vomit up, and lose your sweet words."},{"reference": "Proverbs 23:9", "verseNumber": 9, "scripture": "Speak not in the ears of a fool: for he will despise the wisdom of your words."},{"reference": "Proverbs 23:10", "verseNumber": 10, "scripture": "Remove not the old landmark; and enter not into the fields of the fatherless:"},{"reference": "Proverbs 23:11", "verseNumber": 11, "scripture": "For their redeemer is mighty; he shall plead their cause with you."},{"reference": "Proverbs 23:12", "verseNumber": 12, "scripture": "Apply yours heart unto instruction, and yours ears to the words of knowledge."},{"reference": "Proverbs 23:13", "verseNumber": 13, "scripture": "Withhold not correction from the child: for if you beat him with the rod, he shall not die."},{"reference": "Proverbs 23:14", "verseNumber": 14, "scripture": "You shall beat him with the rod, and shall deliver his soul from hell."},{"reference": "Proverbs 23:15", "verseNumber": 15, "scripture": "My son, if yours heart be wise, my heart shall rejoice, even mine."},{"reference": "Proverbs 23:16", "verseNumber": 16, "scripture": "Yea, my reins shall rejoice, when your lips speak right things."},{"reference": "Proverbs 23:17", "verseNumber": 17, "scripture": "Let not yours heart envy sinners: but be you in the fear of the LORD all the day long."},{"reference": "Proverbs 23:18", "verseNumber": 18, "scripture": "For surely there is an end; and yours expectation shall not be cut off."},{"reference": "Proverbs 23:19", "verseNumber": 19, "scripture": "Hear you, my son, and be wise, and guide yours heart in the way."},{"reference": "Proverbs 23:20", "verseNumber": 20, "scripture": "Be not among winebibbers; among riotous eaters of flesh:"},{"reference": "Proverbs 23:21", "verseNumber": 21, "scripture": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags."},{"reference": "Proverbs 23:22", "verseNumber": 22, "scripture": "Hearken unto your father that brings forth you, and despise not your mother when she is old."},{"reference": "Proverbs 23:23", "verseNumber": 23, "scripture": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding."},{"reference": "Proverbs 23:24", "verseNumber": 24, "scripture": "The father of the righteous shall greatly rejoice: and he that bring forths a wise child shall have joy of him."},{"reference": "Proverbs 23:25", "verseNumber": 25, "scripture": "Your father and your mother shall be glad, and she that bare you shall rejoice."},{"reference": "Proverbs 23:26", "verseNumber": 26, "scripture": "My son, give me yours heart, and let yours eyes observe my ways."},{"reference": "Proverbs 23:27", "verseNumber": 27, "scripture": "For a whore is a deep ditch; and a strange woman is a narrow pit."},{"reference": "Proverbs 23:28", "verseNumber": 28, "scripture": "She also lies in wait as for a prey, and increases the transgressors among men."},{"reference": "Proverbs 23:29", "verseNumber": 29, "scripture": "Who has woe? who has sorrow? who has contentions? who has babbling? who has wounds without cause? who has redness of eyes?"},{"reference": "Proverbs 23:30", "verseNumber": 30, "scripture": "They that tarry long at the wine; they that go to seek mixed wine."},{"reference": "Proverbs 23:31", "verseNumber": 31, "scripture": "Look not you upon the wine when it is red, when it gives his colour in the cup, when it moves itself aright."},{"reference": "Proverbs 23:32", "verseNumber": 32, "scripture": "At the last it bites like a serpent, and stings like an adder."},{"reference": "Proverbs 23:33", "verseNumber": 33, "scripture": "Yours eyes shall behold strange women, and yours heart shall utter perverse things."},{"reference": "Proverbs 23:34", "verseNumber": 34, "scripture": "Yea, you shall be as he that lies down in the midst of the sea, or as he that lies upon the top of a mast."},{"reference": "Proverbs 23:35", "verseNumber": 35, "scripture": "They have stricken me, shall you say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  23,
+     "verses":  [
+        {
+            "reference":  "Proverbs 23:1",
+             "verseNumber":  1,
+             "scripture":  "When you sit to eat with a ruler, consider diligently what is before you:"
+        },
+        {
+            "reference":  "Proverbs 23:2",
+             "verseNumber":  2,
+             "scripture":  "And put a knife to your throat, if you be a man given to appetite."
+        },
+        {
+            "reference":  "Proverbs 23:3",
+             "verseNumber":  3,
+             "scripture":  "Be not desirous of his dainties: for they are deceitful food."
+        },
+        {
+            "reference":  "Proverbs 23:4",
+             "verseNumber":  4,
+             "scripture":  "Labour not to be rich: cease from yours own wisdom."
+        },
+        {
+            "reference":  "Proverbs 23:5",
+             "verseNumber":  5,
+             "scripture":  "Will you set yours eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven."
+        },
+        {
+            "reference":  "Proverbs 23:6",
+             "verseNumber":  6,
+             "scripture":  "Eat you not the bread of him that has an evil eye, neither desire you his dainty meats:"
+        },
+        {
+            "reference":  "Proverbs 23:7",
+             "verseNumber":  7,
+             "scripture":  "For as he thinks in his heart, so is he: Eat and drink, says he to you; but his heart is not with you."
+        },
+        {
+            "reference":  "Proverbs 23:8",
+             "verseNumber":  8,
+             "scripture":  "The morsel which you have eaten shall you vomit up, and lose your sweet words."
+        },
+        {
+            "reference":  "Proverbs 23:9",
+             "verseNumber":  9,
+             "scripture":  "Speak not in the ears of a fool: for he will despise the wisdom of your words."
+        },
+        {
+            "reference":  "Proverbs 23:10",
+             "verseNumber":  10,
+             "scripture":  "Remove not the old landmark; and enter not into the fields of the fatherless:"
+        },
+        {
+            "reference":  "Proverbs 23:11",
+             "verseNumber":  11,
+             "scripture":  "For their redeemer is mighty; he shall plead their cause with you."
+        },
+        {
+            "reference":  "Proverbs 23:12",
+             "verseNumber":  12,
+             "scripture":  "Apply yours heart unto instruction, and yours ears to the words of knowledge."
+        },
+        {
+            "reference":  "Proverbs 23:13",
+             "verseNumber":  13,
+             "scripture":  "Withhold not correction from the child: for if you beat him with the rod, he shall not die."
+        },
+        {
+            "reference":  "Proverbs 23:14",
+             "verseNumber":  14,
+             "scripture":  "You shall beat him with the rod, and shall deliver his soul from hell."
+        },
+        {
+            "reference":  "Proverbs 23:15",
+             "verseNumber":  15,
+             "scripture":  "My son, if yours heart be wise, my heart shall rejoice, even mine."
+        },
+        {
+            "reference":  "Proverbs 23:16",
+             "verseNumber":  16,
+             "scripture":  "Yea, my reins shall rejoice, when your lips speak right things."
+        },
+        {
+            "reference":  "Proverbs 23:17",
+             "verseNumber":  17,
+             "scripture":  "Let not yours heart envy sinners: but be you in the fear of the LORD all the day long."
+        },
+        {
+            "reference":  "Proverbs 23:18",
+             "verseNumber":  18,
+             "scripture":  "For surely there is an end; and yours expectation shall not be cut off."
+        },
+        {
+            "reference":  "Proverbs 23:19",
+             "verseNumber":  19,
+             "scripture":  "Hear you, my son, and be wise, and guide yours heart in the way."
+        },
+        {
+            "reference":  "Proverbs 23:20",
+             "verseNumber":  20,
+             "scripture":  "Be not among winebibbers; among riotous eaters of flesh:"
+        },
+        {
+            "reference":  "Proverbs 23:21",
+             "verseNumber":  21,
+             "scripture":  "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags."
+        },
+        {
+            "reference":  "Proverbs 23:22",
+             "verseNumber":  22,
+             "scripture":  "Hearken unto your father that brings forth you, and despise not your mother when she is old."
+        },
+        {
+            "reference":  "Proverbs 23:23",
+             "verseNumber":  23,
+             "scripture":  "Buy the truth, and sell it not; also wisdom, and instruction, and understanding."
+        },
+        {
+            "reference":  "Proverbs 23:24",
+             "verseNumber":  24,
+             "scripture":  "The father of the righteous shall greatly rejoice: and he that bring forths a wise child shall have joy of him."
+        },
+        {
+            "reference":  "Proverbs 23:25",
+             "verseNumber":  25,
+             "scripture":  "Your father and your mother shall be glad, and she that bare you shall rejoice."
+        },
+        {
+            "reference":  "Proverbs 23:26",
+             "verseNumber":  26,
+             "scripture":  "My son, give me yours heart, and let yours eyes observe my ways."
+        },
+        {
+            "reference":  "Proverbs 23:27",
+             "verseNumber":  27,
+             "scripture":  "For a whore is a deep ditch; and a strange woman is a narrow pit."
+        },
+        {
+            "reference":  "Proverbs 23:28",
+             "verseNumber":  28,
+             "scripture":  "She also lies in wait as for a prey, and increases the transgressors among men."
+        },
+        {
+            "reference":  "Proverbs 23:29",
+             "verseNumber":  29,
+             "scripture":  "Who has woe? who has sorrow? who has contentions? who has babbling? who has wounds without cause? who has redness of eyes?"
+        },
+        {
+            "reference":  "Proverbs 23:30",
+             "verseNumber":  30,
+             "scripture":  "They that tarry long at the wine; they that go to seek mixed wine."
+        },
+        {
+            "reference":  "Proverbs 23:31",
+             "verseNumber":  31,
+             "scripture":  "Look not you upon the wine when it is red, when it gives his colour in the cup, when it moves itself aright."
+        },
+        {
+            "reference":  "Proverbs 23:32",
+             "verseNumber":  32,
+             "scripture":  "At the last it bites like a serpent, and stings like an adder."
+        },
+        {
+            "reference":  "Proverbs 23:33",
+             "verseNumber":  33,
+             "scripture":  "Yours eyes shall behold strange women, and yours heart shall utter perverse things."
+        },
+        {
+            "reference":  "Proverbs 23:34",
+             "verseNumber":  34,
+             "scripture":  "Yea, you shall be as he that lies down in the midst of the sea, or as he that lies upon the top of a mast."
+        },
+        {
+            "reference":  "Proverbs 23:35",
+             "verseNumber":  35,
+             "scripture":  "They have stricken me, shall you say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again."
+        }
+    ]
+}

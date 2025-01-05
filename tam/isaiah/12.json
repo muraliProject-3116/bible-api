@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "ஏசாயா", "bookAbbreviation": "ஏசா", "chapterNumber": 12, "verses": [{"reference": "ஏசாயா 12:1", "verseNumber": 1, "scripture": "அக்காலத்திலே நீ சொல்வது: கர்த்தாவே, நான் உம்மைத் துதிப்பேன்; நீர் என்மேல் கோபமாயிருந்தீர்; ஆனாலும் உம்முடைய கோபம் நீங்கிற்று; நீர் என்னைத் தேற்றுகிறீர்."},{"reference": "ஏசாயா 12:2", "verseNumber": 2, "scripture": "இதோ, தேவனே என் இரட்சிப்பு; நான் பயப்படாமல் நம்பிக்கையாயிருப்பேன்; கர்த்தராகிய யேகோவா என் பெலனும், என் கீதமுமானவர்; அவரே எனக்கு இரட்சிப்புமானவர்."},{"reference": "ஏசாயா 12:3", "verseNumber": 3, "scripture": "நீங்கள் இரட்சிப்பின் ஊற்றுகளிலிருந்து மகிழ்ச்சியோடே தண்ணீர் மொண்டுகொள்வீர்கள்."},{"reference": "ஏசாயா 12:4", "verseNumber": 4, "scripture": "அக்காலத்திலே நீங்கள் சொல்வது: கர்த்தரைத் துதியுங்கள்; அவர் நாமத்தைத் தொழுதுகொள்ளுங்கள்; அவருடைய செய்கைகளை ஜனங்களுக்குள்ளே அறிவியுங்கள்; அவருடைய நாமம் உயர்ந்ததென்று பிரஸ்தாபம்பண்ணுங்கள்."},{"reference": "ஏசாயா 12:5", "verseNumber": 5, "scripture": "கர்த்தரைக் கீர்த்தனம்பண்ணுங்கள், அவர் மகத்துவமான கிரியைகளைச் செய்தார்; இது பூமியெங்கும் அறியப்படக்கடவது என்பீர்கள்."},{"reference": "ஏசாயா 12:6", "verseNumber": 6, "scripture": "சீயோனில் வாசமாயிருக்கிறவளே, நீ சத்தமிட்டுக் கெம்பீரி; இஸ்ரவேலின் பரிசுத்தர் உன் நடுவில் பெரியவராயிருக்கிறார்."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "ஏசாயா",
+     "bookAbbreviation":  "ஏசா",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "ஏசாயா 12:1",
+             "verseNumber":  1,
+             "scripture":  "அக்காலத்திலே நீ சொல்வது: கர்த்தாவே, நான் உம்மைத் துதிப்பேன்; நீர் என்மேல் கோபமாயிருந்தீர்; ஆனாலும் உம்முடைய கோபம் நீங்கிற்று; நீர் என்னைத் தேற்றுகிறீர்."
+        },
+        {
+            "reference":  "ஏசாயா 12:2",
+             "verseNumber":  2,
+             "scripture":  "இதோ, தேவனே என் இரட்சிப்பு; நான் பயப்படாமல் நம்பிக்கையாயிருப்பேன்; கர்த்தராகிய யேகோவா என் பெலனும், என் கீதமுமானவர்; அவரே எனக்கு இரட்சிப்புமானவர்."
+        },
+        {
+            "reference":  "ஏசாயா 12:3",
+             "verseNumber":  3,
+             "scripture":  "நீங்கள் இரட்சிப்பின் ஊற்றுகளிலிருந்து மகிழ்ச்சியோடே தண்ணீர் மொண்டுகொள்வீர்கள்."
+        },
+        {
+            "reference":  "ஏசாயா 12:4",
+             "verseNumber":  4,
+             "scripture":  "அக்காலத்திலே நீங்கள் சொல்வது: கர்த்தரைத் துதியுங்கள்; அவர் நாமத்தைத் தொழுதுகொள்ளுங்கள்; அவருடைய செய்கைகளை ஜனங்களுக்குள்ளே அறிவியுங்கள்; அவருடைய நாமம் உயர்ந்ததென்று பிரஸ்தாபம்பண்ணுங்கள்."
+        },
+        {
+            "reference":  "ஏசாயா 12:5",
+             "verseNumber":  5,
+             "scripture":  "கர்த்தரைக் கீர்த்தனம்பண்ணுங்கள், அவர் மகத்துவமான கிரியைகளைச் செய்தார்; இது பூமியெங்கும் அறியப்படக்கடவது என்பீர்கள்."
+        },
+        {
+            "reference":  "ஏசாயா 12:6",
+             "verseNumber":  6,
+             "scripture":  "சீயோனில் வாசமாயிருக்கிறவளே, நீ சத்தமிட்டுக் கெம்பீரி; இஸ்ரவேலின் பரிசுத்தர் உன் நடுவில் பெரியவராயிருக்கிறார்."
+        }
+    ]
+}

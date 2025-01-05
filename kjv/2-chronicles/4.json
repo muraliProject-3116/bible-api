@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Chronicles", "bookAbbreviation": "2 Chr", "chapterNumber": 4, "verses": [{"reference": "2 Chronicles 4:1", "verseNumber": 1, "scripture": "Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof."},{"reference": "2 Chronicles 4:2", "verseNumber": 2, "scripture": "Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about."},{"reference": "2 Chronicles 4:3", "verseNumber": 3, "scripture": "And under it was the embodiment of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen were cast, when it was cast."},{"reference": "2 Chronicles 4:4", "verseNumber": 4, "scripture": "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward."},{"reference": "2 Chronicles 4:5", "verseNumber": 5, "scripture": "And the thickness of it was an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; and it received and held three thousand baths."},{"reference": "2 Chronicles 4:6", "verseNumber": 6, "scripture": "He made also ten lavers, and put five on the right hand, and five on the left, to wash in them: such things as they offered for the burnt offering they washed in them; but the sea was for the priests to wash in."},{"reference": "2 Chronicles 4:7", "verseNumber": 7, "scripture": "And he made ten candlesticks of gold according to their form, and set them in the temple, five on the right hand, and five on the left."},{"reference": "2 Chronicles 4:8", "verseNumber": 8, "scripture": "He made also ten tables, and placed them in the temple, five on the right side, and five on the left. And he made an hundred basons of gold."},{"reference": "2 Chronicles 4:9", "verseNumber": 9, "scripture": "Furthermore he made the court of the priests, and the great court, and doors for the court, and overlaid the doors of them with brass."},{"reference": "2 Chronicles 4:10", "verseNumber": 10, "scripture": "And he set the sea on the right side of the east end, opposite to the south."},{"reference": "2 Chronicles 4:11", "verseNumber": 11, "scripture": "And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;"},{"reference": "2 Chronicles 4:12", "verseNumber": 12, "scripture": "To know, the two pillars, and the pommels, and the capitals which were on the top of the two pillars, and the two wreaths to cover the two pommels of the capitals which were on the top of the pillars;"},{"reference": "2 Chronicles 4:13", "verseNumber": 13, "scripture": "And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the capitals which were upon the pillars."},{"reference": "2 Chronicles 4:14", "verseNumber": 14, "scripture": "He made also bases, and lavers made he upon the bases;"},{"reference": "2 Chronicles 4:15", "verseNumber": 15, "scripture": "One sea, and twelve oxen under it."},{"reference": "2 Chronicles 4:16", "verseNumber": 16, "scripture": "The pots also, and the shovels, and the forks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass."},{"reference": "2 Chronicles 4:17", "verseNumber": 17, "scripture": "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah."},{"reference": "2 Chronicles 4:18", "verseNumber": 18, "scripture": "Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out."},{"reference": "2 Chronicles 4:19", "verseNumber": 19, "scripture": "And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables whereon the showbread was set;"},{"reference": "2 Chronicles 4:20", "verseNumber": 20, "scripture": "Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;"},{"reference": "2 Chronicles 4:21", "verseNumber": 21, "scripture": "And the flowers, and the lamps, and the tongs, made he of gold, and that perfect gold;"},{"reference": "2 Chronicles 4:22", "verseNumber": 22, "scripture": "And the snuffers, and the basons, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place, and the doors of the house of the temple, were of gold."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Chronicles",
+     "bookAbbreviation":  "2 Chr",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "2 Chronicles 4:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof."
+        },
+        {
+            "reference":  "2 Chronicles 4:2",
+             "verseNumber":  2,
+             "scripture":  "Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about."
+        },
+        {
+            "reference":  "2 Chronicles 4:3",
+             "verseNumber":  3,
+             "scripture":  "And under it was the embodiment of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen were cast, when it was cast."
+        },
+        {
+            "reference":  "2 Chronicles 4:4",
+             "verseNumber":  4,
+             "scripture":  "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward."
+        },
+        {
+            "reference":  "2 Chronicles 4:5",
+             "verseNumber":  5,
+             "scripture":  "And the thickness of it was an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; and it received and held three thousand baths."
+        },
+        {
+            "reference":  "2 Chronicles 4:6",
+             "verseNumber":  6,
+             "scripture":  "He made also ten lavers, and put five on the right hand, and five on the left, to wash in them: such things as they offered for the burnt offering they washed in them; but the sea was for the priests to wash in."
+        },
+        {
+            "reference":  "2 Chronicles 4:7",
+             "verseNumber":  7,
+             "scripture":  "And he made ten candlesticks of gold according to their form, and set them in the temple, five on the right hand, and five on the left."
+        },
+        {
+            "reference":  "2 Chronicles 4:8",
+             "verseNumber":  8,
+             "scripture":  "He made also ten tables, and placed them in the temple, five on the right side, and five on the left. And he made an hundred basons of gold."
+        },
+        {
+            "reference":  "2 Chronicles 4:9",
+             "verseNumber":  9,
+             "scripture":  "Furthermore he made the court of the priests, and the great court, and doors for the court, and overlaid the doors of them with brass."
+        },
+        {
+            "reference":  "2 Chronicles 4:10",
+             "verseNumber":  10,
+             "scripture":  "And he set the sea on the right side of the east end, opposite to the south."
+        },
+        {
+            "reference":  "2 Chronicles 4:11",
+             "verseNumber":  11,
+             "scripture":  "And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;"
+        },
+        {
+            "reference":  "2 Chronicles 4:12",
+             "verseNumber":  12,
+             "scripture":  "To know, the two pillars, and the pommels, and the capitals which were on the top of the two pillars, and the two wreaths to cover the two pommels of the capitals which were on the top of the pillars;"
+        },
+        {
+            "reference":  "2 Chronicles 4:13",
+             "verseNumber":  13,
+             "scripture":  "And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the capitals which were upon the pillars."
+        },
+        {
+            "reference":  "2 Chronicles 4:14",
+             "verseNumber":  14,
+             "scripture":  "He made also bases, and lavers made he upon the bases;"
+        },
+        {
+            "reference":  "2 Chronicles 4:15",
+             "verseNumber":  15,
+             "scripture":  "One sea, and twelve oxen under it."
+        },
+        {
+            "reference":  "2 Chronicles 4:16",
+             "verseNumber":  16,
+             "scripture":  "The pots also, and the shovels, and the forks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass."
+        },
+        {
+            "reference":  "2 Chronicles 4:17",
+             "verseNumber":  17,
+             "scripture":  "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah."
+        },
+        {
+            "reference":  "2 Chronicles 4:18",
+             "verseNumber":  18,
+             "scripture":  "Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out."
+        },
+        {
+            "reference":  "2 Chronicles 4:19",
+             "verseNumber":  19,
+             "scripture":  "And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables whereon the showbread was set;"
+        },
+        {
+            "reference":  "2 Chronicles 4:20",
+             "verseNumber":  20,
+             "scripture":  "Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;"
+        },
+        {
+            "reference":  "2 Chronicles 4:21",
+             "verseNumber":  21,
+             "scripture":  "And the flowers, and the lamps, and the tongs, made he of gold, and that perfect gold;"
+        },
+        {
+            "reference":  "2 Chronicles 4:22",
+             "verseNumber":  22,
+             "scripture":  "And the snuffers, and the basons, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place, and the doors of the house of the temple, were of gold."
+        }
+    ]
+}

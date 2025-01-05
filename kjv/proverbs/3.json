@@ -1,1 +1,190 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 3, "verses": [{"reference": "Proverbs 3:1", "verseNumber": 1, "scripture": "My son, forget not my law; but let yours heart keep my commandments:"},{"reference": "Proverbs 3:2", "verseNumber": 2, "scripture": "For length of days, and long life, and peace, shall they add to you."},{"reference": "Proverbs 3:3", "verseNumber": 3, "scripture": "Let not mercy and truth forsake you: bind them about your neck; write them upon the table of yours heart:"},{"reference": "Proverbs 3:4", "verseNumber": 4, "scripture": "So shall you find favour and good understanding in the sight of God and man."},{"reference": "Proverbs 3:5", "verseNumber": 5, "scripture": "Trust in the LORD with all yours heart; and lean not unto yours own understanding."},{"reference": "Proverbs 3:6", "verseNumber": 6, "scripture": "In all your ways acknowledge him, and he shall direct your paths."},{"reference": "Proverbs 3:7", "verseNumber": 7, "scripture": "Be not wise in yours own eyes: fear the LORD, and depart from evil."},{"reference": "Proverbs 3:8", "verseNumber": 8, "scripture": "It shall be health to your navel, and marrow to your bones."},{"reference": "Proverbs 3:9", "verseNumber": 9, "scripture": "Honour the LORD with your substance, and with the first-fruits of all yours increase:"},{"reference": "Proverbs 3:10", "verseNumber": 10, "scripture": "So shall your barns be filled with plenty, and your presses shall burst out with new wine."},{"reference": "Proverbs 3:11", "verseNumber": 11, "scripture": "My son, despise not the chastening of the LORD; neither be weary of his correction:"},{"reference": "Proverbs 3:12", "verseNumber": 12, "scripture": "For whom the LORD loves he corrects; even as a father the son in whom he delights."},{"reference": "Proverbs 3:13", "verseNumber": 13, "scripture": "Happy is the man that finds wisdom, and the man that gets understanding."},{"reference": "Proverbs 3:14", "verseNumber": 14, "scripture": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."},{"reference": "Proverbs 3:15", "verseNumber": 15, "scripture": "She is more precious than rubies: and all the things you can desire are not to be compared unto her."},{"reference": "Proverbs 3:16", "verseNumber": 16, "scripture": "Length of days is in her right hand; and in her left hand riches and honour."},{"reference": "Proverbs 3:17", "verseNumber": 17, "scripture": "Her ways are ways of pleasantness, and all her paths are peace."},{"reference": "Proverbs 3:18", "verseNumber": 18, "scripture": "She is a tree of life to them that lay hold upon her: and happy is every one that retains her."},{"reference": "Proverbs 3:19", "verseNumber": 19, "scripture": "The LORD by wisdom has founded the earth; by understanding has he established the heavens."},{"reference": "Proverbs 3:20", "verseNumber": 20, "scripture": "By his knowledge the depths are broken up, and the clouds drop down the dew."},{"reference": "Proverbs 3:21", "verseNumber": 21, "scripture": "My son, let not them depart from yours eyes: keep sound wisdom and discretion:"},{"reference": "Proverbs 3:22", "verseNumber": 22, "scripture": "So shall they be life unto your soul, and grace to your neck."},{"reference": "Proverbs 3:23", "verseNumber": 23, "scripture": "Then shall you walk in your way safely, and your foot shall not stumble."},{"reference": "Proverbs 3:24", "verseNumber": 24, "scripture": "When you lie down, you shall not be afraid: yea, you shall lie down, and your sleep shall be sweet."},{"reference": "Proverbs 3:25", "verseNumber": 25, "scripture": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it comes."},{"reference": "Proverbs 3:26", "verseNumber": 26, "scripture": "For the LORD shall be your confidence, and shall keep your foot from being taken."},{"reference": "Proverbs 3:27", "verseNumber": 27, "scripture": "Withhold not good from them to whom it is due, when it is in the power of yours hand to do it."},{"reference": "Proverbs 3:28", "verseNumber": 28, "scripture": "Say not unto your neighbour, Go, and come again, and tomorrow I will give; when you have it by you."},{"reference": "Proverbs 3:29", "verseNumber": 29, "scripture": "Devise not evil against your neighbour, seeing he dwells securely by you."},{"reference": "Proverbs 3:30", "verseNumber": 30, "scripture": "Strive not with a man without cause, if he have done you no harm."},{"reference": "Proverbs 3:31", "verseNumber": 31, "scripture": "Envy you not the oppressor, and choose none of his ways."},{"reference": "Proverbs 3:32", "verseNumber": 32, "scripture": "For the perverse is abomination to the LORD: but his secret is with the righteous."},{"reference": "Proverbs 3:33", "verseNumber": 33, "scripture": "The curse of the LORD is in the house of the wicked: but he blesses the habitation of the just."},{"reference": "Proverbs 3:34", "verseNumber": 34, "scripture": "Surely he scorns the scorners: but he gives grace unto the lowly."},{"reference": "Proverbs 3:35", "verseNumber": 35, "scripture": "The wise shall inherit glory: but shame shall be the promotion of fools."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "Proverbs 3:1",
+             "verseNumber":  1,
+             "scripture":  "My son, forget not my law; but let yours heart keep my commandments:"
+        },
+        {
+            "reference":  "Proverbs 3:2",
+             "verseNumber":  2,
+             "scripture":  "For length of days, and long life, and peace, shall they add to you."
+        },
+        {
+            "reference":  "Proverbs 3:3",
+             "verseNumber":  3,
+             "scripture":  "Let not mercy and truth forsake you: bind them about your neck; write them upon the table of yours heart:"
+        },
+        {
+            "reference":  "Proverbs 3:4",
+             "verseNumber":  4,
+             "scripture":  "So shall you find favour and good understanding in the sight of God and man."
+        },
+        {
+            "reference":  "Proverbs 3:5",
+             "verseNumber":  5,
+             "scripture":  "Trust in the LORD with all yours heart; and lean not unto yours own understanding."
+        },
+        {
+            "reference":  "Proverbs 3:6",
+             "verseNumber":  6,
+             "scripture":  "In all your ways acknowledge him, and he shall direct your paths."
+        },
+        {
+            "reference":  "Proverbs 3:7",
+             "verseNumber":  7,
+             "scripture":  "Be not wise in yours own eyes: fear the LORD, and depart from evil."
+        },
+        {
+            "reference":  "Proverbs 3:8",
+             "verseNumber":  8,
+             "scripture":  "It shall be health to your navel, and marrow to your bones."
+        },
+        {
+            "reference":  "Proverbs 3:9",
+             "verseNumber":  9,
+             "scripture":  "Honour the LORD with your substance, and with the first-fruits of all yours increase:"
+        },
+        {
+            "reference":  "Proverbs 3:10",
+             "verseNumber":  10,
+             "scripture":  "So shall your barns be filled with plenty, and your presses shall burst out with new wine."
+        },
+        {
+            "reference":  "Proverbs 3:11",
+             "verseNumber":  11,
+             "scripture":  "My son, despise not the chastening of the LORD; neither be weary of his correction:"
+        },
+        {
+            "reference":  "Proverbs 3:12",
+             "verseNumber":  12,
+             "scripture":  "For whom the LORD loves he corrects; even as a father the son in whom he delights."
+        },
+        {
+            "reference":  "Proverbs 3:13",
+             "verseNumber":  13,
+             "scripture":  "Happy is the man that finds wisdom, and the man that gets understanding."
+        },
+        {
+            "reference":  "Proverbs 3:14",
+             "verseNumber":  14,
+             "scripture":  "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
+        },
+        {
+            "reference":  "Proverbs 3:15",
+             "verseNumber":  15,
+             "scripture":  "She is more precious than rubies: and all the things you can desire are not to be compared unto her."
+        },
+        {
+            "reference":  "Proverbs 3:16",
+             "verseNumber":  16,
+             "scripture":  "Length of days is in her right hand; and in her left hand riches and honour."
+        },
+        {
+            "reference":  "Proverbs 3:17",
+             "verseNumber":  17,
+             "scripture":  "Her ways are ways of pleasantness, and all her paths are peace."
+        },
+        {
+            "reference":  "Proverbs 3:18",
+             "verseNumber":  18,
+             "scripture":  "She is a tree of life to them that lay hold upon her: and happy is every one that retains her."
+        },
+        {
+            "reference":  "Proverbs 3:19",
+             "verseNumber":  19,
+             "scripture":  "The LORD by wisdom has founded the earth; by understanding has he established the heavens."
+        },
+        {
+            "reference":  "Proverbs 3:20",
+             "verseNumber":  20,
+             "scripture":  "By his knowledge the depths are broken up, and the clouds drop down the dew."
+        },
+        {
+            "reference":  "Proverbs 3:21",
+             "verseNumber":  21,
+             "scripture":  "My son, let not them depart from yours eyes: keep sound wisdom and discretion:"
+        },
+        {
+            "reference":  "Proverbs 3:22",
+             "verseNumber":  22,
+             "scripture":  "So shall they be life unto your soul, and grace to your neck."
+        },
+        {
+            "reference":  "Proverbs 3:23",
+             "verseNumber":  23,
+             "scripture":  "Then shall you walk in your way safely, and your foot shall not stumble."
+        },
+        {
+            "reference":  "Proverbs 3:24",
+             "verseNumber":  24,
+             "scripture":  "When you lie down, you shall not be afraid: yea, you shall lie down, and your sleep shall be sweet."
+        },
+        {
+            "reference":  "Proverbs 3:25",
+             "verseNumber":  25,
+             "scripture":  "Be not afraid of sudden fear, neither of the desolation of the wicked, when it comes."
+        },
+        {
+            "reference":  "Proverbs 3:26",
+             "verseNumber":  26,
+             "scripture":  "For the LORD shall be your confidence, and shall keep your foot from being taken."
+        },
+        {
+            "reference":  "Proverbs 3:27",
+             "verseNumber":  27,
+             "scripture":  "Withhold not good from them to whom it is due, when it is in the power of yours hand to do it."
+        },
+        {
+            "reference":  "Proverbs 3:28",
+             "verseNumber":  28,
+             "scripture":  "Say not unto your neighbour, Go, and come again, and tomorrow I will give; when you have it by you."
+        },
+        {
+            "reference":  "Proverbs 3:29",
+             "verseNumber":  29,
+             "scripture":  "Devise not evil against your neighbour, seeing he dwells securely by you."
+        },
+        {
+            "reference":  "Proverbs 3:30",
+             "verseNumber":  30,
+             "scripture":  "Strive not with a man without cause, if he have done you no harm."
+        },
+        {
+            "reference":  "Proverbs 3:31",
+             "verseNumber":  31,
+             "scripture":  "Envy you not the oppressor, and choose none of his ways."
+        },
+        {
+            "reference":  "Proverbs 3:32",
+             "verseNumber":  32,
+             "scripture":  "For the perverse is abomination to the LORD: but his secret is with the righteous."
+        },
+        {
+            "reference":  "Proverbs 3:33",
+             "verseNumber":  33,
+             "scripture":  "The curse of the LORD is in the house of the wicked: but he blesses the habitation of the just."
+        },
+        {
+            "reference":  "Proverbs 3:34",
+             "verseNumber":  34,
+             "scripture":  "Surely he scorns the scorners: but he gives grace unto the lowly."
+        },
+        {
+            "reference":  "Proverbs 3:35",
+             "verseNumber":  35,
+             "scripture":  "The wise shall inherit glory: but shame shall be the promotion of fools."
+        }
+    ]
+}

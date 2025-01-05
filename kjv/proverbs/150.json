@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Pro", "chapterNumber": 150, "verses": [{"reference": "Psalm 150:1", "verseNumber": 1, "scripture": "Praise all of you the LORD. Praise God in his sanctuary: praise him in the firmament of his power."},{"reference": "Psalm 150:2", "verseNumber": 2, "scripture": "Praise him for his mighty acts: praise him according to his excellent greatness."},{"reference": "Psalm 150:3", "verseNumber": 3, "scripture": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."},{"reference": "Psalm 150:4", "verseNumber": 4, "scripture": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."},{"reference": "Psalm 150:5", "verseNumber": 5, "scripture": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."},{"reference": "Psalm 150:6", "verseNumber": 6, "scripture": "Let every thing that has breath praise the LORD. Praise all of you the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  150,
+     "verses":  [
+        {
+            "reference":  "Psalm 150:1",
+             "verseNumber":  1,
+             "scripture":  "Praise all of you the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+        },
+        {
+            "reference":  "Psalm 150:2",
+             "verseNumber":  2,
+             "scripture":  "Praise him for his mighty acts: praise him according to his excellent greatness."
+        },
+        {
+            "reference":  "Psalm 150:3",
+             "verseNumber":  3,
+             "scripture":  "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+        },
+        {
+            "reference":  "Psalm 150:4",
+             "verseNumber":  4,
+             "scripture":  "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+        },
+        {
+            "reference":  "Psalm 150:5",
+             "verseNumber":  5,
+             "scripture":  "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+        },
+        {
+            "reference":  "Psalm 150:6",
+             "verseNumber":  6,
+             "scripture":  "Let every thing that has breath praise the LORD. Praise all of you the LORD."
+        }
+    ]
+}

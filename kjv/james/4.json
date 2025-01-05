@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "James", "bookAbbreviation": "Jam", "chapterNumber": 4, "verses": [{"reference": "James 4:1", "verseNumber": 1, "scripture": "From whence come wars and fightings among you? come they not behind, even of your lusts that war in your members?"},{"reference": "James 4:2", "verseNumber": 2, "scripture": "All of you lust, and have not: all of you kill, and desire to have, and cannot obtain: all of you fight and war, yet all of you have not, because all of you ask not."},{"reference": "James 4:3", "verseNumber": 3, "scripture": "All of you ask, and receive not, because all of you ask amiss, that all of you may consume it upon your lusts."},{"reference": "James 4:4", "verseNumber": 4, "scripture": "All of you adulterers and adulteresses, know all of you not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."},{"reference": "James 4:5", "verseNumber": 5, "scripture": "Do all of you think that the scripture says in vain, The spirit that dwells in us lusts to envy?"},{"reference": "James 4:6", "verseNumber": 6, "scripture": "But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble."},{"reference": "James 4:7", "verseNumber": 7, "scripture": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."},{"reference": "James 4:8", "verseNumber": 8, "scripture": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, all of you sinners; and purify your hearts, all of you double minded."},{"reference": "James 4:9", "verseNumber": 9, "scripture": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."},{"reference": "James 4:10", "verseNumber": 10, "scripture": "Humble yourselves in the sight of the Lord, and he shall lift you up."},{"reference": "James 4:11", "verseNumber": 11, "scripture": "Speak not evil one of another, brethren. He that speaks evil of his brother, and judges his brother, speaks evil of the law, and judges the law: but if you judge the law, you are not a doer of the law, but a judge."},{"reference": "James 4:12", "verseNumber": 12, "scripture": "There is one lawgiver, who is able to save and to destroy: who are you that judge another?"},{"reference": "James 4:13", "verseNumber": 13, "scripture": "Go to now, all of you that say, To day or tomorrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"},{"reference": "James 4:14", "verseNumber": 14, "scripture": "Whereas all of you know not what shall be on the next day. For what is your life? It is even a vapour, that appears for a little time, and then vanishes away."},{"reference": "James 4:15", "verseNumber": 15, "scripture": "For that all of you ought to say, If the Lord will, we shall live, and do this, or that."},{"reference": "James 4:16", "verseNumber": 16, "scripture": "But now all of you rejoice in your boastings: all such rejoicing is evil."},{"reference": "James 4:17", "verseNumber": 17, "scripture": "Therefore to him that knows to do good, and does it not, to him it is sin."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "James",
+     "bookAbbreviation":  "Jam",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "James 4:1",
+             "verseNumber":  1,
+             "scripture":  "From whence come wars and fightings among you? come they not behind, even of your lusts that war in your members?"
+        },
+        {
+            "reference":  "James 4:2",
+             "verseNumber":  2,
+             "scripture":  "All of you lust, and have not: all of you kill, and desire to have, and cannot obtain: all of you fight and war, yet all of you have not, because all of you ask not."
+        },
+        {
+            "reference":  "James 4:3",
+             "verseNumber":  3,
+             "scripture":  "All of you ask, and receive not, because all of you ask amiss, that all of you may consume it upon your lusts."
+        },
+        {
+            "reference":  "James 4:4",
+             "verseNumber":  4,
+             "scripture":  "All of you adulterers and adulteresses, know all of you not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."
+        },
+        {
+            "reference":  "James 4:5",
+             "verseNumber":  5,
+             "scripture":  "Do all of you think that the scripture says in vain, The spirit that dwells in us lusts to envy?"
+        },
+        {
+            "reference":  "James 4:6",
+             "verseNumber":  6,
+             "scripture":  "But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble."
+        },
+        {
+            "reference":  "James 4:7",
+             "verseNumber":  7,
+             "scripture":  "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+        },
+        {
+            "reference":  "James 4:8",
+             "verseNumber":  8,
+             "scripture":  "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, all of you sinners; and purify your hearts, all of you double minded."
+        },
+        {
+            "reference":  "James 4:9",
+             "verseNumber":  9,
+             "scripture":  "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+        },
+        {
+            "reference":  "James 4:10",
+             "verseNumber":  10,
+             "scripture":  "Humble yourselves in the sight of the Lord, and he shall lift you up."
+        },
+        {
+            "reference":  "James 4:11",
+             "verseNumber":  11,
+             "scripture":  "Speak not evil one of another, brethren. He that speaks evil of his brother, and judges his brother, speaks evil of the law, and judges the law: but if you judge the law, you are not a doer of the law, but a judge."
+        },
+        {
+            "reference":  "James 4:12",
+             "verseNumber":  12,
+             "scripture":  "There is one lawgiver, who is able to save and to destroy: who are you that judge another?"
+        },
+        {
+            "reference":  "James 4:13",
+             "verseNumber":  13,
+             "scripture":  "Go to now, all of you that say, To day or tomorrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+        },
+        {
+            "reference":  "James 4:14",
+             "verseNumber":  14,
+             "scripture":  "Whereas all of you know not what shall be on the next day. For what is your life? It is even a vapour, that appears for a little time, and then vanishes away."
+        },
+        {
+            "reference":  "James 4:15",
+             "verseNumber":  15,
+             "scripture":  "For that all of you ought to say, If the Lord will, we shall live, and do this, or that."
+        },
+        {
+            "reference":  "James 4:16",
+             "verseNumber":  16,
+             "scripture":  "But now all of you rejoice in your boastings: all such rejoicing is evil."
+        },
+        {
+            "reference":  "James 4:17",
+             "verseNumber":  17,
+             "scripture":  "Therefore to him that knows to do good, and does it not, to him it is sin."
+        }
+    ]
+}

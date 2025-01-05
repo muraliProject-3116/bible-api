@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 32, "verses": [{"reference": "Psalm 32:1", "verseNumber": 1, "scripture": "Blessed is he whose transgression is forgiven, whose sin is covered."},{"reference": "Psalm 32:2", "verseNumber": 2, "scripture": "Blessed is the man unto whom the LORD imputes not iniquity, and in whose spirit there is no guile."},{"reference": "Psalm 32:3", "verseNumber": 3, "scripture": "When I kept silence, my bones waxed old through my roaring all the day long."},{"reference": "Psalm 32:4", "verseNumber": 4, "scripture": "For day and night your hand was heavy upon me: my moisture is turned into the drought of summer. Selah."},{"reference": "Psalm 32:5", "verseNumber": 5, "scripture": "I acknowledge my sin unto you, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and you forgave the iniquity of my sin. Selah."},{"reference": "Psalm 32:6", "verseNumber": 6, "scripture": "For this shall every one that is godly pray unto you in a time when you may be found: surely in the floods of great waters they shall not come nigh unto him."},{"reference": "Psalm 32:7", "verseNumber": 7, "scripture": "You are my hiding place; you shall preserve me from trouble; you shall compass me about with songs of deliverance. Selah."},{"reference": "Psalm 32:8", "verseNumber": 8, "scripture": "I will instruct you and teach you in the way which you shall go: I will guide you with mine eye."},{"reference": "Psalm 32:9", "verseNumber": 9, "scripture": "Be all of you not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto you."},{"reference": "Psalm 32:10", "verseNumber": 10, "scripture": "Many sorrows shall be to the wicked: but he that trusts in the LORD, mercy shall compass him about."},{"reference": "Psalm 32:11", "verseNumber": 11, "scripture": "Be glad in the LORD, and rejoice, all of you righteous: and shout for joy, all you that are upright in heart."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  32,
+     "verses":  [
+        {
+            "reference":  "Psalm 32:1",
+             "verseNumber":  1,
+             "scripture":  "Blessed is he whose transgression is forgiven, whose sin is covered."
+        },
+        {
+            "reference":  "Psalm 32:2",
+             "verseNumber":  2,
+             "scripture":  "Blessed is the man unto whom the LORD imputes not iniquity, and in whose spirit there is no guile."
+        },
+        {
+            "reference":  "Psalm 32:3",
+             "verseNumber":  3,
+             "scripture":  "When I kept silence, my bones waxed old through my roaring all the day long."
+        },
+        {
+            "reference":  "Psalm 32:4",
+             "verseNumber":  4,
+             "scripture":  "For day and night your hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+        },
+        {
+            "reference":  "Psalm 32:5",
+             "verseNumber":  5,
+             "scripture":  "I acknowledge my sin unto you, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and you forgave the iniquity of my sin. Selah."
+        },
+        {
+            "reference":  "Psalm 32:6",
+             "verseNumber":  6,
+             "scripture":  "For this shall every one that is godly pray unto you in a time when you may be found: surely in the floods of great waters they shall not come nigh unto him."
+        },
+        {
+            "reference":  "Psalm 32:7",
+             "verseNumber":  7,
+             "scripture":  "You are my hiding place; you shall preserve me from trouble; you shall compass me about with songs of deliverance. Selah."
+        },
+        {
+            "reference":  "Psalm 32:8",
+             "verseNumber":  8,
+             "scripture":  "I will instruct you and teach you in the way which you shall go: I will guide you with mine eye."
+        },
+        {
+            "reference":  "Psalm 32:9",
+             "verseNumber":  9,
+             "scripture":  "Be all of you not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto you."
+        },
+        {
+            "reference":  "Psalm 32:10",
+             "verseNumber":  10,
+             "scripture":  "Many sorrows shall be to the wicked: but he that trusts in the LORD, mercy shall compass him about."
+        },
+        {
+            "reference":  "Psalm 32:11",
+             "verseNumber":  11,
+             "scripture":  "Be glad in the LORD, and rejoice, all of you righteous: and shout for joy, all you that are upright in heart."
+        }
+    ]
+}

@@ -1,1 +1,55 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "சங்கீதம்", "bookAbbreviation": "சங்", "chapterNumber": 130, "verses": [{"reference": "சங்கீதம் 130:1", "verseNumber": 1, "scripture": "கர்த்தாவே, ஆழங்களிலிருந்து உம்மை நோக்கிக் கூப்பிடுகிறேன்."},{"reference": "சங்கீதம் 130:2", "verseNumber": 2, "scripture": "ஆண்டவரே, என் சத்தத்தைக் கேளும்; என் விண்ணப்பங்களின் சத்தத்திற்கு உமது செவிகள் கவனித்திருப்பதாக."},{"reference": "சங்கீதம் 130:3", "verseNumber": 3, "scripture": "கர்த்தாவே, நீர் அக்கிரமங்களைக் கவனித்திருப்பீரானால், யார் நிலைநிற்பான், ஆண்டவரே."},{"reference": "சங்கீதம் 130:4", "verseNumber": 4, "scripture": "உமக்குப் பயப்படும்படிக்கு உம்மிடத்தில் மன்னிப்பு உண்டு."},{"reference": "சங்கீதம் 130:5", "verseNumber": 5, "scripture": "கர்த்தருக்குக் காத்திருக்கிறேன்; என் ஆத்துமா காத்திருக்கிறது; அவருடைய வார்த்தையை நம்பியிருக்கிறேன்."},{"reference": "சங்கீதம் 130:6", "verseNumber": 6, "scripture": "எப்பொழுது விடியும் என்று விடியற்காலத்துக்குக் காத்திருக்கிற ஜாமக்காரரைப்பார்க்கிலும் அதிகமாய் என் ஆத்துமா ஆண்டவருக்குக் காத்திருக்கிறது."},{"reference": "சங்கீதம் 130:7", "verseNumber": 7, "scripture": "இஸ்ரவேல் கர்த்தரை நம்பியிருப்பதாக; கர்த்தரிடத்தில் கிருபையும், அவரிடத்தில் திரளான மீட்பும் உண்டு."},{"reference": "சங்கீதம் 130:8", "verseNumber": 8, "scripture": "அவர் இஸ்ரவேலை அதின் சகல அக்கிரமங்களின்றும் மீட்டுக்கொள்வார்."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "சங்கீதம்",
+     "bookAbbreviation":  "சங்",
+     "chapterNumber":  130,
+     "verses":  [
+        {
+            "reference":  "சங்கீதம் 130:1",
+             "verseNumber":  1,
+             "scripture":  "கர்த்தாவே, ஆழங்களிலிருந்து உம்மை நோக்கிக் கூப்பிடுகிறேன்."
+        },
+        {
+            "reference":  "சங்கீதம் 130:2",
+             "verseNumber":  2,
+             "scripture":  "ஆண்டவரே, என் சத்தத்தைக் கேளும்; என் விண்ணப்பங்களின் சத்தத்திற்கு உமது செவிகள் கவனித்திருப்பதாக."
+        },
+        {
+            "reference":  "சங்கீதம் 130:3",
+             "verseNumber":  3,
+             "scripture":  "கர்த்தாவே, நீர் அக்கிரமங்களைக் கவனித்திருப்பீரானால், யார் நிலைநிற்பான், ஆண்டவரே."
+        },
+        {
+            "reference":  "சங்கீதம் 130:4",
+             "verseNumber":  4,
+             "scripture":  "உமக்குப் பயப்படும்படிக்கு உம்மிடத்தில் மன்னிப்பு உண்டு."
+        },
+        {
+            "reference":  "சங்கீதம் 130:5",
+             "verseNumber":  5,
+             "scripture":  "கர்த்தருக்குக் காத்திருக்கிறேன்; என் ஆத்துமா காத்திருக்கிறது; அவருடைய வார்த்தையை நம்பியிருக்கிறேன்."
+        },
+        {
+            "reference":  "சங்கீதம் 130:6",
+             "verseNumber":  6,
+             "scripture":  "எப்பொழுது விடியும் என்று விடியற்காலத்துக்குக் காத்திருக்கிற ஜாமக்காரரைப்பார்க்கிலும் அதிகமாய் என் ஆத்துமா ஆண்டவருக்குக் காத்திருக்கிறது."
+        },
+        {
+            "reference":  "சங்கீதம் 130:7",
+             "verseNumber":  7,
+             "scripture":  "இஸ்ரவேல் கர்த்தரை நம்பியிருப்பதாக; கர்த்தரிடத்தில் கிருபையும், அவரிடத்தில் திரளான மீட்பும் உண்டு."
+        },
+        {
+            "reference":  "சங்கீதம் 130:8",
+             "verseNumber":  8,
+             "scripture":  "அவர் இஸ்ரவேலை அதின் சகல அக்கிரமங்களின்றும் மீட்டுக்கொள்வார்."
+        }
+    ]
+}

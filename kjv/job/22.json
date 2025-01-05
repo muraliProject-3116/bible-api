@@ -1,1 +1,165 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 22, "verses": [{"reference": "Job 22:1", "verseNumber": 1, "scripture": "Then Eliphaz the Temanite answered and said,"},{"reference": "Job 22:2", "verseNumber": 2, "scripture": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?"},{"reference": "Job 22:3", "verseNumber": 3, "scripture": "Is it any pleasure to the Almighty, that you are righteous? or is it gain to him, that you make your ways perfect?"},{"reference": "Job 22:4", "verseNumber": 4, "scripture": "Will he reprove you for fear of you? will he enter with you into judgment?"},{"reference": "Job 22:5", "verseNumber": 5, "scripture": "Is not your wickedness great? and yours iniquities infinite?"},{"reference": "Job 22:6", "verseNumber": 6, "scripture": "For you have taken a pledge from your brother for nothing, and stripped the naked of their clothing."},{"reference": "Job 22:7", "verseNumber": 7, "scripture": "You have not given water to the weary to drink, and you have withheld bread from the hungry."},{"reference": "Job 22:8", "verseNumber": 8, "scripture": "But as for the mighty man, he had the earth; and the honourable man dwelt in it."},{"reference": "Job 22:9", "verseNumber": 9, "scripture": "You have sent widows away empty, and the arms of the fatherless have been broken."},{"reference": "Job 22:10", "verseNumber": 10, "scripture": "Therefore snares are round about you, and sudden fear troubles you;"},{"reference": "Job 22:11", "verseNumber": 11, "scripture": "Or darkness, that you can not see; and abundance of waters cover you."},{"reference": "Job 22:12", "verseNumber": 12, "scripture": "Is not God in the height of heaven? and behold the height of the stars, how high they are!"},{"reference": "Job 22:13", "verseNumber": 13, "scripture": "And you says, How does God know? can he judge through the dark cloud?"},{"reference": "Job 22:14", "verseNumber": 14, "scripture": "Thick clouds are a covering to him, that he sees not; and he walks in the circuit of heaven."},{"reference": "Job 22:15", "verseNumber": 15, "scripture": "Have you marked the old way which wicked men have trodden?"},{"reference": "Job 22:16", "verseNumber": 16, "scripture": "Which were cut down out of time, whose foundation was overflowed with a flood:"},{"reference": "Job 22:17", "verseNumber": 17, "scripture": "Which said unto God, Depart from us: and what can the Almighty do for them?"},{"reference": "Job 22:18", "verseNumber": 18, "scripture": "Yet he filled their houses with good things: but the counsel of the wicked is far from me."},{"reference": "Job 22:19", "verseNumber": 19, "scripture": "The righteous see it, and are glad: and the innocent laugh them to scorn."},{"reference": "Job 22:20", "verseNumber": 20, "scripture": "Whereas our substance is not cut down, but the remnant of them the fire consumes."},{"reference": "Job 22:21", "verseNumber": 21, "scripture": "Acquaint now yourself with him, and be at peace: thereby good shall come unto you."},{"reference": "Job 22:22", "verseNumber": 22, "scripture": "Receive, I pray you, the law from his mouth, and lay up his words in yours heart."},{"reference": "Job 22:23", "verseNumber": 23, "scripture": "If you return to the Almighty, you shall be built up, you shall put away iniquity far from your tabernacles."},{"reference": "Job 22:24", "verseNumber": 24, "scripture": "Then shall you lay up gold as dust, and the gold of Ophir as the stones of the brooks."},{"reference": "Job 22:25", "verseNumber": 25, "scripture": "Yea, the Almighty shall be your defence, and you shall have plenty of silver."},{"reference": "Job 22:26", "verseNumber": 26, "scripture": "For then shall you have your delight in the Almighty, and shall lift up your face unto God."},{"reference": "Job 22:27", "verseNumber": 27, "scripture": "You shall make your prayer unto him, and he shall hear you, and you shall pay your vows."},{"reference": "Job 22:28", "verseNumber": 28, "scripture": "You shall also decree a thing, and it shall be established unto you: and the light shall shine upon your ways."},{"reference": "Job 22:29", "verseNumber": 29, "scripture": "When men are cast down, then you shall say, There is lifting up; and he shall save the humble person."},{"reference": "Job 22:30", "verseNumber": 30, "scripture": "He shall deliver the island of the innocent: and it is delivered by the pureness of yours hands."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  22,
+     "verses":  [
+        {
+            "reference":  "Job 22:1",
+             "verseNumber":  1,
+             "scripture":  "Then Eliphaz the Temanite answered and said,"
+        },
+        {
+            "reference":  "Job 22:2",
+             "verseNumber":  2,
+             "scripture":  "Can a man be profitable unto God, as he that is wise may be profitable unto himself?"
+        },
+        {
+            "reference":  "Job 22:3",
+             "verseNumber":  3,
+             "scripture":  "Is it any pleasure to the Almighty, that you are righteous? or is it gain to him, that you make your ways perfect?"
+        },
+        {
+            "reference":  "Job 22:4",
+             "verseNumber":  4,
+             "scripture":  "Will he reprove you for fear of you? will he enter with you into judgment?"
+        },
+        {
+            "reference":  "Job 22:5",
+             "verseNumber":  5,
+             "scripture":  "Is not your wickedness great? and yours iniquities infinite?"
+        },
+        {
+            "reference":  "Job 22:6",
+             "verseNumber":  6,
+             "scripture":  "For you have taken a pledge from your brother for nothing, and stripped the naked of their clothing."
+        },
+        {
+            "reference":  "Job 22:7",
+             "verseNumber":  7,
+             "scripture":  "You have not given water to the weary to drink, and you have withheld bread from the hungry."
+        },
+        {
+            "reference":  "Job 22:8",
+             "verseNumber":  8,
+             "scripture":  "But as for the mighty man, he had the earth; and the honourable man dwelt in it."
+        },
+        {
+            "reference":  "Job 22:9",
+             "verseNumber":  9,
+             "scripture":  "You have sent widows away empty, and the arms of the fatherless have been broken."
+        },
+        {
+            "reference":  "Job 22:10",
+             "verseNumber":  10,
+             "scripture":  "Therefore snares are round about you, and sudden fear troubles you;"
+        },
+        {
+            "reference":  "Job 22:11",
+             "verseNumber":  11,
+             "scripture":  "Or darkness, that you can not see; and abundance of waters cover you."
+        },
+        {
+            "reference":  "Job 22:12",
+             "verseNumber":  12,
+             "scripture":  "Is not God in the height of heaven? and behold the height of the stars, how high they are!"
+        },
+        {
+            "reference":  "Job 22:13",
+             "verseNumber":  13,
+             "scripture":  "And you says, How does God know? can he judge through the dark cloud?"
+        },
+        {
+            "reference":  "Job 22:14",
+             "verseNumber":  14,
+             "scripture":  "Thick clouds are a covering to him, that he sees not; and he walks in the circuit of heaven."
+        },
+        {
+            "reference":  "Job 22:15",
+             "verseNumber":  15,
+             "scripture":  "Have you marked the old way which wicked men have trodden?"
+        },
+        {
+            "reference":  "Job 22:16",
+             "verseNumber":  16,
+             "scripture":  "Which were cut down out of time, whose foundation was overflowed with a flood:"
+        },
+        {
+            "reference":  "Job 22:17",
+             "verseNumber":  17,
+             "scripture":  "Which said unto God, Depart from us: and what can the Almighty do for them?"
+        },
+        {
+            "reference":  "Job 22:18",
+             "verseNumber":  18,
+             "scripture":  "Yet he filled their houses with good things: but the counsel of the wicked is far from me."
+        },
+        {
+            "reference":  "Job 22:19",
+             "verseNumber":  19,
+             "scripture":  "The righteous see it, and are glad: and the innocent laugh them to scorn."
+        },
+        {
+            "reference":  "Job 22:20",
+             "verseNumber":  20,
+             "scripture":  "Whereas our substance is not cut down, but the remnant of them the fire consumes."
+        },
+        {
+            "reference":  "Job 22:21",
+             "verseNumber":  21,
+             "scripture":  "Acquaint now yourself with him, and be at peace: thereby good shall come unto you."
+        },
+        {
+            "reference":  "Job 22:22",
+             "verseNumber":  22,
+             "scripture":  "Receive, I pray you, the law from his mouth, and lay up his words in yours heart."
+        },
+        {
+            "reference":  "Job 22:23",
+             "verseNumber":  23,
+             "scripture":  "If you return to the Almighty, you shall be built up, you shall put away iniquity far from your tabernacles."
+        },
+        {
+            "reference":  "Job 22:24",
+             "verseNumber":  24,
+             "scripture":  "Then shall you lay up gold as dust, and the gold of Ophir as the stones of the brooks."
+        },
+        {
+            "reference":  "Job 22:25",
+             "verseNumber":  25,
+             "scripture":  "Yea, the Almighty shall be your defence, and you shall have plenty of silver."
+        },
+        {
+            "reference":  "Job 22:26",
+             "verseNumber":  26,
+             "scripture":  "For then shall you have your delight in the Almighty, and shall lift up your face unto God."
+        },
+        {
+            "reference":  "Job 22:27",
+             "verseNumber":  27,
+             "scripture":  "You shall make your prayer unto him, and he shall hear you, and you shall pay your vows."
+        },
+        {
+            "reference":  "Job 22:28",
+             "verseNumber":  28,
+             "scripture":  "You shall also decree a thing, and it shall be established unto you: and the light shall shine upon your ways."
+        },
+        {
+            "reference":  "Job 22:29",
+             "verseNumber":  29,
+             "scripture":  "When men are cast down, then you shall say, There is lifting up; and he shall save the humble person."
+        },
+        {
+            "reference":  "Job 22:30",
+             "verseNumber":  30,
+             "scripture":  "He shall deliver the island of the innocent: and it is delivered by the pureness of yours hands."
+        }
+    ]
+}

@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Galatians", "bookAbbreviation": "Gal", "chapterNumber": 3, "verses": [{"reference": "Galatians 3:1", "verseNumber": 1, "scripture": "O foolish Galatians, who has bewitched you, that all of you should not obey the truth, before whose eyes Jesus Christ has been evidently set forth, crucified among you?"},{"reference": "Galatians 3:2", "verseNumber": 2, "scripture": "This only would I learn of you, Received all of you the Spirit by the works of the law, or by the hearing of faith?"},{"reference": "Galatians 3:3", "verseNumber": 3, "scripture": "Are all of you so foolish? having begun in the Spirit, are all of you now made perfect by the flesh?"},{"reference": "Galatians 3:4", "verseNumber": 4, "scripture": "Have all of you suffered so many things in vain? if it be yet in vain."},{"reference": "Galatians 3:5", "verseNumber": 5, "scripture": "He therefore that ministers to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?"},{"reference": "Galatians 3:6", "verseNumber": 6, "scripture": "Even as Abraham believed God, and it was accounted to him for righteousness."},{"reference": "Galatians 3:7", "verseNumber": 7, "scripture": "Know all of you therefore that they which are of faith, the same are the children of Abraham."},{"reference": "Galatians 3:8", "verseNumber": 8, "scripture": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In you shall all nations be blessed."},{"reference": "Galatians 3:9", "verseNumber": 9, "scripture": "So then they which be of faith are blessed with faithful Abraham."},{"reference": "Galatians 3:10", "verseNumber": 10, "scripture": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continues not in all things which are written in the book of the law to do them."},{"reference": "Galatians 3:11", "verseNumber": 11, "scripture": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith."},{"reference": "Galatians 3:12", "verseNumber": 12, "scripture": "And the law is not of faith: but, The man that does them shall live in them."},{"reference": "Galatians 3:13", "verseNumber": 13, "scripture": "Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:"},{"reference": "Galatians 3:14", "verseNumber": 14, "scripture": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."},{"reference": "Galatians 3:15", "verseNumber": 15, "scripture": "Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man nullifies, or adds thereto."},{"reference": "Galatians 3:16", "verseNumber": 16, "scripture": "Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, which is Christ."},{"reference": "Galatians 3:17", "verseNumber": 17, "scripture": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot nullify, that it should make the promise of no effect."},{"reference": "Galatians 3:18", "verseNumber": 18, "scripture": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise."},{"reference": "Galatians 3:19", "verseNumber": 19, "scripture": "Wherefore then serves the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator."},{"reference": "Galatians 3:20", "verseNumber": 20, "scripture": "Now a mediator is not a mediator of one, but God is one."},{"reference": "Galatians 3:21", "verseNumber": 21, "scripture": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."},{"reference": "Galatians 3:22", "verseNumber": 22, "scripture": "But the scripture has concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."},{"reference": "Galatians 3:23", "verseNumber": 23, "scripture": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."},{"reference": "Galatians 3:24", "verseNumber": 24, "scripture": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."},{"reference": "Galatians 3:25", "verseNumber": 25, "scripture": "But after that faith has come, we are no longer under a schoolmaster."},{"reference": "Galatians 3:26", "verseNumber": 26, "scripture": "For all of you are all the children of God by faith in Christ Jesus."},{"reference": "Galatians 3:27", "verseNumber": 27, "scripture": "For as many of you as have been baptized into Christ have put on Christ."},{"reference": "Galatians 3:28", "verseNumber": 28, "scripture": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for all of you are all one in Christ Jesus."},{"reference": "Galatians 3:29", "verseNumber": 29, "scripture": "And if all of you be Christ's, then are all of you Abraham's seed, and heirs according to the promise."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Galatians",
+     "bookAbbreviation":  "Gal",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "Galatians 3:1",
+             "verseNumber":  1,
+             "scripture":  "O foolish Galatians, who has bewitched you, that all of you should not obey the truth, before whose eyes Jesus Christ has been evidently set forth, crucified among you?"
+        },
+        {
+            "reference":  "Galatians 3:2",
+             "verseNumber":  2,
+             "scripture":  "This only would I learn of you, Received all of you the Spirit by the works of the law, or by the hearing of faith?"
+        },
+        {
+            "reference":  "Galatians 3:3",
+             "verseNumber":  3,
+             "scripture":  "Are all of you so foolish? having begun in the Spirit, are all of you now made perfect by the flesh?"
+        },
+        {
+            "reference":  "Galatians 3:4",
+             "verseNumber":  4,
+             "scripture":  "Have all of you suffered so many things in vain? if it be yet in vain."
+        },
+        {
+            "reference":  "Galatians 3:5",
+             "verseNumber":  5,
+             "scripture":  "He therefore that ministers to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?"
+        },
+        {
+            "reference":  "Galatians 3:6",
+             "verseNumber":  6,
+             "scripture":  "Even as Abraham believed God, and it was accounted to him for righteousness."
+        },
+        {
+            "reference":  "Galatians 3:7",
+             "verseNumber":  7,
+             "scripture":  "Know all of you therefore that they which are of faith, the same are the children of Abraham."
+        },
+        {
+            "reference":  "Galatians 3:8",
+             "verseNumber":  8,
+             "scripture":  "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In you shall all nations be blessed."
+        },
+        {
+            "reference":  "Galatians 3:9",
+             "verseNumber":  9,
+             "scripture":  "So then they which be of faith are blessed with faithful Abraham."
+        },
+        {
+            "reference":  "Galatians 3:10",
+             "verseNumber":  10,
+             "scripture":  "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continues not in all things which are written in the book of the law to do them."
+        },
+        {
+            "reference":  "Galatians 3:11",
+             "verseNumber":  11,
+             "scripture":  "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith."
+        },
+        {
+            "reference":  "Galatians 3:12",
+             "verseNumber":  12,
+             "scripture":  "And the law is not of faith: but, The man that does them shall live in them."
+        },
+        {
+            "reference":  "Galatians 3:13",
+             "verseNumber":  13,
+             "scripture":  "Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:"
+        },
+        {
+            "reference":  "Galatians 3:14",
+             "verseNumber":  14,
+             "scripture":  "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+        },
+        {
+            "reference":  "Galatians 3:15",
+             "verseNumber":  15,
+             "scripture":  "Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man nullifies, or adds thereto."
+        },
+        {
+            "reference":  "Galatians 3:16",
+             "verseNumber":  16,
+             "scripture":  "Now to Abraham and his seed were the promises made. He says not, And to seeds, as of many; but as of one, And to your seed, which is Christ."
+        },
+        {
+            "reference":  "Galatians 3:17",
+             "verseNumber":  17,
+             "scripture":  "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot nullify, that it should make the promise of no effect."
+        },
+        {
+            "reference":  "Galatians 3:18",
+             "verseNumber":  18,
+             "scripture":  "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise."
+        },
+        {
+            "reference":  "Galatians 3:19",
+             "verseNumber":  19,
+             "scripture":  "Wherefore then serves the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator."
+        },
+        {
+            "reference":  "Galatians 3:20",
+             "verseNumber":  20,
+             "scripture":  "Now a mediator is not a mediator of one, but God is one."
+        },
+        {
+            "reference":  "Galatians 3:21",
+             "verseNumber":  21,
+             "scripture":  "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."
+        },
+        {
+            "reference":  "Galatians 3:22",
+             "verseNumber":  22,
+             "scripture":  "But the scripture has concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."
+        },
+        {
+            "reference":  "Galatians 3:23",
+             "verseNumber":  23,
+             "scripture":  "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."
+        },
+        {
+            "reference":  "Galatians 3:24",
+             "verseNumber":  24,
+             "scripture":  "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."
+        },
+        {
+            "reference":  "Galatians 3:25",
+             "verseNumber":  25,
+             "scripture":  "But after that faith has come, we are no longer under a schoolmaster."
+        },
+        {
+            "reference":  "Galatians 3:26",
+             "verseNumber":  26,
+             "scripture":  "For all of you are all the children of God by faith in Christ Jesus."
+        },
+        {
+            "reference":  "Galatians 3:27",
+             "verseNumber":  27,
+             "scripture":  "For as many of you as have been baptized into Christ have put on Christ."
+        },
+        {
+            "reference":  "Galatians 3:28",
+             "verseNumber":  28,
+             "scripture":  "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for all of you are all one in Christ Jesus."
+        },
+        {
+            "reference":  "Galatians 3:29",
+             "verseNumber":  29,
+             "scripture":  "And if all of you be Christ's, then are all of you Abraham's seed, and heirs according to the promise."
+        }
+    ]
+}

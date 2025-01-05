@@ -1,1 +1,140 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Jeremiah", "bookAbbreviation": "Jer", "chapterNumber": 10, "verses": [{"reference": "Jeremiah 10:1", "verseNumber": 1, "scripture": "Hear all of you the word which the LORD speaks unto you, O house of Israel:"},{"reference": "Jeremiah 10:2", "verseNumber": 2, "scripture": "Thus says the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them."},{"reference": "Jeremiah 10:3", "verseNumber": 3, "scripture": "For the customs of the people are vain: for one cuts a tree out of the forest, the work of the hands of the workman, with the axe."},{"reference": "Jeremiah 10:4", "verseNumber": 4, "scripture": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not."},{"reference": "Jeremiah 10:5", "verseNumber": 5, "scripture": "They are upright as the palm tree, but speak not: they must essentially be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good."},{"reference": "Jeremiah 10:6", "verseNumber": 6, "scripture": "Forasmuch as there is none like unto you, O LORD; you are great, and your name is great in might."},{"reference": "Jeremiah 10:7", "verseNumber": 7, "scripture": "Who would not fear you, O King of nations? in order to you does it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto you."},{"reference": "Jeremiah 10:8", "verseNumber": 8, "scripture": "But they are altogether brutish and foolish: the stock is a doctrine of vanities."},{"reference": "Jeremiah 10:9", "verseNumber": 9, "scripture": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men."},{"reference": "Jeremiah 10:10", "verseNumber": 10, "scripture": "But the LORD is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation."},{"reference": "Jeremiah 10:11", "verseNumber": 11, "scripture": "Thus shall all of you say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens."},{"reference": "Jeremiah 10:12", "verseNumber": 12, "scripture": "He has made the earth by his power, he has established the world by his wisdom, and has stretched out the heavens by his discretion."},{"reference": "Jeremiah 10:13", "verseNumber": 13, "scripture": "When he utters his voice, there is a multitude of waters in the heavens, and he causes the vapours to ascend from the ends of the earth; he makes lightnings with rain, and brings forth the wind out of his treasures."},{"reference": "Jeremiah 10:14", "verseNumber": 14, "scripture": "Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them."},{"reference": "Jeremiah 10:15", "verseNumber": 15, "scripture": "They are vanity, and the work of errors: in the time of their visitation they shall perish."},{"reference": "Jeremiah 10:16", "verseNumber": 16, "scripture": "The portion of Jacob is not like them: for he is the former of all things; and Israel is the rod of his inheritance: The LORD of hosts is his name."},{"reference": "Jeremiah 10:17", "verseNumber": 17, "scripture": "Gather up your wares out of the land, O inhabitant of the fortress."},{"reference": "Jeremiah 10:18", "verseNumber": 18, "scripture": "For thus says the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so."},{"reference": "Jeremiah 10:19", "verseNumber": 19, "scripture": "Woe is me for my hurt! my wound is grievous; but I said, Truly this is a grief, and I must bear it."},{"reference": "Jeremiah 10:20", "verseNumber": 20, "scripture": "My tabernacle is spoiled, and all my cords are broken: my children are gone out of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains."},{"reference": "Jeremiah 10:21", "verseNumber": 21, "scripture": "For the pastors are become brutish, and have not sought the LORD: therefore they shall not prosper, and all their flocks shall be scattered."},{"reference": "Jeremiah 10:22", "verseNumber": 22, "scripture": "Behold, the noise of the bruit has come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons."},{"reference": "Jeremiah 10:23", "verseNumber": 23, "scripture": "O LORD, I know that the way of man is not in himself: it is not in man that walks to direct his steps."},{"reference": "Jeremiah 10:24", "verseNumber": 24, "scripture": "O LORD, correct me, but with judgment; not in yours anger, lest you bring me to nothing."},{"reference": "Jeremiah 10:25", "verseNumber": 25, "scripture": "Pour out your fury upon the heathen that know you not, and upon the families that call not on your name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Jeremiah",
+     "bookAbbreviation":  "Jer",
+     "chapterNumber":  10,
+     "verses":  [
+        {
+            "reference":  "Jeremiah 10:1",
+             "verseNumber":  1,
+             "scripture":  "Hear all of you the word which the LORD speaks unto you, O house of Israel:"
+        },
+        {
+            "reference":  "Jeremiah 10:2",
+             "verseNumber":  2,
+             "scripture":  "Thus says the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them."
+        },
+        {
+            "reference":  "Jeremiah 10:3",
+             "verseNumber":  3,
+             "scripture":  "For the customs of the people are vain: for one cuts a tree out of the forest, the work of the hands of the workman, with the axe."
+        },
+        {
+            "reference":  "Jeremiah 10:4",
+             "verseNumber":  4,
+             "scripture":  "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not."
+        },
+        {
+            "reference":  "Jeremiah 10:5",
+             "verseNumber":  5,
+             "scripture":  "They are upright as the palm tree, but speak not: they must essentially be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good."
+        },
+        {
+            "reference":  "Jeremiah 10:6",
+             "verseNumber":  6,
+             "scripture":  "Forasmuch as there is none like unto you, O LORD; you are great, and your name is great in might."
+        },
+        {
+            "reference":  "Jeremiah 10:7",
+             "verseNumber":  7,
+             "scripture":  "Who would not fear you, O King of nations? in order to you does it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto you."
+        },
+        {
+            "reference":  "Jeremiah 10:8",
+             "verseNumber":  8,
+             "scripture":  "But they are altogether brutish and foolish: the stock is a doctrine of vanities."
+        },
+        {
+            "reference":  "Jeremiah 10:9",
+             "verseNumber":  9,
+             "scripture":  "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men."
+        },
+        {
+            "reference":  "Jeremiah 10:10",
+             "verseNumber":  10,
+             "scripture":  "But the LORD is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation."
+        },
+        {
+            "reference":  "Jeremiah 10:11",
+             "verseNumber":  11,
+             "scripture":  "Thus shall all of you say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens."
+        },
+        {
+            "reference":  "Jeremiah 10:12",
+             "verseNumber":  12,
+             "scripture":  "He has made the earth by his power, he has established the world by his wisdom, and has stretched out the heavens by his discretion."
+        },
+        {
+            "reference":  "Jeremiah 10:13",
+             "verseNumber":  13,
+             "scripture":  "When he utters his voice, there is a multitude of waters in the heavens, and he causes the vapours to ascend from the ends of the earth; he makes lightnings with rain, and brings forth the wind out of his treasures."
+        },
+        {
+            "reference":  "Jeremiah 10:14",
+             "verseNumber":  14,
+             "scripture":  "Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them."
+        },
+        {
+            "reference":  "Jeremiah 10:15",
+             "verseNumber":  15,
+             "scripture":  "They are vanity, and the work of errors: in the time of their visitation they shall perish."
+        },
+        {
+            "reference":  "Jeremiah 10:16",
+             "verseNumber":  16,
+             "scripture":  "The portion of Jacob is not like them: for he is the former of all things; and Israel is the rod of his inheritance: The LORD of hosts is his name."
+        },
+        {
+            "reference":  "Jeremiah 10:17",
+             "verseNumber":  17,
+             "scripture":  "Gather up your wares out of the land, O inhabitant of the fortress."
+        },
+        {
+            "reference":  "Jeremiah 10:18",
+             "verseNumber":  18,
+             "scripture":  "For thus says the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so."
+        },
+        {
+            "reference":  "Jeremiah 10:19",
+             "verseNumber":  19,
+             "scripture":  "Woe is me for my hurt! my wound is grievous; but I said, Truly this is a grief, and I must bear it."
+        },
+        {
+            "reference":  "Jeremiah 10:20",
+             "verseNumber":  20,
+             "scripture":  "My tabernacle is spoiled, and all my cords are broken: my children are gone out of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains."
+        },
+        {
+            "reference":  "Jeremiah 10:21",
+             "verseNumber":  21,
+             "scripture":  "For the pastors are become brutish, and have not sought the LORD: therefore they shall not prosper, and all their flocks shall be scattered."
+        },
+        {
+            "reference":  "Jeremiah 10:22",
+             "verseNumber":  22,
+             "scripture":  "Behold, the noise of the bruit has come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons."
+        },
+        {
+            "reference":  "Jeremiah 10:23",
+             "verseNumber":  23,
+             "scripture":  "O LORD, I know that the way of man is not in himself: it is not in man that walks to direct his steps."
+        },
+        {
+            "reference":  "Jeremiah 10:24",
+             "verseNumber":  24,
+             "scripture":  "O LORD, correct me, but with judgment; not in yours anger, lest you bring me to nothing."
+        },
+        {
+            "reference":  "Jeremiah 10:25",
+             "verseNumber":  25,
+             "scripture":  "Pour out your fury upon the heathen that know you not, and upon the families that call not on your name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate."
+        }
+    ]
+}

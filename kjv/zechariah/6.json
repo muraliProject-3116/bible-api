@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Zechariah", "bookAbbreviation": "Zec", "chapterNumber": 6, "verses": [{"reference": "Zechariah 6:1", "verseNumber": 1, "scripture": "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass."},{"reference": "Zechariah 6:2", "verseNumber": 2, "scripture": "In the first chariot were red horses; and in the second chariot black horses;"},{"reference": "Zechariah 6:3", "verseNumber": 3, "scripture": "And in the third chariot white horses; and in the fourth chariot greyed and bay horses."},{"reference": "Zechariah 6:4", "verseNumber": 4, "scripture": "Then I answered and said unto the angel that talked with me, What are these, my lord?"},{"reference": "Zechariah 6:5", "verseNumber": 5, "scripture": "And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the LORD of all the earth."},{"reference": "Zechariah 6:6", "verseNumber": 6, "scripture": "The black horses which are therein go forth into the north country; and the white go forth after them; and the greyed go forth toward the south country."},{"reference": "Zechariah 6:7", "verseNumber": 7, "scripture": "And the bay went forth, and sought to go that they might walk back and forth through the earth: and he said, Get you behind, walk back and forth through the earth. So they walked back and forth through the earth."},{"reference": "Zechariah 6:8", "verseNumber": 8, "scripture": "Then cried he upon me, and spoke unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country."},{"reference": "Zechariah 6:9", "verseNumber": 9, "scripture": "And the word of the LORD came unto me, saying,"},{"reference": "Zechariah 6:10", "verseNumber": 10, "scripture": "Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come you the same day, and go into the house of Josiah the son of Zephaniah;"},{"reference": "Zechariah 6:11", "verseNumber": 11, "scripture": "Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high priest;"},{"reference": "Zechariah 6:12", "verseNumber": 12, "scripture": "And speak unto him, saying, Thus speaks the LORD of hosts, saying, Behold the man whose name is The BRANCH; and he shall grow up out of his place, and he shall build the temple of the LORD:"},{"reference": "Zechariah 6:13", "verseNumber": 13, "scripture": "Even he shall build the temple of the LORD; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both."},{"reference": "Zechariah 6:14", "verseNumber": 14, "scripture": "And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD."},{"reference": "Zechariah 6:15", "verseNumber": 15, "scripture": "And they that are far off shall come and build in the temple of the LORD, and all of you shall know that the LORD of hosts has sent me unto you. And this shall come to pass, if all of you will diligently obey the voice of the LORD your God."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Zechariah",
+     "bookAbbreviation":  "Zec",
+     "chapterNumber":  6,
+     "verses":  [
+        {
+            "reference":  "Zechariah 6:1",
+             "verseNumber":  1,
+             "scripture":  "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass."
+        },
+        {
+            "reference":  "Zechariah 6:2",
+             "verseNumber":  2,
+             "scripture":  "In the first chariot were red horses; and in the second chariot black horses;"
+        },
+        {
+            "reference":  "Zechariah 6:3",
+             "verseNumber":  3,
+             "scripture":  "And in the third chariot white horses; and in the fourth chariot greyed and bay horses."
+        },
+        {
+            "reference":  "Zechariah 6:4",
+             "verseNumber":  4,
+             "scripture":  "Then I answered and said unto the angel that talked with me, What are these, my lord?"
+        },
+        {
+            "reference":  "Zechariah 6:5",
+             "verseNumber":  5,
+             "scripture":  "And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the LORD of all the earth."
+        },
+        {
+            "reference":  "Zechariah 6:6",
+             "verseNumber":  6,
+             "scripture":  "The black horses which are therein go forth into the north country; and the white go forth after them; and the greyed go forth toward the south country."
+        },
+        {
+            "reference":  "Zechariah 6:7",
+             "verseNumber":  7,
+             "scripture":  "And the bay went forth, and sought to go that they might walk back and forth through the earth: and he said, Get you behind, walk back and forth through the earth. So they walked back and forth through the earth."
+        },
+        {
+            "reference":  "Zechariah 6:8",
+             "verseNumber":  8,
+             "scripture":  "Then cried he upon me, and spoke unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country."
+        },
+        {
+            "reference":  "Zechariah 6:9",
+             "verseNumber":  9,
+             "scripture":  "And the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Zechariah 6:10",
+             "verseNumber":  10,
+             "scripture":  "Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come you the same day, and go into the house of Josiah the son of Zephaniah;"
+        },
+        {
+            "reference":  "Zechariah 6:11",
+             "verseNumber":  11,
+             "scripture":  "Then take silver and gold, and make crowns, and set them upon the head of Joshua the son of Josedech, the high priest;"
+        },
+        {
+            "reference":  "Zechariah 6:12",
+             "verseNumber":  12,
+             "scripture":  "And speak unto him, saying, Thus speaks the LORD of hosts, saying, Behold the man whose name is The BRANCH; and he shall grow up out of his place, and he shall build the temple of the LORD:"
+        },
+        {
+            "reference":  "Zechariah 6:13",
+             "verseNumber":  13,
+             "scripture":  "Even he shall build the temple of the LORD; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both."
+        },
+        {
+            "reference":  "Zechariah 6:14",
+             "verseNumber":  14,
+             "scripture":  "And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD."
+        },
+        {
+            "reference":  "Zechariah 6:15",
+             "verseNumber":  15,
+             "scripture":  "And they that are far off shall come and build in the temple of the LORD, and all of you shall know that the LORD of hosts has sent me unto you. And this shall come to pass, if all of you will diligently obey the voice of the LORD your God."
+        }
+    ]
+}

@@ -1,1 +1,155 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 35, "verses": [{"reference": "Psalm 35:1", "verseNumber": 1, "scripture": "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me."},{"reference": "Psalm 35:2", "verseNumber": 2, "scripture": "Take hold of shield and buckler, and stand up for mine help."},{"reference": "Psalm 35:3", "verseNumber": 3, "scripture": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am your salvation."},{"reference": "Psalm 35:4", "verseNumber": 4, "scripture": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt."},{"reference": "Psalm 35:5", "verseNumber": 5, "scripture": "Let them be as chaff before the wind: and let the angel of the LORD chase them."},{"reference": "Psalm 35:6", "verseNumber": 6, "scripture": "Let their way be dark and slippery: and let the angel of the LORD persecute them."},{"reference": "Psalm 35:7", "verseNumber": 7, "scripture": "For without cause have they hid for me their net in a pit, which without cause they have dug for my soul."},{"reference": "Psalm 35:8", "verseNumber": 8, "scripture": "Let destruction come upon him at unexpectedly; and let his net that he has hid catch himself: into that very destruction let him fall."},{"reference": "Psalm 35:9", "verseNumber": 9, "scripture": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation."},{"reference": "Psalm 35:10", "verseNumber": 10, "scripture": "All my bones shall say, LORD, who is like unto you, which deliver the poor from him that is too strong for him, yea, the poor and the needy from him that spoils him?"},{"reference": "Psalm 35:11", "verseNumber": 11, "scripture": "False witnesses did rise up; they laid to my charge things that I knew not."},{"reference": "Psalm 35:12", "verseNumber": 12, "scripture": "They rewarded me evil for good to the spoiling of my soul."},{"reference": "Psalm 35:13", "verseNumber": 13, "scripture": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom."},{"reference": "Psalm 35:14", "verseNumber": 14, "scripture": "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourns for his mother."},{"reference": "Psalm 35:15", "verseNumber": 15, "scripture": "But in mine adversity they rejoiced, and gathered themselves together: yea, the outcasts gathered themselves together against me, and I knew it not; they did tear me, and ceased not:"},{"reference": "Psalm 35:16", "verseNumber": 16, "scripture": "With hypocritical mockers in feasts, they gnashed upon me with their teeth."},{"reference": "Psalm 35:17", "verseNumber": 17, "scripture": "Lord, how long will you look on? rescue my soul from their destructions, my darling from the lions."},{"reference": "Psalm 35:18", "verseNumber": 18, "scripture": "I will give you thanks in the great congregation: I will praise you among much people."},{"reference": "Psalm 35:19", "verseNumber": 19, "scripture": "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause."},{"reference": "Psalm 35:20", "verseNumber": 20, "scripture": "For they speak not peace: but they devise deceitful matters against them that are quiet in the land."},{"reference": "Psalm 35:21", "verseNumber": 21, "scripture": "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye has seen it."},{"reference": "Psalm 35:22", "verseNumber": 22, "scripture": "This you have seen, O LORD: keep not silence: O Lord, be not far from me."},{"reference": "Psalm 35:23", "verseNumber": 23, "scripture": "Stir up yourself, and awake to my judgment, even unto my cause, my God and my Lord."},{"reference": "Psalm 35:24", "verseNumber": 24, "scripture": "Judge me, O LORD my God, according to your righteousness; and let them not rejoice over me."},{"reference": "Psalm 35:25", "verseNumber": 25, "scripture": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up."},{"reference": "Psalm 35:26", "verseNumber": 26, "scripture": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me."},{"reference": "Psalm 35:27", "verseNumber": 27, "scripture": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which has pleasure in the prosperity of his servant."},{"reference": "Psalm 35:28", "verseNumber": 28, "scripture": "And my tongue shall speak of your righteousness and of your praise all the day long."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  35,
+     "verses":  [
+        {
+            "reference":  "Psalm 35:1",
+             "verseNumber":  1,
+             "scripture":  "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me."
+        },
+        {
+            "reference":  "Psalm 35:2",
+             "verseNumber":  2,
+             "scripture":  "Take hold of shield and buckler, and stand up for mine help."
+        },
+        {
+            "reference":  "Psalm 35:3",
+             "verseNumber":  3,
+             "scripture":  "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am your salvation."
+        },
+        {
+            "reference":  "Psalm 35:4",
+             "verseNumber":  4,
+             "scripture":  "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt."
+        },
+        {
+            "reference":  "Psalm 35:5",
+             "verseNumber":  5,
+             "scripture":  "Let them be as chaff before the wind: and let the angel of the LORD chase them."
+        },
+        {
+            "reference":  "Psalm 35:6",
+             "verseNumber":  6,
+             "scripture":  "Let their way be dark and slippery: and let the angel of the LORD persecute them."
+        },
+        {
+            "reference":  "Psalm 35:7",
+             "verseNumber":  7,
+             "scripture":  "For without cause have they hid for me their net in a pit, which without cause they have dug for my soul."
+        },
+        {
+            "reference":  "Psalm 35:8",
+             "verseNumber":  8,
+             "scripture":  "Let destruction come upon him at unexpectedly; and let his net that he has hid catch himself: into that very destruction let him fall."
+        },
+        {
+            "reference":  "Psalm 35:9",
+             "verseNumber":  9,
+             "scripture":  "And my soul shall be joyful in the LORD: it shall rejoice in his salvation."
+        },
+        {
+            "reference":  "Psalm 35:10",
+             "verseNumber":  10,
+             "scripture":  "All my bones shall say, LORD, who is like unto you, which deliver the poor from him that is too strong for him, yea, the poor and the needy from him that spoils him?"
+        },
+        {
+            "reference":  "Psalm 35:11",
+             "verseNumber":  11,
+             "scripture":  "False witnesses did rise up; they laid to my charge things that I knew not."
+        },
+        {
+            "reference":  "Psalm 35:12",
+             "verseNumber":  12,
+             "scripture":  "They rewarded me evil for good to the spoiling of my soul."
+        },
+        {
+            "reference":  "Psalm 35:13",
+             "verseNumber":  13,
+             "scripture":  "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom."
+        },
+        {
+            "reference":  "Psalm 35:14",
+             "verseNumber":  14,
+             "scripture":  "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourns for his mother."
+        },
+        {
+            "reference":  "Psalm 35:15",
+             "verseNumber":  15,
+             "scripture":  "But in mine adversity they rejoiced, and gathered themselves together: yea, the outcasts gathered themselves together against me, and I knew it not; they did tear me, and ceased not:"
+        },
+        {
+            "reference":  "Psalm 35:16",
+             "verseNumber":  16,
+             "scripture":  "With hypocritical mockers in feasts, they gnashed upon me with their teeth."
+        },
+        {
+            "reference":  "Psalm 35:17",
+             "verseNumber":  17,
+             "scripture":  "Lord, how long will you look on? rescue my soul from their destructions, my darling from the lions."
+        },
+        {
+            "reference":  "Psalm 35:18",
+             "verseNumber":  18,
+             "scripture":  "I will give you thanks in the great congregation: I will praise you among much people."
+        },
+        {
+            "reference":  "Psalm 35:19",
+             "verseNumber":  19,
+             "scripture":  "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause."
+        },
+        {
+            "reference":  "Psalm 35:20",
+             "verseNumber":  20,
+             "scripture":  "For they speak not peace: but they devise deceitful matters against them that are quiet in the land."
+        },
+        {
+            "reference":  "Psalm 35:21",
+             "verseNumber":  21,
+             "scripture":  "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye has seen it."
+        },
+        {
+            "reference":  "Psalm 35:22",
+             "verseNumber":  22,
+             "scripture":  "This you have seen, O LORD: keep not silence: O Lord, be not far from me."
+        },
+        {
+            "reference":  "Psalm 35:23",
+             "verseNumber":  23,
+             "scripture":  "Stir up yourself, and awake to my judgment, even unto my cause, my God and my Lord."
+        },
+        {
+            "reference":  "Psalm 35:24",
+             "verseNumber":  24,
+             "scripture":  "Judge me, O LORD my God, according to your righteousness; and let them not rejoice over me."
+        },
+        {
+            "reference":  "Psalm 35:25",
+             "verseNumber":  25,
+             "scripture":  "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up."
+        },
+        {
+            "reference":  "Psalm 35:26",
+             "verseNumber":  26,
+             "scripture":  "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me."
+        },
+        {
+            "reference":  "Psalm 35:27",
+             "verseNumber":  27,
+             "scripture":  "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which has pleasure in the prosperity of his servant."
+        },
+        {
+            "reference":  "Psalm 35:28",
+             "verseNumber":  28,
+             "scripture":  "And my tongue shall speak of your righteousness and of your praise all the day long."
+        }
+    ]
+}

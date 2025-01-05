@@ -1,1 +1,65 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ecclesiastes", "bookAbbreviation": "Ecc", "chapterNumber": 11, "verses": [{"reference": "Ecclesiastes 11:1", "verseNumber": 1, "scripture": "Cast your bread upon the waters: for you shall find it after many days."},{"reference": "Ecclesiastes 11:2", "verseNumber": 2, "scripture": "Give a portion to seven, and also to eight; for you know not what evil shall be upon the earth."},{"reference": "Ecclesiastes 11:3", "verseNumber": 3, "scripture": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falls, there it shall be."},{"reference": "Ecclesiastes 11:4", "verseNumber": 4, "scripture": "He that observes the wind shall not sow; and he that regards the clouds shall not reap."},{"reference": "Ecclesiastes 11:5", "verseNumber": 5, "scripture": "As you know not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so you know not the works of God who makes all."},{"reference": "Ecclesiastes 11:6", "verseNumber": 6, "scripture": "In the morning sow your seed, and in the evening withhold not yours hand: for you know not whether shall prosper, either this or that, or whether they both shall be alike good."},{"reference": "Ecclesiastes 11:7", "verseNumber": 7, "scripture": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:"},{"reference": "Ecclesiastes 11:8", "verseNumber": 8, "scripture": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity."},{"reference": "Ecclesiastes 11:9", "verseNumber": 9, "scripture": "Rejoice, O young man, in your youth; and let your heart cheer you in the days of your youth, and walk in the ways of yours heart, and in the sight of yours eyes: but know you, that for all these things God will bring you into judgment."},{"reference": "Ecclesiastes 11:10", "verseNumber": 10, "scripture": "Therefore remove sorrow from your heart, and put away evil from your flesh: for childhood and youth are vanity."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ecclesiastes",
+     "bookAbbreviation":  "Ecc",
+     "chapterNumber":  11,
+     "verses":  [
+        {
+            "reference":  "Ecclesiastes 11:1",
+             "verseNumber":  1,
+             "scripture":  "Cast your bread upon the waters: for you shall find it after many days."
+        },
+        {
+            "reference":  "Ecclesiastes 11:2",
+             "verseNumber":  2,
+             "scripture":  "Give a portion to seven, and also to eight; for you know not what evil shall be upon the earth."
+        },
+        {
+            "reference":  "Ecclesiastes 11:3",
+             "verseNumber":  3,
+             "scripture":  "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falls, there it shall be."
+        },
+        {
+            "reference":  "Ecclesiastes 11:4",
+             "verseNumber":  4,
+             "scripture":  "He that observes the wind shall not sow; and he that regards the clouds shall not reap."
+        },
+        {
+            "reference":  "Ecclesiastes 11:5",
+             "verseNumber":  5,
+             "scripture":  "As you know not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so you know not the works of God who makes all."
+        },
+        {
+            "reference":  "Ecclesiastes 11:6",
+             "verseNumber":  6,
+             "scripture":  "In the morning sow your seed, and in the evening withhold not yours hand: for you know not whether shall prosper, either this or that, or whether they both shall be alike good."
+        },
+        {
+            "reference":  "Ecclesiastes 11:7",
+             "verseNumber":  7,
+             "scripture":  "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:"
+        },
+        {
+            "reference":  "Ecclesiastes 11:8",
+             "verseNumber":  8,
+             "scripture":  "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity."
+        },
+        {
+            "reference":  "Ecclesiastes 11:9",
+             "verseNumber":  9,
+             "scripture":  "Rejoice, O young man, in your youth; and let your heart cheer you in the days of your youth, and walk in the ways of yours heart, and in the sight of yours eyes: but know you, that for all these things God will bring you into judgment."
+        },
+        {
+            "reference":  "Ecclesiastes 11:10",
+             "verseNumber":  10,
+             "scripture":  "Therefore remove sorrow from your heart, and put away evil from your flesh: for childhood and youth are vanity."
+        }
+    ]
+}

@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 65, "verses": [{"reference": "Psalm 65:1", "verseNumber": 1, "scripture": "Praise waits for you, O God, in Sion: and unto you shall the vow be performed."},{"reference": "Psalm 65:2", "verseNumber": 2, "scripture": "O you that hear prayer, unto you shall all flesh come."},{"reference": "Psalm 65:3", "verseNumber": 3, "scripture": "Iniquities prevail against me: as for our transgressions, you shall purge them away."},{"reference": "Psalm 65:4", "verseNumber": 4, "scripture": "Blessed is the man whom you choose, and cause to approach unto you, that he may dwell in your courts: we shall be satisfied with the goodness of your house, even of your holy temple."},{"reference": "Psalm 65:5", "verseNumber": 5, "scripture": "By terrible things in righteousness will you answer us, O God of our salvation; who are the confidence of all the ends of the earth, and of them that are far off upon the sea:"},{"reference": "Psalm 65:6", "verseNumber": 6, "scripture": "Which by his strength sets fast the mountains; being girded with power:"},{"reference": "Psalm 65:7", "verseNumber": 7, "scripture": "Which stills the noise of the seas, the noise of their waves, and the tumult of the people."},{"reference": "Psalm 65:8", "verseNumber": 8, "scripture": "They also that dwell in the uttermost parts are afraid at your tokens: you make the utmost limit of the morning and evening to rejoice."},{"reference": "Psalm 65:9", "verseNumber": 9, "scripture": "You visit the earth, and water it: you greatly enrich it with the river of God, which is full of water: you prepare them corn, when you have so provided for it."},{"reference": "Psalm 65:10", "verseNumber": 10, "scripture": "You water the ridges thereof abundantly: you settle the furrows thereof: you make it soft with showers: you bless the springing thereof."},{"reference": "Psalm 65:11", "verseNumber": 11, "scripture": "You crown the year with your goodness; and your paths drop fatness."},{"reference": "Psalm 65:12", "verseNumber": 12, "scripture": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side."},{"reference": "Psalm 65:13", "verseNumber": 13, "scripture": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  65,
+     "verses":  [
+        {
+            "reference":  "Psalm 65:1",
+             "verseNumber":  1,
+             "scripture":  "Praise waits for you, O God, in Sion: and unto you shall the vow be performed."
+        },
+        {
+            "reference":  "Psalm 65:2",
+             "verseNumber":  2,
+             "scripture":  "O you that hear prayer, unto you shall all flesh come."
+        },
+        {
+            "reference":  "Psalm 65:3",
+             "verseNumber":  3,
+             "scripture":  "Iniquities prevail against me: as for our transgressions, you shall purge them away."
+        },
+        {
+            "reference":  "Psalm 65:4",
+             "verseNumber":  4,
+             "scripture":  "Blessed is the man whom you choose, and cause to approach unto you, that he may dwell in your courts: we shall be satisfied with the goodness of your house, even of your holy temple."
+        },
+        {
+            "reference":  "Psalm 65:5",
+             "verseNumber":  5,
+             "scripture":  "By terrible things in righteousness will you answer us, O God of our salvation; who are the confidence of all the ends of the earth, and of them that are far off upon the sea:"
+        },
+        {
+            "reference":  "Psalm 65:6",
+             "verseNumber":  6,
+             "scripture":  "Which by his strength sets fast the mountains; being girded with power:"
+        },
+        {
+            "reference":  "Psalm 65:7",
+             "verseNumber":  7,
+             "scripture":  "Which stills the noise of the seas, the noise of their waves, and the tumult of the people."
+        },
+        {
+            "reference":  "Psalm 65:8",
+             "verseNumber":  8,
+             "scripture":  "They also that dwell in the uttermost parts are afraid at your tokens: you make the utmost limit of the morning and evening to rejoice."
+        },
+        {
+            "reference":  "Psalm 65:9",
+             "verseNumber":  9,
+             "scripture":  "You visit the earth, and water it: you greatly enrich it with the river of God, which is full of water: you prepare them corn, when you have so provided for it."
+        },
+        {
+            "reference":  "Psalm 65:10",
+             "verseNumber":  10,
+             "scripture":  "You water the ridges thereof abundantly: you settle the furrows thereof: you make it soft with showers: you bless the springing thereof."
+        },
+        {
+            "reference":  "Psalm 65:11",
+             "verseNumber":  11,
+             "scripture":  "You crown the year with your goodness; and your paths drop fatness."
+        },
+        {
+            "reference":  "Psalm 65:12",
+             "verseNumber":  12,
+             "scripture":  "They drop upon the pastures of the wilderness: and the little hills rejoice on every side."
+        },
+        {
+            "reference":  "Psalm 65:13",
+             "verseNumber":  13,
+             "scripture":  "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing."
+        }
+    ]
+}

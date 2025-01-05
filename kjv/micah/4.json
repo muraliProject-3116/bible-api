@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Micah", "bookAbbreviation": "Mic", "chapterNumber": 4, "verses": [{"reference": "Micah 4:1", "verseNumber": 1, "scripture": "But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it."},{"reference": "Micah 4:2", "verseNumber": 2, "scripture": "And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go out of Zion, and the word of the LORD from Jerusalem."},{"reference": "Micah 4:3", "verseNumber": 3, "scripture": "And he shall judge among many people, and rebuke strong nations far off; and they shall beat their swords into plowshares, and their spears into pruning hooks: nation shall not lift up a sword against nation, neither shall they learn war any more."},{"reference": "Micah 4:4", "verseNumber": 4, "scripture": "But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts has spoken it."},{"reference": "Micah 4:5", "verseNumber": 5, "scripture": "For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever."},{"reference": "Micah 4:6", "verseNumber": 6, "scripture": "In that day, says the LORD, will I assemble her that haltes, and I will gather her that is driven out, and her that I have afflicted;"},{"reference": "Micah 4:7", "verseNumber": 7, "scripture": "And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever."},{"reference": "Micah 4:8", "verseNumber": 8, "scripture": "And you, O tower of the flock, the strong hold of the daughter of Zion, unto you shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem."},{"reference": "Micah 4:9", "verseNumber": 9, "scripture": "Now why do you cry out aloud? is there no king in you? is your counsellor perished? for pangs have taken you as a woman in travail."},{"reference": "Micah 4:10", "verseNumber": 10, "scripture": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shall you go forth out of the city, and you shall dwell in the field, and you shall go even to Babylon; there shall you be delivered; there the LORD shall redeem you from the hand of yours enemies."},{"reference": "Micah 4:11", "verseNumber": 11, "scripture": "Now also many nations are gathered against you, that say, Let her be defiled, and let our eye look upon Zion."},{"reference": "Micah 4:12", "verseNumber": 12, "scripture": "But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor."},{"reference": "Micah 4:13", "verseNumber": 13, "scripture": "Arise and thresh, O daughter of Zion: for I will make yours horn iron, and I will make your hoofs brass: and you shall beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Micah",
+     "bookAbbreviation":  "Mic",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Micah 4:1",
+             "verseNumber":  1,
+             "scripture":  "But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it."
+        },
+        {
+            "reference":  "Micah 4:2",
+             "verseNumber":  2,
+             "scripture":  "And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go out of Zion, and the word of the LORD from Jerusalem."
+        },
+        {
+            "reference":  "Micah 4:3",
+             "verseNumber":  3,
+             "scripture":  "And he shall judge among many people, and rebuke strong nations far off; and they shall beat their swords into plowshares, and their spears into pruning hooks: nation shall not lift up a sword against nation, neither shall they learn war any more."
+        },
+        {
+            "reference":  "Micah 4:4",
+             "verseNumber":  4,
+             "scripture":  "But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts has spoken it."
+        },
+        {
+            "reference":  "Micah 4:5",
+             "verseNumber":  5,
+             "scripture":  "For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever."
+        },
+        {
+            "reference":  "Micah 4:6",
+             "verseNumber":  6,
+             "scripture":  "In that day, says the LORD, will I assemble her that haltes, and I will gather her that is driven out, and her that I have afflicted;"
+        },
+        {
+            "reference":  "Micah 4:7",
+             "verseNumber":  7,
+             "scripture":  "And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever."
+        },
+        {
+            "reference":  "Micah 4:8",
+             "verseNumber":  8,
+             "scripture":  "And you, O tower of the flock, the strong hold of the daughter of Zion, unto you shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem."
+        },
+        {
+            "reference":  "Micah 4:9",
+             "verseNumber":  9,
+             "scripture":  "Now why do you cry out aloud? is there no king in you? is your counsellor perished? for pangs have taken you as a woman in travail."
+        },
+        {
+            "reference":  "Micah 4:10",
+             "verseNumber":  10,
+             "scripture":  "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shall you go forth out of the city, and you shall dwell in the field, and you shall go even to Babylon; there shall you be delivered; there the LORD shall redeem you from the hand of yours enemies."
+        },
+        {
+            "reference":  "Micah 4:11",
+             "verseNumber":  11,
+             "scripture":  "Now also many nations are gathered against you, that say, Let her be defiled, and let our eye look upon Zion."
+        },
+        {
+            "reference":  "Micah 4:12",
+             "verseNumber":  12,
+             "scripture":  "But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor."
+        },
+        {
+            "reference":  "Micah 4:13",
+             "verseNumber":  13,
+             "scripture":  "Arise and thresh, O daughter of Zion: for I will make yours horn iron, and I will make your hoofs brass: and you shall beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth."
+        }
+    ]
+}

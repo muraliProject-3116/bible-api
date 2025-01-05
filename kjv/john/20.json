@@ -1,1 +1,170 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "John", "bookAbbreviation": "Jh", "chapterNumber": 20, "verses": [{"reference": "John 20:1", "verseNumber": 1, "scripture": "The first day of the week comes Mary Magdalene early, when it was yet dark, unto the tomb, and sees the stone taken away from the tomb."},{"reference": "John 20:2", "verseNumber": 2, "scripture": "Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says unto them, They have taken away the LORD out of the tomb, and we know not where they have laid him."},{"reference": "John 20:3", "verseNumber": 3, "scripture": "Peter therefore went forth, and that other disciple, and came to the tomb."},{"reference": "John 20:4", "verseNumber": 4, "scripture": "So they ran both together: and the other disciple did outrun Peter, and came first to the tomb."},{"reference": "John 20:5", "verseNumber": 5, "scripture": "And he stooping down, and looking in, saw the linen clothes lying; yet went he not in."},{"reference": "John 20:6", "verseNumber": 6, "scripture": "Then comes Simon Peter following him, and went into the tomb, and sees the linen clothes lie,"},{"reference": "John 20:7", "verseNumber": 7, "scripture": "And the cloth, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself."},{"reference": "John 20:8", "verseNumber": 8, "scripture": "Then went in also that other disciple, which came first to the tomb, and he saw, and believed."},{"reference": "John 20:9", "verseNumber": 9, "scripture": "For as yet they knew not the scripture, that he must rise again from the dead."},{"reference": "John 20:10", "verseNumber": 10, "scripture": "Then the disciples went away again unto their own home."},{"reference": "John 20:11", "verseNumber": 11, "scripture": "But Mary stood without at the tomb weeping: and as she wept, she stooped down, and looked into the tomb,"},{"reference": "John 20:12", "verseNumber": 12, "scripture": "And sees two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."},{"reference": "John 20:13", "verseNumber": 13, "scripture": "And they say unto her, Woman, why weep you? She says unto them, Because they have taken away my LORD, and I know not where they have laid him."},{"reference": "John 20:14", "verseNumber": 14, "scripture": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."},{"reference": "John 20:15", "verseNumber": 15, "scripture": "Jesus says unto her, Woman, why weep you? whom seek you? She, supposing him to be the gardener, says unto him, Sir, if you have borne him behind, tell me where you have laid him, and I will take him away."},{"reference": "John 20:16", "verseNumber": 16, "scripture": "Jesus says unto her, Mary. She turned herself, and says unto him, Rabboni; which is to say, Master."},{"reference": "John 20:17", "verseNumber": 17, "scripture": "Jesus says unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."},{"reference": "John 20:18", "verseNumber": 18, "scripture": "Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her."},{"reference": "John 20:19", "verseNumber": 19, "scripture": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and says unto them, Peace be unto you."},{"reference": "John 20:20", "verseNumber": 20, "scripture": "And when he had so said, he showed unto them his hands and his side. Then were the disciples glad, when they saw the LORD."},{"reference": "John 20:21", "verseNumber": 21, "scripture": "Then said Jesus to them again, Peace be unto you: as my Father has sent me, even so send I you."},{"reference": "John 20:22", "verseNumber": 22, "scripture": "And when he had said this, he breathed on them, and says unto them, Receive all of you the Holy Spirit:"},{"reference": "John 20:23", "verseNumber": 23, "scripture": "Whomsoever sins all of you remit, they are remitted unto them; and whomsoever sins all of you retain, they are retained."},{"reference": "John 20:24", "verseNumber": 24, "scripture": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."},{"reference": "John 20:25", "verseNumber": 25, "scripture": "The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."},{"reference": "John 20:26", "verseNumber": 26, "scripture": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."},{"reference": "John 20:27", "verseNumber": 27, "scripture": "Then says he to Thomas, Reach here your finger, and behold my hands; and reach here your hand, and thrust it into my side: and be not faithless, but believing."},{"reference": "John 20:28", "verseNumber": 28, "scripture": "And Thomas answered and said unto him, My LORD and my God."},{"reference": "John 20:29", "verseNumber": 29, "scripture": "Jesus says unto him, Thomas, because you have seen me, you have believed: blessed are they that have not seen, and yet have believed."},{"reference": "John 20:30", "verseNumber": 30, "scripture": "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:"},{"reference": "John 20:31", "verseNumber": 31, "scripture": "But these are written, that all of you might believe that Jesus is the Christ, the Son of God; and that believing all of you might have life through his name."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "John",
+     "bookAbbreviation":  "Jh",
+     "chapterNumber":  20,
+     "verses":  [
+        {
+            "reference":  "John 20:1",
+             "verseNumber":  1,
+             "scripture":  "The first day of the week comes Mary Magdalene early, when it was yet dark, unto the tomb, and sees the stone taken away from the tomb."
+        },
+        {
+            "reference":  "John 20:2",
+             "verseNumber":  2,
+             "scripture":  "Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says unto them, They have taken away the LORD out of the tomb, and we know not where they have laid him."
+        },
+        {
+            "reference":  "John 20:3",
+             "verseNumber":  3,
+             "scripture":  "Peter therefore went forth, and that other disciple, and came to the tomb."
+        },
+        {
+            "reference":  "John 20:4",
+             "verseNumber":  4,
+             "scripture":  "So they ran both together: and the other disciple did outrun Peter, and came first to the tomb."
+        },
+        {
+            "reference":  "John 20:5",
+             "verseNumber":  5,
+             "scripture":  "And he stooping down, and looking in, saw the linen clothes lying; yet went he not in."
+        },
+        {
+            "reference":  "John 20:6",
+             "verseNumber":  6,
+             "scripture":  "Then comes Simon Peter following him, and went into the tomb, and sees the linen clothes lie,"
+        },
+        {
+            "reference":  "John 20:7",
+             "verseNumber":  7,
+             "scripture":  "And the cloth, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself."
+        },
+        {
+            "reference":  "John 20:8",
+             "verseNumber":  8,
+             "scripture":  "Then went in also that other disciple, which came first to the tomb, and he saw, and believed."
+        },
+        {
+            "reference":  "John 20:9",
+             "verseNumber":  9,
+             "scripture":  "For as yet they knew not the scripture, that he must rise again from the dead."
+        },
+        {
+            "reference":  "John 20:10",
+             "verseNumber":  10,
+             "scripture":  "Then the disciples went away again unto their own home."
+        },
+        {
+            "reference":  "John 20:11",
+             "verseNumber":  11,
+             "scripture":  "But Mary stood without at the tomb weeping: and as she wept, she stooped down, and looked into the tomb,"
+        },
+        {
+            "reference":  "John 20:12",
+             "verseNumber":  12,
+             "scripture":  "And sees two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."
+        },
+        {
+            "reference":  "John 20:13",
+             "verseNumber":  13,
+             "scripture":  "And they say unto her, Woman, why weep you? She says unto them, Because they have taken away my LORD, and I know not where they have laid him."
+        },
+        {
+            "reference":  "John 20:14",
+             "verseNumber":  14,
+             "scripture":  "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."
+        },
+        {
+            "reference":  "John 20:15",
+             "verseNumber":  15,
+             "scripture":  "Jesus says unto her, Woman, why weep you? whom seek you? She, supposing him to be the gardener, says unto him, Sir, if you have borne him behind, tell me where you have laid him, and I will take him away."
+        },
+        {
+            "reference":  "John 20:16",
+             "verseNumber":  16,
+             "scripture":  "Jesus says unto her, Mary. She turned herself, and says unto him, Rabboni; which is to say, Master."
+        },
+        {
+            "reference":  "John 20:17",
+             "verseNumber":  17,
+             "scripture":  "Jesus says unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
+        },
+        {
+            "reference":  "John 20:18",
+             "verseNumber":  18,
+             "scripture":  "Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her."
+        },
+        {
+            "reference":  "John 20:19",
+             "verseNumber":  19,
+             "scripture":  "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and says unto them, Peace be unto you."
+        },
+        {
+            "reference":  "John 20:20",
+             "verseNumber":  20,
+             "scripture":  "And when he had so said, he showed unto them his hands and his side. Then were the disciples glad, when they saw the LORD."
+        },
+        {
+            "reference":  "John 20:21",
+             "verseNumber":  21,
+             "scripture":  "Then said Jesus to them again, Peace be unto you: as my Father has sent me, even so send I you."
+        },
+        {
+            "reference":  "John 20:22",
+             "verseNumber":  22,
+             "scripture":  "And when he had said this, he breathed on them, and says unto them, Receive all of you the Holy Spirit:"
+        },
+        {
+            "reference":  "John 20:23",
+             "verseNumber":  23,
+             "scripture":  "Whomsoever sins all of you remit, they are remitted unto them; and whomsoever sins all of you retain, they are retained."
+        },
+        {
+            "reference":  "John 20:24",
+             "verseNumber":  24,
+             "scripture":  "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+        },
+        {
+            "reference":  "John 20:25",
+             "verseNumber":  25,
+             "scripture":  "The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+        },
+        {
+            "reference":  "John 20:26",
+             "verseNumber":  26,
+             "scripture":  "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
+        },
+        {
+            "reference":  "John 20:27",
+             "verseNumber":  27,
+             "scripture":  "Then says he to Thomas, Reach here your finger, and behold my hands; and reach here your hand, and thrust it into my side: and be not faithless, but believing."
+        },
+        {
+            "reference":  "John 20:28",
+             "verseNumber":  28,
+             "scripture":  "And Thomas answered and said unto him, My LORD and my God."
+        },
+        {
+            "reference":  "John 20:29",
+             "verseNumber":  29,
+             "scripture":  "Jesus says unto him, Thomas, because you have seen me, you have believed: blessed are they that have not seen, and yet have believed."
+        },
+        {
+            "reference":  "John 20:30",
+             "verseNumber":  30,
+             "scripture":  "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:"
+        },
+        {
+            "reference":  "John 20:31",
+             "verseNumber":  31,
+             "scripture":  "But these are written, that all of you might believe that Jesus is the Christ, the Son of God; and that believing all of you might have life through his name."
+        }
+    ]
+}

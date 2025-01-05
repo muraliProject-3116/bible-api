@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Corinthians", "bookAbbreviation": "2 Cor", "chapterNumber": 3, "verses": [{"reference": "2 Corinthians 3:1", "verseNumber": 1, "scripture": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?"},{"reference": "2 Corinthians 3:2", "verseNumber": 2, "scripture": "All of you are our epistle written in our hearts, known and read of all men:"},{"reference": "2 Corinthians 3:3", "verseNumber": 3, "scripture": "Forasmuch as all of you are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."},{"reference": "2 Corinthians 3:4", "verseNumber": 4, "scripture": "And such trust have we through Christ toward God:"},{"reference": "2 Corinthians 3:5", "verseNumber": 5, "scripture": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;"},{"reference": "2 Corinthians 3:6", "verseNumber": 6, "scripture": "Who also has made us able ministers of the new testament; not of the letter, but of the spirit: for the letter kills, but the spirit gives life."},{"reference": "2 Corinthians 3:7", "verseNumber": 7, "scripture": "But if the ministration of death, written and engraved in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:"},{"reference": "2 Corinthians 3:8", "verseNumber": 8, "scripture": "How shall not the ministration of the spirit be rather glorious?"},{"reference": "2 Corinthians 3:9", "verseNumber": 9, "scripture": "For if the ministration of condemnation be glory, much more does the ministration of righteousness exceed in glory."},{"reference": "2 Corinthians 3:10", "verseNumber": 10, "scripture": "For even that which was made glorious had no glory in this respect, by reason of the glory that excels."},{"reference": "2 Corinthians 3:11", "verseNumber": 11, "scripture": "For if that which is done away was glorious, much more that which remains is glorious."},{"reference": "2 Corinthians 3:12", "verseNumber": 12, "scripture": "Seeing then that we have such hope, we use great plainness of speech:"},{"reference": "2 Corinthians 3:13", "verseNumber": 13, "scripture": "And not as Moses, which put a vail over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:"},{"reference": "2 Corinthians 3:14", "verseNumber": 14, "scripture": "But their minds were blinded: for until this day remains the same vail untaken away in the reading of the old testament; which vail is done away in Christ."},{"reference": "2 Corinthians 3:15", "verseNumber": 15, "scripture": "But even unto this day, when Moses is read, the vail is upon their heart."},{"reference": "2 Corinthians 3:16", "verseNumber": 16, "scripture": "Nevertheless when it shall turn to the Lord, the vail shall be taken away."},{"reference": "2 Corinthians 3:17", "verseNumber": 17, "scripture": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty."},{"reference": "2 Corinthians 3:18", "verseNumber": 18, "scripture": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Corinthians",
+     "bookAbbreviation":  "2 Cor",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "2 Corinthians 3:1",
+             "verseNumber":  1,
+             "scripture":  "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?"
+        },
+        {
+            "reference":  "2 Corinthians 3:2",
+             "verseNumber":  2,
+             "scripture":  "All of you are our epistle written in our hearts, known and read of all men:"
+        },
+        {
+            "reference":  "2 Corinthians 3:3",
+             "verseNumber":  3,
+             "scripture":  "Forasmuch as all of you are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
+        },
+        {
+            "reference":  "2 Corinthians 3:4",
+             "verseNumber":  4,
+             "scripture":  "And such trust have we through Christ toward God:"
+        },
+        {
+            "reference":  "2 Corinthians 3:5",
+             "verseNumber":  5,
+             "scripture":  "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;"
+        },
+        {
+            "reference":  "2 Corinthians 3:6",
+             "verseNumber":  6,
+             "scripture":  "Who also has made us able ministers of the new testament; not of the letter, but of the spirit: for the letter kills, but the spirit gives life."
+        },
+        {
+            "reference":  "2 Corinthians 3:7",
+             "verseNumber":  7,
+             "scripture":  "But if the ministration of death, written and engraved in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:"
+        },
+        {
+            "reference":  "2 Corinthians 3:8",
+             "verseNumber":  8,
+             "scripture":  "How shall not the ministration of the spirit be rather glorious?"
+        },
+        {
+            "reference":  "2 Corinthians 3:9",
+             "verseNumber":  9,
+             "scripture":  "For if the ministration of condemnation be glory, much more does the ministration of righteousness exceed in glory."
+        },
+        {
+            "reference":  "2 Corinthians 3:10",
+             "verseNumber":  10,
+             "scripture":  "For even that which was made glorious had no glory in this respect, by reason of the glory that excels."
+        },
+        {
+            "reference":  "2 Corinthians 3:11",
+             "verseNumber":  11,
+             "scripture":  "For if that which is done away was glorious, much more that which remains is glorious."
+        },
+        {
+            "reference":  "2 Corinthians 3:12",
+             "verseNumber":  12,
+             "scripture":  "Seeing then that we have such hope, we use great plainness of speech:"
+        },
+        {
+            "reference":  "2 Corinthians 3:13",
+             "verseNumber":  13,
+             "scripture":  "And not as Moses, which put a vail over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:"
+        },
+        {
+            "reference":  "2 Corinthians 3:14",
+             "verseNumber":  14,
+             "scripture":  "But their minds were blinded: for until this day remains the same vail untaken away in the reading of the old testament; which vail is done away in Christ."
+        },
+        {
+            "reference":  "2 Corinthians 3:15",
+             "verseNumber":  15,
+             "scripture":  "But even unto this day, when Moses is read, the vail is upon their heart."
+        },
+        {
+            "reference":  "2 Corinthians 3:16",
+             "verseNumber":  16,
+             "scripture":  "Nevertheless when it shall turn to the Lord, the vail shall be taken away."
+        },
+        {
+            "reference":  "2 Corinthians 3:17",
+             "verseNumber":  17,
+             "scripture":  "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty."
+        },
+        {
+            "reference":  "2 Corinthians 3:18",
+             "verseNumber":  18,
+             "scripture":  "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the LORD."
+        }
+    ]
+}

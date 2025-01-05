@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Deuteronomy", "bookAbbreviation": "Jos", "chapterNumber": 34, "verses": [{"reference": "Deuteronomy 34:1", "verseNumber": 1, "scripture": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is opposite to Jericho. And the LORD showed him all the land of Gilead, unto Dan,"},{"reference": "Deuteronomy 34:2", "verseNumber": 2, "scripture": "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,"},{"reference": "Deuteronomy 34:3", "verseNumber": 3, "scripture": "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar."},{"reference": "Deuteronomy 34:4", "verseNumber": 4, "scripture": "And the LORD said unto him, This is the land which I swore unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto your seed: I have caused you to see it with yours eyes, but you shall not go over thither."},{"reference": "Deuteronomy 34:5", "verseNumber": 5, "scripture": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."},{"reference": "Deuteronomy 34:6", "verseNumber": 6, "scripture": "And he buried him in a valley in the land of Moab, opposite to Bethpeor: but no man knows of his tomb unto this day."},{"reference": "Deuteronomy 34:7", "verseNumber": 7, "scripture": "And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force decreased."},{"reference": "Deuteronomy 34:8", "verseNumber": 8, "scripture": "And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended."},{"reference": "Deuteronomy 34:9", "verseNumber": 9, "scripture": "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses."},{"reference": "Deuteronomy 34:10", "verseNumber": 10, "scripture": "And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,"},{"reference": "Deuteronomy 34:11", "verseNumber": 11, "scripture": "In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,"},{"reference": "Deuteronomy 34:12", "verseNumber": 12, "scripture": "And in all that mighty hand, and in all the great terror which Moses showed in the sight of all Israel."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Deuteronomy",
+     "bookAbbreviation":  "Jos",
+     "chapterNumber":  34,
+     "verses":  [
+        {
+            "reference":  "Deuteronomy 34:1",
+             "verseNumber":  1,
+             "scripture":  "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is opposite to Jericho. And the LORD showed him all the land of Gilead, unto Dan,"
+        },
+        {
+            "reference":  "Deuteronomy 34:2",
+             "verseNumber":  2,
+             "scripture":  "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,"
+        },
+        {
+            "reference":  "Deuteronomy 34:3",
+             "verseNumber":  3,
+             "scripture":  "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar."
+        },
+        {
+            "reference":  "Deuteronomy 34:4",
+             "verseNumber":  4,
+             "scripture":  "And the LORD said unto him, This is the land which I swore unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto your seed: I have caused you to see it with yours eyes, but you shall not go over thither."
+        },
+        {
+            "reference":  "Deuteronomy 34:5",
+             "verseNumber":  5,
+             "scripture":  "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."
+        },
+        {
+            "reference":  "Deuteronomy 34:6",
+             "verseNumber":  6,
+             "scripture":  "And he buried him in a valley in the land of Moab, opposite to Bethpeor: but no man knows of his tomb unto this day."
+        },
+        {
+            "reference":  "Deuteronomy 34:7",
+             "verseNumber":  7,
+             "scripture":  "And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force decreased."
+        },
+        {
+            "reference":  "Deuteronomy 34:8",
+             "verseNumber":  8,
+             "scripture":  "And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended."
+        },
+        {
+            "reference":  "Deuteronomy 34:9",
+             "verseNumber":  9,
+             "scripture":  "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses."
+        },
+        {
+            "reference":  "Deuteronomy 34:10",
+             "verseNumber":  10,
+             "scripture":  "And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,"
+        },
+        {
+            "reference":  "Deuteronomy 34:11",
+             "verseNumber":  11,
+             "scripture":  "In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,"
+        },
+        {
+            "reference":  "Deuteronomy 34:12",
+             "verseNumber":  12,
+             "scripture":  "And in all that mighty hand, and in all the great terror which Moses showed in the sight of all Israel."
+        }
+    ]
+}

@@ -1,1 +1,80 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 56, "verses": [{"reference": "Psalm 56:1", "verseNumber": 1, "scripture": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresses me."},{"reference": "Psalm 56:2", "verseNumber": 2, "scripture": "Mine enemies would daily swallow me up: for they be many that fight against me, O you most High."},{"reference": "Psalm 56:3", "verseNumber": 3, "scripture": "What time I am afraid, I will trust in you."},{"reference": "Psalm 56:4", "verseNumber": 4, "scripture": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me."},{"reference": "Psalm 56:5", "verseNumber": 5, "scripture": "Every day they shift my words: all their thoughts are against me for evil."},{"reference": "Psalm 56:6", "verseNumber": 6, "scripture": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul."},{"reference": "Psalm 56:7", "verseNumber": 7, "scripture": "Shall they escape by iniquity? in yours anger cast down the people, O God."},{"reference": "Psalm 56:8", "verseNumber": 8, "scripture": "You tell my wanderings: put you my tears into your bottle: are they not in your book?"},{"reference": "Psalm 56:9", "verseNumber": 9, "scripture": "When I cry unto you, then shall mine enemies turn back: this I know; for God is for me."},{"reference": "Psalm 56:10", "verseNumber": 10, "scripture": "In God will I praise his word: in the LORD will I praise his word."},{"reference": "Psalm 56:11", "verseNumber": 11, "scripture": "In God have I put my trust: I will not be afraid what man can do unto me."},{"reference": "Psalm 56:12", "verseNumber": 12, "scripture": "Your vows are upon me, O God: I will render praises unto you."},{"reference": "Psalm 56:13", "verseNumber": 13, "scripture": "For you have delivered my soul from death: will not you deliver my feet from falling, that I may walk before God in the light of the living?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  56,
+     "verses":  [
+        {
+            "reference":  "Psalm 56:1",
+             "verseNumber":  1,
+             "scripture":  "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresses me."
+        },
+        {
+            "reference":  "Psalm 56:2",
+             "verseNumber":  2,
+             "scripture":  "Mine enemies would daily swallow me up: for they be many that fight against me, O you most High."
+        },
+        {
+            "reference":  "Psalm 56:3",
+             "verseNumber":  3,
+             "scripture":  "What time I am afraid, I will trust in you."
+        },
+        {
+            "reference":  "Psalm 56:4",
+             "verseNumber":  4,
+             "scripture":  "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me."
+        },
+        {
+            "reference":  "Psalm 56:5",
+             "verseNumber":  5,
+             "scripture":  "Every day they shift my words: all their thoughts are against me for evil."
+        },
+        {
+            "reference":  "Psalm 56:6",
+             "verseNumber":  6,
+             "scripture":  "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul."
+        },
+        {
+            "reference":  "Psalm 56:7",
+             "verseNumber":  7,
+             "scripture":  "Shall they escape by iniquity? in yours anger cast down the people, O God."
+        },
+        {
+            "reference":  "Psalm 56:8",
+             "verseNumber":  8,
+             "scripture":  "You tell my wanderings: put you my tears into your bottle: are they not in your book?"
+        },
+        {
+            "reference":  "Psalm 56:9",
+             "verseNumber":  9,
+             "scripture":  "When I cry unto you, then shall mine enemies turn back: this I know; for God is for me."
+        },
+        {
+            "reference":  "Psalm 56:10",
+             "verseNumber":  10,
+             "scripture":  "In God will I praise his word: in the LORD will I praise his word."
+        },
+        {
+            "reference":  "Psalm 56:11",
+             "verseNumber":  11,
+             "scripture":  "In God have I put my trust: I will not be afraid what man can do unto me."
+        },
+        {
+            "reference":  "Psalm 56:12",
+             "verseNumber":  12,
+             "scripture":  "Your vows are upon me, O God: I will render praises unto you."
+        },
+        {
+            "reference":  "Psalm 56:13",
+             "verseNumber":  13,
+             "scripture":  "For you have delivered my soul from death: will not you deliver my feet from falling, that I may walk before God in the light of the living?"
+        }
+    ]
+}

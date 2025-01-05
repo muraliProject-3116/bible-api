@@ -1,1 +1,85 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 27, "verses": [{"reference": "Psalm 27:1", "verseNumber": 1, "scripture": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"},{"reference": "Psalm 27:2", "verseNumber": 2, "scripture": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."},{"reference": "Psalm 27:3", "verseNumber": 3, "scripture": "Though an host should camp against me, my heart shall not fear: though war should rise against me, in this will I be confident."},{"reference": "Psalm 27:4", "verseNumber": 4, "scripture": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."},{"reference": "Psalm 27:5", "verseNumber": 5, "scripture": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock."},{"reference": "Psalm 27:6", "verseNumber": 6, "scripture": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."},{"reference": "Psalm 27:7", "verseNumber": 7, "scripture": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."},{"reference": "Psalm 27:8", "verseNumber": 8, "scripture": "When you said, Seek all of you my face; my heart said unto you, Your face, LORD, will I seek."},{"reference": "Psalm 27:9", "verseNumber": 9, "scripture": "Hide not your face far from me; put not your servant away in anger: you have been my help; leave me not, neither forsake me, O God of my salvation."},{"reference": "Psalm 27:10", "verseNumber": 10, "scripture": "When my father and my mother forsake me, then the LORD will take me up."},{"reference": "Psalm 27:11", "verseNumber": 11, "scripture": "Teach me your way, O LORD, and lead me in a plain path, because of mine enemies."},{"reference": "Psalm 27:12", "verseNumber": 12, "scripture": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."},{"reference": "Psalm 27:13", "verseNumber": 13, "scripture": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."},{"reference": "Psalm 27:14", "verseNumber": 14, "scripture": "Wait on the LORD: be of good courage, and he shall strengthen yours heart: wait, I say, on the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  27,
+     "verses":  [
+        {
+            "reference":  "Psalm 27:1",
+             "verseNumber":  1,
+             "scripture":  "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+        },
+        {
+            "reference":  "Psalm 27:2",
+             "verseNumber":  2,
+             "scripture":  "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
+        },
+        {
+            "reference":  "Psalm 27:3",
+             "verseNumber":  3,
+             "scripture":  "Though an host should camp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
+        },
+        {
+            "reference":  "Psalm 27:4",
+             "verseNumber":  4,
+             "scripture":  "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."
+        },
+        {
+            "reference":  "Psalm 27:5",
+             "verseNumber":  5,
+             "scripture":  "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock."
+        },
+        {
+            "reference":  "Psalm 27:6",
+             "verseNumber":  6,
+             "scripture":  "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."
+        },
+        {
+            "reference":  "Psalm 27:7",
+             "verseNumber":  7,
+             "scripture":  "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."
+        },
+        {
+            "reference":  "Psalm 27:8",
+             "verseNumber":  8,
+             "scripture":  "When you said, Seek all of you my face; my heart said unto you, Your face, LORD, will I seek."
+        },
+        {
+            "reference":  "Psalm 27:9",
+             "verseNumber":  9,
+             "scripture":  "Hide not your face far from me; put not your servant away in anger: you have been my help; leave me not, neither forsake me, O God of my salvation."
+        },
+        {
+            "reference":  "Psalm 27:10",
+             "verseNumber":  10,
+             "scripture":  "When my father and my mother forsake me, then the LORD will take me up."
+        },
+        {
+            "reference":  "Psalm 27:11",
+             "verseNumber":  11,
+             "scripture":  "Teach me your way, O LORD, and lead me in a plain path, because of mine enemies."
+        },
+        {
+            "reference":  "Psalm 27:12",
+             "verseNumber":  12,
+             "scripture":  "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."
+        },
+        {
+            "reference":  "Psalm 27:13",
+             "verseNumber":  13,
+             "scripture":  "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."
+        },
+        {
+            "reference":  "Psalm 27:14",
+             "verseNumber":  14,
+             "scripture":  "Wait on the LORD: be of good courage, and he shall strengthen yours heart: wait, I say, on the LORD."
+        }
+    ]
+}

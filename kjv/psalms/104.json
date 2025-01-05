@@ -1,1 +1,190 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 104, "verses": [{"reference": "Psalm 104:1", "verseNumber": 1, "scripture": "Bless the LORD, O my soul. O LORD my God, you are very great; you are clothed with honour and majesty."},{"reference": "Psalm 104:2", "verseNumber": 2, "scripture": "Who cover yourself with light as with a garment: who stretch out the heavens like a curtain:"},{"reference": "Psalm 104:3", "verseNumber": 3, "scripture": "Who lays the beams of his chambers in the waters: who makes the clouds his chariot: who walks upon the wings of the wind:"},{"reference": "Psalm 104:4", "verseNumber": 4, "scripture": "Who makes his angels spirits; his ministers a flaming fire:"},{"reference": "Psalm 104:5", "verseNumber": 5, "scripture": "Who laid the foundations of the earth, that it should not be removed for ever."},{"reference": "Psalm 104:6", "verseNumber": 6, "scripture": "You covered it with the deep as with a garment: the waters stood above the mountains."},{"reference": "Psalm 104:7", "verseNumber": 7, "scripture": "At your rebuke they fled; at the voice of your thunder they hasted away."},{"reference": "Psalm 104:8", "verseNumber": 8, "scripture": "They go up by the mountains; they go down by the valleys unto the place which you have founded for them."},{"reference": "Psalm 104:9", "verseNumber": 9, "scripture": "You have set a bound that they may not pass over; that they turn not again to cover the earth."},{"reference": "Psalm 104:10", "verseNumber": 10, "scripture": "He sends the springs into the valleys, which run among the hills."},{"reference": "Psalm 104:11", "verseNumber": 11, "scripture": "They give drink to every beast of the field: the wild asses quench their thirst."},{"reference": "Psalm 104:12", "verseNumber": 12, "scripture": "By them shall the fowls of the heaven have their habitation, which sing among the branches."},{"reference": "Psalm 104:13", "verseNumber": 13, "scripture": "He waters the hills from his chambers: the earth is satisfied with the fruit of your works."},{"reference": "Psalm 104:14", "verseNumber": 14, "scripture": "He causes the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;"},{"reference": "Psalm 104:15", "verseNumber": 15, "scripture": "And wine that makes glad the heart of man, and oil to make his face to shine, and bread which strengthens man's heart."},{"reference": "Psalm 104:16", "verseNumber": 16, "scripture": "The trees of the LORD are full of sap; the cedars of Lebanon, which he has planted;"},{"reference": "Psalm 104:17", "verseNumber": 17, "scripture": "Where the birds make their nests: as for the stork, the fir trees are her house."},{"reference": "Psalm 104:18", "verseNumber": 18, "scripture": "The high hills are a refuge for the wild goats; and the rocks for the conies."},{"reference": "Psalm 104:19", "verseNumber": 19, "scripture": "He appointed the moon for seasons: the sun knows his going down."},{"reference": "Psalm 104:20", "verseNumber": 20, "scripture": "You make darkness, and it is night: wherein all the beasts of the forest do creep forth."},{"reference": "Psalm 104:21", "verseNumber": 21, "scripture": "The young lions roar after their prey, and seek their food from God."},{"reference": "Psalm 104:22", "verseNumber": 22, "scripture": "The sun arises, they gather themselves together, and lay them down in their dens."},{"reference": "Psalm 104:23", "verseNumber": 23, "scripture": "Man goes forth unto his work and to his labour until the evening."},{"reference": "Psalm 104:24", "verseNumber": 24, "scripture": "O LORD, how manifold are your works! in wisdom have you made them all: the earth is full of your riches."},{"reference": "Psalm 104:25", "verseNumber": 25, "scripture": "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts."},{"reference": "Psalm 104:26", "verseNumber": 26, "scripture": "There go the ships: there is that leviathan , whom you have made to play therein."},{"reference": "Psalm 104:27", "verseNumber": 27, "scripture": "These wait all upon you; that you may give them their food in due season."},{"reference": "Psalm 104:28", "verseNumber": 28, "scripture": "That you give them they gather: you open yours hand, they are filled with good."},{"reference": "Psalm 104:29", "verseNumber": 29, "scripture": "You hide your face, they are troubled: you take away their breath, they die, and return to their dust."},{"reference": "Psalm 104:30", "verseNumber": 30, "scripture": "You send forth your spirit, they are created: and you renew the face of the earth."},{"reference": "Psalm 104:31", "verseNumber": 31, "scripture": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works."},{"reference": "Psalm 104:32", "verseNumber": 32, "scripture": "He looks on the earth, and it trembles: he touches the hills, and they smoke."},{"reference": "Psalm 104:33", "verseNumber": 33, "scripture": "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being."},{"reference": "Psalm 104:34", "verseNumber": 34, "scripture": "My meditation of him shall be sweet: I will be glad in the LORD."},{"reference": "Psalm 104:35", "verseNumber": 35, "scripture": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless you the LORD, O my soul. Praise all of you the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  104,
+     "verses":  [
+        {
+            "reference":  "Psalm 104:1",
+             "verseNumber":  1,
+             "scripture":  "Bless the LORD, O my soul. O LORD my God, you are very great; you are clothed with honour and majesty."
+        },
+        {
+            "reference":  "Psalm 104:2",
+             "verseNumber":  2,
+             "scripture":  "Who cover yourself with light as with a garment: who stretch out the heavens like a curtain:"
+        },
+        {
+            "reference":  "Psalm 104:3",
+             "verseNumber":  3,
+             "scripture":  "Who lays the beams of his chambers in the waters: who makes the clouds his chariot: who walks upon the wings of the wind:"
+        },
+        {
+            "reference":  "Psalm 104:4",
+             "verseNumber":  4,
+             "scripture":  "Who makes his angels spirits; his ministers a flaming fire:"
+        },
+        {
+            "reference":  "Psalm 104:5",
+             "verseNumber":  5,
+             "scripture":  "Who laid the foundations of the earth, that it should not be removed for ever."
+        },
+        {
+            "reference":  "Psalm 104:6",
+             "verseNumber":  6,
+             "scripture":  "You covered it with the deep as with a garment: the waters stood above the mountains."
+        },
+        {
+            "reference":  "Psalm 104:7",
+             "verseNumber":  7,
+             "scripture":  "At your rebuke they fled; at the voice of your thunder they hasted away."
+        },
+        {
+            "reference":  "Psalm 104:8",
+             "verseNumber":  8,
+             "scripture":  "They go up by the mountains; they go down by the valleys unto the place which you have founded for them."
+        },
+        {
+            "reference":  "Psalm 104:9",
+             "verseNumber":  9,
+             "scripture":  "You have set a bound that they may not pass over; that they turn not again to cover the earth."
+        },
+        {
+            "reference":  "Psalm 104:10",
+             "verseNumber":  10,
+             "scripture":  "He sends the springs into the valleys, which run among the hills."
+        },
+        {
+            "reference":  "Psalm 104:11",
+             "verseNumber":  11,
+             "scripture":  "They give drink to every beast of the field: the wild asses quench their thirst."
+        },
+        {
+            "reference":  "Psalm 104:12",
+             "verseNumber":  12,
+             "scripture":  "By them shall the fowls of the heaven have their habitation, which sing among the branches."
+        },
+        {
+            "reference":  "Psalm 104:13",
+             "verseNumber":  13,
+             "scripture":  "He waters the hills from his chambers: the earth is satisfied with the fruit of your works."
+        },
+        {
+            "reference":  "Psalm 104:14",
+             "verseNumber":  14,
+             "scripture":  "He causes the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;"
+        },
+        {
+            "reference":  "Psalm 104:15",
+             "verseNumber":  15,
+             "scripture":  "And wine that makes glad the heart of man, and oil to make his face to shine, and bread which strengthens man's heart."
+        },
+        {
+            "reference":  "Psalm 104:16",
+             "verseNumber":  16,
+             "scripture":  "The trees of the LORD are full of sap; the cedars of Lebanon, which he has planted;"
+        },
+        {
+            "reference":  "Psalm 104:17",
+             "verseNumber":  17,
+             "scripture":  "Where the birds make their nests: as for the stork, the fir trees are her house."
+        },
+        {
+            "reference":  "Psalm 104:18",
+             "verseNumber":  18,
+             "scripture":  "The high hills are a refuge for the wild goats; and the rocks for the conies."
+        },
+        {
+            "reference":  "Psalm 104:19",
+             "verseNumber":  19,
+             "scripture":  "He appointed the moon for seasons: the sun knows his going down."
+        },
+        {
+            "reference":  "Psalm 104:20",
+             "verseNumber":  20,
+             "scripture":  "You make darkness, and it is night: wherein all the beasts of the forest do creep forth."
+        },
+        {
+            "reference":  "Psalm 104:21",
+             "verseNumber":  21,
+             "scripture":  "The young lions roar after their prey, and seek their food from God."
+        },
+        {
+            "reference":  "Psalm 104:22",
+             "verseNumber":  22,
+             "scripture":  "The sun arises, they gather themselves together, and lay them down in their dens."
+        },
+        {
+            "reference":  "Psalm 104:23",
+             "verseNumber":  23,
+             "scripture":  "Man goes forth unto his work and to his labour until the evening."
+        },
+        {
+            "reference":  "Psalm 104:24",
+             "verseNumber":  24,
+             "scripture":  "O LORD, how manifold are your works! in wisdom have you made them all: the earth is full of your riches."
+        },
+        {
+            "reference":  "Psalm 104:25",
+             "verseNumber":  25,
+             "scripture":  "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts."
+        },
+        {
+            "reference":  "Psalm 104:26",
+             "verseNumber":  26,
+             "scripture":  "There go the ships: there is that leviathan , whom you have made to play therein."
+        },
+        {
+            "reference":  "Psalm 104:27",
+             "verseNumber":  27,
+             "scripture":  "These wait all upon you; that you may give them their food in due season."
+        },
+        {
+            "reference":  "Psalm 104:28",
+             "verseNumber":  28,
+             "scripture":  "That you give them they gather: you open yours hand, they are filled with good."
+        },
+        {
+            "reference":  "Psalm 104:29",
+             "verseNumber":  29,
+             "scripture":  "You hide your face, they are troubled: you take away their breath, they die, and return to their dust."
+        },
+        {
+            "reference":  "Psalm 104:30",
+             "verseNumber":  30,
+             "scripture":  "You send forth your spirit, they are created: and you renew the face of the earth."
+        },
+        {
+            "reference":  "Psalm 104:31",
+             "verseNumber":  31,
+             "scripture":  "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works."
+        },
+        {
+            "reference":  "Psalm 104:32",
+             "verseNumber":  32,
+             "scripture":  "He looks on the earth, and it trembles: he touches the hills, and they smoke."
+        },
+        {
+            "reference":  "Psalm 104:33",
+             "verseNumber":  33,
+             "scripture":  "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being."
+        },
+        {
+            "reference":  "Psalm 104:34",
+             "verseNumber":  34,
+             "scripture":  "My meditation of him shall be sweet: I will be glad in the LORD."
+        },
+        {
+            "reference":  "Psalm 104:35",
+             "verseNumber":  35,
+             "scripture":  "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless you the LORD, O my soul. Praise all of you the LORD."
+        }
+    ]
+}

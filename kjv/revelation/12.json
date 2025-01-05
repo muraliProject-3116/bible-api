@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Revelation", "bookAbbreviation": "Rev", "chapterNumber": 12, "verses": [{"reference": "Revelation 12:1", "verseNumber": 1, "scripture": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"},{"reference": "Revelation 12:2", "verseNumber": 2, "scripture": "And she being with child cried, travailing in birth, and pained to be delivered."},{"reference": "Revelation 12:3", "verseNumber": 3, "scripture": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads."},{"reference": "Revelation 12:4", "verseNumber": 4, "scripture": "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, in order to devour her child as soon as it was born."},{"reference": "Revelation 12:5", "verseNumber": 5, "scripture": "And she brought forth a male child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne."},{"reference": "Revelation 12:6", "verseNumber": 6, "scripture": "And the woman fled into the wilderness, where she has a place prepared of God, that they should feed her there a thousand two hundred and threescore days."},{"reference": "Revelation 12:7", "verseNumber": 7, "scripture": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,"},{"reference": "Revelation 12:8", "verseNumber": 8, "scripture": "And prevailed not; neither was their place found any more in heaven."},{"reference": "Revelation 12:9", "verseNumber": 9, "scripture": "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceives the whole world: he was cast out into the earth, and his angels were cast out with him."},{"reference": "Revelation 12:10", "verseNumber": 10, "scripture": "And I heard a loud voice saying in heaven, Now has come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."},{"reference": "Revelation 12:11", "verseNumber": 11, "scripture": "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death."},{"reference": "Revelation 12:12", "verseNumber": 12, "scripture": "Therefore rejoice, all of you heavens, and all of you that dwell in them. Woe to the citizens of the earth and of the sea! for the devil has come down unto you, having great wrath, because he knows that he has but a short time."},{"reference": "Revelation 12:13", "verseNumber": 13, "scripture": "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the male child."},{"reference": "Revelation 12:14", "verseNumber": 14, "scripture": "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."},{"reference": "Revelation 12:15", "verseNumber": 15, "scripture": "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood."},{"reference": "Revelation 12:16", "verseNumber": 16, "scripture": "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."},{"reference": "Revelation 12:17", "verseNumber": 17, "scripture": "And the dragon was angry with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Revelation",
+     "bookAbbreviation":  "Rev",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "Revelation 12:1",
+             "verseNumber":  1,
+             "scripture":  "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"
+        },
+        {
+            "reference":  "Revelation 12:2",
+             "verseNumber":  2,
+             "scripture":  "And she being with child cried, travailing in birth, and pained to be delivered."
+        },
+        {
+            "reference":  "Revelation 12:3",
+             "verseNumber":  3,
+             "scripture":  "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads."
+        },
+        {
+            "reference":  "Revelation 12:4",
+             "verseNumber":  4,
+             "scripture":  "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, in order to devour her child as soon as it was born."
+        },
+        {
+            "reference":  "Revelation 12:5",
+             "verseNumber":  5,
+             "scripture":  "And she brought forth a male child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne."
+        },
+        {
+            "reference":  "Revelation 12:6",
+             "verseNumber":  6,
+             "scripture":  "And the woman fled into the wilderness, where she has a place prepared of God, that they should feed her there a thousand two hundred and threescore days."
+        },
+        {
+            "reference":  "Revelation 12:7",
+             "verseNumber":  7,
+             "scripture":  "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,"
+        },
+        {
+            "reference":  "Revelation 12:8",
+             "verseNumber":  8,
+             "scripture":  "And prevailed not; neither was their place found any more in heaven."
+        },
+        {
+            "reference":  "Revelation 12:9",
+             "verseNumber":  9,
+             "scripture":  "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceives the whole world: he was cast out into the earth, and his angels were cast out with him."
+        },
+        {
+            "reference":  "Revelation 12:10",
+             "verseNumber":  10,
+             "scripture":  "And I heard a loud voice saying in heaven, Now has come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."
+        },
+        {
+            "reference":  "Revelation 12:11",
+             "verseNumber":  11,
+             "scripture":  "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death."
+        },
+        {
+            "reference":  "Revelation 12:12",
+             "verseNumber":  12,
+             "scripture":  "Therefore rejoice, all of you heavens, and all of you that dwell in them. Woe to the citizens of the earth and of the sea! for the devil has come down unto you, having great wrath, because he knows that he has but a short time."
+        },
+        {
+            "reference":  "Revelation 12:13",
+             "verseNumber":  13,
+             "scripture":  "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the male child."
+        },
+        {
+            "reference":  "Revelation 12:14",
+             "verseNumber":  14,
+             "scripture":  "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
+        },
+        {
+            "reference":  "Revelation 12:15",
+             "verseNumber":  15,
+             "scripture":  "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood."
+        },
+        {
+            "reference":  "Revelation 12:16",
+             "verseNumber":  16,
+             "scripture":  "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."
+        },
+        {
+            "reference":  "Revelation 12:17",
+             "verseNumber":  17,
+             "scripture":  "And the dragon was angry with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."
+        }
+    ]
+}

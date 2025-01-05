@@ -1,1 +1,95 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Timothy", "bookAbbreviation": "1 Tim", "chapterNumber": 3, "verses": [{"reference": "1 Timothy 3:1", "verseNumber": 1, "scripture": "This is a true saying, If a man desire the office of a bishop, he desires a good work."},{"reference": "1 Timothy 3:2", "verseNumber": 2, "scripture": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, able to teach;"},{"reference": "1 Timothy 3:3", "verseNumber": 3, "scripture": "Not given to wine, not an attacker, not greedy of filthy illegal gain; but patient, not a brawler, not covetous;"},{"reference": "1 Timothy 3:4", "verseNumber": 4, "scripture": "One that rules well his own house, having his children in subjection with all gravity;"},{"reference": "1 Timothy 3:5", "verseNumber": 5, "scripture": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)"},{"reference": "1 Timothy 3:6", "verseNumber": 6, "scripture": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil."},{"reference": "1 Timothy 3:7", "verseNumber": 7, "scripture": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil."},{"reference": "1 Timothy 3:8", "verseNumber": 8, "scripture": "Likewise must the deacons be grave, not double-tongued, not given to much wine, not greedy of filthy illegal gain;"},{"reference": "1 Timothy 3:9", "verseNumber": 9, "scripture": "Holding the mystery of the faith in a pure conscience."},{"reference": "1 Timothy 3:10", "verseNumber": 10, "scripture": "And let these also first be proved; then let them use the office of a deacon, being found blameless."},{"reference": "1 Timothy 3:11", "verseNumber": 11, "scripture": "Even so must their wives be grave, not slanderers, sober, faithful in all things."},{"reference": "1 Timothy 3:12", "verseNumber": 12, "scripture": "Let the deacons be the husbands of one wife, ruling their children and their own houses well."},{"reference": "1 Timothy 3:13", "verseNumber": 13, "scripture": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus."},{"reference": "1 Timothy 3:14", "verseNumber": 14, "scripture": "These things write I unto you, hoping to come unto you shortly:"},{"reference": "1 Timothy 3:15", "verseNumber": 15, "scripture": "But if I tarry long, that you may know how you ought to behave yourself in the house of God, which is the church of the living God, the pillar and ground of the truth."},{"reference": "1 Timothy 3:16", "verseNumber": 16, "scripture": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Timothy",
+     "bookAbbreviation":  "1 Tim",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "1 Timothy 3:1",
+             "verseNumber":  1,
+             "scripture":  "This is a true saying, If a man desire the office of a bishop, he desires a good work."
+        },
+        {
+            "reference":  "1 Timothy 3:2",
+             "verseNumber":  2,
+             "scripture":  "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, able to teach;"
+        },
+        {
+            "reference":  "1 Timothy 3:3",
+             "verseNumber":  3,
+             "scripture":  "Not given to wine, not an attacker, not greedy of filthy illegal gain; but patient, not a brawler, not covetous;"
+        },
+        {
+            "reference":  "1 Timothy 3:4",
+             "verseNumber":  4,
+             "scripture":  "One that rules well his own house, having his children in subjection with all gravity;"
+        },
+        {
+            "reference":  "1 Timothy 3:5",
+             "verseNumber":  5,
+             "scripture":  "(For if a man know not how to rule his own house, how shall he take care of the church of God?)"
+        },
+        {
+            "reference":  "1 Timothy 3:6",
+             "verseNumber":  6,
+             "scripture":  "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil."
+        },
+        {
+            "reference":  "1 Timothy 3:7",
+             "verseNumber":  7,
+             "scripture":  "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil."
+        },
+        {
+            "reference":  "1 Timothy 3:8",
+             "verseNumber":  8,
+             "scripture":  "Likewise must the deacons be grave, not double-tongued, not given to much wine, not greedy of filthy illegal gain;"
+        },
+        {
+            "reference":  "1 Timothy 3:9",
+             "verseNumber":  9,
+             "scripture":  "Holding the mystery of the faith in a pure conscience."
+        },
+        {
+            "reference":  "1 Timothy 3:10",
+             "verseNumber":  10,
+             "scripture":  "And let these also first be proved; then let them use the office of a deacon, being found blameless."
+        },
+        {
+            "reference":  "1 Timothy 3:11",
+             "verseNumber":  11,
+             "scripture":  "Even so must their wives be grave, not slanderers, sober, faithful in all things."
+        },
+        {
+            "reference":  "1 Timothy 3:12",
+             "verseNumber":  12,
+             "scripture":  "Let the deacons be the husbands of one wife, ruling their children and their own houses well."
+        },
+        {
+            "reference":  "1 Timothy 3:13",
+             "verseNumber":  13,
+             "scripture":  "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus."
+        },
+        {
+            "reference":  "1 Timothy 3:14",
+             "verseNumber":  14,
+             "scripture":  "These things write I unto you, hoping to come unto you shortly:"
+        },
+        {
+            "reference":  "1 Timothy 3:15",
+             "verseNumber":  15,
+             "scripture":  "But if I tarry long, that you may know how you ought to behave yourself in the house of God, which is the church of the living God, the pillar and ground of the truth."
+        },
+        {
+            "reference":  "1 Timothy 3:16",
+             "verseNumber":  16,
+             "scripture":  "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
+        }
+    ]
+}

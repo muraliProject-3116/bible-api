@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 40, "verses": [{"reference": "Psalm 40:1", "verseNumber": 1, "scripture": "I waited patiently for the LORD; and he inclined unto me, and heard my cry."},{"reference": "Psalm 40:2", "verseNumber": 2, "scripture": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my activities."},{"reference": "Psalm 40:3", "verseNumber": 3, "scripture": "And he has put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD."},{"reference": "Psalm 40:4", "verseNumber": 4, "scripture": "Blessed is that man that makes the LORD his trust, and respects not the proud, nor such as turn aside to lies."},{"reference": "Psalm 40:5", "verseNumber": 5, "scripture": "Many, O LORD my God, are your wonderful works which you have done, and your thoughts which are toward us: they cannot be reckoned up in order unto you: if I would declare and speak of them, they are more than can be numbered."},{"reference": "Psalm 40:6", "verseNumber": 6, "scripture": "Sacrifice and offering you did not desire; mine ears have you opened: burnt offering and sin offering have you not required."},{"reference": "Psalm 40:7", "verseNumber": 7, "scripture": "Then said I, Lo, I come: in the volume of the book it is written of me,"},{"reference": "Psalm 40:8", "verseNumber": 8, "scripture": "I delight to do your will, O my God: yea, your law is within my heart."},{"reference": "Psalm 40:9", "verseNumber": 9, "scripture": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, you know."},{"reference": "Psalm 40:10", "verseNumber": 10, "scripture": "I have not hid your righteousness within my heart; I have declared your faithfulness and your salvation: I have not concealed your loving kindness and your truth from the great congregation."},{"reference": "Psalm 40:11", "verseNumber": 11, "scripture": "Withhold not you your tender mercies from me, O LORD: let your loving kindness and your truth continually preserve me."},{"reference": "Psalm 40:12", "verseNumber": 12, "scripture": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart fails me."},{"reference": "Psalm 40:13", "verseNumber": 13, "scripture": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me."},{"reference": "Psalm 40:14", "verseNumber": 14, "scripture": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil."},{"reference": "Psalm 40:15", "verseNumber": 15, "scripture": "Let them be desolate for a reward of their shame that say unto me, Aha, aha."},{"reference": "Psalm 40:16", "verseNumber": 16, "scripture": "Let all those that seek you rejoice and be glad in you: let such as love your salvation say continually, The LORD be magnified."},{"reference": "Psalm 40:17", "verseNumber": 17, "scripture": "But I am poor and needy; yet the Lord thinks upon me: you are my help and my deliverer; make no tarrying, O my God."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  40,
+     "verses":  [
+        {
+            "reference":  "Psalm 40:1",
+             "verseNumber":  1,
+             "scripture":  "I waited patiently for the LORD; and he inclined unto me, and heard my cry."
+        },
+        {
+            "reference":  "Psalm 40:2",
+             "verseNumber":  2,
+             "scripture":  "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my activities."
+        },
+        {
+            "reference":  "Psalm 40:3",
+             "verseNumber":  3,
+             "scripture":  "And he has put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD."
+        },
+        {
+            "reference":  "Psalm 40:4",
+             "verseNumber":  4,
+             "scripture":  "Blessed is that man that makes the LORD his trust, and respects not the proud, nor such as turn aside to lies."
+        },
+        {
+            "reference":  "Psalm 40:5",
+             "verseNumber":  5,
+             "scripture":  "Many, O LORD my God, are your wonderful works which you have done, and your thoughts which are toward us: they cannot be reckoned up in order unto you: if I would declare and speak of them, they are more than can be numbered."
+        },
+        {
+            "reference":  "Psalm 40:6",
+             "verseNumber":  6,
+             "scripture":  "Sacrifice and offering you did not desire; mine ears have you opened: burnt offering and sin offering have you not required."
+        },
+        {
+            "reference":  "Psalm 40:7",
+             "verseNumber":  7,
+             "scripture":  "Then said I, Lo, I come: in the volume of the book it is written of me,"
+        },
+        {
+            "reference":  "Psalm 40:8",
+             "verseNumber":  8,
+             "scripture":  "I delight to do your will, O my God: yea, your law is within my heart."
+        },
+        {
+            "reference":  "Psalm 40:9",
+             "verseNumber":  9,
+             "scripture":  "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, you know."
+        },
+        {
+            "reference":  "Psalm 40:10",
+             "verseNumber":  10,
+             "scripture":  "I have not hid your righteousness within my heart; I have declared your faithfulness and your salvation: I have not concealed your loving kindness and your truth from the great congregation."
+        },
+        {
+            "reference":  "Psalm 40:11",
+             "verseNumber":  11,
+             "scripture":  "Withhold not you your tender mercies from me, O LORD: let your loving kindness and your truth continually preserve me."
+        },
+        {
+            "reference":  "Psalm 40:12",
+             "verseNumber":  12,
+             "scripture":  "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart fails me."
+        },
+        {
+            "reference":  "Psalm 40:13",
+             "verseNumber":  13,
+             "scripture":  "Be pleased, O LORD, to deliver me: O LORD, make haste to help me."
+        },
+        {
+            "reference":  "Psalm 40:14",
+             "verseNumber":  14,
+             "scripture":  "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil."
+        },
+        {
+            "reference":  "Psalm 40:15",
+             "verseNumber":  15,
+             "scripture":  "Let them be desolate for a reward of their shame that say unto me, Aha, aha."
+        },
+        {
+            "reference":  "Psalm 40:16",
+             "verseNumber":  16,
+             "scripture":  "Let all those that seek you rejoice and be glad in you: let such as love your salvation say continually, The LORD be magnified."
+        },
+        {
+            "reference":  "Psalm 40:17",
+             "verseNumber":  17,
+             "scripture":  "But I am poor and needy; yet the Lord thinks upon me: you are my help and my deliverer; make no tarrying, O my God."
+        }
+    ]
+}

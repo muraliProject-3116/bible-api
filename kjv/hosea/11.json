@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Hosea", "bookAbbreviation": "Hos", "chapterNumber": 11, "verses": [{"reference": "Hosea 11:1", "verseNumber": 1, "scripture": "When Israel was a child, then I loved him, and called my son out of Egypt."},{"reference": "Hosea 11:2", "verseNumber": 2, "scripture": "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."},{"reference": "Hosea 11:3", "verseNumber": 3, "scripture": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."},{"reference": "Hosea 11:4", "verseNumber": 4, "scripture": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid food unto them."},{"reference": "Hosea 11:5", "verseNumber": 5, "scripture": "He shall not return into the land of Egypt, and the Assyrian shall be his king, because they refused to return."},{"reference": "Hosea 11:6", "verseNumber": 6, "scripture": "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels."},{"reference": "Hosea 11:7", "verseNumber": 7, "scripture": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him."},{"reference": "Hosea 11:8", "verseNumber": 8, "scripture": "How shall I give you up, Ephraim? how shall I deliver you, Israel? how shall I make you as Admah? how shall I set you as Zeboim? mine heart is turned within me, my repentings are kindled together."},{"reference": "Hosea 11:9", "verseNumber": 9, "scripture": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of you: and I will not enter into the city."},{"reference": "Hosea 11:10", "verseNumber": 10, "scripture": "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."},{"reference": "Hosea 11:11", "verseNumber": 11, "scripture": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the LORD."},{"reference": "Hosea 11:12", "verseNumber": 12, "scripture": "Ephraim compasses me about with lies, and the house of Israel with deceit: but Judah yet rules with God, and is faithful with the saints."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Hosea",
+     "bookAbbreviation":  "Hos",
+     "chapterNumber":  11,
+     "verses":  [
+        {
+            "reference":  "Hosea 11:1",
+             "verseNumber":  1,
+             "scripture":  "When Israel was a child, then I loved him, and called my son out of Egypt."
+        },
+        {
+            "reference":  "Hosea 11:2",
+             "verseNumber":  2,
+             "scripture":  "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."
+        },
+        {
+            "reference":  "Hosea 11:3",
+             "verseNumber":  3,
+             "scripture":  "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."
+        },
+        {
+            "reference":  "Hosea 11:4",
+             "verseNumber":  4,
+             "scripture":  "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid food unto them."
+        },
+        {
+            "reference":  "Hosea 11:5",
+             "verseNumber":  5,
+             "scripture":  "He shall not return into the land of Egypt, and the Assyrian shall be his king, because they refused to return."
+        },
+        {
+            "reference":  "Hosea 11:6",
+             "verseNumber":  6,
+             "scripture":  "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels."
+        },
+        {
+            "reference":  "Hosea 11:7",
+             "verseNumber":  7,
+             "scripture":  "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him."
+        },
+        {
+            "reference":  "Hosea 11:8",
+             "verseNumber":  8,
+             "scripture":  "How shall I give you up, Ephraim? how shall I deliver you, Israel? how shall I make you as Admah? how shall I set you as Zeboim? mine heart is turned within me, my repentings are kindled together."
+        },
+        {
+            "reference":  "Hosea 11:9",
+             "verseNumber":  9,
+             "scripture":  "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of you: and I will not enter into the city."
+        },
+        {
+            "reference":  "Hosea 11:10",
+             "verseNumber":  10,
+             "scripture":  "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
+        },
+        {
+            "reference":  "Hosea 11:11",
+             "verseNumber":  11,
+             "scripture":  "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, says the LORD."
+        },
+        {
+            "reference":  "Hosea 11:12",
+             "verseNumber":  12,
+             "scripture":  "Ephraim compasses me about with lies, and the house of Israel with deceit: but Judah yet rules with God, and is faithful with the saints."
+        }
+    ]
+}

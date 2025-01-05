@@ -1,1 +1,155 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Acts", "bookAbbreviation": "Act", "chapterNumber": 14, "verses": [{"reference": "Acts 14:1", "verseNumber": 1, "scripture": "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spoke, that a great multitude both of the Jews and also of the Greeks believed."},{"reference": "Acts 14:2", "verseNumber": 2, "scripture": "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren."},{"reference": "Acts 14:3", "verseNumber": 3, "scripture": "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands."},{"reference": "Acts 14:4", "verseNumber": 4, "scripture": "But the multitude of the city was divided: and part held with the Jews, and part with the apostles."},{"reference": "Acts 14:5", "verseNumber": 5, "scripture": "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,"},{"reference": "Acts 14:6", "verseNumber": 6, "scripture": "They were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lies round about:"},{"reference": "Acts 14:7", "verseNumber": 7, "scripture": "And there they preached the gospel."},{"reference": "Acts 14:8", "verseNumber": 8, "scripture": "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:"},{"reference": "Acts 14:9", "verseNumber": 9, "scripture": "The same heard Paul speak: who steadfastly beholding him, and perceiving that he had faith to be healed,"},{"reference": "Acts 14:10", "verseNumber": 10, "scripture": "Said with a loud voice, Stand upright on your feet. And he leaped and walked."},{"reference": "Acts 14:11", "verseNumber": 11, "scripture": "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men."},{"reference": "Acts 14:12", "verseNumber": 12, "scripture": "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker."},{"reference": "Acts 14:13", "verseNumber": 13, "scripture": "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people."},{"reference": "Acts 14:14", "verseNumber": 14, "scripture": "Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,"},{"reference": "Acts 14:15", "verseNumber": 15, "scripture": "And saying, Sirs, why do all of you these things? We also are men of like passions with you, and preach unto you that all of you should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:"},{"reference": "Acts 14:16", "verseNumber": 16, "scripture": "Who in times past suffered all nations to walk in their own ways."},{"reference": "Acts 14:17", "verseNumber": 17, "scripture": "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness."},{"reference": "Acts 14:18", "verseNumber": 18, "scripture": "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them."},{"reference": "Acts 14:19", "verseNumber": 19, "scripture": "And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead."},{"reference": "Acts 14:20", "verseNumber": 20, "scripture": "Nevertheless, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe."},{"reference": "Acts 14:21", "verseNumber": 21, "scripture": "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,"},{"reference": "Acts 14:22", "verseNumber": 22, "scripture": "Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God."},{"reference": "Acts 14:23", "verseNumber": 23, "scripture": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed."},{"reference": "Acts 14:24", "verseNumber": 24, "scripture": "And after they had passed throughout Pisidia, they came to Pamphylia."},{"reference": "Acts 14:25", "verseNumber": 25, "scripture": "And when they had preached the word in Perga, they went down into Attalia:"},{"reference": "Acts 14:26", "verseNumber": 26, "scripture": "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled."},{"reference": "Acts 14:27", "verseNumber": 27, "scripture": "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles."},{"reference": "Acts 14:28", "verseNumber": 28, "scripture": "And there they abode long time with the disciples."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Acts",
+     "bookAbbreviation":  "Act",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "Acts 14:1",
+             "verseNumber":  1,
+             "scripture":  "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spoke, that a great multitude both of the Jews and also of the Greeks believed."
+        },
+        {
+            "reference":  "Acts 14:2",
+             "verseNumber":  2,
+             "scripture":  "But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren."
+        },
+        {
+            "reference":  "Acts 14:3",
+             "verseNumber":  3,
+             "scripture":  "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands."
+        },
+        {
+            "reference":  "Acts 14:4",
+             "verseNumber":  4,
+             "scripture":  "But the multitude of the city was divided: and part held with the Jews, and part with the apostles."
+        },
+        {
+            "reference":  "Acts 14:5",
+             "verseNumber":  5,
+             "scripture":  "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,"
+        },
+        {
+            "reference":  "Acts 14:6",
+             "verseNumber":  6,
+             "scripture":  "They were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lies round about:"
+        },
+        {
+            "reference":  "Acts 14:7",
+             "verseNumber":  7,
+             "scripture":  "And there they preached the gospel."
+        },
+        {
+            "reference":  "Acts 14:8",
+             "verseNumber":  8,
+             "scripture":  "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother's womb, who never had walked:"
+        },
+        {
+            "reference":  "Acts 14:9",
+             "verseNumber":  9,
+             "scripture":  "The same heard Paul speak: who steadfastly beholding him, and perceiving that he had faith to be healed,"
+        },
+        {
+            "reference":  "Acts 14:10",
+             "verseNumber":  10,
+             "scripture":  "Said with a loud voice, Stand upright on your feet. And he leaped and walked."
+        },
+        {
+            "reference":  "Acts 14:11",
+             "verseNumber":  11,
+             "scripture":  "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men."
+        },
+        {
+            "reference":  "Acts 14:12",
+             "verseNumber":  12,
+             "scripture":  "And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker."
+        },
+        {
+            "reference":  "Acts 14:13",
+             "verseNumber":  13,
+             "scripture":  "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people."
+        },
+        {
+            "reference":  "Acts 14:14",
+             "verseNumber":  14,
+             "scripture":  "Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,"
+        },
+        {
+            "reference":  "Acts 14:15",
+             "verseNumber":  15,
+             "scripture":  "And saying, Sirs, why do all of you these things? We also are men of like passions with you, and preach unto you that all of you should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:"
+        },
+        {
+            "reference":  "Acts 14:16",
+             "verseNumber":  16,
+             "scripture":  "Who in times past suffered all nations to walk in their own ways."
+        },
+        {
+            "reference":  "Acts 14:17",
+             "verseNumber":  17,
+             "scripture":  "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness."
+        },
+        {
+            "reference":  "Acts 14:18",
+             "verseNumber":  18,
+             "scripture":  "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them."
+        },
+        {
+            "reference":  "Acts 14:19",
+             "verseNumber":  19,
+             "scripture":  "And there came thither certain Jews from Antioch and Iconium, who persuaded the people, and having stoned Paul, drew him out of the city, supposing he had been dead."
+        },
+        {
+            "reference":  "Acts 14:20",
+             "verseNumber":  20,
+             "scripture":  "Nevertheless, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe."
+        },
+        {
+            "reference":  "Acts 14:21",
+             "verseNumber":  21,
+             "scripture":  "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,"
+        },
+        {
+            "reference":  "Acts 14:22",
+             "verseNumber":  22,
+             "scripture":  "Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God."
+        },
+        {
+            "reference":  "Acts 14:23",
+             "verseNumber":  23,
+             "scripture":  "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed."
+        },
+        {
+            "reference":  "Acts 14:24",
+             "verseNumber":  24,
+             "scripture":  "And after they had passed throughout Pisidia, they came to Pamphylia."
+        },
+        {
+            "reference":  "Acts 14:25",
+             "verseNumber":  25,
+             "scripture":  "And when they had preached the word in Perga, they went down into Attalia:"
+        },
+        {
+            "reference":  "Acts 14:26",
+             "verseNumber":  26,
+             "scripture":  "And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled."
+        },
+        {
+            "reference":  "Acts 14:27",
+             "verseNumber":  27,
+             "scripture":  "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles."
+        },
+        {
+            "reference":  "Acts 14:28",
+             "verseNumber":  28,
+             "scripture":  "And there they abode long time with the disciples."
+        }
+    ]
+}

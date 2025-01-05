@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 29, "verses": [{"reference": "Isaiah 29:1", "verseNumber": 1, "scripture": "Woe to Ariel, to Ariel, the city where David dwelt! add all of you year to year; let them kill sacrifices."},{"reference": "Isaiah 29:2", "verseNumber": 2, "scripture": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel."},{"reference": "Isaiah 29:3", "verseNumber": 3, "scripture": "And I will camp against you round about, and will lay siege against you with a mount, and I will raise forts against you."},{"reference": "Isaiah 29:4", "verseNumber": 4, "scripture": "And you shall be brought down, and shall speak out of the ground, and your speech shall be low out of the dust, and your voice shall be, as of one that has a familiar spirit, out of the ground, and your speech shall whisper out of the dust."},{"reference": "Isaiah 29:5", "verseNumber": 5, "scripture": "Moreover the multitude of your strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passes away: yea, it shall be at an instant suddenly."},{"reference": "Isaiah 29:6", "verseNumber": 6, "scripture": "You shall be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."},{"reference": "Isaiah 29:7", "verseNumber": 7, "scripture": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her stronghold, and that distress her, shall be as a dream of a night vision."},{"reference": "Isaiah 29:8", "verseNumber": 8, "scripture": "It shall even be as when an hungry man dreams, and, behold, he eats; but he awakes, and his soul is empty: or as when a thirsty man dreams, and, behold, he drinks; but he awakes, and, behold, he is faint, and his soul has appetite: so shall the multitude of all the nations be, that fight against mount Zion."},{"reference": "Isaiah 29:9", "verseNumber": 9, "scripture": "Stay yourselves, and wonder; cry all of you out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."},{"reference": "Isaiah 29:10", "verseNumber": 10, "scripture": "For the LORD has poured out upon you the spirit of deep sleep, and has closed your eyes: the prophets and your rulers, the seers has he covered."},{"reference": "Isaiah 29:11", "verseNumber": 11, "scripture": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray you: and he says, I cannot; for it is sealed:"},{"reference": "Isaiah 29:12", "verseNumber": 12, "scripture": "And the book is delivered to him that is not learned, saying, Read this, I pray you: and he says, I am not learned."},{"reference": "Isaiah 29:13", "verseNumber": 13, "scripture": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"},{"reference": "Isaiah 29:14", "verseNumber": 14, "scripture": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."},{"reference": "Isaiah 29:15", "verseNumber": 15, "scripture": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who sees us? and who knows us?"},{"reference": "Isaiah 29:16", "verseNumber": 16, "scripture": "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?"},{"reference": "Isaiah 29:17", "verseNumber": 17, "scripture": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"},{"reference": "Isaiah 29:18", "verseNumber": 18, "scripture": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."},{"reference": "Isaiah 29:19", "verseNumber": 19, "scripture": "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel."},{"reference": "Isaiah 29:20", "verseNumber": 20, "scripture": "For the terrible one is brought to nothing, and the scorner is consumed, and all that watch for iniquity are cut off:"},{"reference": "Isaiah 29:21", "verseNumber": 21, "scripture": "That make a man an offender for a word, and lay a snare for him that reproves in the gate, and turn aside the just for a thing of nothing."},{"reference": "Isaiah 29:22", "verseNumber": 22, "scripture": "Therefore thus says the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."},{"reference": "Isaiah 29:23", "verseNumber": 23, "scripture": "But when he sees his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."},{"reference": "Isaiah 29:24", "verseNumber": 24, "scripture": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  29,
+     "verses":  [
+        {
+            "reference":  "Isaiah 29:1",
+             "verseNumber":  1,
+             "scripture":  "Woe to Ariel, to Ariel, the city where David dwelt! add all of you year to year; let them kill sacrifices."
+        },
+        {
+            "reference":  "Isaiah 29:2",
+             "verseNumber":  2,
+             "scripture":  "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel."
+        },
+        {
+            "reference":  "Isaiah 29:3",
+             "verseNumber":  3,
+             "scripture":  "And I will camp against you round about, and will lay siege against you with a mount, and I will raise forts against you."
+        },
+        {
+            "reference":  "Isaiah 29:4",
+             "verseNumber":  4,
+             "scripture":  "And you shall be brought down, and shall speak out of the ground, and your speech shall be low out of the dust, and your voice shall be, as of one that has a familiar spirit, out of the ground, and your speech shall whisper out of the dust."
+        },
+        {
+            "reference":  "Isaiah 29:5",
+             "verseNumber":  5,
+             "scripture":  "Moreover the multitude of your strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passes away: yea, it shall be at an instant suddenly."
+        },
+        {
+            "reference":  "Isaiah 29:6",
+             "verseNumber":  6,
+             "scripture":  "You shall be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."
+        },
+        {
+            "reference":  "Isaiah 29:7",
+             "verseNumber":  7,
+             "scripture":  "And the multitude of all the nations that fight against Ariel, even all that fight against her and her stronghold, and that distress her, shall be as a dream of a night vision."
+        },
+        {
+            "reference":  "Isaiah 29:8",
+             "verseNumber":  8,
+             "scripture":  "It shall even be as when an hungry man dreams, and, behold, he eats; but he awakes, and his soul is empty: or as when a thirsty man dreams, and, behold, he drinks; but he awakes, and, behold, he is faint, and his soul has appetite: so shall the multitude of all the nations be, that fight against mount Zion."
+        },
+        {
+            "reference":  "Isaiah 29:9",
+             "verseNumber":  9,
+             "scripture":  "Stay yourselves, and wonder; cry all of you out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."
+        },
+        {
+            "reference":  "Isaiah 29:10",
+             "verseNumber":  10,
+             "scripture":  "For the LORD has poured out upon you the spirit of deep sleep, and has closed your eyes: the prophets and your rulers, the seers has he covered."
+        },
+        {
+            "reference":  "Isaiah 29:11",
+             "verseNumber":  11,
+             "scripture":  "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray you: and he says, I cannot; for it is sealed:"
+        },
+        {
+            "reference":  "Isaiah 29:12",
+             "verseNumber":  12,
+             "scripture":  "And the book is delivered to him that is not learned, saying, Read this, I pray you: and he says, I am not learned."
+        },
+        {
+            "reference":  "Isaiah 29:13",
+             "verseNumber":  13,
+             "scripture":  "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+        },
+        {
+            "reference":  "Isaiah 29:14",
+             "verseNumber":  14,
+             "scripture":  "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+        },
+        {
+            "reference":  "Isaiah 29:15",
+             "verseNumber":  15,
+             "scripture":  "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who sees us? and who knows us?"
+        },
+        {
+            "reference":  "Isaiah 29:16",
+             "verseNumber":  16,
+             "scripture":  "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?"
+        },
+        {
+            "reference":  "Isaiah 29:17",
+             "verseNumber":  17,
+             "scripture":  "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
+        },
+        {
+            "reference":  "Isaiah 29:18",
+             "verseNumber":  18,
+             "scripture":  "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
+        },
+        {
+            "reference":  "Isaiah 29:19",
+             "verseNumber":  19,
+             "scripture":  "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel."
+        },
+        {
+            "reference":  "Isaiah 29:20",
+             "verseNumber":  20,
+             "scripture":  "For the terrible one is brought to nothing, and the scorner is consumed, and all that watch for iniquity are cut off:"
+        },
+        {
+            "reference":  "Isaiah 29:21",
+             "verseNumber":  21,
+             "scripture":  "That make a man an offender for a word, and lay a snare for him that reproves in the gate, and turn aside the just for a thing of nothing."
+        },
+        {
+            "reference":  "Isaiah 29:22",
+             "verseNumber":  22,
+             "scripture":  "Therefore thus says the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."
+        },
+        {
+            "reference":  "Isaiah 29:23",
+             "verseNumber":  23,
+             "scripture":  "But when he sees his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
+        },
+        {
+            "reference":  "Isaiah 29:24",
+             "verseNumber":  24,
+             "scripture":  "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."
+        }
+    ]
+}

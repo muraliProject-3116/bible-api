@@ -1,1 +1,120 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Romans", "bookAbbreviation": "Rom", "chapterNumber": 12, "verses": [{"reference": "Romans 12:1", "verseNumber": 1, "scripture": "I plead to you therefore, brethren, by the mercies of God, that all of you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."},{"reference": "Romans 12:2", "verseNumber": 2, "scripture": "And be not conformed to this world: but be all of you transformed by the renewing of your mind, that all of you may prove what is that good, and acceptable, and perfect, will of God."},{"reference": "Romans 12:3", "verseNumber": 3, "scripture": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God has dealt to every man the measure of faith."},{"reference": "Romans 12:4", "verseNumber": 4, "scripture": "For as we have many members in one body, and all members have not the same office:"},{"reference": "Romans 12:5", "verseNumber": 5, "scripture": "So we, being many, are one body in Christ, and every one members one of another."},{"reference": "Romans 12:6", "verseNumber": 6, "scripture": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;"},{"reference": "Romans 12:7", "verseNumber": 7, "scripture": "Or ministry, let us wait on our ministering: or he that teaches, on teaching;"},{"reference": "Romans 12:8", "verseNumber": 8, "scripture": "Or he that exhorts, on exhortation: he that gives, let him do it with simplicity; he that rules, with diligence; he that shows mercy, with cheerfulness."},{"reference": "Romans 12:9", "verseNumber": 9, "scripture": "Let love be without dissimulation. Detest that which is evil; cleave to that which is good."},{"reference": "Romans 12:10", "verseNumber": 10, "scripture": "Be kindly affectionate one to another with brotherly love; in honour preferring one another;"},{"reference": "Romans 12:11", "verseNumber": 11, "scripture": "Not slothful in business; fervent in spirit; serving the Lord;"},{"reference": "Romans 12:12", "verseNumber": 12, "scripture": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"},{"reference": "Romans 12:13", "verseNumber": 13, "scripture": "Distributing to the necessity of saints; given to hospitality."},{"reference": "Romans 12:14", "verseNumber": 14, "scripture": "Bless them which persecute you: bless, and curse not."},{"reference": "Romans 12:15", "verseNumber": 15, "scripture": "Rejoice with them that do rejoice, and weep with them that weep."},{"reference": "Romans 12:16", "verseNumber": 16, "scripture": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."},{"reference": "Romans 12:17", "verseNumber": 17, "scripture": "Recompense to no man evil for evil. Provide things honest in the sight of all men."},{"reference": "Romans 12:18", "verseNumber": 18, "scripture": "If it be possible, as much as lies in you, live peaceably with all men."},{"reference": "Romans 12:19", "verseNumber": 19, "scripture": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, says the Lord."},{"reference": "Romans 12:20", "verseNumber": 20, "scripture": "Therefore if yours enemy hunger, feed him; if he thirst, give him drink: for in so doing you shall heap coals of fire on his head."},{"reference": "Romans 12:21", "verseNumber": 21, "scripture": "Be not overcome of evil, but overcome evil with good."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Romans",
+     "bookAbbreviation":  "Rom",
+     "chapterNumber":  12,
+     "verses":  [
+        {
+            "reference":  "Romans 12:1",
+             "verseNumber":  1,
+             "scripture":  "I plead to you therefore, brethren, by the mercies of God, that all of you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."
+        },
+        {
+            "reference":  "Romans 12:2",
+             "verseNumber":  2,
+             "scripture":  "And be not conformed to this world: but be all of you transformed by the renewing of your mind, that all of you may prove what is that good, and acceptable, and perfect, will of God."
+        },
+        {
+            "reference":  "Romans 12:3",
+             "verseNumber":  3,
+             "scripture":  "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God has dealt to every man the measure of faith."
+        },
+        {
+            "reference":  "Romans 12:4",
+             "verseNumber":  4,
+             "scripture":  "For as we have many members in one body, and all members have not the same office:"
+        },
+        {
+            "reference":  "Romans 12:5",
+             "verseNumber":  5,
+             "scripture":  "So we, being many, are one body in Christ, and every one members one of another."
+        },
+        {
+            "reference":  "Romans 12:6",
+             "verseNumber":  6,
+             "scripture":  "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;"
+        },
+        {
+            "reference":  "Romans 12:7",
+             "verseNumber":  7,
+             "scripture":  "Or ministry, let us wait on our ministering: or he that teaches, on teaching;"
+        },
+        {
+            "reference":  "Romans 12:8",
+             "verseNumber":  8,
+             "scripture":  "Or he that exhorts, on exhortation: he that gives, let him do it with simplicity; he that rules, with diligence; he that shows mercy, with cheerfulness."
+        },
+        {
+            "reference":  "Romans 12:9",
+             "verseNumber":  9,
+             "scripture":  "Let love be without dissimulation. Detest that which is evil; cleave to that which is good."
+        },
+        {
+            "reference":  "Romans 12:10",
+             "verseNumber":  10,
+             "scripture":  "Be kindly affectionate one to another with brotherly love; in honour preferring one another;"
+        },
+        {
+            "reference":  "Romans 12:11",
+             "verseNumber":  11,
+             "scripture":  "Not slothful in business; fervent in spirit; serving the Lord;"
+        },
+        {
+            "reference":  "Romans 12:12",
+             "verseNumber":  12,
+             "scripture":  "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
+        },
+        {
+            "reference":  "Romans 12:13",
+             "verseNumber":  13,
+             "scripture":  "Distributing to the necessity of saints; given to hospitality."
+        },
+        {
+            "reference":  "Romans 12:14",
+             "verseNumber":  14,
+             "scripture":  "Bless them which persecute you: bless, and curse not."
+        },
+        {
+            "reference":  "Romans 12:15",
+             "verseNumber":  15,
+             "scripture":  "Rejoice with them that do rejoice, and weep with them that weep."
+        },
+        {
+            "reference":  "Romans 12:16",
+             "verseNumber":  16,
+             "scripture":  "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."
+        },
+        {
+            "reference":  "Romans 12:17",
+             "verseNumber":  17,
+             "scripture":  "Recompense to no man evil for evil. Provide things honest in the sight of all men."
+        },
+        {
+            "reference":  "Romans 12:18",
+             "verseNumber":  18,
+             "scripture":  "If it be possible, as much as lies in you, live peaceably with all men."
+        },
+        {
+            "reference":  "Romans 12:19",
+             "verseNumber":  19,
+             "scripture":  "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, says the Lord."
+        },
+        {
+            "reference":  "Romans 12:20",
+             "verseNumber":  20,
+             "scripture":  "Therefore if yours enemy hunger, feed him; if he thirst, give him drink: for in so doing you shall heap coals of fire on his head."
+        },
+        {
+            "reference":  "Romans 12:21",
+             "verseNumber":  21,
+             "scripture":  "Be not overcome of evil, but overcome evil with good."
+        }
+    ]
+}

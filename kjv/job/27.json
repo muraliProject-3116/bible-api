@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 27, "verses": [{"reference": "Job 27:1", "verseNumber": 1, "scripture": "Moreover Job continued his parable, and said,"},{"reference": "Job 27:2", "verseNumber": 2, "scripture": "As God lives, who has taken away my judgment; and the Almighty, who has vexed my soul;"},{"reference": "Job 27:3", "verseNumber": 3, "scripture": "All the while my breath is in me, and the spirit of God is in my nostrils;"},{"reference": "Job 27:4", "verseNumber": 4, "scripture": "My lips shall not speak wickedness, nor my tongue utter deceit."},{"reference": "Job 27:5", "verseNumber": 5, "scripture": "God forbid that I should justify you: till I die I will not remove mine integrity from me."},{"reference": "Job 27:6", "verseNumber": 6, "scripture": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live."},{"reference": "Job 27:7", "verseNumber": 7, "scripture": "Let mine enemy be as the wicked, and he that rises up against me as the unrighteous."},{"reference": "Job 27:8", "verseNumber": 8, "scripture": "For what is the hope of the hypocrite, though he has gained, when God takes away his soul?"},{"reference": "Job 27:9", "verseNumber": 9, "scripture": "Will God hear his cry when trouble comes upon him?"},{"reference": "Job 27:10", "verseNumber": 10, "scripture": "Will he delight himself in the Almighty? will he always call upon God?"},{"reference": "Job 27:11", "verseNumber": 11, "scripture": "I will teach you by the hand of God: that which is with the Almighty will I not conceal."},{"reference": "Job 27:12", "verseNumber": 12, "scripture": "Behold, all you yourselves have seen it; why then are all of you thus altogether vain?"},{"reference": "Job 27:13", "verseNumber": 13, "scripture": "This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty."},{"reference": "Job 27:14", "verseNumber": 14, "scripture": "If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread."},{"reference": "Job 27:15", "verseNumber": 15, "scripture": "Those that remain of him shall be buried in death: and his widows shall not weep."},{"reference": "Job 27:16", "verseNumber": 16, "scripture": "Though he heap up silver as the dust, and prepare raiment as the clay;"},{"reference": "Job 27:17", "verseNumber": 17, "scripture": "He may prepare it, but the just shall put it on, and the innocent shall divide the silver."},{"reference": "Job 27:18", "verseNumber": 18, "scripture": "He builds his house as a moth, and as a booth that the keeper makes."},{"reference": "Job 27:19", "verseNumber": 19, "scripture": "The rich man shall lie down, but he shall not be gathered: he opens his eyes, and he is not."},{"reference": "Job 27:20", "verseNumber": 20, "scripture": "Terrors take hold on him as waters, a tempest steals him away in the night."},{"reference": "Job 27:21", "verseNumber": 21, "scripture": "The east wind carries him away, and he departs: and as a storm hurls him out of his place."},{"reference": "Job 27:22", "verseNumber": 22, "scripture": "For God shall cast upon him, and not spare: he would fain flee out of his hand."},{"reference": "Job 27:23", "verseNumber": 23, "scripture": "Men shall clap their hands at him, and shall hiss him out of his place."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  27,
+     "verses":  [
+        {
+            "reference":  "Job 27:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover Job continued his parable, and said,"
+        },
+        {
+            "reference":  "Job 27:2",
+             "verseNumber":  2,
+             "scripture":  "As God lives, who has taken away my judgment; and the Almighty, who has vexed my soul;"
+        },
+        {
+            "reference":  "Job 27:3",
+             "verseNumber":  3,
+             "scripture":  "All the while my breath is in me, and the spirit of God is in my nostrils;"
+        },
+        {
+            "reference":  "Job 27:4",
+             "verseNumber":  4,
+             "scripture":  "My lips shall not speak wickedness, nor my tongue utter deceit."
+        },
+        {
+            "reference":  "Job 27:5",
+             "verseNumber":  5,
+             "scripture":  "God forbid that I should justify you: till I die I will not remove mine integrity from me."
+        },
+        {
+            "reference":  "Job 27:6",
+             "verseNumber":  6,
+             "scripture":  "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live."
+        },
+        {
+            "reference":  "Job 27:7",
+             "verseNumber":  7,
+             "scripture":  "Let mine enemy be as the wicked, and he that rises up against me as the unrighteous."
+        },
+        {
+            "reference":  "Job 27:8",
+             "verseNumber":  8,
+             "scripture":  "For what is the hope of the hypocrite, though he has gained, when God takes away his soul?"
+        },
+        {
+            "reference":  "Job 27:9",
+             "verseNumber":  9,
+             "scripture":  "Will God hear his cry when trouble comes upon him?"
+        },
+        {
+            "reference":  "Job 27:10",
+             "verseNumber":  10,
+             "scripture":  "Will he delight himself in the Almighty? will he always call upon God?"
+        },
+        {
+            "reference":  "Job 27:11",
+             "verseNumber":  11,
+             "scripture":  "I will teach you by the hand of God: that which is with the Almighty will I not conceal."
+        },
+        {
+            "reference":  "Job 27:12",
+             "verseNumber":  12,
+             "scripture":  "Behold, all you yourselves have seen it; why then are all of you thus altogether vain?"
+        },
+        {
+            "reference":  "Job 27:13",
+             "verseNumber":  13,
+             "scripture":  "This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty."
+        },
+        {
+            "reference":  "Job 27:14",
+             "verseNumber":  14,
+             "scripture":  "If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread."
+        },
+        {
+            "reference":  "Job 27:15",
+             "verseNumber":  15,
+             "scripture":  "Those that remain of him shall be buried in death: and his widows shall not weep."
+        },
+        {
+            "reference":  "Job 27:16",
+             "verseNumber":  16,
+             "scripture":  "Though he heap up silver as the dust, and prepare raiment as the clay;"
+        },
+        {
+            "reference":  "Job 27:17",
+             "verseNumber":  17,
+             "scripture":  "He may prepare it, but the just shall put it on, and the innocent shall divide the silver."
+        },
+        {
+            "reference":  "Job 27:18",
+             "verseNumber":  18,
+             "scripture":  "He builds his house as a moth, and as a booth that the keeper makes."
+        },
+        {
+            "reference":  "Job 27:19",
+             "verseNumber":  19,
+             "scripture":  "The rich man shall lie down, but he shall not be gathered: he opens his eyes, and he is not."
+        },
+        {
+            "reference":  "Job 27:20",
+             "verseNumber":  20,
+             "scripture":  "Terrors take hold on him as waters, a tempest steals him away in the night."
+        },
+        {
+            "reference":  "Job 27:21",
+             "verseNumber":  21,
+             "scripture":  "The east wind carries him away, and he departs: and as a storm hurls him out of his place."
+        },
+        {
+            "reference":  "Job 27:22",
+             "verseNumber":  22,
+             "scripture":  "For God shall cast upon him, and not spare: he would fain flee out of his hand."
+        },
+        {
+            "reference":  "Job 27:23",
+             "verseNumber":  23,
+             "scripture":  "Men shall clap their hands at him, and shall hiss him out of his place."
+        }
+    ]
+}

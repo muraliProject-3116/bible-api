@@ -1,1 +1,150 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Matthew", "bookAbbreviation": "Mat", "chapterNumber": 17, "verses": [{"reference": "Matthew 17:1", "verseNumber": 1, "scripture": "And after six days Jesus takes Peter, James, and John his brother, and brings them up into an high mountain apart,"},{"reference": "Matthew 17:2", "verseNumber": 2, "scripture": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."},{"reference": "Matthew 17:3", "verseNumber": 3, "scripture": "And, behold, there appeared unto them Moses and Elijah talking with him."},{"reference": "Matthew 17:4", "verseNumber": 4, "scripture": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if you will, let us make here three tabernacles; one for you, and one for Moses, and one for Elijah."},{"reference": "Matthew 17:5", "verseNumber": 5, "scripture": "While he yet spoke, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear all of you him."},{"reference": "Matthew 17:6", "verseNumber": 6, "scripture": "And when the disciples heard it, they fell on their face, and were sore afraid."},{"reference": "Matthew 17:7", "verseNumber": 7, "scripture": "And Jesus came and touched them, and said, Arise, and be not afraid."},{"reference": "Matthew 17:8", "verseNumber": 8, "scripture": "And when they had lifted up their eyes, they saw no man, save Jesus only."},{"reference": "Matthew 17:9", "verseNumber": 9, "scripture": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead."},{"reference": "Matthew 17:10", "verseNumber": 10, "scripture": "And his disciples asked him, saying, Why then say the scribes that Elijah must first come?"},{"reference": "Matthew 17:11", "verseNumber": 11, "scripture": "And Jesus answered and said unto them, Elijah truly shall first come, and restore all things."},{"reference": "Matthew 17:12", "verseNumber": 12, "scripture": "But I say unto you, That Elijah has come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them."},{"reference": "Matthew 17:13", "verseNumber": 13, "scripture": "Then the disciples understood that he spoke unto them of John the Baptist."},{"reference": "Matthew 17:14", "verseNumber": 14, "scripture": "And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,"},{"reference": "Matthew 17:15", "verseNumber": 15, "scripture": "Lord, have mercy on my son: for he is lunatic, and sore vexed: for frequently he falls into the fire, and often into the water."},{"reference": "Matthew 17:16", "verseNumber": 16, "scripture": "And I brought him to your disciples, and they could not cure him."},{"reference": "Matthew 17:17", "verseNumber": 17, "scripture": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him here to me."},{"reference": "Matthew 17:18", "verseNumber": 18, "scripture": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour."},{"reference": "Matthew 17:19", "verseNumber": 19, "scripture": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"},{"reference": "Matthew 17:20", "verseNumber": 20, "scripture": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If all of you have faith as a grain of mustard seed, all of you shall say unto this mountain, Remove behind to yonder place; and it shall remove; and nothing shall be impossible unto you."},{"reference": "Matthew 17:21", "verseNumber": 21, "scripture": "Nevertheless this kind goes not out but by prayer and fasting."},{"reference": "Matthew 17:22", "verseNumber": 22, "scripture": "And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:"},{"reference": "Matthew 17:23", "verseNumber": 23, "scripture": "And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry."},{"reference": "Matthew 17:24", "verseNumber": 24, "scripture": "And when they were come to Capernaum, they that received tribute money came to Peter, and said, Does not your master pay tribute?"},{"reference": "Matthew 17:25", "verseNumber": 25, "scripture": "He says, Yes. And when he was come into the house, Jesus prevented him, saying, What think you, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?"},{"reference": "Matthew 17:26", "verseNumber": 26, "scripture": "Peter says unto him, Of strangers. Jesus says unto him, Then are the children free."},{"reference": "Matthew 17:27", "verseNumber": 27, "scripture": "Notwithstanding, lest we should offend them, go you to the sea, and cast an hook, and take up the fish that first comes up; and when you have opened his mouth, you shall find a piece of money: that take, and give unto them for me and you."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Matthew",
+     "bookAbbreviation":  "Mat",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Matthew 17:1",
+             "verseNumber":  1,
+             "scripture":  "And after six days Jesus takes Peter, James, and John his brother, and brings them up into an high mountain apart,"
+        },
+        {
+            "reference":  "Matthew 17:2",
+             "verseNumber":  2,
+             "scripture":  "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."
+        },
+        {
+            "reference":  "Matthew 17:3",
+             "verseNumber":  3,
+             "scripture":  "And, behold, there appeared unto them Moses and Elijah talking with him."
+        },
+        {
+            "reference":  "Matthew 17:4",
+             "verseNumber":  4,
+             "scripture":  "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if you will, let us make here three tabernacles; one for you, and one for Moses, and one for Elijah."
+        },
+        {
+            "reference":  "Matthew 17:5",
+             "verseNumber":  5,
+             "scripture":  "While he yet spoke, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear all of you him."
+        },
+        {
+            "reference":  "Matthew 17:6",
+             "verseNumber":  6,
+             "scripture":  "And when the disciples heard it, they fell on their face, and were sore afraid."
+        },
+        {
+            "reference":  "Matthew 17:7",
+             "verseNumber":  7,
+             "scripture":  "And Jesus came and touched them, and said, Arise, and be not afraid."
+        },
+        {
+            "reference":  "Matthew 17:8",
+             "verseNumber":  8,
+             "scripture":  "And when they had lifted up their eyes, they saw no man, save Jesus only."
+        },
+        {
+            "reference":  "Matthew 17:9",
+             "verseNumber":  9,
+             "scripture":  "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead."
+        },
+        {
+            "reference":  "Matthew 17:10",
+             "verseNumber":  10,
+             "scripture":  "And his disciples asked him, saying, Why then say the scribes that Elijah must first come?"
+        },
+        {
+            "reference":  "Matthew 17:11",
+             "verseNumber":  11,
+             "scripture":  "And Jesus answered and said unto them, Elijah truly shall first come, and restore all things."
+        },
+        {
+            "reference":  "Matthew 17:12",
+             "verseNumber":  12,
+             "scripture":  "But I say unto you, That Elijah has come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them."
+        },
+        {
+            "reference":  "Matthew 17:13",
+             "verseNumber":  13,
+             "scripture":  "Then the disciples understood that he spoke unto them of John the Baptist."
+        },
+        {
+            "reference":  "Matthew 17:14",
+             "verseNumber":  14,
+             "scripture":  "And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,"
+        },
+        {
+            "reference":  "Matthew 17:15",
+             "verseNumber":  15,
+             "scripture":  "Lord, have mercy on my son: for he is lunatic, and sore vexed: for frequently he falls into the fire, and often into the water."
+        },
+        {
+            "reference":  "Matthew 17:16",
+             "verseNumber":  16,
+             "scripture":  "And I brought him to your disciples, and they could not cure him."
+        },
+        {
+            "reference":  "Matthew 17:17",
+             "verseNumber":  17,
+             "scripture":  "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him here to me."
+        },
+        {
+            "reference":  "Matthew 17:18",
+             "verseNumber":  18,
+             "scripture":  "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour."
+        },
+        {
+            "reference":  "Matthew 17:19",
+             "verseNumber":  19,
+             "scripture":  "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"
+        },
+        {
+            "reference":  "Matthew 17:20",
+             "verseNumber":  20,
+             "scripture":  "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If all of you have faith as a grain of mustard seed, all of you shall say unto this mountain, Remove behind to yonder place; and it shall remove; and nothing shall be impossible unto you."
+        },
+        {
+            "reference":  "Matthew 17:21",
+             "verseNumber":  21,
+             "scripture":  "Nevertheless this kind goes not out but by prayer and fasting."
+        },
+        {
+            "reference":  "Matthew 17:22",
+             "verseNumber":  22,
+             "scripture":  "And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:"
+        },
+        {
+            "reference":  "Matthew 17:23",
+             "verseNumber":  23,
+             "scripture":  "And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry."
+        },
+        {
+            "reference":  "Matthew 17:24",
+             "verseNumber":  24,
+             "scripture":  "And when they were come to Capernaum, they that received tribute money came to Peter, and said, Does not your master pay tribute?"
+        },
+        {
+            "reference":  "Matthew 17:25",
+             "verseNumber":  25,
+             "scripture":  "He says, Yes. And when he was come into the house, Jesus prevented him, saying, What think you, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?"
+        },
+        {
+            "reference":  "Matthew 17:26",
+             "verseNumber":  26,
+             "scripture":  "Peter says unto him, Of strangers. Jesus says unto him, Then are the children free."
+        },
+        {
+            "reference":  "Matthew 17:27",
+             "verseNumber":  27,
+             "scripture":  "Notwithstanding, lest we should offend them, go you to the sea, and cast an hook, and take up the fish that first comes up; and when you have opened his mouth, you shall find a piece of money: that take, and give unto them for me and you."
+        }
+    ]
+}

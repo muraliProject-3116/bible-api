@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 143, "verses": [{"reference": "Psalm 143:1", "verseNumber": 1, "scripture": "Hear my prayer, O LORD, give ear to my supplications: in your faithfulness answer me, and in your righteousness."},{"reference": "Psalm 143:2", "verseNumber": 2, "scripture": "And enter not into judgment with your servant: for in your sight shall no man living be justified."},{"reference": "Psalm 143:3", "verseNumber": 3, "scripture": "For the enemy has persecuted my soul; he has smitten my life down to the ground; he has made me to dwell in darkness, as those that have been long dead."},{"reference": "Psalm 143:4", "verseNumber": 4, "scripture": "Therefore is my spirit overwhelmed within me; my heart within me is desolate."},{"reference": "Psalm 143:5", "verseNumber": 5, "scripture": "I remember the days of old; I meditate on all your works; I meditate on the work of your hands."},{"reference": "Psalm 143:6", "verseNumber": 6, "scripture": "I stretch forth my hands unto you: my soul thirsts after you, as a thirsty land. Selah."},{"reference": "Psalm 143:7", "verseNumber": 7, "scripture": "Hear me speedily, O LORD: my spirit fails: hide not your face from me, lest I be like unto them that go down into the pit."},{"reference": "Psalm 143:8", "verseNumber": 8, "scripture": "Cause me to hear your loving kindness in the morning; for in you do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto you."},{"reference": "Psalm 143:9", "verseNumber": 9, "scripture": "Deliver me, O LORD, from mine enemies: I flee unto you to hide me."},{"reference": "Psalm 143:10", "verseNumber": 10, "scripture": "Teach me to do your will; for you are my God: your spirit is good; lead me into the land of uprightness."},{"reference": "Psalm 143:11", "verseNumber": 11, "scripture": "Restore life in me, O LORD, for your name's sake: for your righteousness' sake bring my soul out of trouble."},{"reference": "Psalm 143:12", "verseNumber": 12, "scripture": "And of your mercy cut off mine enemies, and destroy all them that afflict my soul: for I am your servant."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  143,
+     "verses":  [
+        {
+            "reference":  "Psalm 143:1",
+             "verseNumber":  1,
+             "scripture":  "Hear my prayer, O LORD, give ear to my supplications: in your faithfulness answer me, and in your righteousness."
+        },
+        {
+            "reference":  "Psalm 143:2",
+             "verseNumber":  2,
+             "scripture":  "And enter not into judgment with your servant: for in your sight shall no man living be justified."
+        },
+        {
+            "reference":  "Psalm 143:3",
+             "verseNumber":  3,
+             "scripture":  "For the enemy has persecuted my soul; he has smitten my life down to the ground; he has made me to dwell in darkness, as those that have been long dead."
+        },
+        {
+            "reference":  "Psalm 143:4",
+             "verseNumber":  4,
+             "scripture":  "Therefore is my spirit overwhelmed within me; my heart within me is desolate."
+        },
+        {
+            "reference":  "Psalm 143:5",
+             "verseNumber":  5,
+             "scripture":  "I remember the days of old; I meditate on all your works; I meditate on the work of your hands."
+        },
+        {
+            "reference":  "Psalm 143:6",
+             "verseNumber":  6,
+             "scripture":  "I stretch forth my hands unto you: my soul thirsts after you, as a thirsty land. Selah."
+        },
+        {
+            "reference":  "Psalm 143:7",
+             "verseNumber":  7,
+             "scripture":  "Hear me speedily, O LORD: my spirit fails: hide not your face from me, lest I be like unto them that go down into the pit."
+        },
+        {
+            "reference":  "Psalm 143:8",
+             "verseNumber":  8,
+             "scripture":  "Cause me to hear your loving kindness in the morning; for in you do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto you."
+        },
+        {
+            "reference":  "Psalm 143:9",
+             "verseNumber":  9,
+             "scripture":  "Deliver me, O LORD, from mine enemies: I flee unto you to hide me."
+        },
+        {
+            "reference":  "Psalm 143:10",
+             "verseNumber":  10,
+             "scripture":  "Teach me to do your will; for you are my God: your spirit is good; lead me into the land of uprightness."
+        },
+        {
+            "reference":  "Psalm 143:11",
+             "verseNumber":  11,
+             "scripture":  "Restore life in me, O LORD, for your name's sake: for your righteousness' sake bring my soul out of trouble."
+        },
+        {
+            "reference":  "Psalm 143:12",
+             "verseNumber":  12,
+             "scripture":  "And of your mercy cut off mine enemies, and destroy all them that afflict my soul: for I am your servant."
+        }
+    ]
+}

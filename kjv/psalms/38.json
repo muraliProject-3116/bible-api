@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 38, "verses": [{"reference": "Psalm 38:1", "verseNumber": 1, "scripture": "O lord, rebuke me not in your wrath: neither chasten me in your hot displeasure."},{"reference": "Psalm 38:2", "verseNumber": 2, "scripture": "For yours arrows stick fast in me, and your hand presses me sore."},{"reference": "Psalm 38:3", "verseNumber": 3, "scripture": "There is no soundness in my flesh because of yours anger; neither is there any rest in my bones because of my sin."},{"reference": "Psalm 38:4", "verseNumber": 4, "scripture": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me."},{"reference": "Psalm 38:5", "verseNumber": 5, "scripture": "My wounds stink and are corrupt because of my foolishness."},{"reference": "Psalm 38:6", "verseNumber": 6, "scripture": "I am troubled; I am bowed down greatly; I go mourning all the day long."},{"reference": "Psalm 38:7", "verseNumber": 7, "scripture": "For my loins are filled with a loathsome disease: and there is no soundness in my flesh."},{"reference": "Psalm 38:8", "verseNumber": 8, "scripture": "I am feeble and sore broken: I have roared by reason of the chaos of my heart."},{"reference": "Psalm 38:9", "verseNumber": 9, "scripture": "Lord, all my desire is before you; and my groaning is not hid from you."},{"reference": "Psalm 38:10", "verseNumber": 10, "scripture": "My heart pants, my strength fails me: as for the light of mine eyes, it also is gone from me."},{"reference": "Psalm 38:11", "verseNumber": 11, "scripture": "My lovers and my friends stand aloof from my sore; and my kinsmen stand far off."},{"reference": "Psalm 38:12", "verseNumber": 12, "scripture": "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long."},{"reference": "Psalm 38:13", "verseNumber": 13, "scripture": "But I, as a deaf man, heard not; and I was as a dumb man that opens not his mouth."},{"reference": "Psalm 38:14", "verseNumber": 14, "scripture": "Thus I was as a man that hears not, and in whose mouth are no reproofs."},{"reference": "Psalm 38:15", "verseNumber": 15, "scripture": "For in you, O LORD, do I hope: you will hear, O Lord my God."},{"reference": "Psalm 38:16", "verseNumber": 16, "scripture": "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slips, they magnify themselves against me."},{"reference": "Psalm 38:17", "verseNumber": 17, "scripture": "For I am ready to halt, and my sorrow is continually before me."},{"reference": "Psalm 38:18", "verseNumber": 18, "scripture": "For I will declare mine iniquity; I will be sorry for my sin."},{"reference": "Psalm 38:19", "verseNumber": 19, "scripture": "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied."},{"reference": "Psalm 38:20", "verseNumber": 20, "scripture": "They also that render evil for good are mine adversaries; because I follow the thing that good is."},{"reference": "Psalm 38:21", "verseNumber": 21, "scripture": "Forsake me not, O LORD: O my God, be not far from me."},{"reference": "Psalm 38:22", "verseNumber": 22, "scripture": "Make haste to help me, O Lord my salvation."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  38,
+     "verses":  [
+        {
+            "reference":  "Psalm 38:1",
+             "verseNumber":  1,
+             "scripture":  "O lord, rebuke me not in your wrath: neither chasten me in your hot displeasure."
+        },
+        {
+            "reference":  "Psalm 38:2",
+             "verseNumber":  2,
+             "scripture":  "For yours arrows stick fast in me, and your hand presses me sore."
+        },
+        {
+            "reference":  "Psalm 38:3",
+             "verseNumber":  3,
+             "scripture":  "There is no soundness in my flesh because of yours anger; neither is there any rest in my bones because of my sin."
+        },
+        {
+            "reference":  "Psalm 38:4",
+             "verseNumber":  4,
+             "scripture":  "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me."
+        },
+        {
+            "reference":  "Psalm 38:5",
+             "verseNumber":  5,
+             "scripture":  "My wounds stink and are corrupt because of my foolishness."
+        },
+        {
+            "reference":  "Psalm 38:6",
+             "verseNumber":  6,
+             "scripture":  "I am troubled; I am bowed down greatly; I go mourning all the day long."
+        },
+        {
+            "reference":  "Psalm 38:7",
+             "verseNumber":  7,
+             "scripture":  "For my loins are filled with a loathsome disease: and there is no soundness in my flesh."
+        },
+        {
+            "reference":  "Psalm 38:8",
+             "verseNumber":  8,
+             "scripture":  "I am feeble and sore broken: I have roared by reason of the chaos of my heart."
+        },
+        {
+            "reference":  "Psalm 38:9",
+             "verseNumber":  9,
+             "scripture":  "Lord, all my desire is before you; and my groaning is not hid from you."
+        },
+        {
+            "reference":  "Psalm 38:10",
+             "verseNumber":  10,
+             "scripture":  "My heart pants, my strength fails me: as for the light of mine eyes, it also is gone from me."
+        },
+        {
+            "reference":  "Psalm 38:11",
+             "verseNumber":  11,
+             "scripture":  "My lovers and my friends stand aloof from my sore; and my kinsmen stand far off."
+        },
+        {
+            "reference":  "Psalm 38:12",
+             "verseNumber":  12,
+             "scripture":  "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long."
+        },
+        {
+            "reference":  "Psalm 38:13",
+             "verseNumber":  13,
+             "scripture":  "But I, as a deaf man, heard not; and I was as a dumb man that opens not his mouth."
+        },
+        {
+            "reference":  "Psalm 38:14",
+             "verseNumber":  14,
+             "scripture":  "Thus I was as a man that hears not, and in whose mouth are no reproofs."
+        },
+        {
+            "reference":  "Psalm 38:15",
+             "verseNumber":  15,
+             "scripture":  "For in you, O LORD, do I hope: you will hear, O Lord my God."
+        },
+        {
+            "reference":  "Psalm 38:16",
+             "verseNumber":  16,
+             "scripture":  "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slips, they magnify themselves against me."
+        },
+        {
+            "reference":  "Psalm 38:17",
+             "verseNumber":  17,
+             "scripture":  "For I am ready to halt, and my sorrow is continually before me."
+        },
+        {
+            "reference":  "Psalm 38:18",
+             "verseNumber":  18,
+             "scripture":  "For I will declare mine iniquity; I will be sorry for my sin."
+        },
+        {
+            "reference":  "Psalm 38:19",
+             "verseNumber":  19,
+             "scripture":  "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied."
+        },
+        {
+            "reference":  "Psalm 38:20",
+             "verseNumber":  20,
+             "scripture":  "They also that render evil for good are mine adversaries; because I follow the thing that good is."
+        },
+        {
+            "reference":  "Psalm 38:21",
+             "verseNumber":  21,
+             "scripture":  "Forsake me not, O LORD: O my God, be not far from me."
+        },
+        {
+            "reference":  "Psalm 38:22",
+             "verseNumber":  22,
+             "scripture":  "Make haste to help me, O Lord my salvation."
+        }
+    ]
+}

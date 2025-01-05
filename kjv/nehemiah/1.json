@@ -1,1 +1,70 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Nehemiah", "bookAbbreviation": "Neh", "chapterNumber": 1, "verses": [{"reference": "Nehemiah 1:1", "verseNumber": 1, "scripture": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"},{"reference": "Nehemiah 1:2", "verseNumber": 2, "scripture": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."},{"reference": "Nehemiah 1:3", "verseNumber": 3, "scripture": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."},{"reference": "Nehemiah 1:4", "verseNumber": 4, "scripture": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"},{"reference": "Nehemiah 1:5", "verseNumber": 5, "scripture": "And said, I plead to you, O LORD God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:"},{"reference": "Nehemiah 1:6", "verseNumber": 6, "scripture": "Let yours ear now be attentive, and yours eyes open, that you may hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned."},{"reference": "Nehemiah 1:7", "verseNumber": 7, "scripture": "We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commandedst your servant Moses."},{"reference": "Nehemiah 1:8", "verseNumber": 8, "scripture": "Remember, I plead to you, the word that you commandedst your servant Moses, saying, If all of you transgress, I will scatter you abroad among the nations:"},{"reference": "Nehemiah 1:9", "verseNumber": 9, "scripture": "But if all of you turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."},{"reference": "Nehemiah 1:10", "verseNumber": 10, "scripture": "Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand."},{"reference": "Nehemiah 1:11", "verseNumber": 11, "scripture": "O LORD, I plead to you, let now yours ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Nehemiah",
+     "bookAbbreviation":  "Neh",
+     "chapterNumber":  1,
+     "verses":  [
+        {
+            "reference":  "Nehemiah 1:1",
+             "verseNumber":  1,
+             "scripture":  "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
+        },
+        {
+            "reference":  "Nehemiah 1:2",
+             "verseNumber":  2,
+             "scripture":  "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."
+        },
+        {
+            "reference":  "Nehemiah 1:3",
+             "verseNumber":  3,
+             "scripture":  "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
+        },
+        {
+            "reference":  "Nehemiah 1:4",
+             "verseNumber":  4,
+             "scripture":  "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"
+        },
+        {
+            "reference":  "Nehemiah 1:5",
+             "verseNumber":  5,
+             "scripture":  "And said, I plead to you, O LORD God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:"
+        },
+        {
+            "reference":  "Nehemiah 1:6",
+             "verseNumber":  6,
+             "scripture":  "Let yours ear now be attentive, and yours eyes open, that you may hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned."
+        },
+        {
+            "reference":  "Nehemiah 1:7",
+             "verseNumber":  7,
+             "scripture":  "We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commandedst your servant Moses."
+        },
+        {
+            "reference":  "Nehemiah 1:8",
+             "verseNumber":  8,
+             "scripture":  "Remember, I plead to you, the word that you commandedst your servant Moses, saying, If all of you transgress, I will scatter you abroad among the nations:"
+        },
+        {
+            "reference":  "Nehemiah 1:9",
+             "verseNumber":  9,
+             "scripture":  "But if all of you turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
+        },
+        {
+            "reference":  "Nehemiah 1:10",
+             "verseNumber":  10,
+             "scripture":  "Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand."
+        },
+        {
+            "reference":  "Nehemiah 1:11",
+             "verseNumber":  11,
+             "scripture":  "O LORD, I plead to you, let now yours ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer."
+        }
+    ]
+}

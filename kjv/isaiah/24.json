@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 24, "verses": [{"reference": "Isaiah 24:1", "verseNumber": 1, "scripture": "Behold, the LORD makes the earth empty, and makes it waste, and turns it upside down, and scatters abroad the inhabitants thereof."},{"reference": "Isaiah 24:2", "verseNumber": 2, "scripture": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of interest, so with the giver of interest to him."},{"reference": "Isaiah 24:3", "verseNumber": 3, "scripture": "The land shall be utterly emptied, and utterly spoiled: for the LORD has spoken this word."},{"reference": "Isaiah 24:4", "verseNumber": 4, "scripture": "The earth mourns and fades away, the world languishes and fades away, the haughty people of the earth do languish."},{"reference": "Isaiah 24:5", "verseNumber": 5, "scripture": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant."},{"reference": "Isaiah 24:6", "verseNumber": 6, "scripture": "Therefore has the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left."},{"reference": "Isaiah 24:7", "verseNumber": 7, "scripture": "The new wine mourns, the vine languishes, all the merry hearted do sigh."},{"reference": "Isaiah 24:8", "verseNumber": 8, "scripture": "The delight of timbrels ceases, the noise of them that rejoice ends, the joy of the harp ceases."},{"reference": "Isaiah 24:9", "verseNumber": 9, "scripture": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it."},{"reference": "Isaiah 24:10", "verseNumber": 10, "scripture": "The city of confusion is broken down: every house is shut up, that no man may come in."},{"reference": "Isaiah 24:11", "verseNumber": 11, "scripture": "There is a crying for wine in the streets; all joy is darkened, the delight of the land is gone."},{"reference": "Isaiah 24:12", "verseNumber": 12, "scripture": "In the city is left desolation, and the gate is smitten with destruction."},{"reference": "Isaiah 24:13", "verseNumber": 13, "scripture": "When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done."},{"reference": "Isaiah 24:14", "verseNumber": 14, "scripture": "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea."},{"reference": "Isaiah 24:15", "verseNumber": 15, "scripture": "Wherefore glorify all of you the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea."},{"reference": "Isaiah 24:16", "verseNumber": 16, "scripture": "From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously."},{"reference": "Isaiah 24:17", "verseNumber": 17, "scripture": "Fear, and the pit, and the snare, are upon you, O inhabitant of the earth."},{"reference": "Isaiah 24:18", "verseNumber": 18, "scripture": "And it shall come to pass, that he who flees from the noise of the fear shall fall into the pit; and he that comes up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake."},{"reference": "Isaiah 24:19", "verseNumber": 19, "scripture": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly."},{"reference": "Isaiah 24:20", "verseNumber": 20, "scripture": "The earth shall reel back and forth like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again."},{"reference": "Isaiah 24:21", "verseNumber": 21, "scripture": "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth."},{"reference": "Isaiah 24:22", "verseNumber": 22, "scripture": "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."},{"reference": "Isaiah 24:23", "verseNumber": 23, "scripture": "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  24,
+     "verses":  [
+        {
+            "reference":  "Isaiah 24:1",
+             "verseNumber":  1,
+             "scripture":  "Behold, the LORD makes the earth empty, and makes it waste, and turns it upside down, and scatters abroad the inhabitants thereof."
+        },
+        {
+            "reference":  "Isaiah 24:2",
+             "verseNumber":  2,
+             "scripture":  "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of interest, so with the giver of interest to him."
+        },
+        {
+            "reference":  "Isaiah 24:3",
+             "verseNumber":  3,
+             "scripture":  "The land shall be utterly emptied, and utterly spoiled: for the LORD has spoken this word."
+        },
+        {
+            "reference":  "Isaiah 24:4",
+             "verseNumber":  4,
+             "scripture":  "The earth mourns and fades away, the world languishes and fades away, the haughty people of the earth do languish."
+        },
+        {
+            "reference":  "Isaiah 24:5",
+             "verseNumber":  5,
+             "scripture":  "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant."
+        },
+        {
+            "reference":  "Isaiah 24:6",
+             "verseNumber":  6,
+             "scripture":  "Therefore has the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left."
+        },
+        {
+            "reference":  "Isaiah 24:7",
+             "verseNumber":  7,
+             "scripture":  "The new wine mourns, the vine languishes, all the merry hearted do sigh."
+        },
+        {
+            "reference":  "Isaiah 24:8",
+             "verseNumber":  8,
+             "scripture":  "The delight of timbrels ceases, the noise of them that rejoice ends, the joy of the harp ceases."
+        },
+        {
+            "reference":  "Isaiah 24:9",
+             "verseNumber":  9,
+             "scripture":  "They shall not drink wine with a song; strong drink shall be bitter to them that drink it."
+        },
+        {
+            "reference":  "Isaiah 24:10",
+             "verseNumber":  10,
+             "scripture":  "The city of confusion is broken down: every house is shut up, that no man may come in."
+        },
+        {
+            "reference":  "Isaiah 24:11",
+             "verseNumber":  11,
+             "scripture":  "There is a crying for wine in the streets; all joy is darkened, the delight of the land is gone."
+        },
+        {
+            "reference":  "Isaiah 24:12",
+             "verseNumber":  12,
+             "scripture":  "In the city is left desolation, and the gate is smitten with destruction."
+        },
+        {
+            "reference":  "Isaiah 24:13",
+             "verseNumber":  13,
+             "scripture":  "When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done."
+        },
+        {
+            "reference":  "Isaiah 24:14",
+             "verseNumber":  14,
+             "scripture":  "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea."
+        },
+        {
+            "reference":  "Isaiah 24:15",
+             "verseNumber":  15,
+             "scripture":  "Wherefore glorify all of you the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea."
+        },
+        {
+            "reference":  "Isaiah 24:16",
+             "verseNumber":  16,
+             "scripture":  "From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously."
+        },
+        {
+            "reference":  "Isaiah 24:17",
+             "verseNumber":  17,
+             "scripture":  "Fear, and the pit, and the snare, are upon you, O inhabitant of the earth."
+        },
+        {
+            "reference":  "Isaiah 24:18",
+             "verseNumber":  18,
+             "scripture":  "And it shall come to pass, that he who flees from the noise of the fear shall fall into the pit; and he that comes up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake."
+        },
+        {
+            "reference":  "Isaiah 24:19",
+             "verseNumber":  19,
+             "scripture":  "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly."
+        },
+        {
+            "reference":  "Isaiah 24:20",
+             "verseNumber":  20,
+             "scripture":  "The earth shall reel back and forth like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again."
+        },
+        {
+            "reference":  "Isaiah 24:21",
+             "verseNumber":  21,
+             "scripture":  "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth."
+        },
+        {
+            "reference":  "Isaiah 24:22",
+             "verseNumber":  22,
+             "scripture":  "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."
+        },
+        {
+            "reference":  "Isaiah 24:23",
+             "verseNumber":  23,
+             "scripture":  "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously."
+        }
+    ]
+}

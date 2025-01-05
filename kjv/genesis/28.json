@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 28, "verses": [{"reference": "Genesis 28:1", "verseNumber": 1, "scripture": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, You shall not take a wife of the daughters of Canaan."},{"reference": "Genesis 28:2", "verseNumber": 2, "scripture": "Arise, go to Padanaram, to the house of Bethuel your mother's father; and take you a wife from thence of the daughters of Laban your mother's brother."},{"reference": "Genesis 28:3", "verseNumber": 3, "scripture": "And God Almighty bless you, and make you fruitful, and multiply you, that you may be a multitude of people;"},{"reference": "Genesis 28:4", "verseNumber": 4, "scripture": "And give you the blessing of Abraham, to you, and to your seed with you; that you may inherit the land wherein you are a stranger, which God gave unto Abraham."},{"reference": "Genesis 28:5", "verseNumber": 5, "scripture": "And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother."},{"reference": "Genesis 28:6", "verseNumber": 6, "scripture": "When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, You shall not take a wife of the daughters of Canaan;"},{"reference": "Genesis 28:7", "verseNumber": 7, "scripture": "And that Jacob obeyed his father and his mother, and was gone to Padanaram;"},{"reference": "Genesis 28:8", "verseNumber": 8, "scripture": "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"},{"reference": "Genesis 28:9", "verseNumber": 9, "scripture": "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife."},{"reference": "Genesis 28:10", "verseNumber": 10, "scripture": "And Jacob went out from Beersheba, and went toward Haran."},{"reference": "Genesis 28:11", "verseNumber": 11, "scripture": "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep."},{"reference": "Genesis 28:12", "verseNumber": 12, "scripture": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."},{"reference": "Genesis 28:13", "verseNumber": 13, "scripture": "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham your father, and the God of Isaac: the land whereon you lie, to you will I give it, and to your seed;"},{"reference": "Genesis 28:14", "verseNumber": 14, "scripture": "And your seed shall be as the dust of the earth, and you shall spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed shall all the families of the earth be blessed."},{"reference": "Genesis 28:15", "verseNumber": 15, "scripture": "And, behold, I am with you, and will keep you in all places where you go, and will bring you again into this land; for I will not leave you, until I have done that which I have spoken to you of."},{"reference": "Genesis 28:16", "verseNumber": 16, "scripture": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."},{"reference": "Genesis 28:17", "verseNumber": 17, "scripture": "And he was afraid, and said, How dreadful is this place! this is no other but the house of God, and this is the gate of heaven."},{"reference": "Genesis 28:18", "verseNumber": 18, "scripture": "And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it."},{"reference": "Genesis 28:19", "verseNumber": 19, "scripture": "And he called the name of that place Bethel: but the name of that city was called Luz at the first."},{"reference": "Genesis 28:20", "verseNumber": 20, "scripture": "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,"},{"reference": "Genesis 28:21", "verseNumber": 21, "scripture": "So that I come again to my father's house in peace; then shall the LORD be my God:"},{"reference": "Genesis 28:22", "verseNumber": 22, "scripture": "And this stone, which I have set for a pillar, shall be God's house: and of all that you shall give me I will surely give the tenth unto you."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  28,
+     "verses":  [
+        {
+            "reference":  "Genesis 28:1",
+             "verseNumber":  1,
+             "scripture":  "And Isaac called Jacob, and blessed him, and charged him, and said unto him, You shall not take a wife of the daughters of Canaan."
+        },
+        {
+            "reference":  "Genesis 28:2",
+             "verseNumber":  2,
+             "scripture":  "Arise, go to Padanaram, to the house of Bethuel your mother's father; and take you a wife from thence of the daughters of Laban your mother's brother."
+        },
+        {
+            "reference":  "Genesis 28:3",
+             "verseNumber":  3,
+             "scripture":  "And God Almighty bless you, and make you fruitful, and multiply you, that you may be a multitude of people;"
+        },
+        {
+            "reference":  "Genesis 28:4",
+             "verseNumber":  4,
+             "scripture":  "And give you the blessing of Abraham, to you, and to your seed with you; that you may inherit the land wherein you are a stranger, which God gave unto Abraham."
+        },
+        {
+            "reference":  "Genesis 28:5",
+             "verseNumber":  5,
+             "scripture":  "And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother."
+        },
+        {
+            "reference":  "Genesis 28:6",
+             "verseNumber":  6,
+             "scripture":  "When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, You shall not take a wife of the daughters of Canaan;"
+        },
+        {
+            "reference":  "Genesis 28:7",
+             "verseNumber":  7,
+             "scripture":  "And that Jacob obeyed his father and his mother, and was gone to Padanaram;"
+        },
+        {
+            "reference":  "Genesis 28:8",
+             "verseNumber":  8,
+             "scripture":  "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"
+        },
+        {
+            "reference":  "Genesis 28:9",
+             "verseNumber":  9,
+             "scripture":  "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife."
+        },
+        {
+            "reference":  "Genesis 28:10",
+             "verseNumber":  10,
+             "scripture":  "And Jacob went out from Beersheba, and went toward Haran."
+        },
+        {
+            "reference":  "Genesis 28:11",
+             "verseNumber":  11,
+             "scripture":  "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep."
+        },
+        {
+            "reference":  "Genesis 28:12",
+             "verseNumber":  12,
+             "scripture":  "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."
+        },
+        {
+            "reference":  "Genesis 28:13",
+             "verseNumber":  13,
+             "scripture":  "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham your father, and the God of Isaac: the land whereon you lie, to you will I give it, and to your seed;"
+        },
+        {
+            "reference":  "Genesis 28:14",
+             "verseNumber":  14,
+             "scripture":  "And your seed shall be as the dust of the earth, and you shall spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed shall all the families of the earth be blessed."
+        },
+        {
+            "reference":  "Genesis 28:15",
+             "verseNumber":  15,
+             "scripture":  "And, behold, I am with you, and will keep you in all places where you go, and will bring you again into this land; for I will not leave you, until I have done that which I have spoken to you of."
+        },
+        {
+            "reference":  "Genesis 28:16",
+             "verseNumber":  16,
+             "scripture":  "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+        },
+        {
+            "reference":  "Genesis 28:17",
+             "verseNumber":  17,
+             "scripture":  "And he was afraid, and said, How dreadful is this place! this is no other but the house of God, and this is the gate of heaven."
+        },
+        {
+            "reference":  "Genesis 28:18",
+             "verseNumber":  18,
+             "scripture":  "And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it."
+        },
+        {
+            "reference":  "Genesis 28:19",
+             "verseNumber":  19,
+             "scripture":  "And he called the name of that place Bethel: but the name of that city was called Luz at the first."
+        },
+        {
+            "reference":  "Genesis 28:20",
+             "verseNumber":  20,
+             "scripture":  "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,"
+        },
+        {
+            "reference":  "Genesis 28:21",
+             "verseNumber":  21,
+             "scripture":  "So that I come again to my father's house in peace; then shall the LORD be my God:"
+        },
+        {
+            "reference":  "Genesis 28:22",
+             "verseNumber":  22,
+             "scripture":  "And this stone, which I have set for a pillar, shall be God's house: and of all that you shall give me I will surely give the tenth unto you."
+        }
+    ]
+}

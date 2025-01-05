@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Revelation", "bookAbbreviation": "Rev", "chapterNumber": 7, "verses": [{"reference": "Revelation 7:1", "verseNumber": 1, "scripture": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree."},{"reference": "Revelation 7:2", "verseNumber": 2, "scripture": "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,"},{"reference": "Revelation 7:3", "verseNumber": 3, "scripture": "Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads."},{"reference": "Revelation 7:4", "verseNumber": 4, "scripture": "And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel."},{"reference": "Revelation 7:5", "verseNumber": 5, "scripture": "Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand."},{"reference": "Revelation 7:6", "verseNumber": 6, "scripture": "Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nephthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand."},{"reference": "Revelation 7:7", "verseNumber": 7, "scripture": "Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand."},{"reference": "Revelation 7:8", "verseNumber": 8, "scripture": "Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand."},{"reference": "Revelation 7:9", "verseNumber": 9, "scripture": "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and families, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;"},{"reference": "Revelation 7:10", "verseNumber": 10, "scripture": "And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and unto the Lamb."},{"reference": "Revelation 7:11", "verseNumber": 11, "scripture": "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,"},{"reference": "Revelation 7:12", "verseNumber": 12, "scripture": "Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen."},{"reference": "Revelation 7:13", "verseNumber": 13, "scripture": "And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?"},{"reference": "Revelation 7:14", "verseNumber": 14, "scripture": "And I said unto him, Sir, you know. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb."},{"reference": "Revelation 7:15", "verseNumber": 15, "scripture": "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sits on the throne shall dwell among them."},{"reference": "Revelation 7:16", "verseNumber": 16, "scripture": "They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat."},{"reference": "Revelation 7:17", "verseNumber": 17, "scripture": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Revelation",
+     "bookAbbreviation":  "Rev",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "Revelation 7:1",
+             "verseNumber":  1,
+             "scripture":  "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree."
+        },
+        {
+            "reference":  "Revelation 7:2",
+             "verseNumber":  2,
+             "scripture":  "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,"
+        },
+        {
+            "reference":  "Revelation 7:3",
+             "verseNumber":  3,
+             "scripture":  "Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads."
+        },
+        {
+            "reference":  "Revelation 7:4",
+             "verseNumber":  4,
+             "scripture":  "And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel."
+        },
+        {
+            "reference":  "Revelation 7:5",
+             "verseNumber":  5,
+             "scripture":  "Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand."
+        },
+        {
+            "reference":  "Revelation 7:6",
+             "verseNumber":  6,
+             "scripture":  "Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nephthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand."
+        },
+        {
+            "reference":  "Revelation 7:7",
+             "verseNumber":  7,
+             "scripture":  "Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand."
+        },
+        {
+            "reference":  "Revelation 7:8",
+             "verseNumber":  8,
+             "scripture":  "Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand."
+        },
+        {
+            "reference":  "Revelation 7:9",
+             "verseNumber":  9,
+             "scripture":  "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and families, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;"
+        },
+        {
+            "reference":  "Revelation 7:10",
+             "verseNumber":  10,
+             "scripture":  "And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and unto the Lamb."
+        },
+        {
+            "reference":  "Revelation 7:11",
+             "verseNumber":  11,
+             "scripture":  "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,"
+        },
+        {
+            "reference":  "Revelation 7:12",
+             "verseNumber":  12,
+             "scripture":  "Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen."
+        },
+        {
+            "reference":  "Revelation 7:13",
+             "verseNumber":  13,
+             "scripture":  "And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?"
+        },
+        {
+            "reference":  "Revelation 7:14",
+             "verseNumber":  14,
+             "scripture":  "And I said unto him, Sir, you know. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb."
+        },
+        {
+            "reference":  "Revelation 7:15",
+             "verseNumber":  15,
+             "scripture":  "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sits on the throne shall dwell among them."
+        },
+        {
+            "reference":  "Revelation 7:16",
+             "verseNumber":  16,
+             "scripture":  "They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat."
+        },
+        {
+            "reference":  "Revelation 7:17",
+             "verseNumber":  17,
+             "scripture":  "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes."
+        }
+    ]
+}

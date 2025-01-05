@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 20, "verses": [{"reference": "Genesis 20:1", "verseNumber": 1, "scripture": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."},{"reference": "Genesis 20:2", "verseNumber": 2, "scripture": "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."},{"reference": "Genesis 20:3", "verseNumber": 3, "scripture": "But God came to Abimelech in a dream by night, and said to him, Behold, you are but a dead man, for the woman which you have taken; for she is a man's wife."},{"reference": "Genesis 20:4", "verseNumber": 4, "scripture": "But Abimelech had not come near her: and he said, LORD, will you slay also a righteous nation?"},{"reference": "Genesis 20:5", "verseNumber": 5, "scripture": "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocence of my hands have I done this."},{"reference": "Genesis 20:6", "verseNumber": 6, "scripture": "And God said unto him in a dream, Yea, I know that you did this in the integrity of your heart; for I also withheld you from sinning against me: therefore suffered I you not to touch her."},{"reference": "Genesis 20:7", "verseNumber": 7, "scripture": "Now therefore restore the man his wife; for he is a prophet, and he shall pray for you, and you shall live: and if you restore her not, know you that you shall surely die, you, and all that are yours."},{"reference": "Genesis 20:8", "verseNumber": 8, "scripture": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid."},{"reference": "Genesis 20:9", "verseNumber": 9, "scripture": "Then Abimelech called Abraham, and said unto him, What have you done unto us? and what have I offended you, that you have brought on me and on my kingdom a great sin? you have done deeds unto me that ought not to be done."},{"reference": "Genesis 20:10", "verseNumber": 10, "scripture": "And Abimelech said unto Abraham, What saw you, that you have done this thing?"},{"reference": "Genesis 20:11", "verseNumber": 11, "scripture": "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake."},{"reference": "Genesis 20:12", "verseNumber": 12, "scripture": "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife."},{"reference": "Genesis 20:13", "verseNumber": 13, "scripture": "And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is your kindness which you shall show unto me; at every place where we shall come, say of me, He is my brother."},{"reference": "Genesis 20:14", "verseNumber": 14, "scripture": "And Abimelech took sheep, and oxen, and male servants, and female servants, and gave them unto Abraham, and restored him Sarah his wife."},{"reference": "Genesis 20:15", "verseNumber": 15, "scripture": "And Abimelech said, Behold, my land is before you: dwell where it pleases you."},{"reference": "Genesis 20:16", "verseNumber": 16, "scripture": "And unto Sarah he said, Behold, I have given your brother a thousand pieces of silver: behold, he is to you a covering of the eyes, unto all that are with you, and with all other: thus she was reproved."},{"reference": "Genesis 20:17", "verseNumber": 17, "scripture": "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children."},{"reference": "Genesis 20:18", "verseNumber": 18, "scripture": "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  20,
+     "verses":  [
+        {
+            "reference":  "Genesis 20:1",
+             "verseNumber":  1,
+             "scripture":  "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."
+        },
+        {
+            "reference":  "Genesis 20:2",
+             "verseNumber":  2,
+             "scripture":  "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."
+        },
+        {
+            "reference":  "Genesis 20:3",
+             "verseNumber":  3,
+             "scripture":  "But God came to Abimelech in a dream by night, and said to him, Behold, you are but a dead man, for the woman which you have taken; for she is a man's wife."
+        },
+        {
+            "reference":  "Genesis 20:4",
+             "verseNumber":  4,
+             "scripture":  "But Abimelech had not come near her: and he said, LORD, will you slay also a righteous nation?"
+        },
+        {
+            "reference":  "Genesis 20:5",
+             "verseNumber":  5,
+             "scripture":  "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocence of my hands have I done this."
+        },
+        {
+            "reference":  "Genesis 20:6",
+             "verseNumber":  6,
+             "scripture":  "And God said unto him in a dream, Yea, I know that you did this in the integrity of your heart; for I also withheld you from sinning against me: therefore suffered I you not to touch her."
+        },
+        {
+            "reference":  "Genesis 20:7",
+             "verseNumber":  7,
+             "scripture":  "Now therefore restore the man his wife; for he is a prophet, and he shall pray for you, and you shall live: and if you restore her not, know you that you shall surely die, you, and all that are yours."
+        },
+        {
+            "reference":  "Genesis 20:8",
+             "verseNumber":  8,
+             "scripture":  "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid."
+        },
+        {
+            "reference":  "Genesis 20:9",
+             "verseNumber":  9,
+             "scripture":  "Then Abimelech called Abraham, and said unto him, What have you done unto us? and what have I offended you, that you have brought on me and on my kingdom a great sin? you have done deeds unto me that ought not to be done."
+        },
+        {
+            "reference":  "Genesis 20:10",
+             "verseNumber":  10,
+             "scripture":  "And Abimelech said unto Abraham, What saw you, that you have done this thing?"
+        },
+        {
+            "reference":  "Genesis 20:11",
+             "verseNumber":  11,
+             "scripture":  "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake."
+        },
+        {
+            "reference":  "Genesis 20:12",
+             "verseNumber":  12,
+             "scripture":  "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife."
+        },
+        {
+            "reference":  "Genesis 20:13",
+             "verseNumber":  13,
+             "scripture":  "And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is your kindness which you shall show unto me; at every place where we shall come, say of me, He is my brother."
+        },
+        {
+            "reference":  "Genesis 20:14",
+             "verseNumber":  14,
+             "scripture":  "And Abimelech took sheep, and oxen, and male servants, and female servants, and gave them unto Abraham, and restored him Sarah his wife."
+        },
+        {
+            "reference":  "Genesis 20:15",
+             "verseNumber":  15,
+             "scripture":  "And Abimelech said, Behold, my land is before you: dwell where it pleases you."
+        },
+        {
+            "reference":  "Genesis 20:16",
+             "verseNumber":  16,
+             "scripture":  "And unto Sarah he said, Behold, I have given your brother a thousand pieces of silver: behold, he is to you a covering of the eyes, unto all that are with you, and with all other: thus she was reproved."
+        },
+        {
+            "reference":  "Genesis 20:17",
+             "verseNumber":  17,
+             "scripture":  "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children."
+        },
+        {
+            "reference":  "Genesis 20:18",
+             "verseNumber":  18,
+             "scripture":  "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife."
+        }
+    ]
+}

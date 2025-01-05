@@ -1,1 +1,155 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 26, "verses": [{"reference": "Proverbs 26:1", "verseNumber": 1, "scripture": "As snow in summer, and as rain in harvest, so honour is not suitable for a fool."},{"reference": "Proverbs 26:2", "verseNumber": 2, "scripture": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come."},{"reference": "Proverbs 26:3", "verseNumber": 3, "scripture": "A whip for the horse, a bridle for the ass, and a rod for the fool's back."},{"reference": "Proverbs 26:4", "verseNumber": 4, "scripture": "Answer not a fool according to his folly, lest you also be like unto him."},{"reference": "Proverbs 26:5", "verseNumber": 5, "scripture": "Answer a fool according to his folly, lest he be wise in his own conceit."},{"reference": "Proverbs 26:6", "verseNumber": 6, "scripture": "He that sends a message by the hand of a fool cuts off the feet, and drinks damage."},{"reference": "Proverbs 26:7", "verseNumber": 7, "scripture": "The legs of the lame are not equal: so is a parable in the mouth of fools."},{"reference": "Proverbs 26:8", "verseNumber": 8, "scripture": "As he that binds a stone in a sling, so is he that gives honour to a fool."},{"reference": "Proverbs 26:9", "verseNumber": 9, "scripture": "As a thorn goes up into the hand of a drunkard, so is a parable in the mouths of fools."},{"reference": "Proverbs 26:10", "verseNumber": 10, "scripture": "The great God that formed all things both rewards the fool, and rewards transgressors."},{"reference": "Proverbs 26:11", "verseNumber": 11, "scripture": "As a dog returns to his vomit, so a fool returns to his folly."},{"reference": "Proverbs 26:12", "verseNumber": 12, "scripture": "See you a man wise in his own conceit? there is more hope of a fool than of him."},{"reference": "Proverbs 26:13", "verseNumber": 13, "scripture": "The slothful man says, There is a lion in the way; a lion is in the streets."},{"reference": "Proverbs 26:14", "verseNumber": 14, "scripture": "As the door turns upon his hinges, so does the slothful upon his bed."},{"reference": "Proverbs 26:15", "verseNumber": 15, "scripture": "The slothful hides his hand in his bosom; it grieves him to bring it again to his mouth."},{"reference": "Proverbs 26:16", "verseNumber": 16, "scripture": "The sluggard is wiser in his own conceit than seven men that can render a reason."},{"reference": "Proverbs 26:17", "verseNumber": 17, "scripture": "He that passes by, and meddles with strife belonging not to him, is like one that takes a dog by the ears."},{"reference": "Proverbs 26:18", "verseNumber": 18, "scripture": "As a mad man who casts firebrands, arrows, and death,"},{"reference": "Proverbs 26:19", "verseNumber": 19, "scripture": "So is the man that deceives his neighbour, and says, Am not I in sport?"},{"reference": "Proverbs 26:20", "verseNumber": 20, "scripture": "Where no wood is, there the fire goes out: so where there is no talebearer, the strife ceases."},{"reference": "Proverbs 26:21", "verseNumber": 21, "scripture": "As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife."},{"reference": "Proverbs 26:22", "verseNumber": 22, "scripture": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly."},{"reference": "Proverbs 26:23", "verseNumber": 23, "scripture": "Burning lips and a wicked heart are like a potsherd covered with silver dross."},{"reference": "Proverbs 26:24", "verseNumber": 24, "scripture": "He that hates dissembles with his lips, and lays up deceit within him;"},{"reference": "Proverbs 26:25", "verseNumber": 25, "scripture": "When he speaks fair, believe him not: for there are seven abominations in his heart."},{"reference": "Proverbs 26:26", "verseNumber": 26, "scripture": "Whose hatred is covered by deceit, his wickedness shall be showed before the whole congregation."},{"reference": "Proverbs 26:27", "verseNumber": 27, "scripture": "Whoso digs a pit shall fall therein: and he that rolls a stone, it will return upon him."},{"reference": "Proverbs 26:28", "verseNumber": 28, "scripture": "A lying tongue hates those that are afflicted by it; and a flattering mouth works ruin."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  26,
+     "verses":  [
+        {
+            "reference":  "Proverbs 26:1",
+             "verseNumber":  1,
+             "scripture":  "As snow in summer, and as rain in harvest, so honour is not suitable for a fool."
+        },
+        {
+            "reference":  "Proverbs 26:2",
+             "verseNumber":  2,
+             "scripture":  "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come."
+        },
+        {
+            "reference":  "Proverbs 26:3",
+             "verseNumber":  3,
+             "scripture":  "A whip for the horse, a bridle for the ass, and a rod for the fool's back."
+        },
+        {
+            "reference":  "Proverbs 26:4",
+             "verseNumber":  4,
+             "scripture":  "Answer not a fool according to his folly, lest you also be like unto him."
+        },
+        {
+            "reference":  "Proverbs 26:5",
+             "verseNumber":  5,
+             "scripture":  "Answer a fool according to his folly, lest he be wise in his own conceit."
+        },
+        {
+            "reference":  "Proverbs 26:6",
+             "verseNumber":  6,
+             "scripture":  "He that sends a message by the hand of a fool cuts off the feet, and drinks damage."
+        },
+        {
+            "reference":  "Proverbs 26:7",
+             "verseNumber":  7,
+             "scripture":  "The legs of the lame are not equal: so is a parable in the mouth of fools."
+        },
+        {
+            "reference":  "Proverbs 26:8",
+             "verseNumber":  8,
+             "scripture":  "As he that binds a stone in a sling, so is he that gives honour to a fool."
+        },
+        {
+            "reference":  "Proverbs 26:9",
+             "verseNumber":  9,
+             "scripture":  "As a thorn goes up into the hand of a drunkard, so is a parable in the mouths of fools."
+        },
+        {
+            "reference":  "Proverbs 26:10",
+             "verseNumber":  10,
+             "scripture":  "The great God that formed all things both rewards the fool, and rewards transgressors."
+        },
+        {
+            "reference":  "Proverbs 26:11",
+             "verseNumber":  11,
+             "scripture":  "As a dog returns to his vomit, so a fool returns to his folly."
+        },
+        {
+            "reference":  "Proverbs 26:12",
+             "verseNumber":  12,
+             "scripture":  "See you a man wise in his own conceit? there is more hope of a fool than of him."
+        },
+        {
+            "reference":  "Proverbs 26:13",
+             "verseNumber":  13,
+             "scripture":  "The slothful man says, There is a lion in the way; a lion is in the streets."
+        },
+        {
+            "reference":  "Proverbs 26:14",
+             "verseNumber":  14,
+             "scripture":  "As the door turns upon his hinges, so does the slothful upon his bed."
+        },
+        {
+            "reference":  "Proverbs 26:15",
+             "verseNumber":  15,
+             "scripture":  "The slothful hides his hand in his bosom; it grieves him to bring it again to his mouth."
+        },
+        {
+            "reference":  "Proverbs 26:16",
+             "verseNumber":  16,
+             "scripture":  "The sluggard is wiser in his own conceit than seven men that can render a reason."
+        },
+        {
+            "reference":  "Proverbs 26:17",
+             "verseNumber":  17,
+             "scripture":  "He that passes by, and meddles with strife belonging not to him, is like one that takes a dog by the ears."
+        },
+        {
+            "reference":  "Proverbs 26:18",
+             "verseNumber":  18,
+             "scripture":  "As a mad man who casts firebrands, arrows, and death,"
+        },
+        {
+            "reference":  "Proverbs 26:19",
+             "verseNumber":  19,
+             "scripture":  "So is the man that deceives his neighbour, and says, Am not I in sport?"
+        },
+        {
+            "reference":  "Proverbs 26:20",
+             "verseNumber":  20,
+             "scripture":  "Where no wood is, there the fire goes out: so where there is no talebearer, the strife ceases."
+        },
+        {
+            "reference":  "Proverbs 26:21",
+             "verseNumber":  21,
+             "scripture":  "As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife."
+        },
+        {
+            "reference":  "Proverbs 26:22",
+             "verseNumber":  22,
+             "scripture":  "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly."
+        },
+        {
+            "reference":  "Proverbs 26:23",
+             "verseNumber":  23,
+             "scripture":  "Burning lips and a wicked heart are like a potsherd covered with silver dross."
+        },
+        {
+            "reference":  "Proverbs 26:24",
+             "verseNumber":  24,
+             "scripture":  "He that hates dissembles with his lips, and lays up deceit within him;"
+        },
+        {
+            "reference":  "Proverbs 26:25",
+             "verseNumber":  25,
+             "scripture":  "When he speaks fair, believe him not: for there are seven abominations in his heart."
+        },
+        {
+            "reference":  "Proverbs 26:26",
+             "verseNumber":  26,
+             "scripture":  "Whose hatred is covered by deceit, his wickedness shall be showed before the whole congregation."
+        },
+        {
+            "reference":  "Proverbs 26:27",
+             "verseNumber":  27,
+             "scripture":  "Whoso digs a pit shall fall therein: and he that rolls a stone, it will return upon him."
+        },
+        {
+            "reference":  "Proverbs 26:28",
+             "verseNumber":  28,
+             "scripture":  "A lying tongue hates those that are afflicted by it; and a flattering mouth works ruin."
+        }
+    ]
+}

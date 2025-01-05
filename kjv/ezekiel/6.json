@@ -1,1 +1,85 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezekiel", "bookAbbreviation": "Eze", "chapterNumber": 6, "verses": [{"reference": "Ezekiel 6:1", "verseNumber": 1, "scripture": "And the word of the LORD came unto me, saying,"},{"reference": "Ezekiel 6:2", "verseNumber": 2, "scripture": "Son of man, set your face toward the mountains of Israel, and prophesy against them,"},{"reference": "Ezekiel 6:3", "verseNumber": 3, "scripture": "And say, All of you mountains of Israel, hear the word of the Lord GOD; Thus says the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places."},{"reference": "Ezekiel 6:4", "verseNumber": 4, "scripture": "And your altars shall be desolate, and your images shall be broken: and I will cast down your slain men before your idols."},{"reference": "Ezekiel 6:5", "verseNumber": 5, "scripture": "And I will lay the dead carcasses of the children of Israel before their idols; and I will scatter your bones round about your altars."},{"reference": "Ezekiel 6:6", "verseNumber": 6, "scripture": "In all your dwelling places the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished."},{"reference": "Ezekiel 6:7", "verseNumber": 7, "scripture": "And the slain shall fall in the midst of you, and all of you shall know that I am the LORD."},{"reference": "Ezekiel 6:8", "verseNumber": 8, "scripture": "Yet will I leave a remnant, that all of you may have some that shall escape the sword among the nations, when all of you shall be scattered through the countries."},{"reference": "Ezekiel 6:9", "verseNumber": 9, "scripture": "And they that escape of you shall remember me among the nations where they shall be carried captives, because I am broken with their whorish heart, which has departed from me, and with their eyes, which go a whoring after their idols: and they shall loathe themselves for the evils which they have committed in all their abominations."},{"reference": "Ezekiel 6:10", "verseNumber": 10, "scripture": "And they shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them."},{"reference": "Ezekiel 6:11", "verseNumber": 11, "scripture": "Thus says the Lord GOD; Strike with yours hand, and stamp with your foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence."},{"reference": "Ezekiel 6:12", "verseNumber": 12, "scripture": "He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remains and is besieged shall die by the famine: thus will I accomplish my fury upon them."},{"reference": "Ezekiel 6:13", "verseNumber": 13, "scripture": "Then shall all of you know that I am the LORD, when their slain men shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols."},{"reference": "Ezekiel 6:14", "verseNumber": 14, "scripture": "So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezekiel",
+     "bookAbbreviation":  "Eze",
+     "chapterNumber":  6,
+     "verses":  [
+        {
+            "reference":  "Ezekiel 6:1",
+             "verseNumber":  1,
+             "scripture":  "And the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Ezekiel 6:2",
+             "verseNumber":  2,
+             "scripture":  "Son of man, set your face toward the mountains of Israel, and prophesy against them,"
+        },
+        {
+            "reference":  "Ezekiel 6:3",
+             "verseNumber":  3,
+             "scripture":  "And say, All of you mountains of Israel, hear the word of the Lord GOD; Thus says the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places."
+        },
+        {
+            "reference":  "Ezekiel 6:4",
+             "verseNumber":  4,
+             "scripture":  "And your altars shall be desolate, and your images shall be broken: and I will cast down your slain men before your idols."
+        },
+        {
+            "reference":  "Ezekiel 6:5",
+             "verseNumber":  5,
+             "scripture":  "And I will lay the dead carcasses of the children of Israel before their idols; and I will scatter your bones round about your altars."
+        },
+        {
+            "reference":  "Ezekiel 6:6",
+             "verseNumber":  6,
+             "scripture":  "In all your dwelling places the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished."
+        },
+        {
+            "reference":  "Ezekiel 6:7",
+             "verseNumber":  7,
+             "scripture":  "And the slain shall fall in the midst of you, and all of you shall know that I am the LORD."
+        },
+        {
+            "reference":  "Ezekiel 6:8",
+             "verseNumber":  8,
+             "scripture":  "Yet will I leave a remnant, that all of you may have some that shall escape the sword among the nations, when all of you shall be scattered through the countries."
+        },
+        {
+            "reference":  "Ezekiel 6:9",
+             "verseNumber":  9,
+             "scripture":  "And they that escape of you shall remember me among the nations where they shall be carried captives, because I am broken with their whorish heart, which has departed from me, and with their eyes, which go a whoring after their idols: and they shall loathe themselves for the evils which they have committed in all their abominations."
+        },
+        {
+            "reference":  "Ezekiel 6:10",
+             "verseNumber":  10,
+             "scripture":  "And they shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them."
+        },
+        {
+            "reference":  "Ezekiel 6:11",
+             "verseNumber":  11,
+             "scripture":  "Thus says the Lord GOD; Strike with yours hand, and stamp with your foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence."
+        },
+        {
+            "reference":  "Ezekiel 6:12",
+             "verseNumber":  12,
+             "scripture":  "He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remains and is besieged shall die by the famine: thus will I accomplish my fury upon them."
+        },
+        {
+            "reference":  "Ezekiel 6:13",
+             "verseNumber":  13,
+             "scripture":  "Then shall all of you know that I am the LORD, when their slain men shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols."
+        },
+        {
+            "reference":  "Ezekiel 6:14",
+             "verseNumber":  14,
+             "scripture":  "So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the LORD."
+        }
+    ]
+}

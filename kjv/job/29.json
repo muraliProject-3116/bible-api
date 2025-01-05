@@ -1,1 +1,140 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 29, "verses": [{"reference": "Job 29:1", "verseNumber": 1, "scripture": "Moreover Job continued his parable, and said,"},{"reference": "Job 29:2", "verseNumber": 2, "scripture": "Oh that I were as in months past, as in the days when God preserved me;"},{"reference": "Job 29:3", "verseNumber": 3, "scripture": "When his candle shined upon my head, and when by his light I walked through darkness;"},{"reference": "Job 29:4", "verseNumber": 4, "scripture": "As I was in the days of my youth, when the secret of God was upon my tabernacle;"},{"reference": "Job 29:5", "verseNumber": 5, "scripture": "When the Almighty was yet with me, when my children were about me;"},{"reference": "Job 29:6", "verseNumber": 6, "scripture": "When I washed my steps with butter, and the rock poured me out rivers of oil;"},{"reference": "Job 29:7", "verseNumber": 7, "scripture": "When I went out to the gate through the city, when I prepared my seat in the street!"},{"reference": "Job 29:8", "verseNumber": 8, "scripture": "The young men saw me, and hid themselves: and the aged arose, and stood up."},{"reference": "Job 29:9", "verseNumber": 9, "scripture": "The princes refrained talking, and laid their hand on their mouth."},{"reference": "Job 29:10", "verseNumber": 10, "scripture": "The nobles held their peace, and their tongue cleaved to the roof of their mouth."},{"reference": "Job 29:11", "verseNumber": 11, "scripture": "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:"},{"reference": "Job 29:12", "verseNumber": 12, "scripture": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him."},{"reference": "Job 29:13", "verseNumber": 13, "scripture": "The blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy."},{"reference": "Job 29:14", "verseNumber": 14, "scripture": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem."},{"reference": "Job 29:15", "verseNumber": 15, "scripture": "I was eyes to the blind, and feet was I to the lame."},{"reference": "Job 29:16", "verseNumber": 16, "scripture": "I was a father to the poor: and the cause which I knew not I searched out."},{"reference": "Job 29:17", "verseNumber": 17, "scripture": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth."},{"reference": "Job 29:18", "verseNumber": 18, "scripture": "Then I said, I shall die in my nest, and I shall multiply my days as the sand."},{"reference": "Job 29:19", "verseNumber": 19, "scripture": "My root was spread out by the waters, and the dew lay all night upon my branch."},{"reference": "Job 29:20", "verseNumber": 20, "scripture": "My glory was fresh in me, and my bow was renewed in my hand."},{"reference": "Job 29:21", "verseNumber": 21, "scripture": "Unto me men gave ear, and waited, and kept silence at my counsel."},{"reference": "Job 29:22", "verseNumber": 22, "scripture": "After my words they spoke not again; and my speech dropped upon them."},{"reference": "Job 29:23", "verseNumber": 23, "scripture": "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain."},{"reference": "Job 29:24", "verseNumber": 24, "scripture": "If I laughed on them, they believed it not; and the light of my countenance they cast not down."},{"reference": "Job 29:25", "verseNumber": 25, "scripture": "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforts the mourners."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  29,
+     "verses":  [
+        {
+            "reference":  "Job 29:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover Job continued his parable, and said,"
+        },
+        {
+            "reference":  "Job 29:2",
+             "verseNumber":  2,
+             "scripture":  "Oh that I were as in months past, as in the days when God preserved me;"
+        },
+        {
+            "reference":  "Job 29:3",
+             "verseNumber":  3,
+             "scripture":  "When his candle shined upon my head, and when by his light I walked through darkness;"
+        },
+        {
+            "reference":  "Job 29:4",
+             "verseNumber":  4,
+             "scripture":  "As I was in the days of my youth, when the secret of God was upon my tabernacle;"
+        },
+        {
+            "reference":  "Job 29:5",
+             "verseNumber":  5,
+             "scripture":  "When the Almighty was yet with me, when my children were about me;"
+        },
+        {
+            "reference":  "Job 29:6",
+             "verseNumber":  6,
+             "scripture":  "When I washed my steps with butter, and the rock poured me out rivers of oil;"
+        },
+        {
+            "reference":  "Job 29:7",
+             "verseNumber":  7,
+             "scripture":  "When I went out to the gate through the city, when I prepared my seat in the street!"
+        },
+        {
+            "reference":  "Job 29:8",
+             "verseNumber":  8,
+             "scripture":  "The young men saw me, and hid themselves: and the aged arose, and stood up."
+        },
+        {
+            "reference":  "Job 29:9",
+             "verseNumber":  9,
+             "scripture":  "The princes refrained talking, and laid their hand on their mouth."
+        },
+        {
+            "reference":  "Job 29:10",
+             "verseNumber":  10,
+             "scripture":  "The nobles held their peace, and their tongue cleaved to the roof of their mouth."
+        },
+        {
+            "reference":  "Job 29:11",
+             "verseNumber":  11,
+             "scripture":  "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:"
+        },
+        {
+            "reference":  "Job 29:12",
+             "verseNumber":  12,
+             "scripture":  "Because I delivered the poor that cried, and the fatherless, and him that had none to help him."
+        },
+        {
+            "reference":  "Job 29:13",
+             "verseNumber":  13,
+             "scripture":  "The blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy."
+        },
+        {
+            "reference":  "Job 29:14",
+             "verseNumber":  14,
+             "scripture":  "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem."
+        },
+        {
+            "reference":  "Job 29:15",
+             "verseNumber":  15,
+             "scripture":  "I was eyes to the blind, and feet was I to the lame."
+        },
+        {
+            "reference":  "Job 29:16",
+             "verseNumber":  16,
+             "scripture":  "I was a father to the poor: and the cause which I knew not I searched out."
+        },
+        {
+            "reference":  "Job 29:17",
+             "verseNumber":  17,
+             "scripture":  "And I brake the jaws of the wicked, and plucked the spoil out of his teeth."
+        },
+        {
+            "reference":  "Job 29:18",
+             "verseNumber":  18,
+             "scripture":  "Then I said, I shall die in my nest, and I shall multiply my days as the sand."
+        },
+        {
+            "reference":  "Job 29:19",
+             "verseNumber":  19,
+             "scripture":  "My root was spread out by the waters, and the dew lay all night upon my branch."
+        },
+        {
+            "reference":  "Job 29:20",
+             "verseNumber":  20,
+             "scripture":  "My glory was fresh in me, and my bow was renewed in my hand."
+        },
+        {
+            "reference":  "Job 29:21",
+             "verseNumber":  21,
+             "scripture":  "Unto me men gave ear, and waited, and kept silence at my counsel."
+        },
+        {
+            "reference":  "Job 29:22",
+             "verseNumber":  22,
+             "scripture":  "After my words they spoke not again; and my speech dropped upon them."
+        },
+        {
+            "reference":  "Job 29:23",
+             "verseNumber":  23,
+             "scripture":  "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain."
+        },
+        {
+            "reference":  "Job 29:24",
+             "verseNumber":  24,
+             "scripture":  "If I laughed on them, they believed it not; and the light of my countenance they cast not down."
+        },
+        {
+            "reference":  "Job 29:25",
+             "verseNumber":  25,
+             "scripture":  "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforts the mourners."
+        }
+    ]
+}

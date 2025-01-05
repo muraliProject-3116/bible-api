@@ -1,1 +1,100 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 54, "verses": [{"reference": "Isaiah 54:1", "verseNumber": 1, "scripture": "Sing, O barren, you that did not bear; break forth into singing, and cry aloud, you that did not travail with child: for more are the children of the desolate than the children of the married wife, says the LORD."},{"reference": "Isaiah 54:2", "verseNumber": 2, "scripture": "Enlarge the place of your tent, and let them stretch forth the curtains of yours habitations: spare not, lengthen your cords, and strengthen your stakes;"},{"reference": "Isaiah 54:3", "verseNumber": 3, "scripture": "For you shall break forth on the right hand and on the left; and your seed shall inherit the Gentiles, and make the desolate cities to be inhabited."},{"reference": "Isaiah 54:4", "verseNumber": 4, "scripture": "Fear not; for you shall not be ashamed: neither be you confounded; for you shall not be put to shame: for you shall forget the shame of your youth, and shall not remember the reproach of your widowhood any more."},{"reference": "Isaiah 54:5", "verseNumber": 5, "scripture": "For your Maker is yours husband; the LORD of hosts is his name; and your Redeemer the Holy One of Israel; The God of the whole earth shall he be called."},{"reference": "Isaiah 54:6", "verseNumber": 6, "scripture": "For the LORD has called you as a woman forsaken and grieved in spirit, and a wife of youth, when you were refused, says your God."},{"reference": "Isaiah 54:7", "verseNumber": 7, "scripture": "For a small moment have I forsaken you; but with great mercies will I gather you."},{"reference": "Isaiah 54:8", "verseNumber": 8, "scripture": "In a little wrath I hid my face from you for a moment; but with everlasting kindness will I have mercy on you, says the LORD your Redeemer."},{"reference": "Isaiah 54:9", "verseNumber": 9, "scripture": "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be angry with you, nor rebuke you."},{"reference": "Isaiah 54:10", "verseNumber": 10, "scripture": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from you, neither shall the covenant of my peace be removed, says the LORD that has mercy on you."},{"reference": "Isaiah 54:11", "verseNumber": 11, "scripture": "O you afflicted, tossed with tempest, and not comforted, behold, I will lay your stones with fair colours, and lay your foundations with sapphires."},{"reference": "Isaiah 54:12", "verseNumber": 12, "scripture": "And I will make your windows of agates, and your gates of carbuncles, and all your borders of pleasant stones."},{"reference": "Isaiah 54:13", "verseNumber": 13, "scripture": "And all your children shall be taught of the LORD; and great shall be the peace of your children."},{"reference": "Isaiah 54:14", "verseNumber": 14, "scripture": "In righteousness shall you be established: you shall be far from oppression; for you shall not fear: and from terror; for it shall not come near you."},{"reference": "Isaiah 54:15", "verseNumber": 15, "scripture": "Behold, they shall surely gather together, but not by me: whosoever shall gather together against you shall fall for your sake."},{"reference": "Isaiah 54:16", "verseNumber": 16, "scripture": "Behold, I have created the smith that blows the coals in the fire, and that brings forth an instrument for his work; and I have created the destroyer to destroy."},{"reference": "Isaiah 54:17", "verseNumber": 17, "scripture": "No weapon that is formed against you shall prosper; and every tongue that shall rise against you in judgment you shall condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, says the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  54,
+     "verses":  [
+        {
+            "reference":  "Isaiah 54:1",
+             "verseNumber":  1,
+             "scripture":  "Sing, O barren, you that did not bear; break forth into singing, and cry aloud, you that did not travail with child: for more are the children of the desolate than the children of the married wife, says the LORD."
+        },
+        {
+            "reference":  "Isaiah 54:2",
+             "verseNumber":  2,
+             "scripture":  "Enlarge the place of your tent, and let them stretch forth the curtains of yours habitations: spare not, lengthen your cords, and strengthen your stakes;"
+        },
+        {
+            "reference":  "Isaiah 54:3",
+             "verseNumber":  3,
+             "scripture":  "For you shall break forth on the right hand and on the left; and your seed shall inherit the Gentiles, and make the desolate cities to be inhabited."
+        },
+        {
+            "reference":  "Isaiah 54:4",
+             "verseNumber":  4,
+             "scripture":  "Fear not; for you shall not be ashamed: neither be you confounded; for you shall not be put to shame: for you shall forget the shame of your youth, and shall not remember the reproach of your widowhood any more."
+        },
+        {
+            "reference":  "Isaiah 54:5",
+             "verseNumber":  5,
+             "scripture":  "For your Maker is yours husband; the LORD of hosts is his name; and your Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
+        },
+        {
+            "reference":  "Isaiah 54:6",
+             "verseNumber":  6,
+             "scripture":  "For the LORD has called you as a woman forsaken and grieved in spirit, and a wife of youth, when you were refused, says your God."
+        },
+        {
+            "reference":  "Isaiah 54:7",
+             "verseNumber":  7,
+             "scripture":  "For a small moment have I forsaken you; but with great mercies will I gather you."
+        },
+        {
+            "reference":  "Isaiah 54:8",
+             "verseNumber":  8,
+             "scripture":  "In a little wrath I hid my face from you for a moment; but with everlasting kindness will I have mercy on you, says the LORD your Redeemer."
+        },
+        {
+            "reference":  "Isaiah 54:9",
+             "verseNumber":  9,
+             "scripture":  "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be angry with you, nor rebuke you."
+        },
+        {
+            "reference":  "Isaiah 54:10",
+             "verseNumber":  10,
+             "scripture":  "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from you, neither shall the covenant of my peace be removed, says the LORD that has mercy on you."
+        },
+        {
+            "reference":  "Isaiah 54:11",
+             "verseNumber":  11,
+             "scripture":  "O you afflicted, tossed with tempest, and not comforted, behold, I will lay your stones with fair colours, and lay your foundations with sapphires."
+        },
+        {
+            "reference":  "Isaiah 54:12",
+             "verseNumber":  12,
+             "scripture":  "And I will make your windows of agates, and your gates of carbuncles, and all your borders of pleasant stones."
+        },
+        {
+            "reference":  "Isaiah 54:13",
+             "verseNumber":  13,
+             "scripture":  "And all your children shall be taught of the LORD; and great shall be the peace of your children."
+        },
+        {
+            "reference":  "Isaiah 54:14",
+             "verseNumber":  14,
+             "scripture":  "In righteousness shall you be established: you shall be far from oppression; for you shall not fear: and from terror; for it shall not come near you."
+        },
+        {
+            "reference":  "Isaiah 54:15",
+             "verseNumber":  15,
+             "scripture":  "Behold, they shall surely gather together, but not by me: whosoever shall gather together against you shall fall for your sake."
+        },
+        {
+            "reference":  "Isaiah 54:16",
+             "verseNumber":  16,
+             "scripture":  "Behold, I have created the smith that blows the coals in the fire, and that brings forth an instrument for his work; and I have created the destroyer to destroy."
+        },
+        {
+            "reference":  "Isaiah 54:17",
+             "verseNumber":  17,
+             "scripture":  "No weapon that is formed against you shall prosper; and every tongue that shall rise against you in judgment you shall condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, says the LORD."
+        }
+    ]
+}

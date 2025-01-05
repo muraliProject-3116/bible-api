@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Lamentations", "bookAbbreviation": "Lam", "chapterNumber": 4, "verses": [{"reference": "Lamentations 4:1", "verseNumber": 1, "scripture": "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street."},{"reference": "Lamentations 4:2", "verseNumber": 2, "scripture": "The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!"},{"reference": "Lamentations 4:3", "verseNumber": 3, "scripture": "Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness."},{"reference": "Lamentations 4:4", "verseNumber": 4, "scripture": "The tongue of the nursing infant cleaves to the roof of his mouth for thirst: the young children ask bread, and no man breaks it unto them."},{"reference": "Lamentations 4:5", "verseNumber": 5, "scripture": "They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills."},{"reference": "Lamentations 4:6", "verseNumber": 6, "scripture": "For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her."},{"reference": "Lamentations 4:7", "verseNumber": 7, "scripture": "Her Nazarites were purer than snow, they were whiter than milk, they were more rosy in body than rubies, their polishing was of sapphire:"},{"reference": "Lamentations 4:8", "verseNumber": 8, "scripture": "Their visage is blacker than a coal; they are not known in the streets: their skin cleaves to their bones; it is withered, it is become like a stick."},{"reference": "Lamentations 4:9", "verseNumber": 9, "scripture": "They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for lack of the fruits of the field."},{"reference": "Lamentations 4:10", "verseNumber": 10, "scripture": "The hands of the pitiful women have sodden their own children: they were their food in the destruction of the daughter of my people."},{"reference": "Lamentations 4:11", "verseNumber": 11, "scripture": "The LORD has accomplished his fury; he has poured out his fierce anger, and has kindled a fire in Zion, and it has devoured the foundations thereof."},{"reference": "Lamentations 4:12", "verseNumber": 12, "scripture": "The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem."},{"reference": "Lamentations 4:13", "verseNumber": 13, "scripture": "For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,"},{"reference": "Lamentations 4:14", "verseNumber": 14, "scripture": "They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments."},{"reference": "Lamentations 4:15", "verseNumber": 15, "scripture": "They cried unto them, Depart all of you; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there."},{"reference": "Lamentations 4:16", "verseNumber": 16, "scripture": "The anger of the LORD has divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders."},{"reference": "Lamentations 4:17", "verseNumber": 17, "scripture": "As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us."},{"reference": "Lamentations 4:18", "verseNumber": 18, "scripture": "They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end has come."},{"reference": "Lamentations 4:19", "verseNumber": 19, "scripture": "Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness."},{"reference": "Lamentations 4:20", "verseNumber": 20, "scripture": "The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen."},{"reference": "Lamentations 4:21", "verseNumber": 21, "scripture": "Rejoice and be glad, O daughter of Edom, that dwell in the land of Uz; the cup also shall pass through unto you: you shall be drunken, and shall make yourself naked."},{"reference": "Lamentations 4:22", "verseNumber": 22, "scripture": "The punishment of yours iniquity is accomplished, O daughter of Zion; he will no more carry you away into captivity: he will visit yours iniquity, O daughter of Edom; he will discover your sins."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Lamentations",
+     "bookAbbreviation":  "Lam",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Lamentations 4:1",
+             "verseNumber":  1,
+             "scripture":  "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street."
+        },
+        {
+            "reference":  "Lamentations 4:2",
+             "verseNumber":  2,
+             "scripture":  "The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!"
+        },
+        {
+            "reference":  "Lamentations 4:3",
+             "verseNumber":  3,
+             "scripture":  "Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness."
+        },
+        {
+            "reference":  "Lamentations 4:4",
+             "verseNumber":  4,
+             "scripture":  "The tongue of the nursing infant cleaves to the roof of his mouth for thirst: the young children ask bread, and no man breaks it unto them."
+        },
+        {
+            "reference":  "Lamentations 4:5",
+             "verseNumber":  5,
+             "scripture":  "They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills."
+        },
+        {
+            "reference":  "Lamentations 4:6",
+             "verseNumber":  6,
+             "scripture":  "For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her."
+        },
+        {
+            "reference":  "Lamentations 4:7",
+             "verseNumber":  7,
+             "scripture":  "Her Nazarites were purer than snow, they were whiter than milk, they were more rosy in body than rubies, their polishing was of sapphire:"
+        },
+        {
+            "reference":  "Lamentations 4:8",
+             "verseNumber":  8,
+             "scripture":  "Their visage is blacker than a coal; they are not known in the streets: their skin cleaves to their bones; it is withered, it is become like a stick."
+        },
+        {
+            "reference":  "Lamentations 4:9",
+             "verseNumber":  9,
+             "scripture":  "They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for lack of the fruits of the field."
+        },
+        {
+            "reference":  "Lamentations 4:10",
+             "verseNumber":  10,
+             "scripture":  "The hands of the pitiful women have sodden their own children: they were their food in the destruction of the daughter of my people."
+        },
+        {
+            "reference":  "Lamentations 4:11",
+             "verseNumber":  11,
+             "scripture":  "The LORD has accomplished his fury; he has poured out his fierce anger, and has kindled a fire in Zion, and it has devoured the foundations thereof."
+        },
+        {
+            "reference":  "Lamentations 4:12",
+             "verseNumber":  12,
+             "scripture":  "The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem."
+        },
+        {
+            "reference":  "Lamentations 4:13",
+             "verseNumber":  13,
+             "scripture":  "For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,"
+        },
+        {
+            "reference":  "Lamentations 4:14",
+             "verseNumber":  14,
+             "scripture":  "They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments."
+        },
+        {
+            "reference":  "Lamentations 4:15",
+             "verseNumber":  15,
+             "scripture":  "They cried unto them, Depart all of you; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there."
+        },
+        {
+            "reference":  "Lamentations 4:16",
+             "verseNumber":  16,
+             "scripture":  "The anger of the LORD has divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders."
+        },
+        {
+            "reference":  "Lamentations 4:17",
+             "verseNumber":  17,
+             "scripture":  "As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us."
+        },
+        {
+            "reference":  "Lamentations 4:18",
+             "verseNumber":  18,
+             "scripture":  "They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end has come."
+        },
+        {
+            "reference":  "Lamentations 4:19",
+             "verseNumber":  19,
+             "scripture":  "Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness."
+        },
+        {
+            "reference":  "Lamentations 4:20",
+             "verseNumber":  20,
+             "scripture":  "The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen."
+        },
+        {
+            "reference":  "Lamentations 4:21",
+             "verseNumber":  21,
+             "scripture":  "Rejoice and be glad, O daughter of Edom, that dwell in the land of Uz; the cup also shall pass through unto you: you shall be drunken, and shall make yourself naked."
+        },
+        {
+            "reference":  "Lamentations 4:22",
+             "verseNumber":  22,
+             "scripture":  "The punishment of yours iniquity is accomplished, O daughter of Zion; he will no more carry you away into captivity: he will visit yours iniquity, O daughter of Edom; he will discover your sins."
+        }
+    ]
+}

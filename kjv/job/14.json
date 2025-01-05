@@ -1,1 +1,125 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 14, "verses": [{"reference": "Job 14:1", "verseNumber": 1, "scripture": "Man that is born of a woman is of few days and full of trouble."},{"reference": "Job 14:2", "verseNumber": 2, "scripture": "He comes forth like a flower, and is cut down: he flees also as a shadow, and continues not."},{"reference": "Job 14:3", "verseNumber": 3, "scripture": "And does you open yours eyes upon such an one, and bring me into judgment with you?"},{"reference": "Job 14:4", "verseNumber": 4, "scripture": "Who can bring a clean thing out of an unclean? not one."},{"reference": "Job 14:5", "verseNumber": 5, "scripture": "Seeing his days are determined, the number of his months are with you, you have appointed his bounds that he cannot pass;"},{"reference": "Job 14:6", "verseNumber": 6, "scripture": "Turn from him, that he may rest, till he shall accomplish, as a worker, his day."},{"reference": "Job 14:7", "verseNumber": 7, "scripture": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."},{"reference": "Job 14:8", "verseNumber": 8, "scripture": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;"},{"reference": "Job 14:9", "verseNumber": 9, "scripture": "Yet through the scent of water it will bud, and bring forth boughs like a plant."},{"reference": "Job 14:10", "verseNumber": 10, "scripture": "But man dies, and wastes away: yea, man gives up the spirit, and where is he?"},{"reference": "Job 14:11", "verseNumber": 11, "scripture": "As the waters fail from the sea, and the flood decays and dries up:"},{"reference": "Job 14:12", "verseNumber": 12, "scripture": "So man lies down, and rises not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."},{"reference": "Job 14:13", "verseNumber": 13, "scripture": "O that you would hide me in the grave, that you would keep me secret, until your wrath be past, that you would appoint me a set time, and remember me!"},{"reference": "Job 14:14", "verseNumber": 14, "scripture": "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come."},{"reference": "Job 14:15", "verseNumber": 15, "scripture": "You shall call, and I will answer you: you will have a desire to the work of yours hands."},{"reference": "Job 14:16", "verseNumber": 16, "scripture": "For now you number my steps: do you not watch over my sin?"},{"reference": "Job 14:17", "verseNumber": 17, "scripture": "My transgression is sealed up in a bag, and you sew up mine iniquity."},{"reference": "Job 14:18", "verseNumber": 18, "scripture": "And surely the mountains falling comes to nothing, and the rock is removed out of his place."},{"reference": "Job 14:19", "verseNumber": 19, "scripture": "The waters wear the stones: you wash away the things which grow out of the dust of the earth; and you destroys the hope of man."},{"reference": "Job 14:20", "verseNumber": 20, "scripture": "You prevail for ever against him, and he passes: you change his countenance, and send him away."},{"reference": "Job 14:21", "verseNumber": 21, "scripture": "His sons come to honour, and he knows it not; and they are brought low, but he perceives it not of them."},{"reference": "Job 14:22", "verseNumber": 22, "scripture": "But his flesh upon him shall have pain, and his soul within him shall mourn."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  14,
+     "verses":  [
+        {
+            "reference":  "Job 14:1",
+             "verseNumber":  1,
+             "scripture":  "Man that is born of a woman is of few days and full of trouble."
+        },
+        {
+            "reference":  "Job 14:2",
+             "verseNumber":  2,
+             "scripture":  "He comes forth like a flower, and is cut down: he flees also as a shadow, and continues not."
+        },
+        {
+            "reference":  "Job 14:3",
+             "verseNumber":  3,
+             "scripture":  "And does you open yours eyes upon such an one, and bring me into judgment with you?"
+        },
+        {
+            "reference":  "Job 14:4",
+             "verseNumber":  4,
+             "scripture":  "Who can bring a clean thing out of an unclean? not one."
+        },
+        {
+            "reference":  "Job 14:5",
+             "verseNumber":  5,
+             "scripture":  "Seeing his days are determined, the number of his months are with you, you have appointed his bounds that he cannot pass;"
+        },
+        {
+            "reference":  "Job 14:6",
+             "verseNumber":  6,
+             "scripture":  "Turn from him, that he may rest, till he shall accomplish, as a worker, his day."
+        },
+        {
+            "reference":  "Job 14:7",
+             "verseNumber":  7,
+             "scripture":  "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."
+        },
+        {
+            "reference":  "Job 14:8",
+             "verseNumber":  8,
+             "scripture":  "Though the root thereof wax old in the earth, and the stock thereof die in the ground;"
+        },
+        {
+            "reference":  "Job 14:9",
+             "verseNumber":  9,
+             "scripture":  "Yet through the scent of water it will bud, and bring forth boughs like a plant."
+        },
+        {
+            "reference":  "Job 14:10",
+             "verseNumber":  10,
+             "scripture":  "But man dies, and wastes away: yea, man gives up the spirit, and where is he?"
+        },
+        {
+            "reference":  "Job 14:11",
+             "verseNumber":  11,
+             "scripture":  "As the waters fail from the sea, and the flood decays and dries up:"
+        },
+        {
+            "reference":  "Job 14:12",
+             "verseNumber":  12,
+             "scripture":  "So man lies down, and rises not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."
+        },
+        {
+            "reference":  "Job 14:13",
+             "verseNumber":  13,
+             "scripture":  "O that you would hide me in the grave, that you would keep me secret, until your wrath be past, that you would appoint me a set time, and remember me!"
+        },
+        {
+            "reference":  "Job 14:14",
+             "verseNumber":  14,
+             "scripture":  "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come."
+        },
+        {
+            "reference":  "Job 14:15",
+             "verseNumber":  15,
+             "scripture":  "You shall call, and I will answer you: you will have a desire to the work of yours hands."
+        },
+        {
+            "reference":  "Job 14:16",
+             "verseNumber":  16,
+             "scripture":  "For now you number my steps: do you not watch over my sin?"
+        },
+        {
+            "reference":  "Job 14:17",
+             "verseNumber":  17,
+             "scripture":  "My transgression is sealed up in a bag, and you sew up mine iniquity."
+        },
+        {
+            "reference":  "Job 14:18",
+             "verseNumber":  18,
+             "scripture":  "And surely the mountains falling comes to nothing, and the rock is removed out of his place."
+        },
+        {
+            "reference":  "Job 14:19",
+             "verseNumber":  19,
+             "scripture":  "The waters wear the stones: you wash away the things which grow out of the dust of the earth; and you destroys the hope of man."
+        },
+        {
+            "reference":  "Job 14:20",
+             "verseNumber":  20,
+             "scripture":  "You prevail for ever against him, and he passes: you change his countenance, and send him away."
+        },
+        {
+            "reference":  "Job 14:21",
+             "verseNumber":  21,
+             "scripture":  "His sons come to honour, and he knows it not; and they are brought low, but he perceives it not of them."
+        },
+        {
+            "reference":  "Job 14:22",
+             "verseNumber":  22,
+             "scripture":  "But his flesh upon him shall have pain, and his soul within him shall mourn."
+        }
+    ]
+}

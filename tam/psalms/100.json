@@ -1,1 +1,40 @@
-﻿{"bibleVersion": "TAM", "bibleLanguage": "Tamil", "fullBibleName": "பரிசுத்த வேதாகமம் O.V. (2017)", "description": "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.", "scriptureSection": "பழைய ஏற்பாடு", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Bible Society of India", "bibleTextSource": "Internet", "bookName": "சங்கீதம்", "bookAbbreviation": "சங்", "chapterNumber": 100, "verses": [{"reference": "சங்கீதம் 100:1", "verseNumber": 1, "scripture": "பூமியின் குடிகளே, எல்லாரும் கர்த்தரைக் கெம்பீரமாய்ப் பாடுங்கள்."},{"reference": "சங்கீதம் 100:2", "verseNumber": 2, "scripture": "மகிழ்ச்சியோடே கர்த்தருக்கு ஆராதனைசெய்து, ஆனந்தசத்தத்தோடே அவர் சந்நிதிமுன் வாருங்கள்."},{"reference": "சங்கீதம் 100:3", "verseNumber": 3, "scripture": "கர்த்தரே தேவனென்று அறியுங்கள்; நாம் அல்ல, அவரே நம்மை உண்டாக்கினார்; நாம் அவர் ஜனங்களும், அவர் மேய்ச்சலின் ஆடுகளுமாயிருக்கிறோம்."},{"reference": "சங்கீதம் 100:4", "verseNumber": 4, "scripture": "அவர் வாசல்களில் துதியோடும், அவர் பிராகாரங்களில் புகழ்ச்சியோடும் பிரவேசித்து, அவரைத் துதித்து, அவருடைய நாமத்தை ஸ்தோத்திரியுங்கள்."},{"reference": "சங்கீதம் 100:5", "verseNumber": 5, "scripture": "கர்த்தர் நல்லவர், அவருடைய கிருபை என்றென்றைக்கும், அவருடைய உண்மை தலைமுறை தலைமுறைக்கும் உள்ளது."}]}
+﻿{
+    "bibleVersion":  "TAM",
+     "bibleLanguage":  "Tamil",
+     "fullBibleName":  "பரிசுத்த வேதாகமம் O.V. (2017)",
+     "description":  "Bible Old Version in the Tamil language, published by Bible Society of India in 2017.",
+     "scriptureSection":  "பழைய ஏற்பாடு",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Bible Society of India",
+     "bibleTextSource":  "Internet",
+     "bookName":  "சங்கீதம்",
+     "bookAbbreviation":  "சங்",
+     "chapterNumber":  100,
+     "verses":  [
+        {
+            "reference":  "சங்கீதம் 100:1",
+             "verseNumber":  1,
+             "scripture":  "பூமியின் குடிகளே, எல்லாரும் கர்த்தரைக் கெம்பீரமாய்ப் பாடுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 100:2",
+             "verseNumber":  2,
+             "scripture":  "மகிழ்ச்சியோடே கர்த்தருக்கு ஆராதனைசெய்து, ஆனந்தசத்தத்தோடே அவர் சந்நிதிமுன் வாருங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 100:3",
+             "verseNumber":  3,
+             "scripture":  "கர்த்தரே தேவனென்று அறியுங்கள்; நாம் அல்ல, அவரே நம்மை உண்டாக்கினார்; நாம் அவர் ஜனங்களும், அவர் மேய்ச்சலின் ஆடுகளுமாயிருக்கிறோம்."
+        },
+        {
+            "reference":  "சங்கீதம் 100:4",
+             "verseNumber":  4,
+             "scripture":  "அவர் வாசல்களில் துதியோடும், அவர் பிராகாரங்களில் புகழ்ச்சியோடும் பிரவேசித்து, அவரைத் துதித்து, அவருடைய நாமத்தை ஸ்தோத்திரியுங்கள்."
+        },
+        {
+            "reference":  "சங்கீதம் 100:5",
+             "verseNumber":  5,
+             "scripture":  "கர்த்தர் நல்லவர், அவருடைய கிருபை என்றென்றைக்கும், அவருடைய உண்மை தலைமுறை தலைமுறைக்கும் உள்ளது."
+        }
+    ]
+}

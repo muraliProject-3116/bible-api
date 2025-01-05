@@ -1,1 +1,110 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Chronicles", "bookAbbreviation": "1 Chr", "chapterNumber": 22, "verses": [{"reference": "1 Chronicles 22:1", "verseNumber": 1, "scripture": "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel."},{"reference": "1 Chronicles 22:2", "verseNumber": 2, "scripture": "And David commanded to gather together the strangers that were in the land of Israel; and he set stone workers to hew wrought stones to build the house of God."},{"reference": "1 Chronicles 22:3", "verseNumber": 3, "scripture": "And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;"},{"reference": "1 Chronicles 22:4", "verseNumber": 4, "scripture": "Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David."},{"reference": "1 Chronicles 22:5", "verseNumber": 5, "scripture": "And David said, Solomon my son is young and tender, and the house that is to be built for the LORD must be exceedingly magnificent, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death."},{"reference": "1 Chronicles 22:6", "verseNumber": 6, "scripture": "Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel."},{"reference": "1 Chronicles 22:7", "verseNumber": 7, "scripture": "And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:"},{"reference": "1 Chronicles 22:8", "verseNumber": 8, "scripture": "But the word of the LORD came to me, saying, You have shed blood abundantly, and have made great wars: you shall not build an house unto my name, because you have shed much blood upon the earth in my sight."},{"reference": "1 Chronicles 22:9", "verseNumber": 9, "scripture": "Behold, a son shall be born to you, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days."},{"reference": "1 Chronicles 22:10", "verseNumber": 10, "scripture": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever."},{"reference": "1 Chronicles 22:11", "verseNumber": 11, "scripture": "Now, my son, the LORD be with you; and prosper you, and build the house of the LORD your God, as he has said of you."},{"reference": "1 Chronicles 22:12", "verseNumber": 12, "scripture": "Only the LORD give you wisdom and understanding, and give you charge concerning Israel, that you may keep the law of the LORD your God."},{"reference": "1 Chronicles 22:13", "verseNumber": 13, "scripture": "Then shall you prosper, if you take heed to fulfill the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed."},{"reference": "1 Chronicles 22:14", "verseNumber": 14, "scripture": "Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add thereto."},{"reference": "1 Chronicles 22:15", "verseNumber": 15, "scripture": "Moreover there are workmen with you in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work."},{"reference": "1 Chronicles 22:16", "verseNumber": 16, "scripture": "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with you."},{"reference": "1 Chronicles 22:17", "verseNumber": 17, "scripture": "David also commanded all the princes of Israel to help Solomon his son, saying,"},{"reference": "1 Chronicles 22:18", "verseNumber": 18, "scripture": "Is not the LORD your God with you? and has he not given you rest on every side? for he has given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people."},{"reference": "1 Chronicles 22:19", "verseNumber": 19, "scripture": "Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Chronicles",
+     "bookAbbreviation":  "1 Chr",
+     "chapterNumber":  22,
+     "verses":  [
+        {
+            "reference":  "1 Chronicles 22:1",
+             "verseNumber":  1,
+             "scripture":  "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel."
+        },
+        {
+            "reference":  "1 Chronicles 22:2",
+             "verseNumber":  2,
+             "scripture":  "And David commanded to gather together the strangers that were in the land of Israel; and he set stone workers to hew wrought stones to build the house of God."
+        },
+        {
+            "reference":  "1 Chronicles 22:3",
+             "verseNumber":  3,
+             "scripture":  "And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;"
+        },
+        {
+            "reference":  "1 Chronicles 22:4",
+             "verseNumber":  4,
+             "scripture":  "Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David."
+        },
+        {
+            "reference":  "1 Chronicles 22:5",
+             "verseNumber":  5,
+             "scripture":  "And David said, Solomon my son is young and tender, and the house that is to be built for the LORD must be exceedingly magnificent, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death."
+        },
+        {
+            "reference":  "1 Chronicles 22:6",
+             "verseNumber":  6,
+             "scripture":  "Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel."
+        },
+        {
+            "reference":  "1 Chronicles 22:7",
+             "verseNumber":  7,
+             "scripture":  "And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:"
+        },
+        {
+            "reference":  "1 Chronicles 22:8",
+             "verseNumber":  8,
+             "scripture":  "But the word of the LORD came to me, saying, You have shed blood abundantly, and have made great wars: you shall not build an house unto my name, because you have shed much blood upon the earth in my sight."
+        },
+        {
+            "reference":  "1 Chronicles 22:9",
+             "verseNumber":  9,
+             "scripture":  "Behold, a son shall be born to you, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days."
+        },
+        {
+            "reference":  "1 Chronicles 22:10",
+             "verseNumber":  10,
+             "scripture":  "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever."
+        },
+        {
+            "reference":  "1 Chronicles 22:11",
+             "verseNumber":  11,
+             "scripture":  "Now, my son, the LORD be with you; and prosper you, and build the house of the LORD your God, as he has said of you."
+        },
+        {
+            "reference":  "1 Chronicles 22:12",
+             "verseNumber":  12,
+             "scripture":  "Only the LORD give you wisdom and understanding, and give you charge concerning Israel, that you may keep the law of the LORD your God."
+        },
+        {
+            "reference":  "1 Chronicles 22:13",
+             "verseNumber":  13,
+             "scripture":  "Then shall you prosper, if you take heed to fulfill the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed."
+        },
+        {
+            "reference":  "1 Chronicles 22:14",
+             "verseNumber":  14,
+             "scripture":  "Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and you may add thereto."
+        },
+        {
+            "reference":  "1 Chronicles 22:15",
+             "verseNumber":  15,
+             "scripture":  "Moreover there are workmen with you in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work."
+        },
+        {
+            "reference":  "1 Chronicles 22:16",
+             "verseNumber":  16,
+             "scripture":  "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with you."
+        },
+        {
+            "reference":  "1 Chronicles 22:17",
+             "verseNumber":  17,
+             "scripture":  "David also commanded all the princes of Israel to help Solomon his son, saying,"
+        },
+        {
+            "reference":  "1 Chronicles 22:18",
+             "verseNumber":  18,
+             "scripture":  "Is not the LORD your God with you? and has he not given you rest on every side? for he has given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people."
+        },
+        {
+            "reference":  "1 Chronicles 22:19",
+             "verseNumber":  19,
+             "scripture":  "Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD."
+        }
+    ]
+}

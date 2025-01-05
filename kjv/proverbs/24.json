@@ -1,1 +1,185 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Proverbs", "bookAbbreviation": "Pro", "chapterNumber": 24, "verses": [{"reference": "Proverbs 24:1", "verseNumber": 1, "scripture": "Be not you envious against evil men, neither desire to be with them."},{"reference": "Proverbs 24:2", "verseNumber": 2, "scripture": "For their heart studies destruction, and their lips talk of mischief."},{"reference": "Proverbs 24:3", "verseNumber": 3, "scripture": "Through wisdom is an house built; and by understanding it is established:"},{"reference": "Proverbs 24:4", "verseNumber": 4, "scripture": "And by knowledge shall the chambers be filled with all precious and pleasant riches."},{"reference": "Proverbs 24:5", "verseNumber": 5, "scripture": "A wise man is strong; yea, a man of knowledge increases strength."},{"reference": "Proverbs 24:6", "verseNumber": 6, "scripture": "For by wise counsel you shall make your war: and in multitude of counsellors there is safety."},{"reference": "Proverbs 24:7", "verseNumber": 7, "scripture": "Wisdom is too high for a fool: he opens not his mouth in the gate."},{"reference": "Proverbs 24:8", "verseNumber": 8, "scripture": "He that devises to do evil shall be called a mischievous person."},{"reference": "Proverbs 24:9", "verseNumber": 9, "scripture": "The thought of foolishness is sin: and the scorner is an abomination to men."},{"reference": "Proverbs 24:10", "verseNumber": 10, "scripture": "If you faint in the day of adversity, your strength is small."},{"reference": "Proverbs 24:11", "verseNumber": 11, "scripture": "If you forbear to deliver them that are drawn unto death, and those that are ready to be slain;"},{"reference": "Proverbs 24:12", "verseNumber": 12, "scripture": "If you says, Behold, we knew it not; does not he that ponders the heart consider it? and he that keeps your soul, does not he know it? and shall not he render to every man according to his works?"},{"reference": "Proverbs 24:13", "verseNumber": 13, "scripture": "My son, eat you honey, because it is good; and the honeycomb, which is sweet to your taste:"},{"reference": "Proverbs 24:14", "verseNumber": 14, "scripture": "So shall the knowledge of wisdom be unto your soul: when you have found it, then there shall be a reward, and your expectation shall not be cut off."},{"reference": "Proverbs 24:15", "verseNumber": 15, "scripture": "Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:"},{"reference": "Proverbs 24:16", "verseNumber": 16, "scripture": "For a just man falls seven times, and rises up again: but the wicked shall fall into mischief."},{"reference": "Proverbs 24:17", "verseNumber": 17, "scripture": "Rejoice not when yours enemy falls, and let not yours heart be glad when he stumbles:"},{"reference": "Proverbs 24:18", "verseNumber": 18, "scripture": "Lest the LORD see it, and it displease him, and he turn away his wrath from him."},{"reference": "Proverbs 24:19", "verseNumber": 19, "scripture": "Fret not yourself because of evil men, neither be you envious at the wicked:"},{"reference": "Proverbs 24:20", "verseNumber": 20, "scripture": "For there shall be no reward to the evil man; the candle of the wicked shall be put out."},{"reference": "Proverbs 24:21", "verseNumber": 21, "scripture": "My son, fear you the LORD and the king: and meddle not with them that are given to change:"},{"reference": "Proverbs 24:22", "verseNumber": 22, "scripture": "For their calamity shall rise suddenly; and who knows the ruin of them both?"},{"reference": "Proverbs 24:23", "verseNumber": 23, "scripture": "These things also belong to the wise. It is not good to have respect of persons in judgment."},{"reference": "Proverbs 24:24", "verseNumber": 24, "scripture": "He that says unto the wicked, You are righteous; him shall the people curse, nations shall detest him:"},{"reference": "Proverbs 24:25", "verseNumber": 25, "scripture": "But to them that rebuke him shall be delight, and a good blessing shall come upon them."},{"reference": "Proverbs 24:26", "verseNumber": 26, "scripture": "Every man shall kiss his lips that gives a right answer."},{"reference": "Proverbs 24:27", "verseNumber": 27, "scripture": "Prepare your work without, and make it fit for yourself in the field; and afterwards build yours house."},{"reference": "Proverbs 24:28", "verseNumber": 28, "scripture": "Be not a witness against your neighbour without cause; and deceive not with your lips."},{"reference": "Proverbs 24:29", "verseNumber": 29, "scripture": "Say not, I will do so to him as he has done to me: I will render to the man according to his work."},{"reference": "Proverbs 24:30", "verseNumber": 30, "scripture": "I went by the field of the slothful, and by the vineyard of the man void of understanding;"},{"reference": "Proverbs 24:31", "verseNumber": 31, "scripture": "And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down."},{"reference": "Proverbs 24:32", "verseNumber": 32, "scripture": "Then I saw, and considered it well: I looked upon it, and received instruction."},{"reference": "Proverbs 24:33", "verseNumber": 33, "scripture": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"},{"reference": "Proverbs 24:34", "verseNumber": 34, "scripture": "So shall your poverty come as one that travels; and your lack as an armed man."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Proverbs",
+     "bookAbbreviation":  "Pro",
+     "chapterNumber":  24,
+     "verses":  [
+        {
+            "reference":  "Proverbs 24:1",
+             "verseNumber":  1,
+             "scripture":  "Be not you envious against evil men, neither desire to be with them."
+        },
+        {
+            "reference":  "Proverbs 24:2",
+             "verseNumber":  2,
+             "scripture":  "For their heart studies destruction, and their lips talk of mischief."
+        },
+        {
+            "reference":  "Proverbs 24:3",
+             "verseNumber":  3,
+             "scripture":  "Through wisdom is an house built; and by understanding it is established:"
+        },
+        {
+            "reference":  "Proverbs 24:4",
+             "verseNumber":  4,
+             "scripture":  "And by knowledge shall the chambers be filled with all precious and pleasant riches."
+        },
+        {
+            "reference":  "Proverbs 24:5",
+             "verseNumber":  5,
+             "scripture":  "A wise man is strong; yea, a man of knowledge increases strength."
+        },
+        {
+            "reference":  "Proverbs 24:6",
+             "verseNumber":  6,
+             "scripture":  "For by wise counsel you shall make your war: and in multitude of counsellors there is safety."
+        },
+        {
+            "reference":  "Proverbs 24:7",
+             "verseNumber":  7,
+             "scripture":  "Wisdom is too high for a fool: he opens not his mouth in the gate."
+        },
+        {
+            "reference":  "Proverbs 24:8",
+             "verseNumber":  8,
+             "scripture":  "He that devises to do evil shall be called a mischievous person."
+        },
+        {
+            "reference":  "Proverbs 24:9",
+             "verseNumber":  9,
+             "scripture":  "The thought of foolishness is sin: and the scorner is an abomination to men."
+        },
+        {
+            "reference":  "Proverbs 24:10",
+             "verseNumber":  10,
+             "scripture":  "If you faint in the day of adversity, your strength is small."
+        },
+        {
+            "reference":  "Proverbs 24:11",
+             "verseNumber":  11,
+             "scripture":  "If you forbear to deliver them that are drawn unto death, and those that are ready to be slain;"
+        },
+        {
+            "reference":  "Proverbs 24:12",
+             "verseNumber":  12,
+             "scripture":  "If you says, Behold, we knew it not; does not he that ponders the heart consider it? and he that keeps your soul, does not he know it? and shall not he render to every man according to his works?"
+        },
+        {
+            "reference":  "Proverbs 24:13",
+             "verseNumber":  13,
+             "scripture":  "My son, eat you honey, because it is good; and the honeycomb, which is sweet to your taste:"
+        },
+        {
+            "reference":  "Proverbs 24:14",
+             "verseNumber":  14,
+             "scripture":  "So shall the knowledge of wisdom be unto your soul: when you have found it, then there shall be a reward, and your expectation shall not be cut off."
+        },
+        {
+            "reference":  "Proverbs 24:15",
+             "verseNumber":  15,
+             "scripture":  "Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:"
+        },
+        {
+            "reference":  "Proverbs 24:16",
+             "verseNumber":  16,
+             "scripture":  "For a just man falls seven times, and rises up again: but the wicked shall fall into mischief."
+        },
+        {
+            "reference":  "Proverbs 24:17",
+             "verseNumber":  17,
+             "scripture":  "Rejoice not when yours enemy falls, and let not yours heart be glad when he stumbles:"
+        },
+        {
+            "reference":  "Proverbs 24:18",
+             "verseNumber":  18,
+             "scripture":  "Lest the LORD see it, and it displease him, and he turn away his wrath from him."
+        },
+        {
+            "reference":  "Proverbs 24:19",
+             "verseNumber":  19,
+             "scripture":  "Fret not yourself because of evil men, neither be you envious at the wicked:"
+        },
+        {
+            "reference":  "Proverbs 24:20",
+             "verseNumber":  20,
+             "scripture":  "For there shall be no reward to the evil man; the candle of the wicked shall be put out."
+        },
+        {
+            "reference":  "Proverbs 24:21",
+             "verseNumber":  21,
+             "scripture":  "My son, fear you the LORD and the king: and meddle not with them that are given to change:"
+        },
+        {
+            "reference":  "Proverbs 24:22",
+             "verseNumber":  22,
+             "scripture":  "For their calamity shall rise suddenly; and who knows the ruin of them both?"
+        },
+        {
+            "reference":  "Proverbs 24:23",
+             "verseNumber":  23,
+             "scripture":  "These things also belong to the wise. It is not good to have respect of persons in judgment."
+        },
+        {
+            "reference":  "Proverbs 24:24",
+             "verseNumber":  24,
+             "scripture":  "He that says unto the wicked, You are righteous; him shall the people curse, nations shall detest him:"
+        },
+        {
+            "reference":  "Proverbs 24:25",
+             "verseNumber":  25,
+             "scripture":  "But to them that rebuke him shall be delight, and a good blessing shall come upon them."
+        },
+        {
+            "reference":  "Proverbs 24:26",
+             "verseNumber":  26,
+             "scripture":  "Every man shall kiss his lips that gives a right answer."
+        },
+        {
+            "reference":  "Proverbs 24:27",
+             "verseNumber":  27,
+             "scripture":  "Prepare your work without, and make it fit for yourself in the field; and afterwards build yours house."
+        },
+        {
+            "reference":  "Proverbs 24:28",
+             "verseNumber":  28,
+             "scripture":  "Be not a witness against your neighbour without cause; and deceive not with your lips."
+        },
+        {
+            "reference":  "Proverbs 24:29",
+             "verseNumber":  29,
+             "scripture":  "Say not, I will do so to him as he has done to me: I will render to the man according to his work."
+        },
+        {
+            "reference":  "Proverbs 24:30",
+             "verseNumber":  30,
+             "scripture":  "I went by the field of the slothful, and by the vineyard of the man void of understanding;"
+        },
+        {
+            "reference":  "Proverbs 24:31",
+             "verseNumber":  31,
+             "scripture":  "And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down."
+        },
+        {
+            "reference":  "Proverbs 24:32",
+             "verseNumber":  32,
+             "scripture":  "Then I saw, and considered it well: I looked upon it, and received instruction."
+        },
+        {
+            "reference":  "Proverbs 24:33",
+             "verseNumber":  33,
+             "scripture":  "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
+        },
+        {
+            "reference":  "Proverbs 24:34",
+             "verseNumber":  34,
+             "scripture":  "So shall your poverty come as one that travels; and your lack as an armed man."
+        }
+    ]
+}

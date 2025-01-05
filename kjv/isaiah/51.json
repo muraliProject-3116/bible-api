@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Isaiah", "bookAbbreviation": "Isai", "chapterNumber": 51, "verses": [{"reference": "Isaiah 51:1", "verseNumber": 1, "scripture": "Hearken to me, all of you that follow after righteousness, all of you that seek the LORD: look unto the rock whence all of you are hewn, and to the hole of the pit whence all of you are dug."},{"reference": "Isaiah 51:2", "verseNumber": 2, "scripture": "Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him."},{"reference": "Isaiah 51:3", "verseNumber": 3, "scripture": "For the LORD shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the LORD; joy and gladness shall be found therein, thanksgiving, and the voice of melody."},{"reference": "Isaiah 51:4", "verseNumber": 4, "scripture": "Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people."},{"reference": "Isaiah 51:5", "verseNumber": 5, "scripture": "My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust."},{"reference": "Isaiah 51:6", "verseNumber": 6, "scripture": "Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished."},{"reference": "Isaiah 51:7", "verseNumber": 7, "scripture": "Hearken unto me, all of you that know righteousness, the people in whose heart is my law; fear all of you not the reproach of men, neither be all of you afraid of their revilings."},{"reference": "Isaiah 51:8", "verseNumber": 8, "scripture": "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation."},{"reference": "Isaiah 51:9", "verseNumber": 9, "scripture": "Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. Are you not it that has cut Rahab, and wounded the dragon?"},{"reference": "Isaiah 51:10", "verseNumber": 10, "scripture": "Are you not it which has dried the sea, the waters of the great deep; that has made the depths of the sea a way for the ransomed to pass over?"},{"reference": "Isaiah 51:11", "verseNumber": 11, "scripture": "Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away."},{"reference": "Isaiah 51:12", "verseNumber": 12, "scripture": "I, even I, am he that comforts you: who are you, that you should be afraid of a man that shall die, and of the son of man which shall be made as grass;"},{"reference": "Isaiah 51:13", "verseNumber": 13, "scripture": "And forget the LORD your maker, that has stretched forth the heavens, and laid the foundations of the earth; and have feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where is the fury of the oppressor?"},{"reference": "Isaiah 51:14", "verseNumber": 14, "scripture": "The captive exile hastens that he may be loosed, and that he should not die in the pit, nor that his bread should fail."},{"reference": "Isaiah 51:15", "verseNumber": 15, "scripture": "But I am the LORD your God, that divided the sea, whose waves roared: The LORD of hosts is his name."},{"reference": "Isaiah 51:16", "verseNumber": 16, "scripture": "And I have put my words in your mouth, and I have covered you in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, You are my people."},{"reference": "Isaiah 51:17", "verseNumber": 17, "scripture": "Awake, awake, stand up, O Jerusalem, which have drunk at the hand of the LORD the cup of his fury; you have drunken the dregs of the cup of trembling, and wrung them out."},{"reference": "Isaiah 51:18", "verseNumber": 18, "scripture": "There is none to guide her among all the sons whom she has brought forth; neither is there any that takes her by the hand of all the sons that she has brought up."},{"reference": "Isaiah 51:19", "verseNumber": 19, "scripture": "These two things are come unto you; who shall be sorry for you? desolation, and destruction, and the famine, and the sword: by whom shall I comfort you?"},{"reference": "Isaiah 51:20", "verseNumber": 20, "scripture": "Your sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the LORD, the rebuke of your God."},{"reference": "Isaiah 51:21", "verseNumber": 21, "scripture": "Therefore hear now this, you afflicted, and drunken, but not with wine:"},{"reference": "Isaiah 51:22", "verseNumber": 22, "scripture": "Thus says your Lord the LORD, and your God that pleads the cause of his people, Behold, I have taken out of yours hand the cup of trembling, even the dregs of the cup of my fury; you shall no more drink it again:"},{"reference": "Isaiah 51:23", "verseNumber": 23, "scripture": "But I will put it into the hand of them that afflict you; which have said to your soul, Bow down, that we may go over: and you have laid your body as the ground, and as the street, to them that went over."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Isaiah",
+     "bookAbbreviation":  "Isai",
+     "chapterNumber":  51,
+     "verses":  [
+        {
+            "reference":  "Isaiah 51:1",
+             "verseNumber":  1,
+             "scripture":  "Hearken to me, all of you that follow after righteousness, all of you that seek the LORD: look unto the rock whence all of you are hewn, and to the hole of the pit whence all of you are dug."
+        },
+        {
+            "reference":  "Isaiah 51:2",
+             "verseNumber":  2,
+             "scripture":  "Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him."
+        },
+        {
+            "reference":  "Isaiah 51:3",
+             "verseNumber":  3,
+             "scripture":  "For the LORD shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the LORD; joy and gladness shall be found therein, thanksgiving, and the voice of melody."
+        },
+        {
+            "reference":  "Isaiah 51:4",
+             "verseNumber":  4,
+             "scripture":  "Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people."
+        },
+        {
+            "reference":  "Isaiah 51:5",
+             "verseNumber":  5,
+             "scripture":  "My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust."
+        },
+        {
+            "reference":  "Isaiah 51:6",
+             "verseNumber":  6,
+             "scripture":  "Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished."
+        },
+        {
+            "reference":  "Isaiah 51:7",
+             "verseNumber":  7,
+             "scripture":  "Hearken unto me, all of you that know righteousness, the people in whose heart is my law; fear all of you not the reproach of men, neither be all of you afraid of their revilings."
+        },
+        {
+            "reference":  "Isaiah 51:8",
+             "verseNumber":  8,
+             "scripture":  "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation."
+        },
+        {
+            "reference":  "Isaiah 51:9",
+             "verseNumber":  9,
+             "scripture":  "Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. Are you not it that has cut Rahab, and wounded the dragon?"
+        },
+        {
+            "reference":  "Isaiah 51:10",
+             "verseNumber":  10,
+             "scripture":  "Are you not it which has dried the sea, the waters of the great deep; that has made the depths of the sea a way for the ransomed to pass over?"
+        },
+        {
+            "reference":  "Isaiah 51:11",
+             "verseNumber":  11,
+             "scripture":  "Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away."
+        },
+        {
+            "reference":  "Isaiah 51:12",
+             "verseNumber":  12,
+             "scripture":  "I, even I, am he that comforts you: who are you, that you should be afraid of a man that shall die, and of the son of man which shall be made as grass;"
+        },
+        {
+            "reference":  "Isaiah 51:13",
+             "verseNumber":  13,
+             "scripture":  "And forget the LORD your maker, that has stretched forth the heavens, and laid the foundations of the earth; and have feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where is the fury of the oppressor?"
+        },
+        {
+            "reference":  "Isaiah 51:14",
+             "verseNumber":  14,
+             "scripture":  "The captive exile hastens that he may be loosed, and that he should not die in the pit, nor that his bread should fail."
+        },
+        {
+            "reference":  "Isaiah 51:15",
+             "verseNumber":  15,
+             "scripture":  "But I am the LORD your God, that divided the sea, whose waves roared: The LORD of hosts is his name."
+        },
+        {
+            "reference":  "Isaiah 51:16",
+             "verseNumber":  16,
+             "scripture":  "And I have put my words in your mouth, and I have covered you in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, You are my people."
+        },
+        {
+            "reference":  "Isaiah 51:17",
+             "verseNumber":  17,
+             "scripture":  "Awake, awake, stand up, O Jerusalem, which have drunk at the hand of the LORD the cup of his fury; you have drunken the dregs of the cup of trembling, and wrung them out."
+        },
+        {
+            "reference":  "Isaiah 51:18",
+             "verseNumber":  18,
+             "scripture":  "There is none to guide her among all the sons whom she has brought forth; neither is there any that takes her by the hand of all the sons that she has brought up."
+        },
+        {
+            "reference":  "Isaiah 51:19",
+             "verseNumber":  19,
+             "scripture":  "These two things are come unto you; who shall be sorry for you? desolation, and destruction, and the famine, and the sword: by whom shall I comfort you?"
+        },
+        {
+            "reference":  "Isaiah 51:20",
+             "verseNumber":  20,
+             "scripture":  "Your sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the LORD, the rebuke of your God."
+        },
+        {
+            "reference":  "Isaiah 51:21",
+             "verseNumber":  21,
+             "scripture":  "Therefore hear now this, you afflicted, and drunken, but not with wine:"
+        },
+        {
+            "reference":  "Isaiah 51:22",
+             "verseNumber":  22,
+             "scripture":  "Thus says your Lord the LORD, and your God that pleads the cause of his people, Behold, I have taken out of yours hand the cup of trembling, even the dregs of the cup of my fury; you shall no more drink it again:"
+        },
+        {
+            "reference":  "Isaiah 51:23",
+             "verseNumber":  23,
+             "scripture":  "But I will put it into the hand of them that afflict you; which have said to your soul, Bow down, that we may go over: and you have laid your body as the ground, and as the street, to them that went over."
+        }
+    ]
+}

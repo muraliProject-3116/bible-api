@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Genesis", "bookAbbreviation": "Gen", "chapterNumber": 7, "verses": [{"reference": "Genesis 7:1", "verseNumber": 1, "scripture": "And the LORD said unto Noah, Come you and all your house into the ark; for you have I seen righteous before me in this generation."},{"reference": "Genesis 7:2", "verseNumber": 2, "scripture": "Of every clean beast you shall take to you by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."},{"reference": "Genesis 7:3", "verseNumber": 3, "scripture": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."},{"reference": "Genesis 7:4", "verseNumber": 4, "scripture": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth."},{"reference": "Genesis 7:5", "verseNumber": 5, "scripture": "And Noah did according unto all that the LORD commanded him."},{"reference": "Genesis 7:6", "verseNumber": 6, "scripture": "And Noah was six hundred years old when the flood of waters was upon the earth."},{"reference": "Genesis 7:7", "verseNumber": 7, "scripture": "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood."},{"reference": "Genesis 7:8", "verseNumber": 8, "scripture": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creeps upon the earth,"},{"reference": "Genesis 7:9", "verseNumber": 9, "scripture": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah."},{"reference": "Genesis 7:10", "verseNumber": 10, "scripture": "And it came to pass after seven days, that the waters of the flood were upon the earth."},{"reference": "Genesis 7:11", "verseNumber": 11, "scripture": "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened."},{"reference": "Genesis 7:12", "verseNumber": 12, "scripture": "And the rain was upon the earth forty days and forty nights."},{"reference": "Genesis 7:13", "verseNumber": 13, "scripture": "In the very same day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;"},{"reference": "Genesis 7:14", "verseNumber": 14, "scripture": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creeps upon the earth after his kind, and every fowl after his kind, every bird of every sort."},{"reference": "Genesis 7:15", "verseNumber": 15, "scripture": "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life."},{"reference": "Genesis 7:16", "verseNumber": 16, "scripture": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in."},{"reference": "Genesis 7:17", "verseNumber": 17, "scripture": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth."},{"reference": "Genesis 7:18", "verseNumber": 18, "scripture": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters."},{"reference": "Genesis 7:19", "verseNumber": 19, "scripture": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered."},{"reference": "Genesis 7:20", "verseNumber": 20, "scripture": "Fifteen cubits upward did the waters prevail; and the mountains were covered."},{"reference": "Genesis 7:21", "verseNumber": 21, "scripture": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creeps upon the earth, and every man:"},{"reference": "Genesis 7:22", "verseNumber": 22, "scripture": "All in whose nostrils was the breath of life, of all that was in the dry land, died."},{"reference": "Genesis 7:23", "verseNumber": 23, "scripture": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark."},{"reference": "Genesis 7:24", "verseNumber": 24, "scripture": "And the waters prevailed upon the earth an hundred and fifty days."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Genesis",
+     "bookAbbreviation":  "Gen",
+     "chapterNumber":  7,
+     "verses":  [
+        {
+            "reference":  "Genesis 7:1",
+             "verseNumber":  1,
+             "scripture":  "And the LORD said unto Noah, Come you and all your house into the ark; for you have I seen righteous before me in this generation."
+        },
+        {
+            "reference":  "Genesis 7:2",
+             "verseNumber":  2,
+             "scripture":  "Of every clean beast you shall take to you by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."
+        },
+        {
+            "reference":  "Genesis 7:3",
+             "verseNumber":  3,
+             "scripture":  "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+        },
+        {
+            "reference":  "Genesis 7:4",
+             "verseNumber":  4,
+             "scripture":  "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth."
+        },
+        {
+            "reference":  "Genesis 7:5",
+             "verseNumber":  5,
+             "scripture":  "And Noah did according unto all that the LORD commanded him."
+        },
+        {
+            "reference":  "Genesis 7:6",
+             "verseNumber":  6,
+             "scripture":  "And Noah was six hundred years old when the flood of waters was upon the earth."
+        },
+        {
+            "reference":  "Genesis 7:7",
+             "verseNumber":  7,
+             "scripture":  "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood."
+        },
+        {
+            "reference":  "Genesis 7:8",
+             "verseNumber":  8,
+             "scripture":  "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creeps upon the earth,"
+        },
+        {
+            "reference":  "Genesis 7:9",
+             "verseNumber":  9,
+             "scripture":  "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah."
+        },
+        {
+            "reference":  "Genesis 7:10",
+             "verseNumber":  10,
+             "scripture":  "And it came to pass after seven days, that the waters of the flood were upon the earth."
+        },
+        {
+            "reference":  "Genesis 7:11",
+             "verseNumber":  11,
+             "scripture":  "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened."
+        },
+        {
+            "reference":  "Genesis 7:12",
+             "verseNumber":  12,
+             "scripture":  "And the rain was upon the earth forty days and forty nights."
+        },
+        {
+            "reference":  "Genesis 7:13",
+             "verseNumber":  13,
+             "scripture":  "In the very same day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;"
+        },
+        {
+            "reference":  "Genesis 7:14",
+             "verseNumber":  14,
+             "scripture":  "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creeps upon the earth after his kind, and every fowl after his kind, every bird of every sort."
+        },
+        {
+            "reference":  "Genesis 7:15",
+             "verseNumber":  15,
+             "scripture":  "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life."
+        },
+        {
+            "reference":  "Genesis 7:16",
+             "verseNumber":  16,
+             "scripture":  "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in."
+        },
+        {
+            "reference":  "Genesis 7:17",
+             "verseNumber":  17,
+             "scripture":  "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth."
+        },
+        {
+            "reference":  "Genesis 7:18",
+             "verseNumber":  18,
+             "scripture":  "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters."
+        },
+        {
+            "reference":  "Genesis 7:19",
+             "verseNumber":  19,
+             "scripture":  "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered."
+        },
+        {
+            "reference":  "Genesis 7:20",
+             "verseNumber":  20,
+             "scripture":  "Fifteen cubits upward did the waters prevail; and the mountains were covered."
+        },
+        {
+            "reference":  "Genesis 7:21",
+             "verseNumber":  21,
+             "scripture":  "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creeps upon the earth, and every man:"
+        },
+        {
+            "reference":  "Genesis 7:22",
+             "verseNumber":  22,
+             "scripture":  "All in whose nostrils was the breath of life, of all that was in the dry land, died."
+        },
+        {
+            "reference":  "Genesis 7:23",
+             "verseNumber":  23,
+             "scripture":  "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark."
+        },
+        {
+            "reference":  "Genesis 7:24",
+             "verseNumber":  24,
+             "scripture":  "And the waters prevailed upon the earth an hundred and fifty days."
+        }
+    ]
+}

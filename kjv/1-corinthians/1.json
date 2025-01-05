@@ -1,1 +1,170 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "New Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Corinthians", "bookAbbreviation": "1 Cor", "chapterNumber": 1, "verses": [{"reference": "1 Corinthians 1:1", "verseNumber": 1, "scripture": "Paul called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"},{"reference": "1 Corinthians 1:2", "verseNumber": 2, "scripture": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:"},{"reference": "1 Corinthians 1:3", "verseNumber": 3, "scripture": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."},{"reference": "1 Corinthians 1:4", "verseNumber": 4, "scripture": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"},{"reference": "1 Corinthians 1:5", "verseNumber": 5, "scripture": "That in every thing all of you are enriched by him, in all utterance, and in all knowledge;"},{"reference": "1 Corinthians 1:6", "verseNumber": 6, "scripture": "Even as the testimony of Christ was confirmed in you:"},{"reference": "1 Corinthians 1:7", "verseNumber": 7, "scripture": "So that all of you come behind in no gift; waiting for the coming of our Lord Jesus Christ:"},{"reference": "1 Corinthians 1:8", "verseNumber": 8, "scripture": "Who shall also confirm you unto the end, that all of you may be blameless in the day of our Lord Jesus Christ."},{"reference": "1 Corinthians 1:9", "verseNumber": 9, "scripture": "God is faithful, by whom all of you were called unto the fellowship of his Son Jesus Christ our Lord."},{"reference": "1 Corinthians 1:10", "verseNumber": 10, "scripture": "Now I plead to you, brethren, by the name of our Lord Jesus Christ, that all of you all speak the same thing, and that there be no divisions among you; but that all of you be perfectly joined together in the same mind and in the same judgment."},{"reference": "1 Corinthians 1:11", "verseNumber": 11, "scripture": "For it has been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."},{"reference": "1 Corinthians 1:12", "verseNumber": 12, "scripture": "Now this I say, that every one of you says, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."},{"reference": "1 Corinthians 1:13", "verseNumber": 13, "scripture": "Is Christ divided? was Paul crucified for you? or were all of you baptized in the name of Paul?"},{"reference": "1 Corinthians 1:14", "verseNumber": 14, "scripture": "I thank God that I baptized none of you, but Crispus and Gaius;"},{"reference": "1 Corinthians 1:15", "verseNumber": 15, "scripture": "Lest any should say that I had baptized in mine own name."},{"reference": "1 Corinthians 1:16", "verseNumber": 16, "scripture": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."},{"reference": "1 Corinthians 1:17", "verseNumber": 17, "scripture": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of no effect."},{"reference": "1 Corinthians 1:18", "verseNumber": 18, "scripture": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."},{"reference": "1 Corinthians 1:19", "verseNumber": 19, "scripture": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."},{"reference": "1 Corinthians 1:20", "verseNumber": 20, "scripture": "Where is the wise? where is the scribe? where is the disputer of this world? has not God made foolish the wisdom of this world?"},{"reference": "1 Corinthians 1:21", "verseNumber": 21, "scripture": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."},{"reference": "1 Corinthians 1:22", "verseNumber": 22, "scripture": "For the Jews require a sign, and the Greeks seek after wisdom:"},{"reference": "1 Corinthians 1:23", "verseNumber": 23, "scripture": "But we preach Christ crucified, unto the Jews a stumbling block, and unto the Greeks foolishness;"},{"reference": "1 Corinthians 1:24", "verseNumber": 24, "scripture": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."},{"reference": "1 Corinthians 1:25", "verseNumber": 25, "scripture": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."},{"reference": "1 Corinthians 1:26", "verseNumber": 26, "scripture": "For all of you see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:"},{"reference": "1 Corinthians 1:27", "verseNumber": 27, "scripture": "But God has chosen the foolish things of the world to confound the wise; and God has chosen the weak things of the world to confound the things which are mighty;"},{"reference": "1 Corinthians 1:28", "verseNumber": 28, "scripture": "And base things of the world, and things which are despised, has God chosen, yea, and things which are not, to bring to nothing things that are:"},{"reference": "1 Corinthians 1:29", "verseNumber": 29, "scripture": "That no flesh should glory in his presence."},{"reference": "1 Corinthians 1:30", "verseNumber": 30, "scripture": "But of him are all of you in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"},{"reference": "1 Corinthians 1:31", "verseNumber": 31, "scripture": "That, according as it is written, He that glories, let him glory in the Lord."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "New Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Corinthians",
+     "bookAbbreviation":  "1 Cor",
+     "chapterNumber":  1,
+     "verses":  [
+        {
+            "reference":  "1 Corinthians 1:1",
+             "verseNumber":  1,
+             "scripture":  "Paul called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
+        },
+        {
+            "reference":  "1 Corinthians 1:2",
+             "verseNumber":  2,
+             "scripture":  "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:"
+        },
+        {
+            "reference":  "1 Corinthians 1:3",
+             "verseNumber":  3,
+             "scripture":  "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+        },
+        {
+            "reference":  "1 Corinthians 1:4",
+             "verseNumber":  4,
+             "scripture":  "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+        },
+        {
+            "reference":  "1 Corinthians 1:5",
+             "verseNumber":  5,
+             "scripture":  "That in every thing all of you are enriched by him, in all utterance, and in all knowledge;"
+        },
+        {
+            "reference":  "1 Corinthians 1:6",
+             "verseNumber":  6,
+             "scripture":  "Even as the testimony of Christ was confirmed in you:"
+        },
+        {
+            "reference":  "1 Corinthians 1:7",
+             "verseNumber":  7,
+             "scripture":  "So that all of you come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+        },
+        {
+            "reference":  "1 Corinthians 1:8",
+             "verseNumber":  8,
+             "scripture":  "Who shall also confirm you unto the end, that all of you may be blameless in the day of our Lord Jesus Christ."
+        },
+        {
+            "reference":  "1 Corinthians 1:9",
+             "verseNumber":  9,
+             "scripture":  "God is faithful, by whom all of you were called unto the fellowship of his Son Jesus Christ our Lord."
+        },
+        {
+            "reference":  "1 Corinthians 1:10",
+             "verseNumber":  10,
+             "scripture":  "Now I plead to you, brethren, by the name of our Lord Jesus Christ, that all of you all speak the same thing, and that there be no divisions among you; but that all of you be perfectly joined together in the same mind and in the same judgment."
+        },
+        {
+            "reference":  "1 Corinthians 1:11",
+             "verseNumber":  11,
+             "scripture":  "For it has been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."
+        },
+        {
+            "reference":  "1 Corinthians 1:12",
+             "verseNumber":  12,
+             "scripture":  "Now this I say, that every one of you says, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
+        },
+        {
+            "reference":  "1 Corinthians 1:13",
+             "verseNumber":  13,
+             "scripture":  "Is Christ divided? was Paul crucified for you? or were all of you baptized in the name of Paul?"
+        },
+        {
+            "reference":  "1 Corinthians 1:14",
+             "verseNumber":  14,
+             "scripture":  "I thank God that I baptized none of you, but Crispus and Gaius;"
+        },
+        {
+            "reference":  "1 Corinthians 1:15",
+             "verseNumber":  15,
+             "scripture":  "Lest any should say that I had baptized in mine own name."
+        },
+        {
+            "reference":  "1 Corinthians 1:16",
+             "verseNumber":  16,
+             "scripture":  "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."
+        },
+        {
+            "reference":  "1 Corinthians 1:17",
+             "verseNumber":  17,
+             "scripture":  "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of no effect."
+        },
+        {
+            "reference":  "1 Corinthians 1:18",
+             "verseNumber":  18,
+             "scripture":  "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+        },
+        {
+            "reference":  "1 Corinthians 1:19",
+             "verseNumber":  19,
+             "scripture":  "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."
+        },
+        {
+            "reference":  "1 Corinthians 1:20",
+             "verseNumber":  20,
+             "scripture":  "Where is the wise? where is the scribe? where is the disputer of this world? has not God made foolish the wisdom of this world?"
+        },
+        {
+            "reference":  "1 Corinthians 1:21",
+             "verseNumber":  21,
+             "scripture":  "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
+        },
+        {
+            "reference":  "1 Corinthians 1:22",
+             "verseNumber":  22,
+             "scripture":  "For the Jews require a sign, and the Greeks seek after wisdom:"
+        },
+        {
+            "reference":  "1 Corinthians 1:23",
+             "verseNumber":  23,
+             "scripture":  "But we preach Christ crucified, unto the Jews a stumbling block, and unto the Greeks foolishness;"
+        },
+        {
+            "reference":  "1 Corinthians 1:24",
+             "verseNumber":  24,
+             "scripture":  "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+        },
+        {
+            "reference":  "1 Corinthians 1:25",
+             "verseNumber":  25,
+             "scripture":  "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."
+        },
+        {
+            "reference":  "1 Corinthians 1:26",
+             "verseNumber":  26,
+             "scripture":  "For all of you see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:"
+        },
+        {
+            "reference":  "1 Corinthians 1:27",
+             "verseNumber":  27,
+             "scripture":  "But God has chosen the foolish things of the world to confound the wise; and God has chosen the weak things of the world to confound the things which are mighty;"
+        },
+        {
+            "reference":  "1 Corinthians 1:28",
+             "verseNumber":  28,
+             "scripture":  "And base things of the world, and things which are despised, has God chosen, yea, and things which are not, to bring to nothing things that are:"
+        },
+        {
+            "reference":  "1 Corinthians 1:29",
+             "verseNumber":  29,
+             "scripture":  "That no flesh should glory in his presence."
+        },
+        {
+            "reference":  "1 Corinthians 1:30",
+             "verseNumber":  30,
+             "scripture":  "But of him are all of you in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
+        },
+        {
+            "reference":  "1 Corinthians 1:31",
+             "verseNumber":  31,
+             "scripture":  "That, according as it is written, He that glories, let him glory in the Lord."
+        }
+    ]
+}

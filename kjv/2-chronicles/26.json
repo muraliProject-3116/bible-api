@@ -1,1 +1,130 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Chronicles", "bookAbbreviation": "2 Chr", "chapterNumber": 26, "verses": [{"reference": "2 Chronicles 26:1", "verseNumber": 1, "scripture": "Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah."},{"reference": "2 Chronicles 26:2", "verseNumber": 2, "scripture": "He built Eloth, and restored it to Judah, after that the king slept with his fathers."},{"reference": "2 Chronicles 26:3", "verseNumber": 3, "scripture": "Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem."},{"reference": "2 Chronicles 26:4", "verseNumber": 4, "scripture": "And he did that which was right in the sight of the LORD, according to all that his father Amaziah did."},{"reference": "2 Chronicles 26:5", "verseNumber": 5, "scripture": "And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper."},{"reference": "2 Chronicles 26:6", "verseNumber": 6, "scripture": "And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines."},{"reference": "2 Chronicles 26:7", "verseNumber": 7, "scripture": "And God helped him against the Philistines, and against the Arabians that dwelt in Gurbaal, and the Mehunims."},{"reference": "2 Chronicles 26:8", "verseNumber": 8, "scripture": "And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly."},{"reference": "2 Chronicles 26:9", "verseNumber": 9, "scripture": "Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them."},{"reference": "2 Chronicles 26:10", "verseNumber": 10, "scripture": "Also he built towers in the desert, and dug many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved farming."},{"reference": "2 Chronicles 26:11", "verseNumber": 11, "scripture": "Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains."},{"reference": "2 Chronicles 26:12", "verseNumber": 12, "scripture": "The whole number of the chief of the fathers of the mighty men of valour were two thousand and six hundred."},{"reference": "2 Chronicles 26:13", "verseNumber": 13, "scripture": "And under their hand was an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy."},{"reference": "2 Chronicles 26:14", "verseNumber": 14, "scripture": "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones."},{"reference": "2 Chronicles 26:15", "verseNumber": 15, "scripture": "And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones likewise. And his name spread far abroad; for he was marvellously helped, till he was strong."},{"reference": "2 Chronicles 26:16", "verseNumber": 16, "scripture": "But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense."},{"reference": "2 Chronicles 26:17", "verseNumber": 17, "scripture": "And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:"},{"reference": "2 Chronicles 26:18", "verseNumber": 18, "scripture": "And they withstood Uzziah the king, and said unto him, It appertains not unto you, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for you have trespassed; neither shall it be for yours honour from the LORD God."},{"reference": "2 Chronicles 26:19", "verseNumber": 19, "scripture": "Then Uzziah was angry, and had a censer in his hand to burn incense: and while he was angry with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."},{"reference": "2 Chronicles 26:20", "verseNumber": 20, "scripture": "And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him."},{"reference": "2 Chronicles 26:21", "verseNumber": 21, "scripture": "And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king's house, judging the people of the land."},{"reference": "2 Chronicles 26:22", "verseNumber": 22, "scripture": "Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write."},{"reference": "2 Chronicles 26:23", "verseNumber": 23, "scripture": "So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his position."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Chronicles",
+     "bookAbbreviation":  "2 Chr",
+     "chapterNumber":  26,
+     "verses":  [
+        {
+            "reference":  "2 Chronicles 26:1",
+             "verseNumber":  1,
+             "scripture":  "Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah."
+        },
+        {
+            "reference":  "2 Chronicles 26:2",
+             "verseNumber":  2,
+             "scripture":  "He built Eloth, and restored it to Judah, after that the king slept with his fathers."
+        },
+        {
+            "reference":  "2 Chronicles 26:3",
+             "verseNumber":  3,
+             "scripture":  "Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem."
+        },
+        {
+            "reference":  "2 Chronicles 26:4",
+             "verseNumber":  4,
+             "scripture":  "And he did that which was right in the sight of the LORD, according to all that his father Amaziah did."
+        },
+        {
+            "reference":  "2 Chronicles 26:5",
+             "verseNumber":  5,
+             "scripture":  "And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper."
+        },
+        {
+            "reference":  "2 Chronicles 26:6",
+             "verseNumber":  6,
+             "scripture":  "And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines."
+        },
+        {
+            "reference":  "2 Chronicles 26:7",
+             "verseNumber":  7,
+             "scripture":  "And God helped him against the Philistines, and against the Arabians that dwelt in Gurbaal, and the Mehunims."
+        },
+        {
+            "reference":  "2 Chronicles 26:8",
+             "verseNumber":  8,
+             "scripture":  "And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly."
+        },
+        {
+            "reference":  "2 Chronicles 26:9",
+             "verseNumber":  9,
+             "scripture":  "Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them."
+        },
+        {
+            "reference":  "2 Chronicles 26:10",
+             "verseNumber":  10,
+             "scripture":  "Also he built towers in the desert, and dug many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved farming."
+        },
+        {
+            "reference":  "2 Chronicles 26:11",
+             "verseNumber":  11,
+             "scripture":  "Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains."
+        },
+        {
+            "reference":  "2 Chronicles 26:12",
+             "verseNumber":  12,
+             "scripture":  "The whole number of the chief of the fathers of the mighty men of valour were two thousand and six hundred."
+        },
+        {
+            "reference":  "2 Chronicles 26:13",
+             "verseNumber":  13,
+             "scripture":  "And under their hand was an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy."
+        },
+        {
+            "reference":  "2 Chronicles 26:14",
+             "verseNumber":  14,
+             "scripture":  "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones."
+        },
+        {
+            "reference":  "2 Chronicles 26:15",
+             "verseNumber":  15,
+             "scripture":  "And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones likewise. And his name spread far abroad; for he was marvellously helped, till he was strong."
+        },
+        {
+            "reference":  "2 Chronicles 26:16",
+             "verseNumber":  16,
+             "scripture":  "But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense."
+        },
+        {
+            "reference":  "2 Chronicles 26:17",
+             "verseNumber":  17,
+             "scripture":  "And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:"
+        },
+        {
+            "reference":  "2 Chronicles 26:18",
+             "verseNumber":  18,
+             "scripture":  "And they withstood Uzziah the king, and said unto him, It appertains not unto you, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for you have trespassed; neither shall it be for yours honour from the LORD God."
+        },
+        {
+            "reference":  "2 Chronicles 26:19",
+             "verseNumber":  19,
+             "scripture":  "Then Uzziah was angry, and had a censer in his hand to burn incense: and while he was angry with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."
+        },
+        {
+            "reference":  "2 Chronicles 26:20",
+             "verseNumber":  20,
+             "scripture":  "And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him."
+        },
+        {
+            "reference":  "2 Chronicles 26:21",
+             "verseNumber":  21,
+             "scripture":  "And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king's house, judging the people of the land."
+        },
+        {
+            "reference":  "2 Chronicles 26:22",
+             "verseNumber":  22,
+             "scripture":  "Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write."
+        },
+        {
+            "reference":  "2 Chronicles 26:23",
+             "verseNumber":  23,
+             "scripture":  "So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his position."
+        }
+    ]
+}

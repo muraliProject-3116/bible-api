@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 128, "verses": [{"reference": "Psalm 128:1", "verseNumber": 1, "scripture": "Blessed is every one that fears the LORD; that walks in his ways."},{"reference": "Psalm 128:2", "verseNumber": 2, "scripture": "For you shall eat the labour of yours hands: happy shall you be, and it shall be well with you."},{"reference": "Psalm 128:3", "verseNumber": 3, "scripture": "Your wife shall be as a fruitful vine by the sides of yours house: your children like olive plants round about your table."},{"reference": "Psalm 128:4", "verseNumber": 4, "scripture": "Behold, that thus shall the man be blessed that fears the LORD."},{"reference": "Psalm 128:5", "verseNumber": 5, "scripture": "The LORD shall bless you out of Zion: and you shall see the good of Jerusalem all the days of your life."},{"reference": "Psalm 128:6", "verseNumber": 6, "scripture": "Yea, you shall see your children's children, and peace upon Israel."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  128,
+     "verses":  [
+        {
+            "reference":  "Psalm 128:1",
+             "verseNumber":  1,
+             "scripture":  "Blessed is every one that fears the LORD; that walks in his ways."
+        },
+        {
+            "reference":  "Psalm 128:2",
+             "verseNumber":  2,
+             "scripture":  "For you shall eat the labour of yours hands: happy shall you be, and it shall be well with you."
+        },
+        {
+            "reference":  "Psalm 128:3",
+             "verseNumber":  3,
+             "scripture":  "Your wife shall be as a fruitful vine by the sides of yours house: your children like olive plants round about your table."
+        },
+        {
+            "reference":  "Psalm 128:4",
+             "verseNumber":  4,
+             "scripture":  "Behold, that thus shall the man be blessed that fears the LORD."
+        },
+        {
+            "reference":  "Psalm 128:5",
+             "verseNumber":  5,
+             "scripture":  "The LORD shall bless you out of Zion: and you shall see the good of Jerusalem all the days of your life."
+        },
+        {
+            "reference":  "Psalm 128:6",
+             "verseNumber":  6,
+             "scripture":  "Yea, you shall see your children's children, and peace upon Israel."
+        }
+    ]
+}

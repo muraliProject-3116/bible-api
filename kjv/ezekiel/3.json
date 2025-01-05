@@ -1,1 +1,150 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezekiel", "bookAbbreviation": "Eze", "chapterNumber": 3, "verses": [{"reference": "Ezekiel 3:1", "verseNumber": 1, "scripture": "Moreover he said unto me, Son of man, eat that you find; eat this roll, and go speak unto the house of Israel."},{"reference": "Ezekiel 3:2", "verseNumber": 2, "scripture": "So I opened my mouth, and he caused me to eat that roll."},{"reference": "Ezekiel 3:3", "verseNumber": 3, "scripture": "And he said unto me, Son of man, cause your belly to eat, and fill your bowels with this roll that I give you. Then did I eat it; and it was in my mouth as honey for sweetness."},{"reference": "Ezekiel 3:4", "verseNumber": 4, "scripture": "And he said unto me, Son of man, go, get you unto the house of Israel, and speak with my words unto them."},{"reference": "Ezekiel 3:5", "verseNumber": 5, "scripture": "For you are not sent to a people of a strange speech and of an hard language, but to the house of Israel;"},{"reference": "Ezekiel 3:6", "verseNumber": 6, "scripture": "Not to many people of a strange speech and of an hard language, whose words you can not understand. Surely, had I sent you to them, they would have hearkened unto you."},{"reference": "Ezekiel 3:7", "verseNumber": 7, "scripture": "But the house of Israel will not hearken unto you; for they will not hearken unto me: for all the house of Israel are shameless and hardhearted."},{"reference": "Ezekiel 3:8", "verseNumber": 8, "scripture": "Behold, I have made your face strong against their faces, and your forehead strong against their foreheads."},{"reference": "Ezekiel 3:9", "verseNumber": 9, "scripture": "As an adamant harder than flint have I made your forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house."},{"reference": "Ezekiel 3:10", "verseNumber": 10, "scripture": "Moreover he said unto me, Son of man, all my words that I shall speak unto you receive in yours heart, and hear with yours ears."},{"reference": "Ezekiel 3:11", "verseNumber": 11, "scripture": "And go, get you to them of the captivity, unto the children of your people, and speak unto them, and tell them, Thus says the Lord GOD; whether they will hear, or whether they will forbear."},{"reference": "Ezekiel 3:12", "verseNumber": 12, "scripture": "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the LORD from his place."},{"reference": "Ezekiel 3:13", "verseNumber": 13, "scripture": "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels opposite to them, and a noise of a great rushing."},{"reference": "Ezekiel 3:14", "verseNumber": 14, "scripture": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me."},{"reference": "Ezekiel 3:15", "verseNumber": 15, "scripture": "Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days."},{"reference": "Ezekiel 3:16", "verseNumber": 16, "scripture": "And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,"},{"reference": "Ezekiel 3:17", "verseNumber": 17, "scripture": "Son of man, I have made you a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me."},{"reference": "Ezekiel 3:18", "verseNumber": 18, "scripture": "When I say unto the wicked, You shall surely die; and you give him not warning, nor speak to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at yours hand."},{"reference": "Ezekiel 3:19", "verseNumber": 19, "scripture": "Yet if you warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but you have delivered your soul."},{"reference": "Ezekiel 3:20", "verseNumber": 20, "scripture": "Again, When a righteous man does turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because you have not given him warning, he shall die in his sin, and his righteousness which he has done shall not be remembered; but his blood will I require at yours hand."},{"reference": "Ezekiel 3:21", "verseNumber": 21, "scripture": "Nevertheless if you warn the righteous man, that the righteous sin not, and he does not sin, he shall surely live, because he is warned; also you have delivered your soul."},{"reference": "Ezekiel 3:22", "verseNumber": 22, "scripture": "And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with you."},{"reference": "Ezekiel 3:23", "verseNumber": 23, "scripture": "Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face."},{"reference": "Ezekiel 3:24", "verseNumber": 24, "scripture": "Then the spirit entered into me, and set me upon my feet, and spoke with me, and said unto me, Go, shut yourself within yours house."},{"reference": "Ezekiel 3:25", "verseNumber": 25, "scripture": "But you, O son of man, behold, they shall put bands upon you, and shall bind you with them, and you shall not go out among them:"},{"reference": "Ezekiel 3:26", "verseNumber": 26, "scripture": "And I will make your tongue cleave to the roof of your mouth, that you shall be dumb, and shall not be to them a reprover: for they are a rebellious house."},{"reference": "Ezekiel 3:27", "verseNumber": 27, "scripture": "But when I speak with you, I will open your mouth, and you shall say unto them, Thus says the Lord GOD; He that hears, let him hear; and he that forbears, let him forbear: for they are a rebellious house."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezekiel",
+     "bookAbbreviation":  "Eze",
+     "chapterNumber":  3,
+     "verses":  [
+        {
+            "reference":  "Ezekiel 3:1",
+             "verseNumber":  1,
+             "scripture":  "Moreover he said unto me, Son of man, eat that you find; eat this roll, and go speak unto the house of Israel."
+        },
+        {
+            "reference":  "Ezekiel 3:2",
+             "verseNumber":  2,
+             "scripture":  "So I opened my mouth, and he caused me to eat that roll."
+        },
+        {
+            "reference":  "Ezekiel 3:3",
+             "verseNumber":  3,
+             "scripture":  "And he said unto me, Son of man, cause your belly to eat, and fill your bowels with this roll that I give you. Then did I eat it; and it was in my mouth as honey for sweetness."
+        },
+        {
+            "reference":  "Ezekiel 3:4",
+             "verseNumber":  4,
+             "scripture":  "And he said unto me, Son of man, go, get you unto the house of Israel, and speak with my words unto them."
+        },
+        {
+            "reference":  "Ezekiel 3:5",
+             "verseNumber":  5,
+             "scripture":  "For you are not sent to a people of a strange speech and of an hard language, but to the house of Israel;"
+        },
+        {
+            "reference":  "Ezekiel 3:6",
+             "verseNumber":  6,
+             "scripture":  "Not to many people of a strange speech and of an hard language, whose words you can not understand. Surely, had I sent you to them, they would have hearkened unto you."
+        },
+        {
+            "reference":  "Ezekiel 3:7",
+             "verseNumber":  7,
+             "scripture":  "But the house of Israel will not hearken unto you; for they will not hearken unto me: for all the house of Israel are shameless and hardhearted."
+        },
+        {
+            "reference":  "Ezekiel 3:8",
+             "verseNumber":  8,
+             "scripture":  "Behold, I have made your face strong against their faces, and your forehead strong against their foreheads."
+        },
+        {
+            "reference":  "Ezekiel 3:9",
+             "verseNumber":  9,
+             "scripture":  "As an adamant harder than flint have I made your forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house."
+        },
+        {
+            "reference":  "Ezekiel 3:10",
+             "verseNumber":  10,
+             "scripture":  "Moreover he said unto me, Son of man, all my words that I shall speak unto you receive in yours heart, and hear with yours ears."
+        },
+        {
+            "reference":  "Ezekiel 3:11",
+             "verseNumber":  11,
+             "scripture":  "And go, get you to them of the captivity, unto the children of your people, and speak unto them, and tell them, Thus says the Lord GOD; whether they will hear, or whether they will forbear."
+        },
+        {
+            "reference":  "Ezekiel 3:12",
+             "verseNumber":  12,
+             "scripture":  "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the LORD from his place."
+        },
+        {
+            "reference":  "Ezekiel 3:13",
+             "verseNumber":  13,
+             "scripture":  "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels opposite to them, and a noise of a great rushing."
+        },
+        {
+            "reference":  "Ezekiel 3:14",
+             "verseNumber":  14,
+             "scripture":  "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me."
+        },
+        {
+            "reference":  "Ezekiel 3:15",
+             "verseNumber":  15,
+             "scripture":  "Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days."
+        },
+        {
+            "reference":  "Ezekiel 3:16",
+             "verseNumber":  16,
+             "scripture":  "And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,"
+        },
+        {
+            "reference":  "Ezekiel 3:17",
+             "verseNumber":  17,
+             "scripture":  "Son of man, I have made you a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me."
+        },
+        {
+            "reference":  "Ezekiel 3:18",
+             "verseNumber":  18,
+             "scripture":  "When I say unto the wicked, You shall surely die; and you give him not warning, nor speak to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at yours hand."
+        },
+        {
+            "reference":  "Ezekiel 3:19",
+             "verseNumber":  19,
+             "scripture":  "Yet if you warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but you have delivered your soul."
+        },
+        {
+            "reference":  "Ezekiel 3:20",
+             "verseNumber":  20,
+             "scripture":  "Again, When a righteous man does turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because you have not given him warning, he shall die in his sin, and his righteousness which he has done shall not be remembered; but his blood will I require at yours hand."
+        },
+        {
+            "reference":  "Ezekiel 3:21",
+             "verseNumber":  21,
+             "scripture":  "Nevertheless if you warn the righteous man, that the righteous sin not, and he does not sin, he shall surely live, because he is warned; also you have delivered your soul."
+        },
+        {
+            "reference":  "Ezekiel 3:22",
+             "verseNumber":  22,
+             "scripture":  "And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with you."
+        },
+        {
+            "reference":  "Ezekiel 3:23",
+             "verseNumber":  23,
+             "scripture":  "Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face."
+        },
+        {
+            "reference":  "Ezekiel 3:24",
+             "verseNumber":  24,
+             "scripture":  "Then the spirit entered into me, and set me upon my feet, and spoke with me, and said unto me, Go, shut yourself within yours house."
+        },
+        {
+            "reference":  "Ezekiel 3:25",
+             "verseNumber":  25,
+             "scripture":  "But you, O son of man, behold, they shall put bands upon you, and shall bind you with them, and you shall not go out among them:"
+        },
+        {
+            "reference":  "Ezekiel 3:26",
+             "verseNumber":  26,
+             "scripture":  "And I will make your tongue cleave to the roof of your mouth, that you shall be dumb, and shall not be to them a reprover: for they are a rebellious house."
+        },
+        {
+            "reference":  "Ezekiel 3:27",
+             "verseNumber":  27,
+             "scripture":  "But when I speak with you, I will open your mouth, and you shall say unto them, Thus says the Lord GOD; He that hears, let him hear; and he that forbears, let him forbear: for they are a rebellious house."
+        }
+    ]
+}

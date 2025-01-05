@@ -1,1 +1,160 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Numbers", "bookAbbreviation": "Num", "chapterNumber": 34, "verses": [{"reference": "Numbers 34:1", "verseNumber": 1, "scripture": "And the LORD spoke unto Moses, saying,"},{"reference": "Numbers 34:2", "verseNumber": 2, "scripture": "Command the children of Israel, and say unto them, When all of you come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)"},{"reference": "Numbers 34:3", "verseNumber": 3, "scripture": "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the utmost coast of the salt sea eastward:"},{"reference": "Numbers 34:4", "verseNumber": 4, "scripture": "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:"},{"reference": "Numbers 34:5", "verseNumber": 5, "scripture": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the activities out of it shall be at the sea."},{"reference": "Numbers 34:6", "verseNumber": 6, "scripture": "And as for the western border, all of you shall even have the great sea for a border: this shall be your west border."},{"reference": "Numbers 34:7", "verseNumber": 7, "scripture": "And this shall be your north border: from the great sea all of you shall point out for you mount Hor:"},{"reference": "Numbers 34:8", "verseNumber": 8, "scripture": "From mount Hor all of you shall point out your border unto the entrance of Hamath; and the activities out of the border shall be to Zedad:"},{"reference": "Numbers 34:9", "verseNumber": 9, "scripture": "And the border shall go on to Ziphron, and the activities out of it shall be at Hazarenan: this shall be your north border."},{"reference": "Numbers 34:10", "verseNumber": 10, "scripture": "And all of you shall point out your east border from Hazarenan to Shepham:"},{"reference": "Numbers 34:11", "verseNumber": 11, "scripture": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:"},{"reference": "Numbers 34:12", "verseNumber": 12, "scripture": "And the border shall go down to Jordan, and the activities out of it shall be at the salt sea: this shall be your land with the coasts thereof round about."},{"reference": "Numbers 34:13", "verseNumber": 13, "scripture": "And Moses commanded the children of Israel, saying, This is the land which all of you shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:"},{"reference": "Numbers 34:14", "verseNumber": 14, "scripture": "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:"},{"reference": "Numbers 34:15", "verseNumber": 15, "scripture": "The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising."},{"reference": "Numbers 34:16", "verseNumber": 16, "scripture": "And the LORD spoke unto Moses, saying,"},{"reference": "Numbers 34:17", "verseNumber": 17, "scripture": "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun."},{"reference": "Numbers 34:18", "verseNumber": 18, "scripture": "And all of you shall take one prince of every tribe, to divide the land by inheritance."},{"reference": "Numbers 34:19", "verseNumber": 19, "scripture": "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh."},{"reference": "Numbers 34:20", "verseNumber": 20, "scripture": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud."},{"reference": "Numbers 34:21", "verseNumber": 21, "scripture": "Of the tribe of Benjamin, Elidad the son of Chislon."},{"reference": "Numbers 34:22", "verseNumber": 22, "scripture": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli."},{"reference": "Numbers 34:23", "verseNumber": 23, "scripture": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."},{"reference": "Numbers 34:24", "verseNumber": 24, "scripture": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan."},{"reference": "Numbers 34:25", "verseNumber": 25, "scripture": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach."},{"reference": "Numbers 34:26", "verseNumber": 26, "scripture": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan."},{"reference": "Numbers 34:27", "verseNumber": 27, "scripture": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."},{"reference": "Numbers 34:28", "verseNumber": 28, "scripture": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."},{"reference": "Numbers 34:29", "verseNumber": 29, "scripture": "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Numbers",
+     "bookAbbreviation":  "Num",
+     "chapterNumber":  34,
+     "verses":  [
+        {
+            "reference":  "Numbers 34:1",
+             "verseNumber":  1,
+             "scripture":  "And the LORD spoke unto Moses, saying,"
+        },
+        {
+            "reference":  "Numbers 34:2",
+             "verseNumber":  2,
+             "scripture":  "Command the children of Israel, and say unto them, When all of you come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)"
+        },
+        {
+            "reference":  "Numbers 34:3",
+             "verseNumber":  3,
+             "scripture":  "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the utmost coast of the salt sea eastward:"
+        },
+        {
+            "reference":  "Numbers 34:4",
+             "verseNumber":  4,
+             "scripture":  "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:"
+        },
+        {
+            "reference":  "Numbers 34:5",
+             "verseNumber":  5,
+             "scripture":  "And the border shall fetch a compass from Azmon unto the river of Egypt, and the activities out of it shall be at the sea."
+        },
+        {
+            "reference":  "Numbers 34:6",
+             "verseNumber":  6,
+             "scripture":  "And as for the western border, all of you shall even have the great sea for a border: this shall be your west border."
+        },
+        {
+            "reference":  "Numbers 34:7",
+             "verseNumber":  7,
+             "scripture":  "And this shall be your north border: from the great sea all of you shall point out for you mount Hor:"
+        },
+        {
+            "reference":  "Numbers 34:8",
+             "verseNumber":  8,
+             "scripture":  "From mount Hor all of you shall point out your border unto the entrance of Hamath; and the activities out of the border shall be to Zedad:"
+        },
+        {
+            "reference":  "Numbers 34:9",
+             "verseNumber":  9,
+             "scripture":  "And the border shall go on to Ziphron, and the activities out of it shall be at Hazarenan: this shall be your north border."
+        },
+        {
+            "reference":  "Numbers 34:10",
+             "verseNumber":  10,
+             "scripture":  "And all of you shall point out your east border from Hazarenan to Shepham:"
+        },
+        {
+            "reference":  "Numbers 34:11",
+             "verseNumber":  11,
+             "scripture":  "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:"
+        },
+        {
+            "reference":  "Numbers 34:12",
+             "verseNumber":  12,
+             "scripture":  "And the border shall go down to Jordan, and the activities out of it shall be at the salt sea: this shall be your land with the coasts thereof round about."
+        },
+        {
+            "reference":  "Numbers 34:13",
+             "verseNumber":  13,
+             "scripture":  "And Moses commanded the children of Israel, saying, This is the land which all of you shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:"
+        },
+        {
+            "reference":  "Numbers 34:14",
+             "verseNumber":  14,
+             "scripture":  "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:"
+        },
+        {
+            "reference":  "Numbers 34:15",
+             "verseNumber":  15,
+             "scripture":  "The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising."
+        },
+        {
+            "reference":  "Numbers 34:16",
+             "verseNumber":  16,
+             "scripture":  "And the LORD spoke unto Moses, saying,"
+        },
+        {
+            "reference":  "Numbers 34:17",
+             "verseNumber":  17,
+             "scripture":  "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun."
+        },
+        {
+            "reference":  "Numbers 34:18",
+             "verseNumber":  18,
+             "scripture":  "And all of you shall take one prince of every tribe, to divide the land by inheritance."
+        },
+        {
+            "reference":  "Numbers 34:19",
+             "verseNumber":  19,
+             "scripture":  "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh."
+        },
+        {
+            "reference":  "Numbers 34:20",
+             "verseNumber":  20,
+             "scripture":  "And of the tribe of the children of Simeon, Shemuel the son of Ammihud."
+        },
+        {
+            "reference":  "Numbers 34:21",
+             "verseNumber":  21,
+             "scripture":  "Of the tribe of Benjamin, Elidad the son of Chislon."
+        },
+        {
+            "reference":  "Numbers 34:22",
+             "verseNumber":  22,
+             "scripture":  "And the prince of the tribe of the children of Dan, Bukki the son of Jogli."
+        },
+        {
+            "reference":  "Numbers 34:23",
+             "verseNumber":  23,
+             "scripture":  "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod."
+        },
+        {
+            "reference":  "Numbers 34:24",
+             "verseNumber":  24,
+             "scripture":  "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan."
+        },
+        {
+            "reference":  "Numbers 34:25",
+             "verseNumber":  25,
+             "scripture":  "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach."
+        },
+        {
+            "reference":  "Numbers 34:26",
+             "verseNumber":  26,
+             "scripture":  "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan."
+        },
+        {
+            "reference":  "Numbers 34:27",
+             "verseNumber":  27,
+             "scripture":  "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."
+        },
+        {
+            "reference":  "Numbers 34:28",
+             "verseNumber":  28,
+             "scripture":  "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."
+        },
+        {
+            "reference":  "Numbers 34:29",
+             "verseNumber":  29,
+             "scripture":  "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan."
+        }
+    ]
+}

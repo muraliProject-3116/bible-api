@@ -1,1 +1,45 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 25, "verses": [{"reference": "Job 25:1", "verseNumber": 1, "scripture": "Then answered Bildad the Shuhite, and said,"},{"reference": "Job 25:2", "verseNumber": 2, "scripture": "Dominion and fear are with him, he makes peace in his high places."},{"reference": "Job 25:3", "verseNumber": 3, "scripture": "Is there any number of his armies? and upon whom does not his light arise?"},{"reference": "Job 25:4", "verseNumber": 4, "scripture": "How then can man be justified with God? or how can he be clean that is born of a woman?"},{"reference": "Job 25:5", "verseNumber": 5, "scripture": "Behold even to the moon, and it shines not; yea, the stars are not pure in his sight."},{"reference": "Job 25:6", "verseNumber": 6, "scripture": "How much less man, that is a worm? and the son of man, which is a worm?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  25,
+     "verses":  [
+        {
+            "reference":  "Job 25:1",
+             "verseNumber":  1,
+             "scripture":  "Then answered Bildad the Shuhite, and said,"
+        },
+        {
+            "reference":  "Job 25:2",
+             "verseNumber":  2,
+             "scripture":  "Dominion and fear are with him, he makes peace in his high places."
+        },
+        {
+            "reference":  "Job 25:3",
+             "verseNumber":  3,
+             "scripture":  "Is there any number of his armies? and upon whom does not his light arise?"
+        },
+        {
+            "reference":  "Job 25:4",
+             "verseNumber":  4,
+             "scripture":  "How then can man be justified with God? or how can he be clean that is born of a woman?"
+        },
+        {
+            "reference":  "Job 25:5",
+             "verseNumber":  5,
+             "scripture":  "Behold even to the moon, and it shines not; yea, the stars are not pure in his sight."
+        },
+        {
+            "reference":  "Job 25:6",
+             "verseNumber":  6,
+             "scripture":  "How much less man, that is a worm? and the son of man, which is a worm?"
+        }
+    ]
+}

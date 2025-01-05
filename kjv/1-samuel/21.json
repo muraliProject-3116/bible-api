@@ -1,1 +1,90 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Samuel", "bookAbbreviation": "1 Sam", "chapterNumber": 21, "verses": [{"reference": "1 Samuel 21:1", "verseNumber": 1, "scripture": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why are you alone, and no man with you?"},{"reference": "1 Samuel 21:2", "verseNumber": 2, "scripture": "And David said unto Ahimelech the priest, The king has commanded me a business, and has said unto me, Let no man know any thing of the business whereabouts I send you, and what I have commanded you: and I have appointed my servants to such and such a place."},{"reference": "1 Samuel 21:3", "verseNumber": 3, "scripture": "Now therefore what is under yours hand? give me five loaves of bread in mine hand, or what there is present."},{"reference": "1 Samuel 21:4", "verseNumber": 4, "scripture": "And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women."},{"reference": "1 Samuel 21:5", "verseNumber": 5, "scripture": "And David answered the priest, and said unto him, Truthfully women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel."},{"reference": "1 Samuel 21:6", "verseNumber": 6, "scripture": "So the priest gave him hallowed bread: for there was no bread there but the showbread, that was taken from before the LORD, to put hot bread in the day when it was taken away."},{"reference": "1 Samuel 21:7", "verseNumber": 7, "scripture": "Now a certain man of the servants of Saul was there that day, detained before the LORD; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul."},{"reference": "1 Samuel 21:8", "verseNumber": 8, "scripture": "And David said unto Ahimelech, And is there not here under yours hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste."},{"reference": "1 Samuel 21:9", "verseNumber": 9, "scripture": "And the priest said, The sword of Goliath the Philistine, whom you slew in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me."},{"reference": "1 Samuel 21:10", "verseNumber": 10, "scripture": "And David arose and fled that day for fear of Saul, and went to Achish the king of Gath."},{"reference": "1 Samuel 21:11", "verseNumber": 11, "scripture": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul has slain his thousands, and David his ten thousands?"},{"reference": "1 Samuel 21:12", "verseNumber": 12, "scripture": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath."},{"reference": "1 Samuel 21:13", "verseNumber": 13, "scripture": "And he changed his behaviour before them, and feigned himself mad in their hands, and scratch on the doors of the gate, and let his spittle fall down upon his beard."},{"reference": "1 Samuel 21:14", "verseNumber": 14, "scripture": "Then said Achish unto his servants, Lo, all of you see the man is mad: wherefore then have all of you brought him to me?"},{"reference": "1 Samuel 21:15", "verseNumber": 15, "scripture": "Have I need of mad men, that all of you have brought this fellow to play the mad man in my presence? shall this fellow come into my house?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Samuel",
+     "bookAbbreviation":  "1 Sam",
+     "chapterNumber":  21,
+     "verses":  [
+        {
+            "reference":  "1 Samuel 21:1",
+             "verseNumber":  1,
+             "scripture":  "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why are you alone, and no man with you?"
+        },
+        {
+            "reference":  "1 Samuel 21:2",
+             "verseNumber":  2,
+             "scripture":  "And David said unto Ahimelech the priest, The king has commanded me a business, and has said unto me, Let no man know any thing of the business whereabouts I send you, and what I have commanded you: and I have appointed my servants to such and such a place."
+        },
+        {
+            "reference":  "1 Samuel 21:3",
+             "verseNumber":  3,
+             "scripture":  "Now therefore what is under yours hand? give me five loaves of bread in mine hand, or what there is present."
+        },
+        {
+            "reference":  "1 Samuel 21:4",
+             "verseNumber":  4,
+             "scripture":  "And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women."
+        },
+        {
+            "reference":  "1 Samuel 21:5",
+             "verseNumber":  5,
+             "scripture":  "And David answered the priest, and said unto him, Truthfully women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel."
+        },
+        {
+            "reference":  "1 Samuel 21:6",
+             "verseNumber":  6,
+             "scripture":  "So the priest gave him hallowed bread: for there was no bread there but the showbread, that was taken from before the LORD, to put hot bread in the day when it was taken away."
+        },
+        {
+            "reference":  "1 Samuel 21:7",
+             "verseNumber":  7,
+             "scripture":  "Now a certain man of the servants of Saul was there that day, detained before the LORD; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul."
+        },
+        {
+            "reference":  "1 Samuel 21:8",
+             "verseNumber":  8,
+             "scripture":  "And David said unto Ahimelech, And is there not here under yours hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste."
+        },
+        {
+            "reference":  "1 Samuel 21:9",
+             "verseNumber":  9,
+             "scripture":  "And the priest said, The sword of Goliath the Philistine, whom you slew in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me."
+        },
+        {
+            "reference":  "1 Samuel 21:10",
+             "verseNumber":  10,
+             "scripture":  "And David arose and fled that day for fear of Saul, and went to Achish the king of Gath."
+        },
+        {
+            "reference":  "1 Samuel 21:11",
+             "verseNumber":  11,
+             "scripture":  "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul has slain his thousands, and David his ten thousands?"
+        },
+        {
+            "reference":  "1 Samuel 21:12",
+             "verseNumber":  12,
+             "scripture":  "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath."
+        },
+        {
+            "reference":  "1 Samuel 21:13",
+             "verseNumber":  13,
+             "scripture":  "And he changed his behaviour before them, and feigned himself mad in their hands, and scratch on the doors of the gate, and let his spittle fall down upon his beard."
+        },
+        {
+            "reference":  "1 Samuel 21:14",
+             "verseNumber":  14,
+             "scripture":  "Then said Achish unto his servants, Lo, all of you see the man is mad: wherefore then have all of you brought him to me?"
+        },
+        {
+            "reference":  "1 Samuel 21:15",
+             "verseNumber":  15,
+             "scripture":  "Have I need of mad men, that all of you have brought this fellow to play the mad man in my presence? shall this fellow come into my house?"
+        }
+    ]
+}

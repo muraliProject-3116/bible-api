@@ -1,1 +1,115 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Deuteronomy", "bookAbbreviation": "Deu", "chapterNumber": 17, "verses": [{"reference": "Deuteronomy 17:1", "verseNumber": 1, "scripture": "You shall not sacrifice unto the LORD your God any bullock, or sheep, wherein is blemish, or any evil thing: for that is an abomination unto the LORD your God."},{"reference": "Deuteronomy 17:2", "verseNumber": 2, "scripture": "If there be found among you, within any of your gates which the LORD your God gives you, man or woman, that has wrought wickedness in the sight of the LORD your God, in transgressing his covenant,"},{"reference": "Deuteronomy 17:3", "verseNumber": 3, "scripture": "And has gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;"},{"reference": "Deuteronomy 17:4", "verseNumber": 4, "scripture": "And it be told you, and you have heard of it, and enquired diligently, and, behold, it be true, and the thing certain, that such abomination is wrought in Israel:"},{"reference": "Deuteronomy 17:5", "verseNumber": 5, "scripture": "Then shall you bring forth that man or that woman, which have committed that wicked thing, unto your gates, even that man or that woman, and shall stone them with stones, till they die."},{"reference": "Deuteronomy 17:6", "verseNumber": 6, "scripture": "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death."},{"reference": "Deuteronomy 17:7", "verseNumber": 7, "scripture": "The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people. So you shall put the evil away from among you."},{"reference": "Deuteronomy 17:8", "verseNumber": 8, "scripture": "If there arise a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates: then shall you arise, and get you up into the place which the LORD your God shall choose;"},{"reference": "Deuteronomy 17:9", "verseNumber": 9, "scripture": "And you shall come unto the priests the Levites, and unto the judge that shall be in those days, and enquire; and they shall show you the sentence of judgment:"},{"reference": "Deuteronomy 17:10", "verseNumber": 10, "scripture": "And you shall do according to the sentence, which they of that place which the LORD shall choose shall show you; and you shall observe to do according to all that they inform you:"},{"reference": "Deuteronomy 17:11", "verseNumber": 11, "scripture": "According to the sentence of the law which they shall teach you, and according to the judgment which they shall tell you, you shall do: you shall not decline from the sentence which they shall show you, to the right hand, nor to the left."},{"reference": "Deuteronomy 17:12", "verseNumber": 12, "scripture": "And the man that will do presumptuously, and will not hearken unto the priest that stands to minister there before the LORD your God, or unto the judge, even that man shall die: and you shall put away the evil from Israel."},{"reference": "Deuteronomy 17:13", "verseNumber": 13, "scripture": "And all the people shall hear, and fear, and do no more presumptuously."},{"reference": "Deuteronomy 17:14", "verseNumber": 14, "scripture": "When you are come unto the land which the LORD your God gives you, and shall possess it, and shall dwell therein, and shall say, I will set a king over me, like all the nations that are about me;"},{"reference": "Deuteronomy 17:15", "verseNumber": 15, "scripture": "You shall in any way set him king over you, whom the LORD your God shall choose: one from among your brethren shall you set king over you: you may not set a stranger over you, which is not your brother."},{"reference": "Deuteronomy 17:16", "verseNumber": 16, "scripture": "But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD has said unto you, All of you shall henceforth return no more that way."},{"reference": "Deuteronomy 17:17", "verseNumber": 17, "scripture": "Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold."},{"reference": "Deuteronomy 17:18", "verseNumber": 18, "scripture": "And it shall be, when he sits upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:"},{"reference": "Deuteronomy 17:19", "verseNumber": 19, "scripture": "And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:"},{"reference": "Deuteronomy 17:20", "verseNumber": 20, "scripture": "That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he, and his children, in the midst of Israel."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Deuteronomy",
+     "bookAbbreviation":  "Deu",
+     "chapterNumber":  17,
+     "verses":  [
+        {
+            "reference":  "Deuteronomy 17:1",
+             "verseNumber":  1,
+             "scripture":  "You shall not sacrifice unto the LORD your God any bullock, or sheep, wherein is blemish, or any evil thing: for that is an abomination unto the LORD your God."
+        },
+        {
+            "reference":  "Deuteronomy 17:2",
+             "verseNumber":  2,
+             "scripture":  "If there be found among you, within any of your gates which the LORD your God gives you, man or woman, that has wrought wickedness in the sight of the LORD your God, in transgressing his covenant,"
+        },
+        {
+            "reference":  "Deuteronomy 17:3",
+             "verseNumber":  3,
+             "scripture":  "And has gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;"
+        },
+        {
+            "reference":  "Deuteronomy 17:4",
+             "verseNumber":  4,
+             "scripture":  "And it be told you, and you have heard of it, and enquired diligently, and, behold, it be true, and the thing certain, that such abomination is wrought in Israel:"
+        },
+        {
+            "reference":  "Deuteronomy 17:5",
+             "verseNumber":  5,
+             "scripture":  "Then shall you bring forth that man or that woman, which have committed that wicked thing, unto your gates, even that man or that woman, and shall stone them with stones, till they die."
+        },
+        {
+            "reference":  "Deuteronomy 17:6",
+             "verseNumber":  6,
+             "scripture":  "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death."
+        },
+        {
+            "reference":  "Deuteronomy 17:7",
+             "verseNumber":  7,
+             "scripture":  "The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people. So you shall put the evil away from among you."
+        },
+        {
+            "reference":  "Deuteronomy 17:8",
+             "verseNumber":  8,
+             "scripture":  "If there arise a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates: then shall you arise, and get you up into the place which the LORD your God shall choose;"
+        },
+        {
+            "reference":  "Deuteronomy 17:9",
+             "verseNumber":  9,
+             "scripture":  "And you shall come unto the priests the Levites, and unto the judge that shall be in those days, and enquire; and they shall show you the sentence of judgment:"
+        },
+        {
+            "reference":  "Deuteronomy 17:10",
+             "verseNumber":  10,
+             "scripture":  "And you shall do according to the sentence, which they of that place which the LORD shall choose shall show you; and you shall observe to do according to all that they inform you:"
+        },
+        {
+            "reference":  "Deuteronomy 17:11",
+             "verseNumber":  11,
+             "scripture":  "According to the sentence of the law which they shall teach you, and according to the judgment which they shall tell you, you shall do: you shall not decline from the sentence which they shall show you, to the right hand, nor to the left."
+        },
+        {
+            "reference":  "Deuteronomy 17:12",
+             "verseNumber":  12,
+             "scripture":  "And the man that will do presumptuously, and will not hearken unto the priest that stands to minister there before the LORD your God, or unto the judge, even that man shall die: and you shall put away the evil from Israel."
+        },
+        {
+            "reference":  "Deuteronomy 17:13",
+             "verseNumber":  13,
+             "scripture":  "And all the people shall hear, and fear, and do no more presumptuously."
+        },
+        {
+            "reference":  "Deuteronomy 17:14",
+             "verseNumber":  14,
+             "scripture":  "When you are come unto the land which the LORD your God gives you, and shall possess it, and shall dwell therein, and shall say, I will set a king over me, like all the nations that are about me;"
+        },
+        {
+            "reference":  "Deuteronomy 17:15",
+             "verseNumber":  15,
+             "scripture":  "You shall in any way set him king over you, whom the LORD your God shall choose: one from among your brethren shall you set king over you: you may not set a stranger over you, which is not your brother."
+        },
+        {
+            "reference":  "Deuteronomy 17:16",
+             "verseNumber":  16,
+             "scripture":  "But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD has said unto you, All of you shall henceforth return no more that way."
+        },
+        {
+            "reference":  "Deuteronomy 17:17",
+             "verseNumber":  17,
+             "scripture":  "Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold."
+        },
+        {
+            "reference":  "Deuteronomy 17:18",
+             "verseNumber":  18,
+             "scripture":  "And it shall be, when he sits upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:"
+        },
+        {
+            "reference":  "Deuteronomy 17:19",
+             "verseNumber":  19,
+             "scripture":  "And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:"
+        },
+        {
+            "reference":  "Deuteronomy 17:20",
+             "verseNumber":  20,
+             "scripture":  "That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he, and his children, in the midst of Israel."
+        }
+    ]
+}

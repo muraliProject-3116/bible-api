@@ -1,1 +1,105 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "2 Kings", "bookAbbreviation": "2 Kin", "chapterNumber": 1, "verses": [{"reference": "2 Kings 1:1", "verseNumber": 1, "scripture": "Then Moab rebelled against Israel after the death of Ahab."},{"reference": "2 Kings 1:2", "verseNumber": 2, "scripture": "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease."},{"reference": "2 Kings 1:3", "verseNumber": 3, "scripture": "But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that all of you go to enquire of Baalzebub the god of Ekron?"},{"reference": "2 Kings 1:4", "verseNumber": 4, "scripture": "Now therefore thus says the LORD, You shall not come down from that bed on which you are gone up, but shall surely die. And Elijah departed."},{"reference": "2 Kings 1:5", "verseNumber": 5, "scripture": "And when the messengers turned back unto him, he said unto them, Why are all of you now turned back?"},{"reference": "2 Kings 1:6", "verseNumber": 6, "scripture": "And they said unto him, There came a man up to meet us, and said unto us, Go, return unto the king that sent you, and say unto him, Thus says the LORD, Is it not because there is not a God in Israel, that you send to enquire of Baalzebub the god of Ekron? therefore you shall not come down from that bed on which you are gone up, but shall surely die."},{"reference": "2 Kings 1:7", "verseNumber": 7, "scripture": "And he said unto them, What manner of man was he which came up to meet you, and told you these words?"},{"reference": "2 Kings 1:8", "verseNumber": 8, "scripture": "And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite."},{"reference": "2 Kings 1:9", "verseNumber": 9, "scripture": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spoke unto him, You man of God, the king has said, Come down."},{"reference": "2 Kings 1:10", "verseNumber": 10, "scripture": "And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume you and your fifty. And there came down fire from heaven, and consumed him and his fifty."},{"reference": "2 Kings 1:11", "verseNumber": 11, "scripture": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus has the king said, Come down quickly."},{"reference": "2 Kings 1:12", "verseNumber": 12, "scripture": "And Elijah answered and said unto them, If I be a man of God, let fire come down from heaven, and consume you and your fifty. And the fire of God came down from heaven, and consumed him and his fifty."},{"reference": "2 Kings 1:13", "verseNumber": 13, "scripture": "And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray you, let my life, and the life of these fifty your servants, be precious in your sight."},{"reference": "2 Kings 1:14", "verseNumber": 14, "scripture": "Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in your sight."},{"reference": "2 Kings 1:15", "verseNumber": 15, "scripture": "And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king."},{"reference": "2 Kings 1:16", "verseNumber": 16, "scripture": "And he said unto him, Thus says the LORD, Forasmuch as you have sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore you shall not come down off that bed on which you are gone up, but shall surely die."},{"reference": "2 Kings 1:17", "verseNumber": 17, "scripture": "So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his position in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son."},{"reference": "2 Kings 1:18", "verseNumber": 18, "scripture": "Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?"}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "2 Kings",
+     "bookAbbreviation":  "2 Kin",
+     "chapterNumber":  1,
+     "verses":  [
+        {
+            "reference":  "2 Kings 1:1",
+             "verseNumber":  1,
+             "scripture":  "Then Moab rebelled against Israel after the death of Ahab."
+        },
+        {
+            "reference":  "2 Kings 1:2",
+             "verseNumber":  2,
+             "scripture":  "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease."
+        },
+        {
+            "reference":  "2 Kings 1:3",
+             "verseNumber":  3,
+             "scripture":  "But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that all of you go to enquire of Baalzebub the god of Ekron?"
+        },
+        {
+            "reference":  "2 Kings 1:4",
+             "verseNumber":  4,
+             "scripture":  "Now therefore thus says the LORD, You shall not come down from that bed on which you are gone up, but shall surely die. And Elijah departed."
+        },
+        {
+            "reference":  "2 Kings 1:5",
+             "verseNumber":  5,
+             "scripture":  "And when the messengers turned back unto him, he said unto them, Why are all of you now turned back?"
+        },
+        {
+            "reference":  "2 Kings 1:6",
+             "verseNumber":  6,
+             "scripture":  "And they said unto him, There came a man up to meet us, and said unto us, Go, return unto the king that sent you, and say unto him, Thus says the LORD, Is it not because there is not a God in Israel, that you send to enquire of Baalzebub the god of Ekron? therefore you shall not come down from that bed on which you are gone up, but shall surely die."
+        },
+        {
+            "reference":  "2 Kings 1:7",
+             "verseNumber":  7,
+             "scripture":  "And he said unto them, What manner of man was he which came up to meet you, and told you these words?"
+        },
+        {
+            "reference":  "2 Kings 1:8",
+             "verseNumber":  8,
+             "scripture":  "And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite."
+        },
+        {
+            "reference":  "2 Kings 1:9",
+             "verseNumber":  9,
+             "scripture":  "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spoke unto him, You man of God, the king has said, Come down."
+        },
+        {
+            "reference":  "2 Kings 1:10",
+             "verseNumber":  10,
+             "scripture":  "And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume you and your fifty. And there came down fire from heaven, and consumed him and his fifty."
+        },
+        {
+            "reference":  "2 Kings 1:11",
+             "verseNumber":  11,
+             "scripture":  "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus has the king said, Come down quickly."
+        },
+        {
+            "reference":  "2 Kings 1:12",
+             "verseNumber":  12,
+             "scripture":  "And Elijah answered and said unto them, If I be a man of God, let fire come down from heaven, and consume you and your fifty. And the fire of God came down from heaven, and consumed him and his fifty."
+        },
+        {
+            "reference":  "2 Kings 1:13",
+             "verseNumber":  13,
+             "scripture":  "And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray you, let my life, and the life of these fifty your servants, be precious in your sight."
+        },
+        {
+            "reference":  "2 Kings 1:14",
+             "verseNumber":  14,
+             "scripture":  "Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in your sight."
+        },
+        {
+            "reference":  "2 Kings 1:15",
+             "verseNumber":  15,
+             "scripture":  "And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king."
+        },
+        {
+            "reference":  "2 Kings 1:16",
+             "verseNumber":  16,
+             "scripture":  "And he said unto him, Thus says the LORD, Forasmuch as you have sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore you shall not come down off that bed on which you are gone up, but shall surely die."
+        },
+        {
+            "reference":  "2 Kings 1:17",
+             "verseNumber":  17,
+             "scripture":  "So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his position in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son."
+        },
+        {
+            "reference":  "2 Kings 1:18",
+             "verseNumber":  18,
+             "scripture":  "Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?"
+        }
+    ]
+}

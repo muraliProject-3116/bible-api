@@ -1,1 +1,180 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Job", "bookAbbreviation": "Job", "chapterNumber": 36, "verses": [{"reference": "Job 36:1", "verseNumber": 1, "scripture": "Elihu also proceeded, and said,"},{"reference": "Job 36:2", "verseNumber": 2, "scripture": "Suffer me a little, and I will show you that I have yet to speak on God's behalf."},{"reference": "Job 36:3", "verseNumber": 3, "scripture": "I will fetch my knowledge from far, and will ascribe righteousness to my Maker."},{"reference": "Job 36:4", "verseNumber": 4, "scripture": "For truly my words shall not be false: he that is perfect in knowledge is with you."},{"reference": "Job 36:5", "verseNumber": 5, "scripture": "Behold, God is mighty, and despises not any: he is mighty in strength and wisdom."},{"reference": "Job 36:6", "verseNumber": 6, "scripture": "He perserves not the life of the wicked: but gives right to the poor."},{"reference": "Job 36:7", "verseNumber": 7, "scripture": "He withdraws not his eyes from the righteous: but with kings are they on the throne; yea, he does establish them for ever, and they are exalted."},{"reference": "Job 36:8", "verseNumber": 8, "scripture": "And if they be bound in fetters, and be held in cords of affliction;"},{"reference": "Job 36:9", "verseNumber": 9, "scripture": "Then he shows them their work, and their transgressions that they have exceeded."},{"reference": "Job 36:10", "verseNumber": 10, "scripture": "He opens also their ear to discipline, and commands that they return from iniquity."},{"reference": "Job 36:11", "verseNumber": 11, "scripture": "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."},{"reference": "Job 36:12", "verseNumber": 12, "scripture": "But if they obey not, they shall perish by the sword, and they shall die without knowledge."},{"reference": "Job 36:13", "verseNumber": 13, "scripture": "But the hypocrites in heart heap up wrath: they cry not when he binds them."},{"reference": "Job 36:14", "verseNumber": 14, "scripture": "They die in youth, and their life is among the unclean."},{"reference": "Job 36:15", "verseNumber": 15, "scripture": "He delivers the poor in his affliction, and opens their ears in oppression."},{"reference": "Job 36:16", "verseNumber": 16, "scripture": "Even so would he have removed you out of the strait into a broad place, where there is no strictness; and that which should be set on your table should be full of fatness."},{"reference": "Job 36:17", "verseNumber": 17, "scripture": "But you have fulfilled the judgment of the wicked: judgment and justice take hold on you."},{"reference": "Job 36:18", "verseNumber": 18, "scripture": "Because there is wrath, beware lest he take you away with his stroke: then a great ransom cannot deliver you."},{"reference": "Job 36:19", "verseNumber": 19, "scripture": "Will he esteem your riches? no, not gold, nor all the forces of strength."},{"reference": "Job 36:20", "verseNumber": 20, "scripture": "Desire not the night, when people are cut off in their place."},{"reference": "Job 36:21", "verseNumber": 21, "scripture": "Take heed, regard not iniquity: for this have you chosen rather than affliction."},{"reference": "Job 36:22", "verseNumber": 22, "scripture": "Behold, God exalts by his power: who teaches like him?"},{"reference": "Job 36:23", "verseNumber": 23, "scripture": "Who has commanded with authority him his way? or who can say, You have wrought iniquity?"},{"reference": "Job 36:24", "verseNumber": 24, "scripture": "Remember that you magnify his work, which men behold."},{"reference": "Job 36:25", "verseNumber": 25, "scripture": "Every man may see it; man may behold it far off."},{"reference": "Job 36:26", "verseNumber": 26, "scripture": "Behold, God is great, and we know him not, neither can the number of his years be searched out."},{"reference": "Job 36:27", "verseNumber": 27, "scripture": "For he makes small the drops of water: they pour down rain according to the vapour thereof:"},{"reference": "Job 36:28", "verseNumber": 28, "scripture": "Which the clouds do drop and distil upon man abundantly."},{"reference": "Job 36:29", "verseNumber": 29, "scripture": "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?"},{"reference": "Job 36:30", "verseNumber": 30, "scripture": "Behold, he spreads his light upon it, and covers the bottom of the sea."},{"reference": "Job 36:31", "verseNumber": 31, "scripture": "For by them judges he the people; he gives food in abundance."},{"reference": "Job 36:32", "verseNumber": 32, "scripture": "With clouds he covers the light; and commands it not to shine by the cloud that comes between."},{"reference": "Job 36:33", "verseNumber": 33, "scripture": "The noise thereof shows concerning it, the cattle also concerning the vapour."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Job",
+     "bookAbbreviation":  "Job",
+     "chapterNumber":  36,
+     "verses":  [
+        {
+            "reference":  "Job 36:1",
+             "verseNumber":  1,
+             "scripture":  "Elihu also proceeded, and said,"
+        },
+        {
+            "reference":  "Job 36:2",
+             "verseNumber":  2,
+             "scripture":  "Suffer me a little, and I will show you that I have yet to speak on God's behalf."
+        },
+        {
+            "reference":  "Job 36:3",
+             "verseNumber":  3,
+             "scripture":  "I will fetch my knowledge from far, and will ascribe righteousness to my Maker."
+        },
+        {
+            "reference":  "Job 36:4",
+             "verseNumber":  4,
+             "scripture":  "For truly my words shall not be false: he that is perfect in knowledge is with you."
+        },
+        {
+            "reference":  "Job 36:5",
+             "verseNumber":  5,
+             "scripture":  "Behold, God is mighty, and despises not any: he is mighty in strength and wisdom."
+        },
+        {
+            "reference":  "Job 36:6",
+             "verseNumber":  6,
+             "scripture":  "He perserves not the life of the wicked: but gives right to the poor."
+        },
+        {
+            "reference":  "Job 36:7",
+             "verseNumber":  7,
+             "scripture":  "He withdraws not his eyes from the righteous: but with kings are they on the throne; yea, he does establish them for ever, and they are exalted."
+        },
+        {
+            "reference":  "Job 36:8",
+             "verseNumber":  8,
+             "scripture":  "And if they be bound in fetters, and be held in cords of affliction;"
+        },
+        {
+            "reference":  "Job 36:9",
+             "verseNumber":  9,
+             "scripture":  "Then he shows them their work, and their transgressions that they have exceeded."
+        },
+        {
+            "reference":  "Job 36:10",
+             "verseNumber":  10,
+             "scripture":  "He opens also their ear to discipline, and commands that they return from iniquity."
+        },
+        {
+            "reference":  "Job 36:11",
+             "verseNumber":  11,
+             "scripture":  "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."
+        },
+        {
+            "reference":  "Job 36:12",
+             "verseNumber":  12,
+             "scripture":  "But if they obey not, they shall perish by the sword, and they shall die without knowledge."
+        },
+        {
+            "reference":  "Job 36:13",
+             "verseNumber":  13,
+             "scripture":  "But the hypocrites in heart heap up wrath: they cry not when he binds them."
+        },
+        {
+            "reference":  "Job 36:14",
+             "verseNumber":  14,
+             "scripture":  "They die in youth, and their life is among the unclean."
+        },
+        {
+            "reference":  "Job 36:15",
+             "verseNumber":  15,
+             "scripture":  "He delivers the poor in his affliction, and opens their ears in oppression."
+        },
+        {
+            "reference":  "Job 36:16",
+             "verseNumber":  16,
+             "scripture":  "Even so would he have removed you out of the strait into a broad place, where there is no strictness; and that which should be set on your table should be full of fatness."
+        },
+        {
+            "reference":  "Job 36:17",
+             "verseNumber":  17,
+             "scripture":  "But you have fulfilled the judgment of the wicked: judgment and justice take hold on you."
+        },
+        {
+            "reference":  "Job 36:18",
+             "verseNumber":  18,
+             "scripture":  "Because there is wrath, beware lest he take you away with his stroke: then a great ransom cannot deliver you."
+        },
+        {
+            "reference":  "Job 36:19",
+             "verseNumber":  19,
+             "scripture":  "Will he esteem your riches? no, not gold, nor all the forces of strength."
+        },
+        {
+            "reference":  "Job 36:20",
+             "verseNumber":  20,
+             "scripture":  "Desire not the night, when people are cut off in their place."
+        },
+        {
+            "reference":  "Job 36:21",
+             "verseNumber":  21,
+             "scripture":  "Take heed, regard not iniquity: for this have you chosen rather than affliction."
+        },
+        {
+            "reference":  "Job 36:22",
+             "verseNumber":  22,
+             "scripture":  "Behold, God exalts by his power: who teaches like him?"
+        },
+        {
+            "reference":  "Job 36:23",
+             "verseNumber":  23,
+             "scripture":  "Who has commanded with authority him his way? or who can say, You have wrought iniquity?"
+        },
+        {
+            "reference":  "Job 36:24",
+             "verseNumber":  24,
+             "scripture":  "Remember that you magnify his work, which men behold."
+        },
+        {
+            "reference":  "Job 36:25",
+             "verseNumber":  25,
+             "scripture":  "Every man may see it; man may behold it far off."
+        },
+        {
+            "reference":  "Job 36:26",
+             "verseNumber":  26,
+             "scripture":  "Behold, God is great, and we know him not, neither can the number of his years be searched out."
+        },
+        {
+            "reference":  "Job 36:27",
+             "verseNumber":  27,
+             "scripture":  "For he makes small the drops of water: they pour down rain according to the vapour thereof:"
+        },
+        {
+            "reference":  "Job 36:28",
+             "verseNumber":  28,
+             "scripture":  "Which the clouds do drop and distil upon man abundantly."
+        },
+        {
+            "reference":  "Job 36:29",
+             "verseNumber":  29,
+             "scripture":  "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?"
+        },
+        {
+            "reference":  "Job 36:30",
+             "verseNumber":  30,
+             "scripture":  "Behold, he spreads his light upon it, and covers the bottom of the sea."
+        },
+        {
+            "reference":  "Job 36:31",
+             "verseNumber":  31,
+             "scripture":  "For by them judges he the people; he gives food in abundance."
+        },
+        {
+            "reference":  "Job 36:32",
+             "verseNumber":  32,
+             "scripture":  "With clouds he covers the light; and commands it not to shine by the cloud that comes between."
+        },
+        {
+            "reference":  "Job 36:33",
+             "verseNumber":  33,
+             "scripture":  "The noise thereof shows concerning it, the cattle also concerning the vapour."
+        }
+    ]
+}

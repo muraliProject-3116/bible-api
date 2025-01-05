@@ -1,1 +1,135 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Ezra", "bookAbbreviation": "Ezra", "chapterNumber": 4, "verses": [{"reference": "Ezra 4:1", "verseNumber": 1, "scripture": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity built the temple unto the LORD God of Israel;"},{"reference": "Ezra 4:2", "verseNumber": 2, "scripture": "Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as all of you do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up here."},{"reference": "Ezra 4:3", "verseNumber": 3, "scripture": "But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, All of you have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia has commanded us."},{"reference": "Ezra 4:4", "verseNumber": 4, "scripture": "Then the people of the land weakened the hands of the people of Judah, and troubled them in building,"},{"reference": "Ezra 4:5", "verseNumber": 5, "scripture": "And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia."},{"reference": "Ezra 4:6", "verseNumber": 6, "scripture": "And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem."},{"reference": "Ezra 4:7", "verseNumber": 7, "scripture": "And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue."},{"reference": "Ezra 4:8", "verseNumber": 8, "scripture": "Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:"},{"reference": "Ezra 4:9", "verseNumber": 9, "scripture": "Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,"},{"reference": "Ezra 4:10", "verseNumber": 10, "scripture": "And the rest of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time."},{"reference": "Ezra 4:11", "verseNumber": 11, "scripture": "This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Your servants the men on this side the river, and at such a time."},{"reference": "Ezra 4:12", "verseNumber": 12, "scripture": "Be it known unto the king, that the Jews which came up from you to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations."},{"reference": "Ezra 4:13", "verseNumber": 13, "scripture": "Be it known now unto the king, that, if this city be built, and the walls set up again, then will they not pay toll, tribute, and custom, and so you shall spoil the revenue of the kings."},{"reference": "Ezra 4:14", "verseNumber": 14, "scripture": "Now because we have maintenance from the king's palace, and it was not meet for us to see the king's dishonour, therefore have we sent and certified the king;"},{"reference": "Ezra 4:15", "verseNumber": 15, "scripture": "That search may be made in the book of the records of your fathers: so shall you find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."},{"reference": "Ezra 4:16", "verseNumber": 16, "scripture": "We certify the king that, if this city be built again, and the walls thereof set up, by this means you shall have no portion on this side the river."},{"reference": "Ezra 4:17", "verseNumber": 17, "scripture": "Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time."},{"reference": "Ezra 4:18", "verseNumber": 18, "scripture": "The letter which all of you sent unto us has been plainly read before me."},{"reference": "Ezra 4:19", "verseNumber": 19, "scripture": "And I commanded, and search has been made, and it is found that this city of old time has made insurrection against kings, and that rebellion and sedition have been made therein."},{"reference": "Ezra 4:20", "verseNumber": 20, "scripture": "There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them."},{"reference": "Ezra 4:21", "verseNumber": 21, "scripture": "Give all of you now commandment to cause these men to cease, and that this city be not built, until another commandment shall be given from me."},{"reference": "Ezra 4:22", "verseNumber": 22, "scripture": "Take heed now that all of you fail not to do this: why should damage grow to the hurt of the kings?"},{"reference": "Ezra 4:23", "verseNumber": 23, "scripture": "Now when the copy of king Artaxerxes' letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."},{"reference": "Ezra 4:24", "verseNumber": 24, "scripture": "Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Ezra",
+     "bookAbbreviation":  "Ezra",
+     "chapterNumber":  4,
+     "verses":  [
+        {
+            "reference":  "Ezra 4:1",
+             "verseNumber":  1,
+             "scripture":  "Now when the adversaries of Judah and Benjamin heard that the children of the captivity built the temple unto the LORD God of Israel;"
+        },
+        {
+            "reference":  "Ezra 4:2",
+             "verseNumber":  2,
+             "scripture":  "Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as all of you do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up here."
+        },
+        {
+            "reference":  "Ezra 4:3",
+             "verseNumber":  3,
+             "scripture":  "But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, All of you have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia has commanded us."
+        },
+        {
+            "reference":  "Ezra 4:4",
+             "verseNumber":  4,
+             "scripture":  "Then the people of the land weakened the hands of the people of Judah, and troubled them in building,"
+        },
+        {
+            "reference":  "Ezra 4:5",
+             "verseNumber":  5,
+             "scripture":  "And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia."
+        },
+        {
+            "reference":  "Ezra 4:6",
+             "verseNumber":  6,
+             "scripture":  "And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem."
+        },
+        {
+            "reference":  "Ezra 4:7",
+             "verseNumber":  7,
+             "scripture":  "And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue."
+        },
+        {
+            "reference":  "Ezra 4:8",
+             "verseNumber":  8,
+             "scripture":  "Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:"
+        },
+        {
+            "reference":  "Ezra 4:9",
+             "verseNumber":  9,
+             "scripture":  "Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,"
+        },
+        {
+            "reference":  "Ezra 4:10",
+             "verseNumber":  10,
+             "scripture":  "And the rest of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time."
+        },
+        {
+            "reference":  "Ezra 4:11",
+             "verseNumber":  11,
+             "scripture":  "This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Your servants the men on this side the river, and at such a time."
+        },
+        {
+            "reference":  "Ezra 4:12",
+             "verseNumber":  12,
+             "scripture":  "Be it known unto the king, that the Jews which came up from you to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations."
+        },
+        {
+            "reference":  "Ezra 4:13",
+             "verseNumber":  13,
+             "scripture":  "Be it known now unto the king, that, if this city be built, and the walls set up again, then will they not pay toll, tribute, and custom, and so you shall spoil the revenue of the kings."
+        },
+        {
+            "reference":  "Ezra 4:14",
+             "verseNumber":  14,
+             "scripture":  "Now because we have maintenance from the king's palace, and it was not meet for us to see the king's dishonour, therefore have we sent and certified the king;"
+        },
+        {
+            "reference":  "Ezra 4:15",
+             "verseNumber":  15,
+             "scripture":  "That search may be made in the book of the records of your fathers: so shall you find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."
+        },
+        {
+            "reference":  "Ezra 4:16",
+             "verseNumber":  16,
+             "scripture":  "We certify the king that, if this city be built again, and the walls thereof set up, by this means you shall have no portion on this side the river."
+        },
+        {
+            "reference":  "Ezra 4:17",
+             "verseNumber":  17,
+             "scripture":  "Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time."
+        },
+        {
+            "reference":  "Ezra 4:18",
+             "verseNumber":  18,
+             "scripture":  "The letter which all of you sent unto us has been plainly read before me."
+        },
+        {
+            "reference":  "Ezra 4:19",
+             "verseNumber":  19,
+             "scripture":  "And I commanded, and search has been made, and it is found that this city of old time has made insurrection against kings, and that rebellion and sedition have been made therein."
+        },
+        {
+            "reference":  "Ezra 4:20",
+             "verseNumber":  20,
+             "scripture":  "There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them."
+        },
+        {
+            "reference":  "Ezra 4:21",
+             "verseNumber":  21,
+             "scripture":  "Give all of you now commandment to cause these men to cease, and that this city be not built, until another commandment shall be given from me."
+        },
+        {
+            "reference":  "Ezra 4:22",
+             "verseNumber":  22,
+             "scripture":  "Take heed now that all of you fail not to do this: why should damage grow to the hurt of the kings?"
+        },
+        {
+            "reference":  "Ezra 4:23",
+             "verseNumber":  23,
+             "scripture":  "Now when the copy of king Artaxerxes' letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."
+        },
+        {
+            "reference":  "Ezra 4:24",
+             "verseNumber":  24,
+             "scripture":  "Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia."
+        }
+    ]
+}

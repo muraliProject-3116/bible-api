@@ -1,1 +1,145 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "1 Chronicles", "bookAbbreviation": "1 Chr", "chapterNumber": 5, "verses": [{"reference": "1 Chronicles 5:1", "verseNumber": 1, "scripture": "Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright."},{"reference": "1 Chronicles 5:2", "verseNumber": 2, "scripture": "For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:)"},{"reference": "1 Chronicles 5:3", "verseNumber": 3, "scripture": "The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi."},{"reference": "1 Chronicles 5:4", "verseNumber": 4, "scripture": "The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,"},{"reference": "1 Chronicles 5:5", "verseNumber": 5, "scripture": "Micah his son, Reaia his son, Baal his son,"},{"reference": "1 Chronicles 5:6", "verseNumber": 6, "scripture": "Beerah his son, whom Tilgathpilneser king of Assyria carried away captive: he was prince of the Reubenites."},{"reference": "1 Chronicles 5:7", "verseNumber": 7, "scripture": "And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,"},{"reference": "1 Chronicles 5:8", "verseNumber": 8, "scripture": "And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baalmeon:"},{"reference": "1 Chronicles 5:9", "verseNumber": 9, "scripture": "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead."},{"reference": "1 Chronicles 5:10", "verseNumber": 10, "scripture": "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead."},{"reference": "1 Chronicles 5:11", "verseNumber": 11, "scripture": "And the children of Gad dwelt opposite to them, in the land of Bashan unto Salcah:"},{"reference": "1 Chronicles 5:12", "verseNumber": 12, "scripture": "Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan."},{"reference": "1 Chronicles 5:13", "verseNumber": 13, "scripture": "And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven."},{"reference": "1 Chronicles 5:14", "verseNumber": 14, "scripture": "These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;"},{"reference": "1 Chronicles 5:15", "verseNumber": 15, "scripture": "Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers."},{"reference": "1 Chronicles 5:16", "verseNumber": 16, "scripture": "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders."},{"reference": "1 Chronicles 5:17", "verseNumber": 17, "scripture": "All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel."},{"reference": "1 Chronicles 5:18", "verseNumber": 18, "scripture": "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war."},{"reference": "1 Chronicles 5:19", "verseNumber": 19, "scripture": "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab."},{"reference": "1 Chronicles 5:20", "verseNumber": 20, "scripture": "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was implored of them; because they put their trust in him."},{"reference": "1 Chronicles 5:21", "verseNumber": 21, "scripture": "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand."},{"reference": "1 Chronicles 5:22", "verseNumber": 22, "scripture": "For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity."},{"reference": "1 Chronicles 5:23", "verseNumber": 23, "scripture": "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon."},{"reference": "1 Chronicles 5:24", "verseNumber": 24, "scripture": "And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers."},{"reference": "1 Chronicles 5:25", "verseNumber": 25, "scripture": "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them."},{"reference": "1 Chronicles 5:26", "verseNumber": 26, "scripture": "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "1 Chronicles",
+     "bookAbbreviation":  "1 Chr",
+     "chapterNumber":  5,
+     "verses":  [
+        {
+            "reference":  "1 Chronicles 5:1",
+             "verseNumber":  1,
+             "scripture":  "Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright."
+        },
+        {
+            "reference":  "1 Chronicles 5:2",
+             "verseNumber":  2,
+             "scripture":  "For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:)"
+        },
+        {
+            "reference":  "1 Chronicles 5:3",
+             "verseNumber":  3,
+             "scripture":  "The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi."
+        },
+        {
+            "reference":  "1 Chronicles 5:4",
+             "verseNumber":  4,
+             "scripture":  "The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,"
+        },
+        {
+            "reference":  "1 Chronicles 5:5",
+             "verseNumber":  5,
+             "scripture":  "Micah his son, Reaia his son, Baal his son,"
+        },
+        {
+            "reference":  "1 Chronicles 5:6",
+             "verseNumber":  6,
+             "scripture":  "Beerah his son, whom Tilgathpilneser king of Assyria carried away captive: he was prince of the Reubenites."
+        },
+        {
+            "reference":  "1 Chronicles 5:7",
+             "verseNumber":  7,
+             "scripture":  "And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,"
+        },
+        {
+            "reference":  "1 Chronicles 5:8",
+             "verseNumber":  8,
+             "scripture":  "And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baalmeon:"
+        },
+        {
+            "reference":  "1 Chronicles 5:9",
+             "verseNumber":  9,
+             "scripture":  "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead."
+        },
+        {
+            "reference":  "1 Chronicles 5:10",
+             "verseNumber":  10,
+             "scripture":  "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead."
+        },
+        {
+            "reference":  "1 Chronicles 5:11",
+             "verseNumber":  11,
+             "scripture":  "And the children of Gad dwelt opposite to them, in the land of Bashan unto Salcah:"
+        },
+        {
+            "reference":  "1 Chronicles 5:12",
+             "verseNumber":  12,
+             "scripture":  "Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan."
+        },
+        {
+            "reference":  "1 Chronicles 5:13",
+             "verseNumber":  13,
+             "scripture":  "And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven."
+        },
+        {
+            "reference":  "1 Chronicles 5:14",
+             "verseNumber":  14,
+             "scripture":  "These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;"
+        },
+        {
+            "reference":  "1 Chronicles 5:15",
+             "verseNumber":  15,
+             "scripture":  "Ahi the son of Abdiel, the son of Guni, chief of the house of their fathers."
+        },
+        {
+            "reference":  "1 Chronicles 5:16",
+             "verseNumber":  16,
+             "scripture":  "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders."
+        },
+        {
+            "reference":  "1 Chronicles 5:17",
+             "verseNumber":  17,
+             "scripture":  "All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel."
+        },
+        {
+            "reference":  "1 Chronicles 5:18",
+             "verseNumber":  18,
+             "scripture":  "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war."
+        },
+        {
+            "reference":  "1 Chronicles 5:19",
+             "verseNumber":  19,
+             "scripture":  "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab."
+        },
+        {
+            "reference":  "1 Chronicles 5:20",
+             "verseNumber":  20,
+             "scripture":  "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was implored of them; because they put their trust in him."
+        },
+        {
+            "reference":  "1 Chronicles 5:21",
+             "verseNumber":  21,
+             "scripture":  "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand."
+        },
+        {
+            "reference":  "1 Chronicles 5:22",
+             "verseNumber":  22,
+             "scripture":  "For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity."
+        },
+        {
+            "reference":  "1 Chronicles 5:23",
+             "verseNumber":  23,
+             "scripture":  "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon."
+        },
+        {
+            "reference":  "1 Chronicles 5:24",
+             "verseNumber":  24,
+             "scripture":  "And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers."
+        },
+        {
+            "reference":  "1 Chronicles 5:25",
+             "verseNumber":  25,
+             "scripture":  "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them."
+        },
+        {
+            "reference":  "1 Chronicles 5:26",
+             "verseNumber":  26,
+             "scripture":  "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day."
+        }
+    ]
+}

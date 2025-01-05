@@ -1,1 +1,75 @@
-﻿{"bibleVersion": "KJV", "bibleLanguage": "English", "fullBibleName": "King James Version (1769)", "description": "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.", "scriptureSection": "Old Testament", "internetAddress": "https://www.kingjamesbibleonline.org/", "copyright": "Public Domain", "bibleTextSource": "Internet", "bookName": "Psalm", "bookAbbreviation": "Psa", "chapterNumber": 84, "verses": [{"reference": "Psalm 84:1", "verseNumber": 1, "scripture": "How lovely are your tabernacles, O LORD of hosts!"},{"reference": "Psalm 84:2", "verseNumber": 2, "scripture": "My soul longs, yea, even faints for the courts of the LORD: my heart and my flesh cries out for the living God."},{"reference": "Psalm 84:3", "verseNumber": 3, "scripture": "Yea, the sparrow has found an house, and the swallow a nest for herself, where she may lay her young, even yours altars, O LORD of hosts, my King, and my God."},{"reference": "Psalm 84:4", "verseNumber": 4, "scripture": "Blessed are they that dwell in your house: they will be still praising you. Selah."},{"reference": "Psalm 84:5", "verseNumber": 5, "scripture": "Blessed is the man whose strength is in you; in whose heart are the ways of them."},{"reference": "Psalm 84:6", "verseNumber": 6, "scripture": "Who passing through the valley of Baca make it a well; the rain also fills the pools."},{"reference": "Psalm 84:7", "verseNumber": 7, "scripture": "They go from strength to strength, every one of them in Zion appears before God."},{"reference": "Psalm 84:8", "verseNumber": 8, "scripture": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah."},{"reference": "Psalm 84:9", "verseNumber": 9, "scripture": "Behold, O God our shield, and look upon the face of yours anointed."},{"reference": "Psalm 84:10", "verseNumber": 10, "scripture": "For a day in your courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness."},{"reference": "Psalm 84:11", "verseNumber": 11, "scripture": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly."},{"reference": "Psalm 84:12", "verseNumber": 12, "scripture": "O LORD of hosts, blessed is the man that trusts in you."}]}
+﻿{
+    "bibleVersion":  "KJV",
+     "bibleLanguage":  "English",
+     "fullBibleName":  "King James Version (1769)",
+     "description":  "The King James Version, also known as the Authorized Version (AV) or the King James Bible (KJB), is an English translation of the Christian Bible, supported by King James I for the Church of England, begun in 1604 and completed in 1611. The translation is based on Textus Receptus (for NT) and Masoretic Text (for OT). This is the standard text of 1769 extensively re-edited by Benjamin Blayney at Oxford.",
+     "scriptureSection":  "Old Testament",
+     "internetAddress":  "https://www.kingjamesbibleonline.org/",
+     "copyright":  "Public Domain",
+     "bibleTextSource":  "Internet",
+     "bookName":  "Psalm",
+     "bookAbbreviation":  "Psa",
+     "chapterNumber":  84,
+     "verses":  [
+        {
+            "reference":  "Psalm 84:1",
+             "verseNumber":  1,
+             "scripture":  "How lovely are your tabernacles, O LORD of hosts!"
+        },
+        {
+            "reference":  "Psalm 84:2",
+             "verseNumber":  2,
+             "scripture":  "My soul longs, yea, even faints for the courts of the LORD: my heart and my flesh cries out for the living God."
+        },
+        {
+            "reference":  "Psalm 84:3",
+             "verseNumber":  3,
+             "scripture":  "Yea, the sparrow has found an house, and the swallow a nest for herself, where she may lay her young, even yours altars, O LORD of hosts, my King, and my God."
+        },
+        {
+            "reference":  "Psalm 84:4",
+             "verseNumber":  4,
+             "scripture":  "Blessed are they that dwell in your house: they will be still praising you. Selah."
+        },
+        {
+            "reference":  "Psalm 84:5",
+             "verseNumber":  5,
+             "scripture":  "Blessed is the man whose strength is in you; in whose heart are the ways of them."
+        },
+        {
+            "reference":  "Psalm 84:6",
+             "verseNumber":  6,
+             "scripture":  "Who passing through the valley of Baca make it a well; the rain also fills the pools."
+        },
+        {
+            "reference":  "Psalm 84:7",
+             "verseNumber":  7,
+             "scripture":  "They go from strength to strength, every one of them in Zion appears before God."
+        },
+        {
+            "reference":  "Psalm 84:8",
+             "verseNumber":  8,
+             "scripture":  "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah."
+        },
+        {
+            "reference":  "Psalm 84:9",
+             "verseNumber":  9,
+             "scripture":  "Behold, O God our shield, and look upon the face of yours anointed."
+        },
+        {
+            "reference":  "Psalm 84:10",
+             "verseNumber":  10,
+             "scripture":  "For a day in your courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness."
+        },
+        {
+            "reference":  "Psalm 84:11",
+             "verseNumber":  11,
+             "scripture":  "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly."
+        },
+        {
+            "reference":  "Psalm 84:12",
+             "verseNumber":  12,
+             "scripture":  "O LORD of hosts, blessed is the man that trusts in you."
+        }
+    ]
+}
